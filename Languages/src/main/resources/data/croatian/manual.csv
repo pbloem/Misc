@@ -1,0 +1,1488 @@
+1208,Hello,Bog,bawg,none
+2000,Hi,čao,Cha-aw,none
+1208,Goodbye,Zbogom,zbaw~-gawm,none
+1208,Please,Molim,maw~-leem,none
+1208,Thank you (polite),Hvala vam,hva~-la vam,none
+1208,Thank you (informal),Hvala ti,hva~-la tee,none
+1208,Thank you very much (polite),Hvala vam puno,hva~-la vam poo~-no,none
+1300,My name is Peter,Zovem se Peter,,none
+2000,You're welcome,nema na čemu,,none
+1208,Thank you very much (informal),Hvala ti puno,hva~-la tee poo~-no,none
+1208,Yes,Da,da,none
+1208,No,ne,ne,none
+1208,Excuse me (to get attention),Oprostite,aw-praw~-stee-te,none
+1208,Excuse me (to get past),Ispričavam se,ee-spree-cha~-vam se,none
+1208,Sorry,žao mi je,zha~-aw mee ye,none
+1208,I understand,Ja razumijem,ya ra-zoo~-mee-yem,none
+1208,I don~t understand,Ja ne razumijem,ya ne ra-zoo~-mee-yem,none
+1208,Help!,Upomoč,oo~-paw-mawch,none
+1208,One moment,Samo trenutak,sa-maw tre-noo-tak,none
+2000,Good morning,Dobro jutro,,none
+2000,Good afternoon,Dobar dan,,none
+2000,Good evening,Dobra večer,,none
+1208,Where are the toilets?,Gdje se nalaze nužnici,gdye se na~-la-ze noozh~-nee-tsee,none
+640,0,nula,noo~-la,numbers
+640,1 (m),jedan,ye~-dan,numbers
+640,1 (f),jedna,yed~-na,numbers
+640,1 (n),jedno,yed~-naw,numbers
+640,"2 (m, n)",dva,dva,numbers
+640,2 (f),dvije,dvee-~je,numbers
+640,3,tri,tree,numbers
+640,4,četiri,che~-tee-ree,numbers
+640,5,pet,pet,numbers
+640,6,šest,shest,ntimumbers
+640,7,sedam,se~-dam,numbers
+640,8,osam,aw~-sam,numbers
+640,9,devet,de~-vet,numbers
+320,10,deset,de~set,numbers
+320,11,jedanaest,yed-da~-na-est,numbers
+320,12,dvanaest,dva-~-na-est,numbers
+320,13,trinaest,tree~-na-est,numbers
+320,14,četrnaest,che-tr~-na-est,numbers
+320,15,petnaest,pet~-na-est,numbers
+320,16,šesnaest,shes~-na-est,numbers
+320,17,sedamnaest,se-dam~-na-est,numbers
+320,18,osamnaest,aw-sam~-na-est,numbers
+320,19,devetnaest-,de-vet~-na-est,numbers
+320,20,dvadeset,dva~-de-set,numbers
+160,21 (m),dvadesetjedan,dva~-de-set-ye~-dan,numbers
+160,21 (f),dvadesetjedna,dva~-de-set-yed~-na,numbers
+160,21 (n),dvadesetjedno,dva~-de-set-yed~-daw,numbers
+160,"22 (m, n)",dvadesetdva,dva~-de-set-dva~,numbers
+160,22 (f),dvadesetdvije,dva~-de-set-dvee~-ye,numbers
+160,27,dvadesetsedam,dva~-de-set-se~-dam,numbers
+160,30,trideset,tree-~de-set,numbers
+160,40,četrdeset,che-tr-de~-set,numbers
+160,50,pedeset,pe-de~-set,numbers
+160,60,šezdeset,shez-de~-set,numbers
+160,70,sedamdeset,se~-dam-de~-set,numbers
+160,80,osamdeset,aw-sam-de~-set,numbers
+160,90,devedeset,de-ve-de~-set,numbers
+160,100,sto,staw,numbers
+160,1000,tisuču,tee~-soo-choo,numbers
+160,1000000,jedan milijun,ye~-dan mee-lee~-yoon,numbers
+320,first,prvi,,numbers
+320,second,drugi,,numbers
+320,third,treči,,numbers
+320,fourth,četrvrti,,numbers
+320,fifth,peti,,numbers
+320,sixth,šesti,,numbers
+320,seventh,sedmi,,numbers
+320,eighth,osmi,,numbers
+320,ninth,deveti,,numbers
+320,tenth,deseti,,numbers
+320,half,polovina,,numbers
+320,a quarter,četrvrtina,,numbers
+320,a third,trečina,,numbers
+320,three quarters,tri četrvrtine,,numbers
+320,all,sve,,numbers
+320,none,ništa,,numbers
+320,Please give me a few,Molim dajte mi nekoliko,,none
+320,Please give me less,Molim dajte mi manje,,none
+320,Please give me just a little,Molim dajte mi samo malo,,none
+320,many ,mnogo,,none
+320,more,više,,none
+320,some,malo,,none
+320,Please give me a lot,Molim dajte mi puno,,none
+640,Do you speak english (polite),Govorite li engleski,gaw-vaw-ree-te lee en-gle-skee,none
+640,Do you speak english (informal),Govoriš li engleski ,gaw-vaw-reesh lee en-gle-skee,none
+80,January,Siječanj,month of cutting wood),months
+80,February,Veljača,month of changing,months
+80,March,Ožujak,lying month,months
+80,April,Travanj,month of grass,months
+80,May,Svibanj,month of budding (svibovina = Cornel tree),months
+80,June,Lipanj,month of the lipa (lime / linden tree),months
+80,July,Srpanj,month of reaping,months
+80,August,Kolovoz,month of driving the wagon (for harvest) ﾗ kolo + voziti,months
+80,September,Rujan,month of animal mating (from archaic verb for animal roar rjuti,months
+80,October,Listopad,month of falling leaves ﾗ list + padati,months
+80,November,Studeni,cold month,months
+80,December,Prosinac,"the beginning of the Sun~s shining/possibly month of begging, from prositi = beg.",months
+160,Monday,ponedjeljak,after Sunday,weekdays
+160,Tuesday,utorak,2nd day,weekdays
+160,Wednesday,srijeda,middle day,weekdays
+160,Thursday,četvrtak,4th day,weekdays
+160,Friday,petak,5th day,weekdays
+160,Saturday,subota,sabbath,weekdays
+160,Sunday,nedjelja,no work,weekdays
+160,since June, otkako Lipaj, awd~-ka-kaw lee-pan', none
+128,to be, biti,,verbs
+128,I am,ja sam,ya sam, verbs
+128,you are (i),ti si,,verbs
+128,you are (p),vi ste,,verbs
+128,he is,on je,,verbs
+128,she is,ona je,,verbs
+128,it is,ono je,,verbs
+128,we are,mi smo,,verbs
+128,you are (pl),vi ste,,verbs
+128,they are (m),oni su,,verbs
+128,they are (f),one su,,verbs
+128,they are (n),ona su,,verbs
+128,to have,imati,,verbs
+128,I have,ja imam,, verbs
+128,you have (i),ti imaš,,verbs
+128,you have (p),vi imate,,verbs
+128,he has,on ima,,verbs
+128,she has,ona ima,,verbs
+128,it has,ono ima,,verbs
+128,we have,mi imamo,,verbs
+128,you have (pl),vi imate,,verbs
+128,they have (m),oni imaju,,verbs
+128,they have (f),one imaju,,verbs
+128,they have (n),ona imaju,,verbs
+32,He is a good man, On je dobar čovjek,,none
+32,She is a good woman, Ona je dobra žena,,none
+64,Do you have vegetarian food?,Da li imate vegetarijanski obrok,,none
+16,Vocabulary,Rječnik,,none
+16,Countries,Zemlje,,none
+16,Australia,Australija,,none
+16,Cambodia,Kambodža,,none
+16,Canada,Kanada,,none
+16,China,Kina,,none
+16,Egypt,Egipat,,none
+16,England,Engleska,,none
+16,France,Francuska,,none
+16,Germany,Njemačka,,none
+16,Greece,Grčka,,none
+16,India,Indija,,none
+16,Indonesia,Indonezija,,none
+16,Italy,Italija,,none
+16,Japan,Japan,,none
+16,Mexico,Meksiko,,none
+16,Morocco,Maroko,,none
+16,Peru,Peru,,none
+16,Spain,Španjolska,,none
+16,Thailand,Tajland,,none
+16,USA,SAD,,none
+16,Languages,Jezici,,none
+16,Arabic,Arapski,,none
+16,Chinese,Kineski,,none
+16,English,Engleski,,none
+16,French,Francuski,,none
+32,German,Njemački,,none
+16,Greek,Grčki,,none
+16,Hebrew,Hebrejski,,none
+16,Hindi,Hindski,,none
+16,Italian,Talijanski,,none
+16,Japanese,Japanski,,none
+16,Korean,Korejski,,none
+16,Latin,Latinski,,none
+16,Russian,Ruski,,none
+16,Spanish,Španjolski,,none
+16,Urdu,Urdu,,none
+16,Days,Dani,,none
+16,Monday,Ponedjeljak,,none
+16,Tuesday,Utorak,,none
+16,Wednesday,Srijeda,,none
+16,Thursday,četvrtak,,none
+16,Friday,Petak,,none
+16,Saturday,Subota,,none
+16,Sunday,Nedjelja,,none
+32,time,vrijeme,,time
+32,hour,sat,,time
+32,minute,minuta,,time
+32,second,sekunda,,time
+16,colors,boje,,colors
+16,black,crna,,colors
+16,blue,plava,,colors
+16,brown,smeča,,colors
+16,gray,siva,,colors
+16,green,zelena,,colors
+16,orange,narandžasta,,colors
+16,purple,ljubičasta,,colors
+16,red,crvena,,colors
+16,white,bijela,,colors
+16,yellow,žuta,,colors
+16,sizes,Veličine,,none
+320,big,velik,,none
+320,deep,dubok,,none
+320,long,dug,,none
+320,narrow,uzak,,none
+320,short,kratak,,none
+320,small,nizak,,none
+320,tall,visok,,none
+320,thick,debeo,,none
+320,thin,tanak,,none
+320,wide,širok,,none
+320,tastes,okusi,,none
+64,bitter,gorko,,none
+64,fresh,svježe,,none
+64,salty,slano,,none
+64,sour,kiselo,,none
+64,spicy,začinjeno,,none
+64,sweet,slatko,,none
+64,qualities,svojstva,,none
+64,bad,loše,,none
+64,clean,čisto,,none
+64,dark,tamno,,none
+64,difficult,teško,,none
+64,dirty,prljavo,,none
+64,dry,suho,,none
+64,easy,lako,,none
+64,empty,prazno,,none
+64,expensive,skupo,,none
+64,fast,brzo,,none
+64,foreign,strano,,none
+64,full,puno,,none
+64,good,dobro,,none
+64,hard,tvrdo,,none
+64,heavy,teško,,none
+64,inexpensive,povoljno,,none
+64,light,svijetlo,,none
+64,local,mjesno,,none
+64,new,novo,,none
+64,noisy,bučno,,none
+64,old,staro,,none
+64,powerful,snažno,,none
+64,quiet,tiho,,none
+64,correct,ispravno,,none
+64,slow,sporo,,none
+64,soft,mekano,,none
+64,very,vrlo,,none
+64,weak,slabo,,none
+64,wet,mokro,,none
+64,wrong,krivo,,none
+64,young,mlado,,none
+64,food,hrana,,none
+64,almonds,bademi,,none
+64,bread,kruh,,none
+64,breakfast,doručak,,none
+64,butter,maslac,,none
+64,candy,bombon,,none
+64,cheese,sir,,none
+64,chicken,piletina,,none
+64,cumin,kim,,none
+64,dessert,desert,,none
+64,dinner,večera,,none
+64,fish,riba,,none
+64,fruit,voče,,none
+64,ice cream,sladoled,,none
+64,lamb,janjetina,,none
+64,lemon,limun,,none
+64,lunch,ručak,,none
+64,meal,obrok,,none
+64,meat,meso,,none
+64,oven,pečnica,,none
+64,pepper,papar,,none
+64,plants,biljke,,none
+64,pork,svinjetina,,none
+64,salad,salata,,none
+64,salt,sol,,none
+64,sandwich,sendvič,,none
+64,sausage,kobasica,,none
+64,soup,juha,,none
+64,sugar,šečer,,none
+64,supper,večera,,none
+64,turkey,puretina,,none
+64,apple,jabuka,,none
+64,banana,banana,,none
+64,oranges,naranče,,none
+64,peaches,breskve,,none
+64,peanut,kikiriki,,none
+64,pears,kruške,,none
+64,pineapple,ananas,,none
+64,grapes,grožče,,none
+64,strawberries,jagode,,none
+64,vegetables,povrče,,none
+64,carrot,mrkva,,none
+64,corn,kukuruz,,none
+64,cucumber,krastavac,,none
+64,garlic,češnjak,,none
+64,lettuce,zelena salata,,none
+64,olives,masline,,none
+64,onions,luk,,none
+64,peppers,papričice,,none
+64,potatoes,krumpiri,,none
+64,pumpkin,bundeva,,none
+64,beans,grah,,none
+64,tomatoes,rajčice,,none
+64,alligator,aligator,,none
+64,alligators,aligatori,,none
+64,bear,medvjed,,none
+64,bears,medvjedi,,none
+64,bird,ptica,,none
+64,birds,ptice,,none
+64,bull,bik,,none
+64,bulls,bikovi,,none
+64,cat,mačka,,none
+64,cats,mačke,,none
+64,cow,krava,,none
+64,cows,krave,,none
+64,deer,jelen,,none
+64,many deer,mnogo jelena,,none
+64,dog,pas,,none
+64,dogs,psi,,none
+64,donkey,magarac,,none
+64,donkeys,magarci,,none
+64,eagle,orao,,none
+64,eagles,orlovi,,none
+64,elephant,slon,,none
+64,elephants,slonovi,,none
+64,giraffe,žirafa,,none
+64,giraffes,žirafe,,none
+64,goat,koza,,none
+64,goats,koze,,none
+64,horse,konj,,none
+64,horses,konji,,none
+64,lion,lav,,none
+64,lions,lavovi,,none
+64,monkey,majmun,,none
+64,monkeys,majmuni,,none
+64,mouse,miš,,none
+64,mice,miševi,,none
+64,rabbit,zec,,none
+64,rabbits,zečevi,,none
+64,snake,zmija,,none
+64,snakes,zmije,,none
+64,tiger,tigar,,none
+64,tigers,tigrovi,,none
+64,wolf,vuk,,none
+64,wolves,vukovi,,none
+64,objects,stvari,,none
+64,bathroom,kupaonica,,none
+64,bed,krevet,,none
+64,bedroom,spavača soba,,none
+64,ceiling,strop,,none
+64,chair,stolica,,none
+64,clothes,odječa,,none
+64,coat,kaput,,none
+64,cup,šalica,,none
+64,desk,radni stol,,none
+64,dress,haljina,,none
+64,floor,pod,,none
+64,fork,viljuška,,none
+64,furniture,namještaj,,none
+64,glass,staklo,,none
+64,hat,šešir,,none
+64,house,kuča,,none
+64,ink,tinta,,none
+64,jacket,jakna,,none
+64,kitchen,kuhinja,,none
+64,knife,nož,,none
+64,lamp,svjetiljka,,none
+64,letter,pismo,,none
+64,map,karta,,none
+64,newspaper,novine,,none
+64,notebook,bilježnica,,none
+64,pants,hlače,,none
+64,paper,papir,,none
+64,pen,kemijska olovka,,none
+64,pencil,olovka,,none
+64,pharmacy,ljekarna,,none
+64,picture,slika,,none
+64,plate,ploča,,none
+64,refrigerator,hladnjak,,none
+64,restaurant,restoran,,none
+64,roof,krov,,none
+64,room,soba,,none
+64,rug,tepih,,none
+64,scissors,škare,,none
+64,shampoo,šampon,,none
+64,shirt,majica,,none
+64,shoes,cipele,,none
+64,soap,sapun,,none
+64,socks,čarape,,none
+64,spoon,žlica,,none
+64,table,stol,,none
+64,toilet,toalet,,none
+64,toothbrush,četkica za zube,,none
+64,toothpaste,pasta za zube,,none
+64,towel,ručnik,,none
+64,umbrella,kišobran,,none
+64,underwear,donje rublje,,none
+64,wall,zid,,none
+64,wallet,novčanik,,none
+64,window,prozor,,none
+64,telephone,telefon,,none
+64,this,ovo,,none
+64,that,to,,none
+64,these,ovi,,none
+64,those,oni,,none
+64,Questions,Pitanja,,none
+64,how?,kako?,,none
+64,what?,što?,,none
+64,who?,tko?,,none
+64,why?,zašto?,,none
+64,where?,gdje?,,none
+64,different objects,razni predmeti,,none
+64,art,umjetnost,,none
+64,bank,banka,,none
+64,beach,plaža,,none
+64,book,knjiga,,none
+64,by bicycle,biciklom,,none
+64,by bus,autobusom,,none
+64,by car,automobilom,,none
+64,by train,vlakom,,none
+64,cafe,kafič,,none
+64,country,zemlja,,none
+64,desert,pustinja,,none
+64,dictionary,rječnik,,none
+64,earth,zemlja,,none
+64,flowers,cviječe,,none
+64,football,nogomet,,none
+64,forest,šuma,,none
+64,game,igra,,none
+64,garden,vrt,,none
+64,geography,zemljopis,,none
+64,history,povijest,,none
+64,house,kuča,,none
+64,island,otok,,none
+64,lake,jezero,,none
+64,library,knjižnica,,none
+64,math,matematika,,none
+64,moon,mjesec,,none
+64,mountain,planina,,none
+64,movies,filmovi,,none
+64,music,glazba,,none
+64,ocean,ocean,,none
+64,office,ured,,none
+64,on foot,pješice,,none
+64,player,igrač,,none
+64,river,rijeka,,none
+64,science,znanost,,none
+64,sea,more,,none
+64,sky,nebo,,none
+64,soccer,nogomet,,none
+64,stars,zvijezde,,none
+64,supermarket,samoposluga,,none
+64,swimming pool,bazen,,none
+64,theater,kazalište,,none
+64,tree,drvo,,none
+64,weather,vrijeme,,none
+64,bad weather,loše vrijeme,,none
+64,cloudy,oblačno,,none
+64,cold,hladno,,none
+64,cool,svježe,,none
+64,foggy,maglovito,,none
+64,hot,vruče,,none
+64,nice weather,lijepo vrijeme,,none
+64,pouring,koji lije,,none
+64,rain,kiša,,none
+64,raining,kiši,,none
+64,snow,snijeg,,none
+64,snowing,sniježi,,none
+64,ice,led,,none
+64,sunny,sunčano,,none
+64,windy,vjetrovito,,none
+64,spring,prolječe,,none
+64,summer,ljeto,,none
+64,autumn,jesen,,none
+64,winter,zima,,none
+64,people,ljudi,,none
+64,aunt,tetka,,none
+64,baby,beba,,none
+64,brother,brat,,none
+64,cousin,ročak,,none
+64,daughter,kči,,none
+64,dentist,zubar,,none
+64,doctor,liječnik,,none
+64,father,otac,,none
+64,grandfather,djed,,none
+64,grandmother,baka,,none
+64,husband,suprug,,none
+64,mother,majka,,none
+64,nephew,nečak,,none
+64,niece,nečakinja,,none
+64,nurse,medicinska sestra,,none
+64,policeman,policajac,,none
+64,postman,poštar,,none
+64,professor,profesor,,none
+64,son,sin,,none
+64,teacher,učitelj,,none
+64,uncle,ujak,,none
+64,wife,supruga,,none
+1280,Hi!,Zdravo!,,none
+1280,Good morning!,Dobro jutro!,,none
+640,Good afternoon!,Dobar dan!,,none
+640,Good evening!,Dobra večer!,,none
+640,Welcome! (to greet someone),Dobrodošli!,,none
+640,Hello my friend!,"Pozdrav, prijatelju! (m)",,none
+640,How are you? (friendly),Kako si?,,none
+640,How are you? (polite),Kako ste?,,none
+640,"I'm fine, thank you!","Dobro sam, hvala!",,none
+640,And you? (friendly),A ti?,,none
+640,And you? (polite),A Vi?,,none
+640,Good,Dobro,,none
+640,Not so good,Ne najbolje,,none
+640,Long time no see,Nismo se dugo vidjeli,,none
+640,I missed you,Nedostajao si mi (m.),,none
+640,What's new?,Što ima novog?,,none
+640,Nothing new,Ništa,,none
+640,Thank you (very much)!,(Puno) hvala! ,,none
+640,"You're welcome! (for ""thank you"")",Nema na čemu!,,none
+640,My pleasure,Bilo mi je zadovoljstvo,,none
+640,Come in! (or: enter!),Uči! (friendly),,none
+640,Make yourself at home!,Osječaj se kao kod kuče!,,none
+640,Farewell Expressions,Pozdravi na rastanku,,none
+640,Have a nice day!,Ugodan ostatak dana!,,none
+640,Good night!,Laku noč!,,none
+640,Good night and sweet dreams!,Laku noč i dobro sanjaj!,,none
+640,See you later!,Vidimo se kasnije!,,none
+640,See you soon!,Vidimo se uskoro!,,none
+640,See you tomorrow!,Vidimo se sutra!,,none
+640,Good bye!,Dovičenja!,,none
+640,Have a good trip!,Sretan put!,,none
+640,I have to go,Moram iči,,none
+640,I will be right back!,Odmah se vračam!,,none
+640,Holidays and Wishes,Poželjeti nekome nešto,,none
+640,Good luck!,Sretno!,,none
+640,Happy birthday!,Sretan ročendan!,,none
+640,Happy new year!,Sretna Nova godina!,,none
+640,Merry Christmas!,Sretan Božič!,,none
+640,Happy Easter!,Sretan Uskrs!,,none
+640,Happy St. Valentine's Day,Sretno Valentinovo!,,none
+640,Congratulations!,čestitke!,,none
+640,Enjoy! (or: bon appetit),Dobar tek!,,none
+640,Bless you (when sneezing),Nazdravlje!,,none
+640,Best wishes!,Najbolje želje!,,none
+640,Cheers! (or: to your health),živjeli!,,none
+640,Accept my best wishes,Primi moje iskrene čestitke,,none
+640,How to Introduce Yourself,Kako se predstaviti nekome,,none
+640,What's your name?,Kako se zoveš?,,none
+640,My name is (John Doe),Zovem se (John Doe),,none
+640,Nice to meet you!,Drago mi je! (at shaking hands),,none
+640,Where are you from?,Odakle sič (friendly),,none
+640,I'm from (the U.S/ Croatia),Iz Amerike/Hrvatske,,none
+640,I'm (American/ Croatian),Ja sam Amerikanac/Hrvat (m).,,none
+640,Where do you live?,Gdje živiš?,,none
+640,I live in (the U.S/ Croatia),živim u Americi/Hrvatskoj,,none
+640,Do you like it here?,Sviča li ti se ovdje?,,none
+640,Croatia is a beautiful country,Hrvatska je lijepa zemlja,,none
+640,What do you do for a living?,čime se baviš?,,none
+640,I'm a (teacher/ student/ engineer),Ja sam učitelj/student/inženjer,,none
+640,Do you speak (English/ Croatian)?,Govoriš li engleski/hrvatskič,,none
+640,Just a little,Pomalo,,none
+4,I like Croatian,Sviča mi se hrvatski.,,none
+4,I'm trying to learn Croatian,Pokušavam naučiti hrvatski.,,none
+4,It's a hard language,To je težak jezik.,,none
+4,It's an easy language,To je lagan jezik.,,none
+4,Oh! That's good!,"O, to je dobro!",,none
+4,Can I practice with you?,Mogu li vježbati s tobom?,,none
+4,I will try my best to learn,Potrudit ču se da naučim.,,none
+4,How old are you?,Koliko imaš godina?,,none
+4,"I'm (twenty one, thirty two) years old","Imam (dvadeset jednu, trideset dvije) godine",,none
+4,It was nice talking to you!,Bilo je lijepo razgovarati s tobom!,,none
+4,It was nice meeting you!,Bilo je lijepo sresti te!,,none
+4,Mr.../ Mrs. .../ Miss...,G. Gdja. Gdjica,,none
+4,This is my wife,Ovo je moja supruga,,none
+4,This is my husband,Ovo je moj suprug,,none
+4,Say hi to Thomas for me,Pozdravi Thomasa od mene,,none
+4,Romance and Love Phrases,Romantika,,none
+4,Are you free tomorrow evening?,Jesi li slobodna sutra navečer? f.,,none
+4,I would like to invite you to dinner,želio bih te pozvati na večeru (m.),,none
+4,You look beautiful! (to a woman),Lijepo izgledaš!,,none
+4,You have a beautiful name,Imaš lijepo ime,,none
+4,Can you tell me more about you?,Reci mi nešto više o sebi!,,none
+4,Are you married?,Jesi li udatač (to a woman),,none
+4,I'm single,Neudata sam. (f.),,none
+4,I'm married,Udata sam (f.),,none
+4,Can I have your phone number?,Možeš li mi dati svoj broj telefona?,,none
+4,Can I have your email?,Možeš li mi dati svoj e-mail?,,none
+4,Do you have any pictures of you?,Imaš li koju svoju fotografiju?,,none
+4,Do you have children?,Imaš li djece?,,none
+4,Would you like to go for a walk?,želiš li se prošetati?,,none
+4,I like you,Svičaš mi se,,none
+4,I love you,Volim te,,none
+4,You're very special!,Vrlo si posebna! (to a woman),,none
+4,You're very kind!,Vrlo si ljubezan! (to a man),,none
+4,I'm very happy,Jako sam sretna (f.) Jako sam sretan (m.),,none
+4,Would you marry me?,Hočeš li se udati za mene? (to a woman),,none
+4,I'm just kidding,Samo se šalim,,none
+4,I'm serious,Ozbiljan sam (to a woman),,none
+4,My heart speaks the language of love,Srce mi govori jezikom ljubavi,,none
+4,Solving a Misunderstanding,Razrješavanje nesporazuma,,none
+4,Sorry! (or: I beg your pardon!),Oprosti! (friendly),,none
+4,Sorry (for a mistake),žao mi je!,,none
+1200,No problem!,Nema problema!,,none
+600,Can you repeat please?,Molim te možeš li ponoviti?,,none
+1200,Can you speak slowly?,Možeš li govoriti sporije?,,none
+1200,Can you write it down?,Možeš li to napisati?,,none
+300,Did you understand what I said?,Jesi li razumio što sam rekao? (man to a woman),,none
+600,I don't understand!,Ne razumijem!,,none
+600,I don't know!,Ne znam!,,none
+4,What's that called in Croatian?,Kako se to kaže na hrvatskom?,,none
+4,What does that word mean in English?,Što ova riječ znači na hrvatskom,,none
+4,"How do you say ""thanks"" in Croatian?","Kako se na hrvatskom kaže ""hvala""?",,none
+1000,What is this?,Što je to?,,none
+100,My Croatian is bad,Moj hrvatski je loš,,none
+4,Don't worry!,Ne brini!,,none
+4,I agree with you,Slažem se s toom,,none
+400,Is that right?,Je li to ispravno?,,none
+400,Is that wrong?,Je li to pogrešno?,,none
+4,What should I say?,Kako bih trebao reči (m.),,none
+4,I just need to practice,Trebam samo vježbati,,none
+4,Your Croatian is good,Tvoj hrvatski je dobar,,none
+4,I have an accent,Osječa se moj strani naglasak,,none
+4,You don't have an accent,Ne osječa ti se strani naglasak,,none
+4,Asking for Directions,Traženje pomoči i puta,,none
+4,Excuse me! (before asking someone),Ispričavam se!,,none
+4,I'm lost,Izgubio sam se (m.),,none
+4,Can you help me?,Možete li mi pomoči?,,none
+4,Can I help you?,Mogu li Vam pomoči?,,none
+4,I'm not from here,Nisam odavde,,none
+4,"How can I get to (this place, this city)? ","Kako bih došao do (tog mjesta, tog grada)? (m.)",,none
+4,Go straight,Idite ravno,,none
+4,Then,Tada,,none
+400,Turn left,skrenite lijevo,,none
+400,Turn right,skrenite desno,,none
+4,Can you show me?,Možete li mi pokazati?,,none
+4,I can show you!,Ja vam mogu pokazati.,,none
+4,Come with me!,Počite samnom!,,none
+4,How long does it take to get there?,Koliko treba do tamo!,,none
+4,Downtown (city center),Središte grada,,none
+4,Historic center (old city),Povijesni dio grada (stari grad),,none
+4,It's near here,Blizu je,,none
+4,It's far from here,Daleko je odavde,,none
+4,Is it within walking distance?,Mogu li pješice do tamo?,,none
+4,I'm looking for Mr. Smith,Tražim g. Smitha,,none
+4,One moment please!,Trenutak molim!,,none
+4,Hold on please! (when on the phone),Ostanite na liniji molim!,,none
+4,He is not here,On nij ovdje,,none
+4,Airport,Zračna luka,,none
+4,Bus station,Autobusna postaja,,none
+4,Train station,Kolodvor,,none
+4,Taxi,Taksi,,none
+4,Near,Blizu,,none
+4,Far,Daleko,,none
+4,Emergency Survival Phrases,Izrazi u nuždi i za preživljavanje,,none
+1000,Help!,Upomoč!,,none
+1000,Stop!,Stanite!,,none
+1000,Fire!,Vatra!,,none
+1000,Thief!,Lopovi!,,none
+1000,Run!,Trčite!,,none
+1000,Watch out! (or: be alert!),Oprez!,,none
+1000,Call the police!,Pozovite policiju!,,none
+1000,Call a doctor!,Pozovite liječnika!,,none
+4,Call the ambulance!,Pozovite hitnu pomoč!,,none
+4,Are you okay?,Jeste li dobro?,,none
+4,I feel sick,Loše se osječam,,none
+4,I need a doctor,Trebam liječnika,,none
+4,Accident,Nezgoda,,none
+4,Food poisoning,Trovanje hranom,,none
+4,Where is the closest pharmacy?,Gdje je najbliža ljekarna,,none
+4,It hurts here,Ovdje me boli,,none
+4,It's urgent!,Hitno je!,,none
+4,Calm down!,Smirite se!,,none
+4,You will be okay!,Sve če biti u redu!,,none
+4,Can you help me?,Možete li mi pomoči?,,none
+4,Can I help you?,Mogu li Vam pomoči?,,none
+4,Hotel Restaurant Travel Phrases,"Izrazi za hotele, restorane i putovanja",,none
+4,I have a reservation (for a room),Imam rezervaciju.,,none
+4,Do you have rooms available?,Imate li slobodnih soba,,none
+4,With shower / With bathroom,s tušem/s kupaonicom,,none
+4,I would like a non-smoking room,Molim sobu za nepušače,,none
+4,What is the charge per night?,Kolika je cijena nočenja?,,none
+4,I'm here on business /on vacation,Ovdje sam poslovno/na odmoru,,none
+500,Dirty,Prljavo,,none
+500,Clean,čisto,,none
+4,Do you accept credit cards?,Primate li kreditne kartice?,,none
+4,I'd like to rent a car,želio bih unajmiti automobil,,none
+4,How much will it cost?,Koliko če to koštatič,,none
+4,A table for (one / two) please!,Stol za jednu osobu (dvije osobe) molim!,,none
+4,Is this seat taken?,Je li ovo mjesto zauzeto?,,none
+4,I'm vegetarian,Ja sam vegetarijanac (m),,none
+4,I don't eat pork,Ne jedem svinjetinu,,none
+4,I don't drink alcohol,Ne pijem alkohol,,none
+4,What's the name of this dish?,Kako se zove ovo jelo?,,none
+4,Waiter / waitress!,Konobar /konobarica,,none
+4,Can we have the check please?,Možemo li dobiti račun molim!,,none
+4,It is very delicious!,Vrlo je ukusno,,none
+4,I don't like it,Ne sviča mi se,,none
+4,Shopping Expressions,Izrazi kod kupnje,,none
+4,How much is this?,Koliko košta ovo?,,none
+4,I'm just looking,Samo razgledavam,,none
+4,I don't have change,Nemam sitnoga,,none
+4,This is too expensive,Preskupo je,,none
+4,Expensive,Skupo,,none
+4,Cheap,Jeftino,,none
+4,Daily Expressions,Različiti izrazi,,none
+4,What time is it?,Koliko je sati?,,none
+4,It's 3 o'clock,3 su sata.,,none
+4,Give me this!,Daj mi to! (friendly),,none
+4,Are you sure?,Jesi li siguran? (friendly masculine); Jesi li sigurna? (friendly feminine),,none
+4,Take this! (when giving something),Uzmi ovo! (friendly),,none
+4,It's freezing (weather),,,none
+4,It's cold (weather),Hladno je.,,none
+150,It's hot (weather),Vruče je.,,none
+4,Do you like it?,Sviča li ti se? (friendly),,none
+500,I really like it!,Stvarno mi se sviča!,,none
+4,I'm hungry,Gladan sam (masculine); Gladna sam (feminine),,none
+4,I'm thirsty,žedan sam (masculine); žedna sam (feminine),,none
+4,He is funny,Zabavan je.,,none
+4,In The Morning,ujutro,,none
+4,In the evening,uvečer,,none
+4,At Night,noču,,none
+4,Hurry up!,Požuri! (friendly),,none
+4,This is nonsense! (or: this is craziness),To je besmisleno!,,none
+4,My God! (to show amazement),Bože!,,none
+4,Oh gosh! (when making a mistake),Joj!,,none
+4,It sucks! (or: this is not good),Ne valja!,,none
+4,What's wrong with you?,Što ti je? (friendly),,none
+4,Are you crazy?,Jesi li ti lud!? (friendly masc.) Jesi li ti luda!? (friendly fem.),,none
+4,Get lost! (or: go away!),Gubi se!,,none
+4,Leave me alone!,Ostavi me na miru!,,none
+4,I'm not interested!,Ne zanima me!,,none
+4,Dear John,Dragi John,,none
+4,My trip was very nice,Moje putovanje bilo je jako ugodno.,,none
+4,The culture and people were very interesting,Kultura i ljudi su bili vrlo zanimljivi.,,none
+4,I had a good time with you,Bilo mi je jako ugodno s tobom.,,none
+4,I would love to visit your country again,Voljela bih ponovo posjetiti tvoju zemlju. (f.) Volio bih ponovo posjetiti tvoju zemlju. (m.),,none
+4,Don't forget to write me back from time to time,Nemoj zaboraviti javiti se s vremena na vrijeme.,,none
+4,Short Expressions and words,Kratki izrazi i riječi,,none
+4000,Good,dobro,,none
+4000,Bad,loše,,none
+3000,So-so (or: not bad not good),tako tako,,none
+100,Big,veliko,,none
+100,Small,malo,,none
+100,Today,danas,,none
+100,Now,sada,,none
+128,Tomorrow,sutra,,none
+128,Yesterday,jučer,,none
+4,Yes,da,,none
+4,No,ne,,none
+32,Fast,brzo,,none
+32,Slow,polako,,none
+32,Hot,vruče,,none
+32,Cold,hladno,,none
+32,This,ovo,,none
+32,That,ono,,none
+32,Here,ovdje,,none
+32,There,ondje,,none
+32,Me (ie. Who did this? - Me),ja,,none
+32,You,ti,,none
+32,Him,on,,none
+128,Her,ona,,none
+128,Us,mi,,none
+128,Them,oni,,none
+128,Really?,Stvarno?,,none
+128,Look!,Pogledaj (friendly),,none
+128,What?,Što?,,none
+128,Where?,Gdje?,,none
+128,Who?,Tko?,,none
+128,How?,Kako?,,none
+128,When?,Kada?,,none
+128,Why?,Zašto?,,none
+4,Zero,nula,,none
+4,One,jedan,,none
+4,Two,dva,,none
+4,Three,tri,,none
+4,Four,četiri,,none
+4,Five,pet,,none
+4,Six,šest,,none
+4,Seven,sedam,,none
+4,Eight,osam,,none
+4,Nine,devet,,none
+4,Ten,deset,,none
+4,adverbs of time,vremenski prilozi,,none
+64,yesterday,jučer,,time
+64,today,danas,,time
+64,tomorrow,sutra,,time
+64,now,sada,,time
+64,then,tada,,time
+64,later,kasnije,,time
+64,tonight,večeras,,time
+64,right now,odmah,,time
+64,last night,sinoč,,time
+64,this morning,jutros,,time
+64,next week,sljedeči tjedan,,time
+64,already,več,,time
+64,recently,nedavno,,time
+64,lately,u zadnje vrijeme,,time
+64,soon,uskoro,,time
+64,immediately,odmah,,time
+64,still,još uvijek,,time
+64,yet,još,,time
+64,ago,prije,,time
+64,adverbs of place,mjesni prilozi,,none
+64,here,ovdje,,none
+64,there,tamo,,none
+64,over there,tamo,,none
+64,everywhere,svuda,,none
+64,anywhere,bilo gdje,,none
+64,nowhere,nigdje,,none
+64,home,kuči,,none
+64,away,daleko,,none
+64,out,van,,none
+64,adverbs of manner,načinski prilozi,,none
+64,very,vrlo,,none
+64,quite,sasvim,,none
+64,pretty,prilično,,none
+64,really,stvarno,,none
+64,fast,brzo,,none
+64,well,dobro,,none
+64,hard,puno,,none
+64,quickly,brzo,,none
+64,slowly,polako,,none
+64,carefully,pažljivo,,none
+64,hardly,teško,,none
+64,barely,jedva,,none
+64,mostly,uglavnom,,none
+64,almost,skoro,,none
+64,absolutely,apsolutno,,none
+64,together,zajedno,,none
+64,alone,sam,,none
+64,adverbs of frequency,prilozi učestalosti,,none
+64,always,uvijek,,none
+64,frequently,često,,none
+64,usually,obično,,none
+64,sometimes,ponekad,,none
+64,occasionally,povremeno,,none
+64,seldom,rijetko,,none
+64,rarely,rijetko,,none
+64,never,nikad,,none
+4,adjectives,pridjevi,,none
+64,a green tree,zeleno stablo,,none
+64,a tall building,visoka zgrada,,none
+64,a very old man,vrlo star čovjek,,none
+64,the old red house,stara crvena kuča,,none
+64,a very nice friend,vrlo dobar prijatelj,,none
+64,colors,boje,,none
+64,black,crna,,none
+64,blue,plava,,none
+64,brown,smeča,,none
+64,gray,siva,,none
+64,green,zelena,,none
+64,orange,narandžasta,,none
+64,purple,ljubičasta,,none
+64,red,crvena,,none
+64,white,bijela,,none
+64,yellow,žuta,,none
+64,sizes,Veličine,,none
+64,big,velik,,none
+64,deep,dubok,,none
+64,long,dug,,none
+64,narrow,uzak,,none
+64,short,kratak,,none
+64,small,nizak,,none
+64,tall,visok,,none
+64,thick,debeo,,none
+64,thin,tanak,,none
+64,wide,širok,,none
+64,shapes,oblici,,none
+64,circular,kružni,,none
+64,straight,ravan,,none
+64,square,četvrtast,,none
+64,triangular,trokutast,,none
+64,tastes,okusi,,none
+64,bitter,gorko,,none
+64,fresh,svježe,,none
+64,salty,slano,,none
+64,sour,kiselo,,none
+64,spicy,začinjeno,,none
+64,sweet,slatko,,none
+64,qualities,svojstva,,none
+64,bad,loše,,none
+64,clean,čisto,,none
+64,dark,tamno,,none
+64,difficult,teško,,none
+64,dirty,prljavo,,none
+64,dry,suho,,none
+64,easy,lako,,none
+64,empty,prazno,,none
+64,expensive,skupo,,none
+64,fast,brzo,,none
+64,foreign,strano,,none
+64,full,puno,,none
+64,good,dobro,,none
+64,hard,tvrdo,,none
+64,heavy,teško,,none
+64,inexpensive,povoljno,,none
+64,light,svijetlo,,none
+64,local,mjesno,,none
+64,new,novo,,none
+64,noisy,bučno,,none
+64,old,staro,,none
+64,powerful,snažno,,none
+64,quiet,tiho,,none
+64,correct,ispravno,,none
+64,slow,sporo,,none
+64,soft,mekano,,none
+64,very,vrlo,,none
+64,weak,slabo,,none
+64,wet,mokro,,none
+64,wrong,krivo,,none
+64,young,mlado,,none
+64,quantities,količine,,none
+64,few,nekoliko,,none
+64,little,malo,,none
+64,many,mnogo,,none
+64,much,puno,,none
+64,part,dio,,none
+64,some,nešto,,none
+64,a few,nekoliko,,none
+64,whole,čitavo,,none
+128,arm,ruka,,none
+128,back,leča,,none
+128,cheeks,obrazi,,none
+128,chest,prsa,,none
+128,chin,brada,,none
+128,ear,uho,,none
+128,elbow,lakat,,none
+128,eye,oko,,none
+128,face,lice,,none
+128,finger,prst,,none
+128,fingers,prsti,,none
+128,foot,stopalo,,none
+128,hair,kosa,,none
+128,hand,ruka,,none
+128,head,glava,,none
+128,heart,srce,,none
+128,knee,koljeno,,none
+128,leg,noga,,none
+128,lip,usna,,none
+128,mouth,usta,,none
+128,neck,vrat,,none
+128,nose,nos,,none
+128,shoulder,rame,,none
+128,stomach,trbuh,,none
+128,teeth,zubi,,none
+128,thigh,bedro,,none
+128,throat,grlo,,none
+128,thumb,palac,,none
+128,toe,nožni prst,,none
+128,tongue,jezik,,none
+128,tooth,zub,,none
+32,Food,hrana,,none
+64,almonds,bademi,,none
+64,bread,kruh,,none
+64,breakfast,doručak,,none
+64,butter,maslac,,none
+64,candy,bombon,,none
+64,cheese,sir,,none
+64,chicken,piletina,,none
+64,cumin,kim,,none
+64,dessert,desert,,none
+64,dinner,večera,,none
+64,fish,riba,,none
+64,fruit,voče,,none
+64,ice cream,sladoled,,none
+64,lamb,janjetina,,none
+64,lemon,limun,,none
+64,lunch,ručak,,none
+64,meal,obrok,,none
+64,meat,meso,,none
+64,oven,pećnica,,none
+64,pepper,papar,,none
+64,plants,biljke,,none
+64,pork,svinjetina,,none
+64,salad,salata,,none
+64,salt,sol,,none
+64,sandwich,sendvič,,none
+64,sausage,kobasica,,none
+64,soup,juha,,none
+64,sugar,šečer,,none
+64,supper,večera,,none
+64,turkey,puretina,,none
+64,apple,jabuka,,none
+64,banana,banana,,none
+64,oranges,naranče,,none
+64,peaches,breskve,,none
+64,peanut,kikiriki,,none
+64,pears,kruške,,none
+64,pineapple,ananas,,none
+64,grapes,grožče,,none
+64,strawberries,jagode,,none
+64,vegetables,povrče,,none
+64,carrot,mrkva,,none
+64,corn,kukuruz,,none
+64,cucumber,krastavac,,none
+64,garlic,češnjak,,none
+64,lettuce,zelena salata,,none
+64,olives,masline,,none
+64,onions,luk,,none
+64,peppers,papričice,,none
+64,potatoes,krumpiri,,none
+64,pumpkin,bundeva,,none
+64,beans,grah,,none
+64,tomatoes,rajčice,,none
+128,I speak,Ja govorim,,none
+128,you speak,ti govoriš,,none
+128,he speaks,on govori,,none
+128,she speaks,ona govori,,none
+128,we speak,mi govorimo,,none
+128,they speak,oni govore,,none
+128,give me,daj mi,,none
+128,give him,dajte mu,,none
+128,give her,dajte joj,,none
+128,give us,dajte nam,,none
+128,give them,dajte im,,none
+128,my book,moja knjiga,,none
+128,your book,tvoja knjiga,,none
+128,his book,njegova knjiga,,none
+128,her book,njena knjiga,,none
+128,our book,naša knjiga,,none
+128,their book,njihova knjiga,,none
+128,Pronouns,Zamjenice,,none
+128,I,Ja,,none
+128,You (informal),ti,,none
+128,You (polite),vi,,none
+128,he,on,,none
+128,she,ona,,none
+128,we,mi,,none
+128,they,oni,,none
+128,me,mene,,none
+128,You (informal),tebe,,none
+128,You (polite),vas,,none
+128,him,njega,,none
+128,her,nju,,none
+128,us,nas,,none
+128,them,njih,,none
+128,my,moj,,none
+128,your,tvoj,,none
+128,his,njegov,,none
+128,her,njen,,none
+128,our,naše,,none
+128,their,njihov,,none
+128,mine,moji,,none
+128,yours,tvoji,,none
+128,his,njegovi,,none
+128,hers,njeni,,none
+128,ours,naši,,none
+128,theirs,njihovi,,none
+128,Plural,Množina,,none
+128,my book,moja knjiga,,none
+128,my books,moje knjige,,none
+128,our daughter,naša kčer,,none
+128,our daughters,naše kčeri,,none
+128,I'm cold,hladno mi je,,none
+128,we're cold,hladno nam je,,none
+128,his chickens,njegove kokoši,,none
+128,their chicken,njihova kokoš,,none
+128,alligator,aligator,,none
+128,alligators,aligatori,,none
+128,bear,medvjed,,none
+128,bears,medvjedi,,none
+128,bird,ptica,,none
+128,birds,ptice,,none
+128,bull,bik,,none
+128,bulls,bikovi,,none
+128,cat,mačka,,none
+128,cats,mačke,,none
+128,cow,krava,,none
+128,cows,krave,,none
+128,deer,jelen,,none
+128,many deer,mnogo jelena,,none
+128,dog,pas,,none
+128,dogs,psi,,none
+128,donkey,magarac,,none
+128,donkeys,magarci,,none
+128,eagle,orao,,none
+128,eagles,orlovi,,none
+128,elephant,slon,,none
+128,elephants,slonovi,,none
+128,giraffe,žirafa,,none
+128,giraffes,žirafe,,none
+128,goat,koza,,none
+128,goats,koze,,none
+128,horse,konj,,none
+128,horses,konji,,none
+128,lion,lav,,none
+128,lions,lavovi,,none
+128,monkey,majmun,,none
+128,monkeys,majmuni,,none
+128,mouse,miš,,none
+128,mice,miševi,,none
+128,rabbit,zec,,none
+128,rabbits,zečevi,,none
+128,snake,zmija,,none
+128,snakes,zmije,,none
+128,tiger,tigar,,none
+128,tigers,tigrovi,,none
+128,wolf,vuk,,none
+128,wolves,vukovi,,none
+128,Feminine,ženski,,none
+128,he is happy,on je sretan,,none
+128,she is happy,ona je sretna,,none
+128,he is American,on je Amerikanac,,none
+128,she is American,ona je Amerikanka,,none
+128,man,čovjek,,none
+128,woman,žena,,none
+128,father,otac,,none
+128,mother,majka,,none
+128,brother,brat,,none
+128,sister,sestra,,none
+128,uncle,ujak,,none
+128,aunt,tetka,,none
+128,bull,bik,,none
+128,cow,krava,,none
+128,boy,dječak,,none
+128,girl,djevojčica,,none
+128,objects,stvari,,none
+128,bathroom,kupaonica,,none
+128,bed,krevet,,none
+128,bedroom,spavača soba,,none
+128,ceiling,strop,,none
+128,chair,stolica,,none
+128,clothes,odječa,,none
+128,coat,kaput,,none
+128,cup,šalica,,none
+128,desk,radni stol,,none
+128,dress,haljina,,none
+128,floor,pod,,none
+128,fork,viljuška,,none
+128,furniture,namještaj,,none
+128,glass,staklo,,none
+128,hat,šešir,,none
+128,house,kuča,,none
+128,ink,tinta,,none
+128,jacket,jakna,,none
+128,kitchen,kuhinja,,none
+128,knife,nož,,none
+128,lamp,svjetiljka,,none
+128,letter,pismo,,none
+128,map,karta,,none
+128,newspaper,novine,,none
+128,notebook,bilježnica,,none
+128,pants,hlače,,none
+128,paper,papir,,none
+128,pen,kemijska olovka,,none
+128,pencil,olovka,,none
+128,pharmacy,ljekarna,,none
+128,picture,slika,,none
+128,plate,ploča,,none
+128,refrigerator,hladnjak,,none
+128,restaurant,restoran,,none
+128,roof,krov,,none
+128,room,soba,,none
+128,rug,tepih,,none
+128,scissors,škare,,none
+128,shampoo,šampon,,none
+128,shirt,majica,,none
+128,shoes,cipele,,none
+128,soap,sapun,,none
+128,socks,čarape,,none
+128,spoon,žlica,,none
+128,table,stol,,none
+128,toilet,toalet,,none
+128,toothbrush,četkica za zube,,none
+128,toothpaste,pasta za zube,,none
+128,towel,ručnik,,none
+128,umbrella,kišobran,,none
+128,underwear,donje rublje,,none
+128,wall,zid,,none
+128,wallet,novčanik,,none
+128,window,prozor,,none
+128,telephone,telefon,,none
+128,Verbs,Glagoli,,none
+128,Past,Prošlost,,none
+128,I spoke,Razgovarao sam,,none
+128,I wrote,Napisao sam,,none
+128,I drove,Vozio sam,,none
+128,I loved,Voljela sam,,none
+128,I gave,Dao sam,,none
+128,I smiled,Nasmiješio sam se,,none
+128,I took,Uzeo sam,,none
+128,he spoke,on je govorio,,none
+128,he wrote,on je napisao,,none
+128,he drove,on je vozio,,none
+128,he loved,on je volio,,none
+128,he gave,on je dao,,none
+128,he smiled,on se nasmiješio,,none
+128,he took,on je uzeo,,none
+128,we spoke,razgovarali smo,,none
+128,we wrote,pisali smo,,none
+128,we drove,vozili smo,,none
+128,we loved,voljeli smo,,none
+128,we gave,dali smo,,none
+128,we smiled,smiješili smo se,,none
+128,we took,uzeli smo,,none
+128,Future,Budučnost,,none
+128,I will speak,Ja ču govoriti,,none
+128,I will write,Ja ču pisati,,none
+128,I will drive,Ja ču voziti,,none
+128,I will love,Ja ču voljeti,,none
+128,I will give,Ja ču dati,,none
+128,I will smile,Ja ču se smiješiti,,none
+128,I will take,Ja ču uzeti,,none
+128,he will speak,On če govoriti,,none
+128,he will write,On če pisati,,none
+128,he will drive,On če voziti,,none
+128,he will love,On če voljeti,,none
+128,he will give,On če dati,,none
+128,he will smile,On če se smiješiti,,none
+128,he will take,On če uzeti,,none
+128,we will speak,mi čemo govoriti,,none
+128,we will write,mi čemo pisati,,none
+128,we will drive,mi čemo voziti,,none
+128,we will love,mi čemo voljeti,,none
+128,we will give,mi čemo dati,,none
+128,we will smile,mi čemo se nasmiještiti,,none
+128,we will take,mi čemo uzeti,,none
+128,Present,Sadašnjost,,none
+128,I speak,Ja govorim,,none
+128,I write,Ja pišem,,none
+128,I drive,Ja vozim,,none
+128,I love,Ja volim,,none
+128,I give,Ja dajem,,none
+128,I smile,Ja se smiješim,,none
+128,I take,Ja uzimam,,none
+128,he speaks,on govori,,none
+128,he writes,on piše,,none
+128,he drives,on vozi,,none
+128,he loves,on voli,,none
+128,he gives,on daje,,none
+128,he smiles,on se smiješi,,none
+128,he takes,on uzima,,none
+128,we speak,mi govorimo,,none
+128,we write,mi pišemo,,none
+128,we drive,mi vozimo,,none
+128,we love,mi volimo,,none
+128,we give,mi dajemo,,none
+128,we smile,mi se smiješimo,,none
+128,we take,mi uzimamo,,none
+64,I can accept that,Mogu to prihvatiti,,none
+64,she added it,Ona je to dodala,,none
+64,we admit it,Priznajemo to,,none
+64,they advised him,savjetovali su ga,,none
+64,I can agree with that,Mogu se složiti s tim,,none
+64,she allows it,ona to dopušta,,none
+64,we announce it,Objavili smo to,,none
+64,I can apologize,Mogu se ispričati,,none
+64,she appears today,Ona dolazi danas,,none
+64,they arranged that,Oni su to dogovorili,,none
+64,I can arrive tomorrow,Ja mogu stiči sutra,,none
+64,she can ask him,ona ga može pitati,,none
+64,she attaches that,ona prilaže to,,none
+64,we attack them,napadamo ih,,none
+64,they avoid her,izbjegavaju nju,,none
+64,I can bake it,mogu to ispeči,,none
+64,she is like him,ona je poput njega,,none
+64,we beat it,istukli smo to,,none
+64,they became happy,postali su sretni,,none
+64,I can begin that,mogu to početi,,none
+64,we borrowed money,posudili smo novce,,none
+64,they breathe air,dišu zrak,,none
+64,I can bring it,mogu donijeti to,,none
+64,I can build that,mogu to sagraditi,,none
+64,she buys food,ona kupuje hranu,,none
+64,we calculate it,računamo to,,none
+64,they carry it,oni ga nose,,none
+64,they don't cheat,oni ne varaju,,none
+64,she chooses him,ona bira njega,,none
+64,we close it,zatvaramo to,,none
+64,he comes here,on dolazi ovamo,,none
+64,I can compare that,mogu to usporediti,,none
+64,she competes with me,on se natječe sa mnom,,none
+64,we complain about it,žalimo se na to,,none
+64,they continued reading,oni i dalje čitaju,,none
+64,he cried about that,on je plakao zbog toga,,none
+64,I can decide now,Ja mogu odlučiti sada,,none
+64,she described it to me,opisala mi je to,,none
+64,we disagree about it,ne slažemo se oko toga,,none
+64,they disappeared quickly,brzo su nestali,,none
+64,I discovered that,otkrio sam to,,none
+64,she dislikes that,ona ne voli to,,none
+64,we do it,mi to radimo,,none
+64,they dream about it,oni sanjaju o tome,,none
+64,I earned,zaradio sam,,none
+64,he eats a lot,on jede puno,,none
+64,we enjoyed that,uživali smo u tome,,none
+64,they entered here,oni su ušli ovdje,,none
+64,he escaped that,on je pobjegao odatle,,none
+64,I can explain that,mogu objasniti to,,none
+64,she feels that too,ona to isto osječa,,none
+64,we fled from there,odletjeli smo odatle,,none
+64,they will fly tomorrow,oni če letjeti sutra,,none
+64,I can follow you,mogu te pratiti,,none
+64,she forgot me,zaboravila me,,none
+64,we forgive him,opraštamo mu,,none
+64,I can give her that,mogu joj to dati,,none
+64,she goes there,ona ide tamo,,none
+64,we greeted them,smo ih dočekali,,none
+64,I hate that,Mrzim to,,none
+64,I can hear it,mogu to čuti,,none
+64,she imagine that,ona zamišlja da,,none
+64,we invited them,pozvali smo ih,,none
+64,I know him,Poznajem ga,,none
+64,she learned it,ona je to naučila,,none
+64,we leave now,sada odlazimo,,none
+64,they lied about him,lagali su o njemu,,none
+64,I can listen to that,mogu to slušati,,none
+64,she lost that,izgubila je to,,none
+64,we made it yesterday,napravili smo to jučer,,none
+64,they met him,sreli smo ga,,none
+64,I misspell that,pogrešno sam napisao,,none
+64,I always pray,uvijek se molim,,none
+64,she prefers that,ona više voli to,,none
+64,we protected them,mi smo ih štitili,,none
+64,they will punish her,oni če je kazniti,,none
+64,I can put it there,mogu to ovdje staviti,,none
+64,she will read it,ona če to pročitati,,none
+64,we received that,primili smo to,,none
+64,they refuse to talk,odbijaju razgovarati,,none
+64,I remember that,sječam se toga,,none
+64,she repeats that,ona to ponavlja,,none
+64,we see it,vidimo to,,none
+64,they sell it,oni prodaju to,,none
+64,I sent that yesterday,poslao sam to jučer,,none
+64,he shaved his beard,on je obrijao bradu,,none
+64,it shrunk quickly,smanjilo se brzo,,none
+64,we will sing it,mi čemo to pjevati,,none
+64,they sat there,sjedili su tamo,,none
+64,I can speak it,mogu to reči,,none
+64,she spends money,ona troši novac,,none
+64,we suffered from that,patili smo od toga,,none
+64,they suggest that,predložili su to,,none
+64,I surprised him,iznenadio sam ga,,none
+64,she took that,uzela je to,,none
+64,we teach it,učimo to,,none
+64,they told us,rekli su nam,,none
+64,she thanked him,ona mu je zahvalila,,none
+64,I can think about it,mogu razmisliti o tome,,none
+64,she threw it,ona je to bacila,,none
+64,we understand that,razumijemo to,,none
+64,they want that,oni žele to,,none
+64,I can wear it,mogu to obuči,,none
+64,she writes that,ona piše to,,none
+64,we talk about it,govorimo o tome,,none
+64,they have it,imaju ga,,none
+64,I watched it,gladao sam to,,none
+64,I will talk about it,Ja ču govoriti o tome,,none
+64,he bought that yesterday,kupio je to jučer,,none
+64,we finished it,završili smo to,,none
+128,Prepositions,Prijedlozi,,none
+128,inside the house,unutar kuče,,none
+128,outside the car,izvan automobila,,none
+128,with me,sa mnom,,none
+128,without him,bez njega,,none
+128,under the table,ispod stola,,none
+128,after tomorrow,prekosutra,,none
+128,before sunset,prije zalaska sunca,,none
+128,but I'm busy,ali ja sam zauzet,,none
+64,about,oko,,none
+64,above,iznad,,none
+64,across,preko,,none
+64,after,nakon,,none
+64,against,protiv,,none
+64,among,meču,,none
+64,around,oko,,none
+64,as,kao,,none
+64,at,na,,none
+64,before,prije,,none
+64,behind,iza,,none
+64,below,pod,,none
+64,beneath,ispod,,none
+64,beside,pored,,none
+64,between,izmeču,,none
+64,beyond,iza,,none
+64,but,ali,,none
+64,by,pored,,none
+64,despite,unatoč,,none
+64,down,dolje,,none
+64,during,tijekom,,none
+64,except,osim,,none
+64,for,za,,none
+64,from,iz,,none
+64,in,u,,none
+64,inside,unutra,,none
+64,into,u,,none
+64,near,blizu,,none
+64,next,sljedeči,,none
+64,of,od,,none
+64,on,na,,none
+64,opposite,suprotan,,none
+64,out,van,,none
+64,outside,izvan,,none
+64,over,iznad,,none
+64,per,po,,none
+64,plus,više,,none
+64,round,oko,,none
+64,since,od,,none
+64,than,tada,,none
+64,through,kroz,,none
+64,till,do,,none
+64,to,na,,none
+64,toward,prema,,none
+64,under,pod,,none
+64,unlike,za razliku od,,none
+64,until,dok,,none
+64,up,gore,,none
+64,via,preko,,none
+64,with,sa,,none
+64,within,unutar,,none
+64,without,bez,,none
+64,two words,dvije riječi,,none
+64,according to,prema,,none
+64,because of,zbog,,none
+64,close to,u blizini,,none
+64,due to,uslijed,,none
+64,except for,osim,,none
+64,far from,daleko od,,none
+64,inside of,unutar,,none
+64,instead of,umjesto,,none
+64,near to,blizu,,none
+64,next to,pored,,none
+64,outside of,izvan,,none
+64,prior to,prije,,none
+64,three words,tri riječi,,none
+64,as far as,što se tiče,,none
+64,as well as,kao i,,none
+64,in addition to,k tome još,,none
+64,in front of,ispred,,none
+64,in spite of,uprkos,,none
+64,on behalf of,u ime,,none
+64,on top of,povrh,,none
+64,demonstrative pronouns,pokazne zamjenice,,none
+64,this,ovo,,none
+64,that,to,,none
+64,these,ovi,,none
+64,those,oni,,none
+128,Negation,Negacija,,none
+128,he is not here,on nije ovdje,,none
+128,that is not my book,to nije moja knjiga,,none
+128,do not enter,ne ulazite,,none
+64,I don't speak,Ja ne govorim,,none
+64,I don't write,ja ne pišem,,none
+64,I don't drive,je ne vozim,,none
+64,I don't love,Ja ne volim,,none
+64,I don't give,je ne dajem,,none
+64,I don't smile,ja se ne smiješim,,none
+64,I don't take,je ne uzimam,,none
+64,he doesn't speak,on ne govori,,none
+64,he doesn't write,on ne piše,,none
+64,he doesn't drive,on ne vozi,,none
+64,he doesn't love,on ne voli,,none
+64,he doesn't give,on ne daje,,none
+64,he doesn't smile,on se ne smiješi,,none
+64,he doesn't take,On ne uzima,,none
+64,we don't speak,mi ne govorimo,,none
+64,we don't write,mi ne pišemo,,none
+64,we don't drive,mi ne vozimo,,none
+64,we don't love,mi ne volimo,,none
+64,we don't give,mi ne dajemo,,none
+64,we don't smile,mi se ne smiješimo,,none
+64,we don't take,mi ne uzimamo,,none
+256,Questions,Pitanja,,none
+256,how?,kako?,,none
+256,what?,što?,,none
+256,who?,tko?,,none
+256,why?,zašto?,,none
+256,where?,gdje?,,none
+64,where is he?,gdje je on?,,none
+64,what is this?,Što je to?,,none
+64,why are you sad?,Zašto si tužna?,,none
+64,how do you want to pay?,Kako želite platiti?,,none
+64,can I come?,Mogu li doči?,,none
+64,is he sleeping?,spava li on?,,none
+64,do you know me?,poznaješ li me?,,none
+64,do you have my book?,imaš li moju knjigu?,,none
+64,how big is it?,koliko je to veliko?,,none
+64,can I help you?,mogu li vam pomoči?,,none
+64,can you help me?,Možete li mi pomoči?,,none
+64,do you speak English?,Govorite li engleski?,,none
+64,how far is this?,koliko je to daleko?,,none
+64,what time is it?,Koliko je sati?,,none
+64,how much is this?,koliko je to?,,none
+64,what is your name?,Kako se zovete?,,none
+64,where do you live?,gdje živite?,,none
+1000,to make,napravati,,verbs
+1000,to do ,učiniti,,verbs
+1000,to want,htjeti,,verbs
+1000,to sail,ploviti,,verbs
+1000,to dream,sanjati,,verbs
+1000,to plan,planirati,,verbs
+1000,to sleep,spavati,,verbs
+1000,to eat,jesti,,verbs
+1000,to laugh,smijati,,verbs
+1000,to write,pisati,,verbs
+1000,to buy,kupiti,,verbs

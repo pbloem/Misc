@@ -1,0 +1,1344 @@
+16,Vocabulary,Rječnik
+16,Countries,Zemlje
+16,Australia,Australija
+16,Cambodia,Kambodža
+16,Canada,Kanada
+16,China,Kina
+16,Egypt,Egipat
+16,England,Engleska
+16,France,Francuska
+16,Germany,Njemačka
+16,Greece,Grčka
+16,India,Indija
+16,Indonesia,Indonezija
+16,Italy,Italija
+16,Japan,Japan
+16,Mexico,Meksiko
+16,Morocco,Maroko
+16,Peru,Peru
+16,Spain,Španjolska
+16,Thailand,Tajland
+16,USA,SAD
+16,Languages,Jezici
+16,Arabic,Arapski
+16,Chinese,Kineski
+16,English,Engleski
+16,French,Francuski
+16,German,Njemački
+16,Greek,Grčki
+16,Hebrew,Hebrejski
+16,Hindi,Hindski
+16,Italian,Talijanski
+16,Japanese,Japanski
+16,Korean,Korejski
+16,Latin,Latinski
+16,Russian,Ruski
+16,Spanish,Španjolski
+16,Urdu,Urdu
+16,Days,Dani
+16,Monday,Ponedjeljak
+16,Tuesday,Utorak
+16,Wednesday,Srijeda
+16,Thursday,Četvrtak
+16,Friday,Petak
+16,Saturday,Subota
+16,Sunday,Nedjelja
+16,time,vrijeme
+16,hour,sat
+16,minute,minuta
+16,second,sekunda
+16,colors,boje
+16,black,crna
+16,blue,plava
+16,brown,smeđa
+16,gray,siva
+16,green,zelena
+16,orange,narandžasta
+16,purple,ljubičasta
+16,red,crvena
+16,white,bijela
+16,yellow,žuta
+16,sizes,Veličine
+16,big,velik
+16,deep,dubok
+16,long,dug
+16,narrow,uzak
+16,short,kratak
+16,small,nizak
+16,tall,visok
+16,thick,debeo
+16,thin,tanak
+16,wide,širok
+16,tastes,okusi
+16,bitter,gorko
+16,fresh,svježe
+16,salty,slano
+16,sour,kiselo
+16,spicy,začinjeno
+16,sweet,slatko
+16,qualities,svojstva
+16,bad,loše
+16,clean,čisto
+16,dark,tamno
+16,difficult,teško
+16,dirty,prljavo
+16,dry,suho
+16,easy,lako
+16,empty,prazno
+16,expensive,skupo
+16,fast,brzo
+16,foreign,strano
+16,full,puno
+16,good,dobro
+16,hard,tvrdo
+16,heavy,teško
+16,inexpensive,povoljno
+16,light,svijetlo
+16,local,mjesno
+16,new,novo
+16,noisy,bučno
+16,old,staro
+16,powerful,snažno
+16,quiet,tiho
+16,correct,ispravno
+16,slow,sporo
+16,soft,mekano
+16,very,vrlo
+16,weak,slabo
+16,wet,mokro
+16,wrong,krivo
+16,young,mlado
+16,food,hrana
+16,almonds,bademi
+16,bread,kruh
+16,breakfast,doručak
+16,butter,maslac
+16,candy,bombon
+16,cheese,sir
+16,chicken,piletina
+16,cumin,kim
+16,dessert,desert
+16,dinner,večera
+16,fish,riba
+16,fruit,voće
+16,ice cream,sladoled
+16,lamb,janjetina
+16,lemon,limun
+16,lunch,ručak
+16,meal,obrok
+16,meat,meso
+16,oven,pećnica
+16,pepper,papar
+16,plants,biljke
+16,pork,svinjetina
+16,salad,salata
+16,salt,sol
+16,sandwich,sendvič
+16,sausage,kobasica
+16,soup,juha
+16,sugar,šećer
+16,supper,večera
+16,turkey,puretina
+16,apple,jabuka
+16,banana,banana
+16,oranges,naranče
+16,peaches,breskve
+16,peanut,kikiriki
+16,pears,kruške
+16,pineapple,ananas
+16,grapes,grožđe
+16,strawberries,jagode
+16,vegetables,povrće
+16,carrot,mrkva
+16,corn,kukuruz
+16,cucumber,krastavac
+16,garlic,češnjak
+16,lettuce,zelena salata
+16,olives,masline
+16,onions,luk
+16,peppers,papričice
+16,potatoes,krumpiri
+16,pumpkin,bundeva
+16,beans,grah
+16,tomatoes,rajčice
+16,alligator,aligator
+16,alligators,aligatori
+16,bear,medvjed
+16,bears,medvjedi
+16,bird,ptica
+16,birds,ptice
+16,bull,bik
+16,bulls,bikovi
+16,cat,mačka
+16,cats,mačke
+16,cow,krava
+16,cows,krave
+16,deer,jelen
+16,many deer,mnogo jelena
+16,dog,pas
+16,dogs,psi
+16,donkey,magarac
+16,donkeys,magarci
+16,eagle,orao
+16,eagles,orlovi
+16,elephant,slon
+16,elephants,slonovi
+16,giraffe,žirafa
+16,giraffes,žirafe
+16,goat,koza
+16,goats,koze
+16,horse,konj
+16,horses,konji
+16,lion,lav
+16,lions,lavovi
+16,monkey,majmun
+16,monkeys,majmuni
+16,mouse,miš
+16,mice,miševi
+16,rabbit,zec
+16,rabbits,zečevi
+16,snake,zmija
+16,snakes,zmije
+16,tiger,tigar
+16,tigers,tigrovi
+16,wolf,vuk
+16,wolves,vukovi
+16,objects,stvari
+16,bathroom,kupaonica
+16,bed,krevet
+16,bedroom,spavaća soba
+16,ceiling,strop
+16,chair,stolica
+16,clothes,odjeća
+16,coat,kaput
+16,cup,šalica
+16,desk,radni stol
+16,dress,haljina
+16,floor,pod
+16,fork,viljuška
+16,furniture,namještaj
+16,glass,staklo
+16,hat,šešir
+16,house,kuća
+16,ink,tinta
+16,jacket,jakna
+16,kitchen,kuhinja
+16,knife,nož
+16,lamp,svjetiljka
+16,letter,pismo
+16,map,karta
+16,newspaper,novine
+16,notebook,bilježnica
+16,pants,hlače
+16,paper,papir
+16,pen,kemijska olovka
+16,pencil,olovka
+16,pharmacy,ljekarna
+16,picture,slika
+16,plate,ploča
+16,refrigerator,hladnjak
+16,restaurant,restoran
+16,roof,krov
+16,room,soba
+16,rug,tepih
+16,scissors,škare
+16,shampoo,šampon
+16,shirt,majica
+16,shoes,cipele
+16,soap,sapun
+16,socks,čarape
+16,spoon,žlica
+16,table,stol
+16,toilet,toalet
+16,toothbrush,četkica za zube
+16,toothpaste,pasta za zube
+16,towel,ručnik
+16,umbrella,kišobran
+16,underwear,donje rublje
+16,wall,zid
+16,wallet,novčanik
+16,window,prozor
+16,telephone,telefon
+16,this,ovo
+16,that,to
+16,these,ovi
+16,those,oni
+16,Questions,Pitanja
+16,how?,kako?
+16,what?,što?
+16,who?,tko?
+16,why?,zašto?
+16,where?,gdje?
+16,different objects,razni predmeti
+16,art,umjetnost
+16,bank,banka
+16,beach,plaža
+16,book,knjiga
+16,by bicycle,biciklom
+16,by bus,autobusom
+16,by car,automobilom
+16,by train,vlakom
+16,cafe,kafić
+16,country,zemlja
+16,desert,pustinja
+16,dictionary,rječnik
+16,earth,zemlja
+16,flowers,cvijeće
+16,football,nogomet
+16,forest,šuma
+16,game,igra
+16,garden,vrt
+16,geography,zemljopis
+16,history,povijest
+16,house,kuća
+16,island,otok
+16,lake,jezero
+16,library,knjižnica
+16,math,matematika
+16,moon,mjesec
+16,mountain,planina
+16,movies,filmovi
+16,music,glazba
+16,ocean,ocean
+16,office,ured
+16,on foot,pješice
+16,player,igrač
+16,river,rijeka
+16,science,znanost
+16,sea,more
+16,sky,nebo
+16,soccer,nogomet
+16,stars,zvijezde
+16,supermarket,samoposluga
+16,swimming pool,bazen
+16,theater,kazalište
+16,tree,drvo
+16,weather,vrijeme
+16,bad weather,loše vrijeme
+16,cloudy,oblačno
+16,cold,hladno
+16,cool,svježe
+16,foggy,maglovito
+16,hot,vruće
+16,nice weather,lijepo vrijeme
+16,pouring,koji lije
+16,rain,kiša
+16,raining,kiši
+16,snow,snijeg
+16,snowing,sniježi
+16,ice,led
+16,sunny,sunčano
+16,windy,vjetrovito
+16,spring,proljeće
+16,summer,ljeto
+16,autumn,jesen
+16,winter,zima
+16,people,ljudi
+16,aunt,tetka
+16,baby,beba
+16,brother,brat
+16,cousin,rođak
+16,daughter,kći
+16,dentist,zubar
+16,doctor,liječnik
+16,father,otac
+16,grandfather,djed
+16,grandmother,baka
+16,husband,suprug
+16,mother,majka
+16,nephew,nećak
+16,niece,nećakinja
+16,nurse,medicinska sestra
+16,policeman,policajac
+16,postman,poštar
+16,professor,profesor
+16,son,sin
+16,teacher,učitelj
+16,uncle,ujak
+16,wife,supruga
+4,Hi!,Zdravo!
+4,Good morning!,Dobro jutro!
+4,Good afternoon!,Dobar dan!
+4,Good evening!,Dobra večer!
+4,Welcome! (to greet someone),Dobrodošli!
+4,Hello my friend!,"Pozdrav, prijatelju! (m)"
+4,How are you? (friendly),Kako si?
+4,How are you? (polite),Kako ste?
+4,"I'm fine, thank you!","Dobro sam, hvala!"
+4,And you? (friendly),A ti?
+4,And you? (polite),A Vi?
+4,Good,Dobro
+4,Not so good,Ne najbolje
+4,Long time no see,Nismo se dugo vidjeli
+4,I missed you,Nedostajao si mi (m.)
+4,What's new?,Što ima novog?
+4,Nothing new,Ništa
+4,Thank you (very much)!,(Puno) hvala! (
+4,"You're welcome! (for ""thank you"")",Nema na čemu!
+4,My pleasure,Bilo mi je zadovoljstvo
+4,Come in! (or: enter!),Uđi! (friendly)
+4,Make yourself at home!,Osjećaj se kao kod kuće!
+4,Farewell Expressions,Pozdravi na rastanku
+4,Have a nice day!,Ugodan ostatak dana!
+4,Good night!,Laku noć!
+4,Good night and sweet dreams!,Laku noć i dobro sanjaj!
+4,See you later!,Vidimo se kasnije!
+4,See you soon!,Vidimo se uskoro!
+4,See you tomorrow!,Vidimo se sutra!
+4,Good bye!,Doviđenja!
+4,Have a good trip!,Sretan put!
+4,I have to go,Moram ići
+4,I will be right back!,Odmah se vraćam!
+4,Holidays and Wishes,Poželjeti nekome nešto
+4,Good luck!,Sretno!
+4,Happy birthday!,Sretan rođendan!
+4,Happy new year!,Sretna Nova godina!
+4,Merry Christmas!,Sretan Božić!
+4,Happy Easter!,Sretan Uskrs!
+4,Happy St. Valentine's Day,Sretno Valentinovo!
+4,Congratulations!,Čestitke!
+4,Enjoy! (or: bon appetit),Dobar tek!
+4,Bless you (when sneezing),Nazdravlje!
+4,Best wishes!,Najbolje želje!
+4,Cheers! (or: to your health),Živjeli!
+4,Accept my best wishes,Primi moje iskrene čestitke
+4,How to Introduce Yourself,Kako se predstaviti nekome
+4,What's your name?,Kako se zoveš?
+4,My name is (John Doe),Zovem se (John Doe)
+4,Nice to meet you!,Drago mi je! (at shaking hands)
+4,Where are you from?,Odakle si? (friendly)
+4,I'm from (the U.S/ Croatia),Iz Amerike/Hrvatske
+4,I'm (American/ Croatian),Ja sam Amerikanac/Hrvat (m).
+4,Where do you live?,Gdje živiš?
+4,I live in (the U.S/ Croatia),Živim u Americi/Hrvatskoj
+4,Do you like it here?,Sviđa li ti se ovdje?
+4,Croatia is a beautiful country,Hrvatska je lijepa zemlja
+4,What do you do for a living?,Čime se baviš?
+4,I'm a (teacher/ student/ engineer),Ja sam učitelj/student/inženjer
+4,Do you speak (English/ Croatian)?,Govoriš li engleski/hrvatski?
+4,Just a little,Pomalo
+4,I like Croatian,Sviđa mi se hrvatski.
+4,I'm trying to learn Croatian,Pokušavam naučiti hrvatski.
+4,It's a hard language,To je težak jezik.
+4,It's an easy language,To je lagan jezik.
+4,Oh! That's good!,"O, to je dobro!"
+4,Can I practice with you?,Mogu li vježbati s tobom?
+4,I will try my best to learn,Potrudit ću se da naučim.
+4,How old are you?,Koliko imaš godina?
+4,"I'm (twenty one, thirty two) years old","Imam (dvadeset jednu, trideset dvije) godine"
+4,It was nice talking to you!,Bilo je lijepo razgovarati s tobom!
+4,It was nice meeting you!,Bilo je lijepo sresti te!
+4,Mr.../ Mrs. .../ Miss...,G. Gdja. Gdjica
+4,This is my wife,Ovo je moja supruga
+4,This is my husband,Ovo je moj suprug
+4,Say hi to Thomas for me,Pozdravi Thomasa od mene
+4,Romance and Love Phrases,Romantika
+4,Are you free tomorrow evening?,Jesi li slobodna sutra navečer? f.
+4,I would like to invite you to dinner,Želio bih te pozvati na večeru (m.)
+4,You look beautiful! (to a woman),Lijepo izgledaš!
+4,You have a beautiful name,Imaš lijepo ime
+4,Can you tell me more about you?,Reci mi nešto više o sebi!
+4,Are you married?,Jesi li udata? (to a woman)
+4,I'm single,Neudata sam. (f.)
+4,I'm married,Udata sam (f.)
+4,Can I have your phone number?,Možeš li mi dati svoj broj telefona?
+4,Can I have your email?,Možeš li mi dati svoj e-mail?
+4,Do you have any pictures of you?,Imaš li koju svoju fotografiju?
+4,Do you have children?,Imaš li djece?
+4,Would you like to go for a walk?,Želiš li se prošetati?
+4,I like you,Sviđaš mi se
+4,I love you,Volim te
+4,You're very special!,Vrlo si posebna! (to a woman)
+4,You're very kind!,Vrlo si ljubezan! (to a man)
+4,I'm very happy,Jako sam sretna (f.) Jako sam sretan (m.)
+4,Would you marry me?,Hoćeš li se udati za mene? (to a woman)
+4,I'm just kidding,Samo se šalim
+4,I'm serious,Ozbiljan sam (to a woman)
+4,My heart speaks the language of love,Srce mi govori jezikom ljubavi
+4,Solving a Misunderstanding,Razrješavanje nesporazuma
+4,Sorry! (or: I beg your pardon!),Oprosti! (friendly)
+4,Sorry (for a mistake),Žao mi je!
+4,No problem!,Nema problema!
+4,Can you repeat please?,Molim te možeš li ponoviti?
+4,Can you speak slowly?,Možeš li govoriti sporije?
+4,Can you write it down?,Možeš li to napisati?
+4,Did you understand what I said?,Jesi li razumio što sam rekao? (man to a woman)
+4,I don't understand!,Ne razumijem!
+4,I don't know!,Ne znam!
+4,What's that called in Croatian?,Kako se to kaže na hrvatskom?
+4,What does that word mean in English?,Što ova riječ znači na hrvatskom
+4,"How do you say ""thanks"" in Croatian?","Kako se na hrvatskom kaže ""hvala""?"
+4,What is this?,Što je to?
+4,My Croatian is bad,Moj hrvatski je loš
+4,Don't worry!,Ne brini!
+4,I agree with you,Slažem se s toom
+4,Is that right?,Je li to ispravno?
+4,Is that wrong?,Je li to pogrešno?
+4,What should I say?,Kako bih trebao reći (m.)
+4,I just need to practice,Trebam samo vježbati
+4,Your Croatian is good,Tvoj hrvatski je dobar
+4,I have an accent,Osjeća se moj strani naglasak
+4,You don't have an accent,Ne osjeća ti se strani naglasak
+4,Asking for Directions,Traženje pomoći i puta
+4,Excuse me! (before asking someone),Ispričavam se!
+4,I'm lost,Izgubio sam se (m.)
+4,Can you help me?,Možete li mi pomoći?
+4,Can I help you?,Mogu li Vam pomoći?
+4,I'm not from here,Nisam odavde
+4,"How can I get to (this place, this city)? ","Kako bih došao do (tog mjesta, tog grada)? (m.)"
+4,Go straight,Idite ravno
+4,Then,Tada
+4,Turn left,skrenite lijevo
+4,Turn right,skrenite desno
+4,Can you show me?,Možete li mi pokazati?
+4,I can show you!,Ja vam mogu pokazati.
+4,Come with me!,Pođite samnom!
+4,How long does it take to get there?,Koliko treba do tamo!
+4,Downtown (city center),Središte grada
+4,Historic center (old city),Povijesni dio grada (stari grad)
+4,It's near here,Blizu je
+4,It's far from here,Daleko je odavde
+4,Is it within walking distance?,Mogu li pješice do tamo?
+4,I'm looking for Mr. Smith,Tražim g. Smitha
+4,One moment please!,Trenutak molim!
+4,Hold on please! (when on the phone),Ostanite na liniji molim!
+4,He is not here,On nij ovdje
+4,Airport,Zračna luka
+4,Bus station,Autobusna postaja
+4,Train station,Kolodvor
+4,Taxi,Taksi
+4,Near,Blizu
+4,Far,Daleko
+4,Emergency Survival Phrases,Izrazi u nuždi i za preživljavanje
+4,Help!,Upomoć!
+4,Stop!,Stanite!
+4,Fire!,Vatra!
+4,Thief!,Lopovi!
+4,Run!,Trčite!
+4,Watch out! (or: be alert!),Oprez!
+4,Call the police!,Pozovite policiju!
+4,Call a doctor!,Pozovite liječnika!
+4,Call the ambulance!,Pozovite hitnu pomoć!
+4,Are you okay?,Jeste li dobro?
+4,I feel sick,Loše se osjećam
+4,I need a doctor,Trebam liječnika
+4,Accident,Nezgoda
+4,Food poisoning,Trovanje hranom
+4,Where is the closest pharmacy?,Gdje je najbliža ljekarna
+4,It hurts here,Ovdje me boli
+4,It's urgent!,Hitno je!
+4,Calm down!,Smirite se!
+4,You will be okay!,Sve će biti u redu!
+4,Can you help me?,Možete li mi pomoći?
+4,Can I help you?,Mogu li Vam pomoći?
+4,Hotel Restaurant Travel Phrases,"Izrazi za hotele, restorane i putovanja"
+4,I have a reservation (for a room),Imam rezervaciju.
+4,Do you have rooms available?,Imate li slobodnih soba
+4,With shower / With bathroom,s tušem/s kupaonicom
+4,I would like a non-smoking room,Molim sobu za nepušače
+4,What is the charge per night?,Kolika je cijena noćenja?
+4,I'm here on business /on vacation,Ovdje sam poslovno/na odmoru
+4,Dirty,Prljavo
+4,Clean,Čisto
+4,Do you accept credit cards?,Primate li kreditne kartice?
+4,I'd like to rent a car,Želio bih unajmiti automobil
+4,How much will it cost?,Koliko će to koštati?
+4,A table for (one / two) please!,Stol za jednu osobu (dvije osobe) molim!
+4,Is this seat taken?,Je li ovo mjesto zauzeto?
+4,I'm vegetarian,Ja sam vegetarijanac (m)
+4,I don't eat pork,Ne jedem svinjetinu
+4,I don't drink alcohol,Ne pijem alkohol
+4,What's the name of this dish?,Kako se zove ovo jelo?
+4,Waiter / waitress!,Konobar /konobarica
+4,Can we have the check please?,Možemo li dobiti račun molim!
+4,It is very delicious!,Vrlo je ukusno
+4,I don't like it,Ne sviđa mi se
+4,Shopping Expressions,Izrazi kod kupnje
+4,How much is this?,Koliko košta ovo?
+4,I'm just looking,Samo razgledavam
+4,I don't have change,Nemam sitnoga
+4,This is too expensive,Preskupo je
+4,Expensive,Skupo
+4,Cheap,Jeftino
+4,Daily Expressions,Različiti izrazi
+4,What time is it?,Koliko je sati?
+4,It's 3 o'clock,3 su sata.
+4,Give me this!,Daj mi to! (friendly)
+4,Are you sure?,Jesi li siguran? (friendly masculine); Jesi li sigurna? (friendly feminine)
+4,Take this! (when giving something),Uzmi ovo! (friendly)
+4,It's freezing (weather),
+4,It's cold (weather),Hladno je.
+4,It's hot (weather),Vruće je.
+4,Do you like it?,Sviđa li ti se? (friendly)
+4,I really like it!,Stvarno mi se sviđa!
+4,I'm hungry,Gladan sam (masculine); Gladna sam (feminine)
+4,I'm thirsty,Žedan sam (masculine); Žedna sam (feminine)
+4,He is funny,Zabavan je.
+4,In The Morning,ujutro
+4,In the evening,uvečer
+4,At Night,noću
+4,Hurry up!,Požuri! (friendly)
+4,Cuss Words (polite),
+4,This is nonsense! (or: this is craziness),To je besmisleno!
+4,My God! (to show amazement),Bože!
+4,Oh gosh! (when making a mistake),Joj!
+4,It sucks! (or: this is not good),Ne valja!
+4,What's wrong with you?,Što ti je? (friendly)
+4,Are you crazy?,Jesi li ti lud!? (friendly masc.) Jesi li ti luda!? (friendly fem.)
+4,Get lost! (or: go away!),Gubi se!
+4,Leave me alone!,Ostavi me na miru!
+4,I'm not interested!,Ne zanima me!
+4,Writing a Letter,
+4,Dear John,Dragi John
+4,My trip was very nice,Moje putovanje bilo je jako ugodno.
+4,The culture and people were very interesting,Kultura i ljudi su bili vrlo zanimljivi.
+4,I had a good time with you,Bilo mi je jako ugodno s tobom.
+4,I would love to visit your country again,Voljela bih ponovo posjetiti tvoju zemlju. (f.) Volio bih ponovo posjetiti tvoju zemlju. (m.)
+4,Don't forget to write me back from time to time,Nemoj zaboraviti javiti se s vremena na vrijeme.
+4,Short Expressions and words,Kratki izrazi i riječi
+4,Good,dobro
+4,Bad,loše
+4,So-so (or: not bad not good),tako tako
+4,Big,veliko
+4,Small,malo
+4,Today,danas
+4,Now,sada
+128,Tomorrow,sutra
+128,Yesterday,jučer
+4,Yes,da
+4,No,ne
+32,Fast,brzo
+32,Slow,polako
+32,Hot,vruće
+32,Cold,hladno
+32,This,ovo
+32,That,ono
+32,Here,ovdje
+32,There,ondje
+32,Me (ie. Who did this? - Me),ja
+32,You,ti
+32,Him,on
+4,Her,ona
+4,Us,mi
+4,Them,oni
+4,Really?,Stvarno?
+4,Look!,Pogledaj? (friendly)
+4,What?,Što?
+4,Where?,Gdje?
+4,Who?,Tko?
+4,How?,Kako?
+4,When?,Kada?
+4,Why?,Zašto?
+4,Zero,nula
+4,One,jedan
+4,Two,dva
+4,Three,tri
+4,Four,četiri
+4,Five,pet
+4,Six,šest
+4,Seven,sedam
+4,Eight,osam
+4,Nine,devet
+4,Ten,deset
+4,adverbs of time,vremenski prilozi
+64,yesterday,jučer
+64,today,danas
+64,tomorrow,sutra
+64,now,sada
+64,then,tada
+64,later,kasnije
+64,tonight,večeras
+64,right now,odmah
+64,last night,sinoć
+64,this morning,jutros
+64,next week,sljedeći tjedan
+64,already,već
+64,recently,nedavno
+64,lately,u zadnje vrijeme
+64,soon,uskoro
+64,immediately,odmah
+64,still,još uvijek
+64,yet,još
+64,ago,prije
+64,adverbs of place,mjesni prilozi
+64,here,ovdje
+64,there,tamo
+64,over there,tamo
+64,everywhere,svuda
+64,anywhere,bilo gdje
+64,nowhere,nigdje
+64,home,kući
+64,away,daleko
+64,out,van
+64,adverbs of manner,načinski prilozi
+64,very,vrlo
+64,quite,sasvim
+64,pretty,prilično
+64,really,stvarno
+64,fast,brzo
+64,well,dobro
+64,hard,puno
+64,quickly,brzo
+64,slowly,polako
+64,carefully,pažljivo
+64,hardly,teško
+64,barely,jedva
+64,mostly,uglavnom
+64,almost,skoro
+64,absolutely,apsolutno
+64,together,zajedno
+64,alone,sam
+64,adverbs of frequency,prilozi učestalosti
+64,always,uvijek
+64,frequently,često
+64,usually,obično
+64,sometimes,ponekad
+64,occasionally,povremeno
+64,seldom,rijetko
+64,rarely,rijetko
+64,never,nikad
+4,adjectives,pridjevi
+64,a green tree,zeleno stablo
+64,a tall building,visoka zgrada
+64,a very old man,vrlo star čovjek
+64,the old red house,stara crvena kuća
+64,a very nice friend,vrlo dobar prijatelj
+64,colors,boje
+64,black,crna
+64,blue,plava
+64,brown,smeđa
+64,gray,siva
+64,green,zelena
+64,orange,narandžasta
+64,purple,ljubičasta
+64,red,crvena
+64,white,bijela
+64,yellow,žuta
+64,sizes,Veličine
+64,big,velik
+64,deep,dubok
+64,long,dug
+64,narrow,uzak
+64,short,kratak
+64,small,nizak
+64,tall,visok
+64,thick,debeo
+64,thin,tanak
+64,wide,širok
+64,shapes,oblici
+64,circular,kružni
+64,straight,ravan
+64,square,četvrtast
+64,triangular,trokutast
+64,tastes,okusi
+64,bitter,gorko
+64,fresh,svježe
+64,salty,slano
+64,sour,kiselo
+64,spicy,začinjeno
+64,sweet,slatko
+64,qualities,svojstva
+64,bad,loše
+64,clean,čisto
+64,dark,tamno
+64,difficult,teško
+64,dirty,prljavo
+64,dry,suho
+64,easy,lako
+64,empty,prazno
+64,expensive,skupo
+64,fast,brzo
+64,foreign,strano
+64,full,puno
+64,good,dobro
+64,hard,tvrdo
+64,heavy,teško
+64,inexpensive,povoljno
+64,light,svijetlo
+64,local,mjesno
+64,new,novo
+64,noisy,bučno
+64,old,staro
+64,powerful,snažno
+64,quiet,tiho
+64,correct,ispravno
+64,slow,sporo
+64,soft,mekano
+64,very,vrlo
+64,weak,slabo
+64,wet,mokro
+64,wrong,krivo
+64,young,mlado
+64,quantities,količine
+64,few,nekoliko
+64,little,malo
+64,many,mnogo
+64,much,puno
+64,part,dio
+64,some,nešto
+64,a few,nekoliko
+64,whole,čitavo
+128,arm,ruka
+128,back,leđa
+128,cheeks,obrazi
+128,chest,prsa
+128,chin,brada
+128,ear,uho
+128,elbow,lakat
+128,eye,oko
+128,face,lice
+128,finger,prst
+128,fingers,prsti
+128,foot,stopalo
+128,hair,kosa
+128,hand,ruka
+128,head,glava
+128,heart,srce
+128,knee,koljeno
+128,leg,noga
+128,lip,usna
+128,mouth,usta
+128,neck,vrat
+128,nose,nos
+128,shoulder,rame
+128,stomach,trbuh
+128,teeth,zubi
+128,thigh,bedro
+128,throat,grlo
+128,thumb,palac
+128,toe,nožni prst
+128,tongue,jezik
+128,tooth,zub
+32,Food,hrana
+64,almonds,bademi
+64,bread,kruh
+64,breakfast,doručak
+64,butter,maslac
+64,candy,bombon
+64,cheese,sir
+64,chicken,piletina
+64,cumin,kim
+64,dessert,desert
+64,dinner,večera
+64,fish,riba
+64,fruit,voće
+64,ice cream,sladoled
+64,lamb,janjetina
+64,lemon,limun
+64,lunch,ručak
+64,meal,obrok
+64,meat,meso
+64,oven,pećnica
+64,pepper,papar
+64,plants,biljke
+64,pork,svinjetina
+64,salad,salata
+64,salt,sol
+64,sandwich,sendvič
+64,sausage,kobasica
+64,soup,juha
+64,sugar,šećer
+64,supper,večera
+64,turkey,puretina
+64,apple,jabuka
+64,banana,banana
+64,oranges,naranče
+64,peaches,breskve
+64,peanut,kikiriki
+64,pears,kruške
+64,pineapple,ananas
+64,grapes,grožđe
+64,strawberries,jagode
+64,vegetables,povrće
+64,carrot,mrkva
+64,corn,kukuruz
+64,cucumber,krastavac
+64,garlic,češnjak
+64,lettuce,zelena salata
+64,olives,masline
+64,onions,luk
+64,peppers,papričice
+64,potatoes,krumpiri
+64,pumpkin,bundeva
+64,beans,grah
+64,tomatoes,rajčice
+128,I speak,Ja govorim
+128,you speak,ti govoriš
+128,he speaks,on govori
+128,she speaks,ona govori
+128,we speak,mi govorimo
+128,they speak,oni govore
+128,give me,daj mi
+128,give him,dajte mu
+128,give her,dajte joj
+128,give us,dajte nam
+128,give them,dajte im
+128,my book,moja knjiga
+128,your book,tvoja knjiga
+128,his book,njegova knjiga
+128,her book,njena knjiga
+128,our book,naša knjiga
+128,their book,njihova knjiga
+128,Pronouns,Zamjenice
+128,I,Ja
+128,You (informal),ti
+128,You (polite),vi
+128,he,on
+128,she,ona
+128,we,mi
+128,they,oni
+128,me,mene
+128,You (informal),tebe
+128,You (polite),vas
+128,him,njega
+128,her,nju
+128,us,nas
+128,them,njih
+128,my,moj
+128,your,tvoj
+128,his,njegov
+128,her,njen
+128,our,naše
+128,their,njihov
+128,mine,moji
+128,yours,tvoji
+128,his,njegovi
+128,hers,njeni
+128,ours,naši
+128,theirs,njihovi
+128,Plural,Množina
+128,my book,moja knjiga
+128,my books,moje knjige
+128,our daughter,naša kćer
+128,our daughters,naše kćeri
+128,I'm cold,hladno mi je
+128,we're cold,hladno nam je
+128,his chickens,njegove kokoši
+128,their chicken,njihova kokoš
+128,alligator,aligator
+128,alligators,aligatori
+128,bear,medvjed
+128,bears,medvjedi
+128,bird,ptica
+128,birds,ptice
+128,bull,bik
+128,bulls,bikovi
+128,cat,mačka
+128,cats,mačke
+128,cow,krava
+128,cows,krave
+128,deer,jelen
+128,many deer,mnogo jelena
+128,dog,pas
+128,dogs,psi
+128,donkey,magarac
+128,donkeys,magarci
+128,eagle,orao
+128,eagles,orlovi
+128,elephant,slon
+128,elephants,slonovi
+128,giraffe,žirafa
+128,giraffes,žirafe
+128,goat,koza
+128,goats,koze
+128,horse,konj
+128,horses,konji
+128,lion,lav
+128,lions,lavovi
+128,monkey,majmun
+128,monkeys,majmuni
+128,mouse,miš
+128,mice,miševi
+128,rabbit,zec
+128,rabbits,zečevi
+128,snake,zmija
+128,snakes,zmije
+128,tiger,tigar
+128,tigers,tigrovi
+128,wolf,vuk
+128,wolves,vukovi
+128,Feminine,Ženski
+128,he is happy,on je sretan
+128,she is happy,ona je sretna
+128,he is American,on je Amerikanac
+128,she is American,ona je Amerikanka
+128,man,čovjek
+128,woman,žena
+128,father,otac
+128,mother,majka
+128,brother,brat
+128,sister,sestra
+128,uncle,ujak
+128,aunt,tetka
+128,bull,bik
+128,cow,krava
+128,boy,dječak
+128,girl,djevojčica
+128,objects,stvari
+128,bathroom,kupaonica
+128,bed,krevet
+128,bedroom,spavaća soba
+128,ceiling,strop
+128,chair,stolica
+128,clothes,odjeća
+128,coat,kaput
+128,cup,šalica
+128,desk,radni stol
+128,dress,haljina
+128,floor,pod
+128,fork,viljuška
+128,furniture,namještaj
+128,glass,staklo
+128,hat,šešir
+128,house,kuća
+128,ink,tinta
+128,jacket,jakna
+128,kitchen,kuhinja
+128,knife,nož
+128,lamp,svjetiljka
+128,letter,pismo
+128,map,karta
+128,newspaper,novine
+128,notebook,bilježnica
+128,pants,hlače
+128,paper,papir
+128,pen,kemijska olovka
+128,pencil,olovka
+128,pharmacy,ljekarna
+128,picture,slika
+128,plate,ploča
+128,refrigerator,hladnjak
+128,restaurant,restoran
+128,roof,krov
+128,room,soba
+128,rug,tepih
+128,scissors,škare
+128,shampoo,šampon
+128,shirt,majica
+128,shoes,cipele
+128,soap,sapun
+128,socks,čarape
+128,spoon,žlica
+128,table,stol
+128,toilet,toalet
+128,toothbrush,četkica za zube
+128,toothpaste,pasta za zube
+128,towel,ručnik
+128,umbrella,kišobran
+128,underwear,donje rublje
+128,wall,zid
+128,wallet,novčanik
+128,window,prozor
+128,telephone,telefon
+128,Verbs,Glagoli
+128,Past,Prošlost
+128,I spoke,Razgovarao sam
+128,I wrote,Napisao sam
+128,I drove,Vozio sam
+128,I loved,Voljela sam
+128,I gave,Dao sam
+128,I smiled,Nasmiješio sam se
+128,I took,Uzeo sam
+128,he spoke,on je govorio
+128,he wrote,on je napisao
+128,he drove,on je vozio
+128,he loved,on je volio
+128,he gave,on je dao
+128,he smiled,on se nasmiješio
+128,he took,on je uzeo
+128,we spoke,razgovarali smo
+128,we wrote,pisali smo
+128,we drove,vozili smo
+128,we loved,voljeli smo
+128,we gave,dali smo
+128,we smiled,smiješili smo se
+128,we took,uzeli smo
+128,Future,Budućnost
+128,I will speak,Ja ću govoriti
+128,I will write,Ja ću pisati
+128,I will drive,Ja ću voziti
+128,I will love,Ja ću voljeti
+128,I will give,Ja ću dati
+128,I will smile,Ja ću se smiješiti
+128,I will take,Ja ću uzeti
+128,he will speak,On će govoriti
+128,he will write,On će pisati
+128,he will drive,On će voziti
+128,he will love,On će voljeti
+128,he will give,On će dati
+128,he will smile,On će se smiješiti
+128,he will take,On će uzeti
+128,we will speak,mi ćemo govoriti
+128,we will write,mi ćemo pisati
+128,we will drive,mi ćemo voziti
+128,we will love,mi ćemo voljeti
+128,we will give,mi ćemo dati
+128,we will smile,mi ćemo se nasmiještiti
+128,we will take,mi ćemo uzeti
+128,Present,Sadašnjost
+128,I speak,Ja govorim
+128,I write,Ja pišem
+128,I drive,Ja vozim
+128,I love,Ja volim
+128,I give,Ja dajem
+128,I smile,Ja se smiješim
+128,I take,Ja uzimam
+128,he speaks,on govori
+128,he writes,on piše
+128,he drives,on vozi
+128,he loves,on voli
+128,he gives,on daje
+128,he smiles,on se smiješi
+128,he takes,on uzima
+128,we speak,mi govorimo
+128,we write,mi pišemo
+128,we drive,mi vozimo
+128,we love,mi volimo
+128,we give,mi dajemo
+128,we smile,mi se smiješimo
+128,we take,mi uzimamo
+64,I can accept that,Mogu to prihvatiti
+64,she added it,Ona je to dodala
+64,we admit it,Priznajemo to
+64,they advised him,savjetovali su ga
+64,I can agree with that,Mogu se složiti s tim
+64,she allows it,ona to dopušta
+64,we announce it,Objavili smo to
+64,I can apologize,Mogu se ispričati
+64,she appears today,Ona dolazi danas
+64,they arranged that,Oni su to dogovorili
+64,I can arrive tomorrow,Ja mogu stići sutra
+64,she can ask him,ona ga može pitati
+64,she attaches that,ona prilaže to
+64,we attack them,napadamo ih
+64,they avoid her,izbjegavaju nju
+64,I can bake it,mogu to ispeći
+64,she is like him,ona je poput njega
+64,we beat it,istukli smo to
+64,they became happy,postali su sretni
+64,I can begin that,mogu to početi
+64,we borrowed money,posudili smo novce
+64,they breathe air,dišu zrak
+64,I can bring it,mogu donijeti to
+64,I can build that,mogu to sagraditi
+64,she buys food,ona kupuje hranu
+64,we calculate it,računamo to
+64,they carry it,oni ga nose
+64,they don't cheat,oni ne varaju
+64,she chooses him,ona bira njega
+64,we close it,zatvaramo to
+64,he comes here,on dolazi ovamo
+64,I can compare that,mogu to usporediti
+64,she competes with me,on se natječe sa mnom
+64,we complain about it,žalimo se na to
+64,they continued reading,oni i dalje čitaju
+64,he cried about that,on je plakao zbog toga
+64,I can decide now,Ja mogu odlučiti sada
+64,she described it to me,opisala mi je to
+64,we disagree about it,ne slažemo se oko toga
+64,they disappeared quickly,brzo su nestali
+64,I discovered that,otkrio sam to
+64,she dislikes that,ona ne voli to
+64,we do it,mi to radimo
+64,they dream about it,oni sanjaju o tome
+64,I earned,zaradio sam
+64,he eats a lot,on jede puno
+64,we enjoyed that,uživali smo u tome
+64,they entered here,oni su ušli ovdje
+64,he escaped that,on je pobjegao odatle
+64,I can explain that,mogu objasniti to
+64,she feels that too,ona to isto osjeća
+64,we fled from there,odletjeli smo odatle
+64,they will fly tomorrow,oni će letjeti sutra
+64,I can follow you,mogu te pratiti
+64,she forgot me,zaboravila me
+64,we forgive him,opraštamo mu
+64,I can give her that,mogu joj to dati
+64,she goes there,ona ide tamo
+64,we greeted them,smo ih dočekali
+64,I hate that,Mrzim to
+64,I can hear it,mogu to čuti
+64,she imagine that,ona zamišlja da
+64,we invited them,pozvali smo ih
+64,I know him,Poznajem ga
+64,she learned it,ona je to naučila
+64,we leave now,sada odlazimo
+64,they lied about him,lagali su o njemu
+64,I can listen to that,mogu to slušati
+64,she lost that,izgubila je to
+64,we made it yesterday,napravili smo to jučer
+64,they met him,sreli smo ga
+64,I misspell that,pogrešno sam napisao
+64,I always pray,uvijek se molim
+64,she prefers that,ona više voli to
+64,we protected them,mi smo ih štitili
+64,they will punish her,oni će je kazniti
+64,I can put it there,mogu to ovdje staviti
+64,she will read it,ona će to pročitati
+64,we received that,primili smo to
+64,they refuse to talk,odbijaju razgovarati
+64,I remember that,sjećam se toga
+64,she repeats that,ona to ponavlja
+64,we see it,vidimo to
+64,they sell it,oni prodaju to
+64,I sent that yesterday,poslao sam to jučer
+64,he shaved his beard,on je obrijao bradu
+64,it shrunk quickly,smanjilo se brzo
+64,we will sing it,mi ćemo to pjevati
+64,they sat there,sjedili su tamo
+64,I can speak it,mogu to reći
+64,she spends money,ona troši novac
+64,we suffered from that,patili smo od toga
+64,they suggest that,predložili su to
+64,I surprised him,iznenadio sam ga
+64,she took that,uzela je to
+64,we teach it,učimo to
+64,they told us,rekli su nam
+64,she thanked him,ona mu je zahvalila
+64,I can think about it,mogu razmisliti o tome
+64,she threw it,ona je to bacila
+64,we understand that,razumijemo to
+64,they want that,oni žele to
+64,I can wear it,mogu to obući
+64,she writes that,ona piše to
+64,we talk about it,govorimo o tome
+64,they have it,imaju ga
+64,I watched it,gladao sam to
+64,I will talk about it,Ja ću govoriti o tome
+64,he bought that yesterday,kupio je to jučer
+64,we finished it,završili smo to
+128,Prepositions,Prijedlozi
+128,inside the house,unutar kuće
+128,outside the car,izvan automobila
+128,with me,sa mnom
+128,without him,bez njega
+128,under the table,ispod stola
+128,after tomorrow,prekosutra
+128,before sunset,prije zalaska sunca
+128,but I'm busy,ali ja sam zauzet
+64,about,oko
+64,above,iznad
+64,across,preko
+64,after,nakon
+64,against,protiv
+64,among,među
+64,around,oko
+64,as,kao
+64,at,na
+64,before,prije
+64,behind,iza
+64,below,pod
+64,beneath,ispod
+64,beside,pored
+64,between,između
+64,beyond,iza
+64,but,ali
+64,by,pored
+64,despite,unatoč
+64,down,dolje
+64,during,tijekom
+64,except,osim
+64,for,za
+64,from,iz
+64,in,u
+64,inside,unutra
+64,into,u
+64,near,blizu
+64,next,sljedeći
+64,of,od
+64,on,na
+64,opposite,suprotan
+64,out,van
+64,outside,izvan
+64,over,iznad
+64,per,po
+64,plus,više
+64,round,oko
+64,since,od
+64,than,tada
+64,through,kroz
+64,till,do
+64,to,na
+64,toward,prema
+64,under,pod
+64,unlike,za razliku od
+64,until,dok
+64,up,gore
+64,via,preko
+64,with,sa
+64,within,unutar
+64,without,bez
+64,two words,dvije riječi
+64,according to,prema
+64,because of,zbog
+64,close to,u blizini
+64,due to,uslijed
+64,except for,osim
+64,far from,daleko od
+64,inside of,unutar
+64,instead of,umjesto
+64,near to,blizu
+64,next to,pored
+64,outside of,izvan
+64,prior to,prije
+64,three words,tri riječi
+64,as far as,što se tiče
+64,as well as,kao i
+64,in addition to,k tome još
+64,in front of,ispred
+64,in spite of,uprkos
+64,on behalf of,u ime
+64,on top of,povrh
+64,demonstrative pronouns,pokazne zamjenice
+64,this,ovo
+64,that,to
+64,these,ovi
+64,those,oni
+128,Negation,Negacija
+128,he is not here,on nije ovdje
+128,that is not my book,to nije moja knjiga
+128,do not enter,ne ulazite
+64,I don't speak,Ja ne govorim
+64,I don't write,ja ne pišem
+64,I don't drive,je ne vozim
+64,I don't love,Ja ne volim
+64,I don't give,je ne dajem
+64,I don't smile,ja se ne smiješim
+64,I don't take,je ne uzimam
+64,he doesn't speak,on ne govori
+64,he doesn't write,on ne piše
+64,he doesn't drive,on ne vozi
+64,he doesn't love,on ne voli
+64,he doesn't give,on ne daje
+64,he doesn't smile,on se ne smiješi
+64,he doesn't take,On ne uzima
+64,we don't speak,mi ne govorimo
+64,we don't write,mi ne pišemo
+64,we don't drive,mi ne vozimo
+64,we don't love,mi ne volimo
+64,we don't give,mi ne dajemo
+64,we don't smile,mi se ne smiješimo
+64,we don't take,mi ne uzimamo
+256,Questions,Pitanja
+256,how?,kako?
+256,what?,što?
+256,who?,tko?
+256,why?,zašto?
+256,where?,gdje?
+64,where is he?,gdje je on?
+64,what is this?,Što je to?
+64,why are you sad?,Zašto si tužna?
+64,how do you want to pay?,Kako želite platiti?
+64,can I come?,Mogu li doći?
+64,is he sleeping?,spava li on?
+64,do you know me?,poznaješ li me?
+64,do you have my book?,imaš li moju knjigu?
+64,how big is it?,koliko je to veliko?
+64,can I help you?,mogu li vam pomoći?
+64,can you help me?,Možete li mi pomoći?
+64,do you speak English?,Govorite li engleski?
+64,how far is this?,koliko je to daleko?
+64,what time is it?,Koliko je sati?
+64,how much is this?,koliko je to?
+64,what is your name?,Kako se zovete?
+64,where do you live?,gdje živite?

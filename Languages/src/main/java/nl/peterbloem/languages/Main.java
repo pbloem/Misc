@@ -5,13 +5,16 @@ import java.util.*;
 
 import org.lilian.Global;
 import org.lilian.models.BasicFrequencyModel;
+import org.lilian.util.Functions;
 
 import au.com.bytecode.opencsv.CSVReader;
 
 public class Main {
 
-	private static final String CHINESE_DATA = "/data/chinese/modern.csv";
+	private static final String CHINESE_DATA = "data/chinese/modern.csv";
+	private static final String CROATIAN_DATA = "data/croatian/manual.csv";
 	private static int subsetSize;
+	
 	private static int topN;
 	
 	// Whether to use a word category, or just the top n
@@ -25,112 +28,194 @@ public class Main {
 	public static void main(String[] args) 
 		throws IOException
 	{
-		String language = console.readLine("Which language would you like to practice? (chinese, croatian, or enter for random)");
-		
-		language = language.trim().toLowerCase();
-		if(language.equals(""))
-			if(Math.random() < 0.05)
-				language = "chinese";
-			else
-				language = "croatian";
-		
-		if(language.equals("chinese"))
-			chinese();
-		if(language.equals("croatian"))
-			croatian();
-	}
-	
-	private static void croatian() 
-	{
-		System.out.println("Croatian");
-	}
-
-	public static void chinese() throws IOException
-	{
 		Global.random = new Random();
 		while(true)
-		{
-			String category = console.readLine("Which category of characters (direction, function, verb, time, location, food, family, prepposition ,part, basic, number for top n)?");
-			if(isParsableToInt(category))
-				topN = Integer.parseInt(category);
-			else
-				useCategory = true;
+		{		
+
+			Functions.tic();
 			
-			InputStream in = Main.class.getClassLoader()					
-                    .getResourceAsStream(CHINESE_DATA);
-					
-		    CSVReader reader = new CSVReader(new InputStreamReader(in));
-		    List<String[]> charactersRaw = reader.readAll();
-		    List<Character> characters = new ArrayList<Character>(charactersRaw.size());
-		    
-		    for(String[] raw: charactersRaw)
-		    	characters.add(new Character(raw[1], raw[3],raw[4], raw[5], 
-		    			Integer.parseInt(raw[0]), Integer.parseInt(raw[2])));
-		    
-		    if(! useCategory)
-		    	characters = characters.subList(0, topN);
-		    else
-		    {
-		    	Iterator<Character> it = characters.iterator();
-		    	while(it.hasNext())
-		    		if(! (it.next().category().contains(category)))
-		    			it.remove();
-		    }
-		    
-			String numChar = console.readLine("How many characters (max "+characters.size()+")?");
-			subsetSize = Integer.parseInt(numChar);	    	    
-		    
-		    BasicFrequencyModel<Character> model = new BasicFrequencyModel<Character>();
-		    
-		    for(Character c: characters)
-	    		model.add(c, c.frequency());
-		    
-	        List<Character> selection = new ArrayList<Character>(
-	        		model.chooseWithoutReplacement(subsetSize));
-	        
-	        Character last = null, choice = null;
-	        // Main loop
-	        while(selection.size() > 0)
-	        {
-	        	console.printf(selection.size() + " characters left\n");
-	        	
-	        	boolean selected = false;
-	        	
-	        	last = choice;
-	        	while(!selected)
-	        	{
-	        		 choice = selection.get(Global.random.nextInt(selection.size()));
-	        		 if(last == null || selection.size() == 1)
-	        			 selected = true;
-	        		 else if(!last.equals(choice)) // make sure the same character 
-	        			 selected = true;          // does not appear twice in a row
-	        	}
-	        	
-	        	assert(choice != null);
-	        	
-	        	console.readLine(choice.character());
-	        	console.printf(choice.pinYin() + "\n");
-	        	
-	        	console.printf(choice.translation() + "\n");
-	        	
-	        	String answer = "";
-	        		
-	       		answer = console.readLine("Remove? (y or any key)");
-	       		
-	        	console.printf(((char) 27)+"[2J"); // ANSI clear screen...
-	        	
-	        	if(answer.equals("y"))
-	        	{
-	        		selection.remove(choice);
-	        		console.printf(choice.character() + " removed. \n");
-	        	}
-	        }
-	        
-        	console.printf(((char) 27)+"[2J"); // ANSI clear screen...	        
-		}    	
+			String language = console.readLine("Which language would you like to practice? (chinese, croatian, or enter for random)");
+			
+			language = language.trim().toLowerCase();
+			if(language.equals(""))
+				if(Math.random() < 0.05)
+					language = "chinese";
+				else
+					language = "croatian";
+			
+			if(language.equals("chinese"))
+				chinese();
+			if(language.equals("croatian"))
+				croatian();
+			
+			System.out.println("Time taken: " + Functions.toc()/60.0 + " minutes");
+		}
 	}
 	
-	private static final class Character 
+	private static void croatian() throws IOException 
+	{
+		String etc = console.readLine("English to croatian?");
+		boolean e2c = etc.trim().toLowerCase().equals("y");		
+		
+		InputStream in = Main.class.getClassLoader()					
+                .getResourceAsStream(CROATIAN_DATA);
+		
+		if(in == null)
+			throw new IOException("Resource " + CROATIAN_DATA + " not found.");			
+		
+	    CSVReader reader = new CSVReader(new InputStreamReader(in));
+	    List<String[]> tokensRaw = reader.readAll();
+	    List<CroatianToken> tokens = new ArrayList<CroatianToken>(tokensRaw.size());
+	    
+	    int i = 0;
+	    for(String[] raw: tokensRaw)
+	    {
+	    	i++;
+	    	try {
+	    		tokens.add(new CroatianToken(Integer.parseInt(raw[0]), raw[1], raw[2], raw[3], raw[4], e2c));
+	    	} catch (Exception e)
+	    	{
+	    		throw new RuntimeException("Error in line "+i+" of csv file. ("+Arrays.toString(raw)+")", e);
+	    	}
+	    }
+	    
+	    System.out.println("Number of tokens " + tokens.size());		
+		
+		String category = console.readLine("Which category of tokens (weekday, numbers, months, number for top n)?");
+		if(isParsableToInt(category))
+			topN = Integer.parseInt(category);
+		else
+			useCategory = true;
+		
+	    if(! useCategory)
+	    	tokens = tokens.subList(0, topN);
+	    else
+	    {
+	    	Iterator<CroatianToken> it = tokens.iterator();
+	    	while(it.hasNext())
+	    		if(! (it.next().category().contains(category)))
+	    			it.remove();
+	    }
+	    
+		String numChar = console.readLine("How many characters (max "+tokens.size()+")?");
+		subsetSize = Integer.parseInt(numChar);	    	    
+	    
+	    BasicFrequencyModel<CroatianToken> model = new BasicFrequencyModel<CroatianToken>();
+	    
+	    for(CroatianToken c: tokens)
+    		model.add(c, c.weight());
+	    
+        List<CroatianToken> selection = new ArrayList<CroatianToken>(
+        		model.chooseWithoutReplacement(subsetSize));
+        
+        quiz(selection);
+	}	
+	
+	public static void chinese() throws IOException
+	{
+		String category = console.readLine("Which category of characters (direction, function, verb, time, location, food, family, prepposition ,part, basic, number for top n)?");
+		if(isParsableToInt(category))
+			topN = Integer.parseInt(category);
+		else
+			useCategory = true;
+		
+		InputStream in = Main.class.getClassLoader()					
+                .getResourceAsStream(CHINESE_DATA);
+		
+		if(in == null)
+			throw new IOException("Resource " + CHINESE_DATA + " not found.");			
+		
+	    CSVReader reader = new CSVReader(new InputStreamReader(in));
+	    List<String[]> charactersRaw = reader.readAll();
+	    List<Character> characters = new ArrayList<Character>(charactersRaw.size());
+	    
+	    for(String[] raw: charactersRaw)
+	    	characters.add(new Character(raw[1], raw[3],raw[4], raw[5], 
+	    			Integer.parseInt(raw[0]), Integer.parseInt(raw[2])));
+	    
+	    System.out.println("Number of characters " + characters.size());
+	    
+	    if(! useCategory)
+	    	characters = characters.subList(0, topN);
+	    else
+	    {
+	    	Iterator<Character> it = characters.iterator();
+	    	while(it.hasNext())
+	    		if(! (it.next().category().contains(category)))
+	    			it.remove();
+	    }
+	    
+		String numChar = console.readLine("How many characters (max "+characters.size()+")?");
+		subsetSize = Integer.parseInt(numChar);	    	    
+	    
+	    BasicFrequencyModel<Character> model = new BasicFrequencyModel<Character>();
+	    
+	    for(Character c: characters)
+    		model.add(c, c.frequency());
+	    
+        List<Character> selection = new ArrayList<Character>(
+        		model.chooseWithoutReplacement(subsetSize));
+        
+        quiz(selection);
+	}
+	
+	public static void quiz(List<? extends Token> selection)
+	{
+        Token last = null, choice = null;
+        // Main loop
+        while(selection.size() > 0)
+        {
+        	console.printf(selection.size() + " characters left\n");
+        	
+        	boolean selected = false;
+        	
+        	last = choice;
+        	while(!selected)
+        	{
+        		 choice = selection.get(Global.random.nextInt(selection.size()));
+        		 if(last == null || selection.size() == 1)
+        			 selected = true;
+        		 else if(!last.equals(choice)) // make sure the same token 
+        			 selected = true;          // does not appear twice in a row
+        	}
+        	
+        	assert(choice != null);
+        	
+        	console.readLine(choice.hint());
+        	console.printf(choice.full() + "\n");
+        	
+        	String answer = "";
+        		
+       		answer = console.readLine("Remove? (y or any key)");
+       		
+        	console.printf(((char) 27)+"[2J"); // ANSI clear screen...
+        	
+        	if(answer.equals("y"))
+        	{
+        		selection.remove(choice);
+        		console.printf(choice.hint() + " removed. \n");
+        	}
+        }
+        
+    	console.printf(((char) 27)+"[2J"); // ANSI clear screen...	        
+	}   
+	
+	public static interface Token
+	{
+		/**
+		 * The "question"
+		 * @return
+		 */
+		public String hint();
+		
+		/**
+		 * The full answer
+		 * @return
+		 */
+		public String full();
+	}
+	
+	public static class Character implements Token
 	{
 		private String character;
 		private String pinYin;
@@ -252,8 +337,113 @@ public class Main {
 			return "[" + character + ", " + pinYin
 					+ ", \'" + translation + "\", " + category + ", r=" +rank + ", f=" + frequency + "]";
 		}
+
+		public String hint() 
+		{
+			return character();
+		}
+
+		public String full() 
+		{
+			return pinYin() + " " + translation();
+		}
 	}
 	
+	public static class CroatianToken implements Token 
+	{
+		private int weight;
+		private String english;
+		private String croatian;
+		private String pronunciation;
+		private String category;
+		private boolean etc;
+		
+		public CroatianToken(int weight, String english, String croatian,
+				String pronunciation, String category, boolean etc) 
+		{
+			this.weight = weight;
+			this.english = english;
+			this.croatian = croatian;
+			this.pronunciation = pronunciation;
+			this.category = category;
+			this.etc = etc;
+			
+		}
+
+		public String hint() 
+		{
+			return etc ? english : croatian;
+		}
+
+		public String full() 
+		{
+			return etc 
+					? croatian + " (" + pronunciation + ") "
+				    : english + " (" + pronunciation + ") ";
+		}
+		
+		public String category()
+		{
+			return category;
+		}
+		
+		public int weight()
+		{
+			return weight;
+		}
+
+		@Override
+		public int hashCode() {
+			final int prime = 31;
+			int result = 1;
+			result = prime * result
+					+ ((category == null) ? 0 : category.hashCode());
+			result = prime * result
+					+ ((croatian == null) ? 0 : croatian.hashCode());
+			result = prime * result
+					+ ((english == null) ? 0 : english.hashCode());
+			result = prime * result
+					+ ((pronunciation == null) ? 0 : pronunciation.hashCode());
+			result = prime * result + weight;
+			return result;
+		}
+
+		@Override
+		public boolean equals(Object obj) {
+			if (this == obj)
+				return true;
+			if (obj == null)
+				return false;
+			if (getClass() != obj.getClass())
+				return false;
+			CroatianToken other = (CroatianToken) obj;
+			if (category == null) {
+				if (other.category != null)
+					return false;
+			} else if (!category.equals(other.category))
+				return false;
+			if (croatian == null) {
+				if (other.croatian != null)
+					return false;
+			} else if (!croatian.equals(other.croatian))
+				return false;
+			if (english == null) {
+				if (other.english != null)
+					return false;
+			} else if (!english.equals(other.english))
+				return false;
+			if (pronunciation == null) {
+				if (other.pronunciation != null)
+					return false;
+			} else if (!pronunciation.equals(other.pronunciation))
+				return false;
+			if (weight != other.weight)
+				return false;
+			return true;
+		}
+
+	}
+
 	public static boolean isParsableToInt(String i)
 	{
 		try
