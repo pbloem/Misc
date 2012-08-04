@@ -1,0 +1,1821 @@
+1,Vocabulary,Wortschatz,,none
+1,Countries,Länder,,none
+1,Australia,Australien,,none
+1,Cambodia,Kambodscha,,none
+1,Canada,Kanada,,none
+1,China,China,,none
+1,Egypt,Ägypten,,none
+1,England,England,,none
+1,France,Frankreich,,none
+1,Germany,Deutschland,,none
+1,Greece,Griechenland,,none
+1,India,Indien,,none
+1,Indonesia,Indonesien,,none
+1,Italy,Italien,,none
+1,Japan,Japan,,none
+1,Mexico,Mexiko,,none
+1,Morocco,Marokko,,none
+1,Peru,Peru,,none
+1,Spain,Spanien,,none
+1,Thailand,Thailand,,none
+1,USA,USA,,none
+1,Languages,Sprachen,,none
+1,Arabic,Arabisch,,none
+1,Chinese,Chinesisch,,none
+1,English,Englisch,,none
+1,French,Französisch,,none
+1,German,Deutsch,,none
+1,Greek,Griechisch,,none
+1,Hebrew,Hebräisch,,none
+1,Hindi,Hindi,,none
+1,Italian,Italienisch,,none
+1,Japanese,Japanisch,,none
+1,Korean,Koreanisch,,none
+1,Latin,Latein,,none
+1,Russian,Russisch,,none
+1,Spanish,Spanisch,,none
+1,Urdu,Urdu,,none
+1,Days,Wochentage,,none
+1,Monday,Montag,,none
+1,Tuesday,Dienstag,,none
+1,Wednesday,Mittwoch,,none
+1,Thursday,Donnerstag,,none
+1,Friday,Freitag,,none
+1,Saturday,Samstag,,none
+1,Sunday,Sonntag,,none
+1,time,Zeit,,none
+1,hour,Stunde,,none
+1,minute,Minute,,none
+1,second,Sekunde,,none
+5,colors,Farben,,none
+5,black,schwarz,,none
+5,blue,blau,,none
+5,brown,braun,,none
+5,gray,grau,,none
+5,green,grün,,none
+5,orange,orange,,none
+5,purple,"lila, purpur, violett",,none
+5,red,rot,,none
+5,white,weiß,,none
+5,yellow,gelb,,none
+5,sizes,Größen,,none
+5,big,groß,,none
+5,deep,tief,,none
+5,long,lang,,none
+5,narrow,"eng, schmal",,none
+5,short,kurz,,none
+5,small,klein,,none
+5,tall,groß,,none
+5,thick,dick,,none
+5,thin,dünn,,none
+5,wide,breit,,none
+5,tastes,Geschmacksrichtungen,,none
+5,bitter,bitter,,none
+5,fresh,frisch,,none
+5,salty,salzig,,none
+5,sour,sauer,,none
+5,spicy,würzig,,none
+5,sweet,süß,,none
+5,qualities,Eigenschaften,,none
+5,bad,schlecht,,none
+5,clean,sauber,,none
+5,dark,dunkel,,none
+5,difficult,schwierig,,none
+5,dirty,schmutzig,,none
+5,dry,trocken,,none
+5,easy,leicht,,none
+5,empty,leer,,none
+5,expensive,teuer,,none
+5,fast,schnell,,none
+5,foreign,fremd,,none
+5,full,voll,,none
+5,good,gut,,none
+5,hard,hart,,none
+5,heavy,schwer,,none
+5,inexpensive,preiswert,,none
+5,light,"hell, leicht",,none
+5,local,"lokal, einheimisch",,none
+5,new,neu,,none
+5,noisy,"laut, geräuschvoll",,none
+5,old,alt,,none
+5,powerful,"mächtig, kräftig",,none
+5,quiet,ruhig,,none
+5,correct,richtig,,none
+5,slow,langsam,,none
+5,soft,weich,,none
+5,very,sehr,,none
+5,weak,schwach,,none
+5,wet,nass,,none
+5,wrong,falsch,,none
+5,young,jung,,none
+5,food,Lebensmittel,,none
+5,almonds,Mandeln,,none
+5,bread,Brot,,none
+5,breakfast,Frühstück,,none
+5,butter,Butter,,none
+5,candy,Süßigkeiten,,none
+5,cheese,Käse,,none
+5,chicken,Huhn,,none
+5,cumin,Kreuzkümmel,,none
+5,dessert,Dessert,,none
+5,dinner,Abendessen,,none
+5,fish,Fisch,,none
+5,fruit,Obst,,none
+5,ice cream,"Eis, Eiskrem",,none
+5,lamb,Lamm,,none
+5,lemon,Zitrone,,none
+5,lunch,Mittagessen,,none
+5,meal,Mahlzeit,,none
+5,meat,Fleisch,,none
+5,oven,Backofen,,none
+5,pepper,Pfeffer,,none
+5,plants,Pflanzen,,none
+5,pork,Schweinefleisch,,none
+5,salad,Salat,,none
+5,salt,Salz,,none
+5,sandwich,"Sandwich, Butterbrot",,none
+5,sausage,Wurst,,none
+5,soup,Suppe,,none
+5,sugar,Zucker,,none
+5,supper,Abendessen,,none
+5,turkey,Pute,,none
+5,apple,Apfel,,none
+5,banana,Banane,,none
+5,oranges,Orangen,,none
+5,peaches,Pfirsiche,,none
+5,peanut,Erdnuss,,none
+5,pears,Birnen,,none
+5,pineapple,Ananas,,none
+5,grapes,Trauben,,none
+5,strawberries,Erdbeeren,,none
+5,vegetables,Gemüse,,none
+5,carrot,Karotte,,none
+5,corn,Mais,,none
+5,cucumber,Gurke,,none
+5,garlic,Knoblauch,,none
+5,lettuce,Blattsalat,,none
+5,olives,Oliven,,none
+5,onions,Zwiebeln,,none
+5,peppers,Paprika,,none
+5,potatoes,Kartoffeln,,none
+5,pumpkin,Kürbis,,none
+5,beans,Bohnen,,none
+5,tomatoes,Tomaten,,none
+5,alligator,Alligator,,none
+5,alligators,Alligatoren,,none
+5,bear,Bär,,none
+5,bears,Bären,,none
+5,bird,Vogel,,none
+5,birds,Vögel,,none
+5,bull,"Bulle, Stier",,none
+5,bulls,"Bullen, Stiere",,none
+5,cat,Katze,,none
+5,cats,Katzen,,none
+5,cow,Kuh,,none
+5,cows,Kühe,,none
+5,deer,Hirsch,,none
+5,many deer,viele Hirsche,,none
+5,dog,Hund,,none
+5,dogs,Hunde,,none
+5,donkey,Esel,,none
+5,donkeys,Esel,,none
+5,eagle,Adler,,none
+5,eagles,Adler,,none
+5,elephant,Elefant,,none
+5,elephants,Elefanten,,none
+5,giraffe,Giraffe,,none
+5,giraffes,Giraffen,,none
+5,goat,Ziege,,none
+5,goats,Ziegen,,none
+5,horse,Pferd,,none
+5,horses,Pferde,,none
+5,lion,Löwe,,none
+5,lions,Löwen,,none
+5,monkey,Affe,,none
+5,monkeys,Affen,,none
+5,mouse,Maus,,none
+5,mice,Mäuse,,none
+5,rabbit,Kaninchen,,none
+5,rabbits,Kaninchen,,none
+5,snake,Schlange,,none
+5,snakes,Schlangen,,none
+5,tiger,Tiger,,none
+5,tigers,Tiger,,none
+5,wolf,Wolf,,none
+5,wolves,Wölfe,,none
+5,objects,"Gegenstände, Objekte",,none
+5,bathroom,Badezimmer,,none
+5,bed,Bett,,none
+5,bedroom,Schlafzimmer,,none
+5,ceiling,Decke,,none
+5,chair,Stuhl,,none
+5,clothes,Kleider,,none
+5,coat,Mantel,,none
+5,cup,Tasse,,none
+5,desk,Schreibtisch,,none
+5,dress,Kleid,,none
+5,floor,Fußboden,,none
+5,fork,Gabel,,none
+5,furniture,Möbel,,none
+5,glass,Glas,,none
+5,hat,Hut,,none
+5,house,Haus,,none
+5,ink,Tinte,,none
+5,jacket,Jacke,,none
+5,kitchen,Küche,,none
+5,knife,Messer,,none
+5,lamp,Lampe,,none
+5,letter,"Brief, Buchstabe",,none
+5,map,Karte,,none
+5,newspaper,Zeitung,,none
+5,notebook,Notebook,,none
+5,pants,Hose,,none
+5,paper,Papier,,none
+5,pen,Kugelschreiber,,none
+5,pencil,Bleistift,,none
+5,pharmacy,Apotheke,,none
+5,picture,Bild,,none
+5,plate,Platte,,none
+5,refrigerator,Kühlschrank,,none
+5,restaurant,Restaurant,,none
+5,roof,Dach,,none
+5,room,Zimmer,,none
+5,rug,Teppich,,none
+5,scissors,Schere,,none
+5,shampoo,Shampoo,,none
+5,shirt,Hemd,,none
+5,shoes,Schuhe,,none
+5,soap,Seife,,none
+5,socks,Socken,,none
+5,spoon,Löffel,,none
+5,table,Tisch,,none
+5,toilet,Toilette,,none
+5,toothbrush,Zahnbürste,,none
+5,toothpaste,Zahnpasta,,none
+5,towel,Handtuch,,none
+5,umbrella,Regenschirm,,none
+5,underwear,Unterwäsche,,none
+5,wall,Wand,,none
+5,wallet,Brieftasche,,none
+5,window,Fenster,,none
+5,telephone,Telefon,,none
+5,this,dieses,,none
+5,that,jenes,,none
+5,these,diese,,none
+5,those,jene,,none
+5,how?,wie?,,none
+5,what?,Was?,,none
+5,who?,Wer?,,none
+5,why?,warum?,,none
+5,where?,wo?,,none
+5,different objects,verschiedene Objekte,,none
+5,art,Kunst,,none
+5,bank,Bank,,none
+5,beach,Strand,,none
+5,book,Buch,,none
+5,by bicycle,mit dem Fahrrad,,none
+5,by bus,mit dem Bus,,none
+5,by car,mit dem Auto,,none
+5,by train,mit der Bahn,,none
+5,cafe,Café,,none
+5,country,Land,,none
+5,desert,Wüste,,none
+5,dictionary,Wörterbuch,,none
+5,earth,Erde,,none
+5,flowers,Blumen,,none
+5,football,Fußball,,none
+5,forest,Wald,,none
+5,game,Spiel,,none
+5,garden,Garten,,none
+5,geography,Geographie,,none
+5,history,Geschichte,,none
+5,house,Haus,,none
+5,island,Insel,,none
+5,lake,See,,none
+5,library,"Bücherei, Bibliothek",,none
+5,math,Mathematik,,none
+5,moon,Mond,,none
+5,mountain,Berg,,none
+5,movies,Kino,,none
+5,music,Musik,,none
+5,ocean,Ozean,,none
+5,office,Büro,,none
+5,on foot,zu Fuß,,none
+5,player,Spieler,,none
+5,river,Fluss,,none
+5,science,Wissenschaft,,none
+5,sea,Meer,,none
+5,sky,Himmel,,none
+5,soccer,Fußball,,none
+5,stars,Sterne,,none
+5,supermarket,Supermarkt,,none
+5,swimming pool,Schwimmbad,,none
+5,theater,Theater,,none
+5,tree,Baum,,none
+5,weather,Wetter,,none
+5,bad weather,schlechtes Wetter,,none
+5,cloudy,"wolkig, trüb",,none
+5,cold,Kälte,,none
+5,cool,kalt,,none
+5,foggy,neblig,,none
+5,hot,heiß,,none
+5,nice weather,schönes Wetter,,none
+5,pouring,gießt,,none
+5,rain,regen,,none
+5,raining,regnet,,none
+5,snow,Schnee,,none
+5,snowing,schneit,,none
+5,ice,Eis,,none
+5,sunny,sonnig,,none
+5,windy,windig,,none
+5,spring,Frühling,,none
+5,summer,Sommer,,none
+5,autumn,Herbst,,none
+5,winter,Winter,,none
+5,people,Menschen,,none
+5,aunt,Tante,,none
+5,baby,Baby,,none
+5,brother,Bruder,,none
+5,cousin,"Cousin, Vetter",,none
+5,daughter,Tochter,,none
+5,dentist,Zahnarzt,,none
+5,doctor,Arzt,,none
+5,father,Vater,,none
+5,grandfather,Großvater,,none
+5,grandmother,Großmutter,,none
+5,husband,Ehemann,,none
+5,mother,Mutter,,none
+5,nephew,Neffe,,none
+5,niece,Nichte,,none
+5,nurse,Krankenschwester,,none
+5,policeman,Polizist,,none
+5,postman,Briefträger,,none
+5,professor,Professor,,none
+5,son,Sohn,,none
+5,teacher,Lehrer,,none
+5,uncle,Onkel,,none
+5,wife,Frau,,none
+10,adjectives,Adjektive,,none
+10,a green tree,ein grüner Baum,,none
+10,a tall building,ein hohes Gebäude,,none
+10,a very old man,ein sehr alter Mann,,none
+10,the old red house,"das alte, rote Haus",,none
+10,a very nice friend,"ein sehr netter Freund, eine sehr nette Freundin",,none
+10,colors,Farben,,none
+10,black,schwarz,,none
+10,blue,blau,,none
+10,brown,braun,,none
+10,gray,grau,,none
+10,green,grün,,none
+10,orange,orange,,none
+10,purple,"lila, purpur, violett",,none
+10,red,rot,,none
+10,white,weiß,,none
+10,yellow,gelb,,none
+10,sizes,Größen,,none
+10,big,groß,,none
+10,deep,tief,,none
+10,long,lang,,none
+10,narrow,"eng, schmal",,none
+10,short,kurz,,none
+10,small,klein,,none
+10,tall,groß,,none
+10,thick,dick,,none
+10,thin,dünn,,none
+10,wide,breit,,none
+10,shapes,Formen,,none
+10,circular,"kreisförmig, rund",,none
+10,straight,gerade,,none
+10,square,quadratisch,,none
+10,triangular,dreieckig,,none
+10,tastes,Geschmacksrichtungen,,none
+10,bitter,bitter,,none
+10,fresh,frisch,,none
+10,salty,salzig,,none
+10,sour,sauer,,none
+10,spicy,würzig,,none
+10,sweet,süß,,none
+10,qualities,Eigenschaften,,none
+10,bad,schlecht,,none
+10,clean,sauber,,none
+10,dark,dunkel,,none
+10,difficult,schwierig,,none
+10,dirty,schmutzig,,none
+10,dry,trocken,,none
+10,easy,leicht,,none
+10,empty,leer,,none
+10,expensive,teuer,,none
+10,fast,schnell,,none
+10,foreign,fremd,,none
+10,full,voll,,none
+10,good,gut,,none
+10,hard,hart,,none
+10,heavy,schwer,,none
+10,inexpensive,preiswert,,none
+10,light,"hell, leicht",,none
+10,local,"lokal, einheimisch",,none
+10,new,neu,,none
+10,noisy,"laut, geräuschvoll",,none
+10,old,alt,,none
+10,powerful,"mächtig, kräftig",,none
+10,quiet,ruhig,,none
+10,correct,richtig,,none
+10,slow,langsam,,none
+10,soft,weich,,none
+10,very,sehr,,none
+10,weak,schwach,,none
+10,wet,nass,,none
+10,wrong,falsch,,none
+10,young,jung,,none
+10,quantities,Mengen,,none
+10,few,wenige,,none
+10,little,wenig,,none
+10,many,viele,,none
+10,much,viel,,none
+10,part,Teil,,none
+10,some,einige,,none
+10,a few,ein paar,,none
+10,whole,ganze,,none
+5,adverbs,Adverbien,,none
+5,I read a book sometimes,Manchmal lese ich ein Buch,,none
+5,I will never smoke,Ich werde nie rauchen,,none
+5,are you alone?,Bist du allein?,,none
+5,adverbs of time,Adverbien der Zeit,,none
+5,yesterday,gestern,,none
+5,today,heute,,none
+5,tomorrow,morgen,,none
+5,now,jetzt,,none
+5,then,dann,,none
+5,later,später,,none
+5,tonight,heute Abend,,none
+5,right now,in diesem Moment,,none
+5,last night,letzte Nacht,,none
+5,this morning,heute Morgen,,none
+5,next week,nächste Woche,,none
+5,already,"bereits, schon",,none
+5,recently,"vor kurzem, kürzlich",,none
+5,lately,"in letzter Zeit, neulich",,none
+5,soon,bald,,none
+5,immediately,sofort,,none
+5,still,immer noch,,none
+5,yet,noch,,none
+5,ago,vor,,none
+5,adverbs of place,Adverbien des Ortes,,none
+5,here,hier,,none
+5,there,dort,,none
+5,over there,dort drüben,,none
+5,everywhere,überall,,none
+5,anywhere,irgendwo,,none
+5,nowhere,nirgends,,none
+5,home,"nach Hause, zu Hause",,none
+5,away,weg,,none
+5,out,heraus,,none
+5,adverbs of manner,Adverbien der Art und Weise,,none
+5,very,sehr,,none
+5,quite,ganz,,none
+5,pretty,hübsch,,none
+5,really,wirklich,,none
+5,fast,schnell,,none
+5,well,gut,,none
+5,hard,hart,,none
+5,quickly,schnell,,none
+5,slowly,langsam,,none
+5,carefully,vorsichtig,,none
+5,hardly,kaum,,none
+5,barely,kaum,,none
+5,mostly,meist,,none
+5,almost,fast,,none
+5,absolutely,"durchaus, allerdings",,none
+5,together,zusammen,,none
+5,alone,allein,,none
+5,adverbs of frequency,Häufigkeitsadverbien,,none
+5,always,immer,,none
+5,frequently,häufig,,none
+5,usually,"normalerweise, in der Regel",,none
+5,sometimes,manchmal,,none
+5,occasionally,gelegentlich,,none
+5,seldom,selten,,none
+5,rarely,selten,,none
+5,never,nie,,none
+5,my car,mein Auto,,none
+5,green car,grünes Auto,,none
+5,three cars,drei Autos,,none
+5,car garage,Garage,,none
+5,outside the car,außerhalb des Autos,,none
+5,articles,Artikel,,none
+5,the,"der, die, das",,none
+5,a,"einer, eine, ein",,none
+5,one,eins,,none
+5,some,einige,,none
+5,few,wenige,,none
+5,the book,das Buch,,none
+5,the books,die Bücher,,none
+5,a book,ein Buch,,none
+5,one book,ein Buch,,none
+5,some books,einige Bücher,,none
+5,few books,ein paar Bücher,,none
+5,Pronouns,Pronomen,,none
+5,I,Ich,,none
+5,you,"du, Sie (Höflichkeitsform)",,none
+5,he,er,,none
+5,she,sie,,none
+5,we,wir,,none
+5,they,sie,,none
+5,me,"mir, mich",,none
+5,you,"dir, dich, Ihnen, Sie",,none
+5,him,"ihm, ihn",,none
+5,her,"ihr, sie",,none
+5,us,uns,,none
+5,them,"ihnen, sie",,none
+5,my,"mein, meine",,none
+5,your,"dein, deine, Ihr, Ihre",,none
+5,his,"sein, seine",,none
+5,her,"ihr, ihre",,none
+5,our,"unser, unsere",,none
+5,their,"ihr, ihre",,none
+5,mine,meins,,none
+5,yours,"deins, Ihres",,none
+5,his,seins,,none
+5,hers,ihres,,none
+5,ours,unseres,,none
+5,theirs,ihres,,none
+5,I speak,ich spreche,,none
+5,you speak,"du sprichst, Sie sprechen",,none
+5,he speaks,er spricht,,none
+5,she speaks,sie spricht,,none
+5,we speak,wir sprechen,,none
+5,they speak,sie sprechen,,none
+5,give me,"gib mir, geben Sie mir",,none
+5,give him,"gebe ihm, gib ihm",,none
+5,give her,"gebe ihr, gib ihr",,none
+5,give us,"gib uns, geben Sie uns",,none
+5,give them,"gebe ihnen, gib ihnen",,none
+5,my book,mein Buch,,none
+5,your book,"dein Buch, Ihr Buch",,none
+5,his book,sein Buch,,none
+5,her book,ihr Buch,,none
+5,our book,unser Buch,,none
+5,their book,ihr Buch,,none
+1,Plural,Plural,,none
+1,my book,mein Buch,,none
+1,my books,meine Bücher,,none
+1,our daughter,unsere Tochter,,none
+1,our daughters,unsere Töchter,,none
+1,I'm cold,Mir ist kalt,,none
+1,we're cold,Uns ist kalt,,none
+1,his chickens,seine Hühner,,none
+1,their chicken,ihre Hühner,,none
+1,alligator,Alligator,,none
+1,alligators,Alligatoren,,none
+1,bear,Bär,,none
+1,bears,Bären,,none
+1,bird,Vogel,,none
+1,birds,Vögel,,none
+1,bull,"Bulle, Stier",,none
+1,bulls,"Bullen, Stiere",,none
+1,cat,Katze,,none
+1,cats,Katzen,,none
+1,cow,Kuh,,none
+1,cows,Kühe,,none
+1,deer,Hirsch,,none
+1,many deer,viele Hirsche,,none
+1,dog,Hund,,none
+1,dogs,Hunde,,none
+1,donkey,Esel,,none
+1,donkeys,Esel,,none
+1,eagle,Adler,,none
+1,eagles,Adler,,none
+1,elephant,Elefant,,none
+1,elephants,Elefanten,,none
+1,giraffe,Giraffe,,none
+1,giraffes,Giraffen,,none
+1,goat,Ziege,,none
+1,goats,Ziegen,,none
+1,horse,Pferd,,none
+1,horses,Pferde,,none
+1,lion,Löwe,,none
+1,lions,Löwen,,none
+1,monkey,Affe,,none
+1,monkeys,Affen,,none
+1,mouse,Maus,,none
+1,mice,Mäuse,,none
+1,rabbit,Kaninchen,,none
+1,rabbits,Kaninchen,,none
+1,snake,Schlange,,none
+1,snakes,Schlangen,,none
+1,tiger,Tiger,,none
+1,tigers,Tiger,,none
+1,wolf,Wolf,,none
+1,wolves,Wölfe,,none
+1,man,Mann,,none
+1,woman,Frau,,none
+1,father,Vater,,none
+1,mother,Mutter,,none
+1,brother,Bruder,,none
+1,sister,Schwester,,none
+1,uncle,Onkel,,none
+1,aunt,Tante,,none
+1,bull,"Bulle, Stier",,none
+1,cow,Kuh,,none
+1,boy,Junge,,none
+1,girl,Mädchen,,none
+1,Verbs,Verben,,none
+1,Past,Vergangenheit,,verbs
+1,I spoke,Ich sprach,,verbs
+1,I wrote,Ich schrieb,,verbs
+1,I drove,Ich fuhr,,verbs
+1,I loved,Ich liebte,,verbs
+1,I gave,Ich gab,,verbs
+1,I smiled,Ich lächelte,,verbs
+1,I took,Ich nahm,,verbs
+1,he spoke,er sprach,,verbs
+1,he wrote,er schrieb,,verbs
+1,he drove,er fuhr,,verbs
+1,he loved,er liebte,,verbs
+1,he gave,er gab,,verbs
+1,he smiled,er lächelte,,verbs
+1,he took,er nahm,,verbs
+1,we spoke,wir sprachen,,verbs
+1,we wrote,wir schrieben,,verbs
+1,we drove,wir fuhren,,verbs
+1,we loved,wir liebten,,verbs
+1,we gave,wir gaben,,verbs
+1,we smiled,wir lächelten,,verbs
+1,we took,wir nahmen,,verbs
+1,Future,Zukunft,,verbs
+1,I will speak,Ich werde reden,,verbs
+1,I will write,Ich werde schreiben,,verbs
+1,I will drive,Ich werde fahren,,verbs
+1,I will love,Ich werdel dich lieben,,verbs
+1,I will give,Ich werde geben,,verbs
+1,I will smile,Ich werde lächeln,,verbs
+1,I will take,Ich werde nehmen,,verbs
+1,he will speak,er wird sprechen,,verbs
+1,he will write,er wird schreiben,,verbs
+1,he will drive,er wird fahren,,verbs
+1,he will love,er wird lieben,,verbs
+1,he will give,er wird geben,,verbs
+1,he will smile,er wird lächeln,,verbs
+1,he will take,er wird nehmen,,verbs
+1,we will speak,wir werden sprechen,,verbs
+1,we will write,wir werden schreiben,,verbs
+1,we will drive,wir werden fahren,,verbs
+1,we will love,wir werden lieben,,verbs
+1,we will give,wir werden geben,,verbs
+1,we will smile,wir werden lächeln,,verbs
+1,we will take,wir werden nehmen,,verbs
+1,Present,Gegenwart,,verbs
+1,I speak,Ich spreche,,verbs
+1,I write,Ich schreibe,,verbs
+1,I drive,Ich fahre,,verbs
+1,I love,Ich liebe,,verbs
+1,I give,Ich gebe,,verbs
+1,I smile,Ich lächle,,verbs
+1,I take,Ich nehme,,verbs
+1,he speaks,er spricht,,verbs
+1,he writes,er schreibt,,verbs
+1,he drives,er fährt,,verbs
+1,he loves,er liebt,,verbs
+1,he gives,er gibt,,verbs
+1,he smiles,er lächelt,,verbs
+1,he takes,er nimmt,,verbs
+1,we speak,Wir sprechen,,verbs
+1,we write,wir schreiben,,verbs
+1,we drive,Wir fahren,,verbs
+1,we love,Wir lieben,,verbs
+1,we give,Wir geben,,verbs
+1,we smile,Wir lächeln,,verbs
+1,we take,Wir nehmen,,verbs
+3,I can accept that,Ich kann das akzeptieren,,phrases
+3,she added it,sie fügte es hinzu,,phrases
+3,we admit it,Wir räumen ein,,phrases
+3,they advised him,sie rieten ihm,,phrases
+3,I can agree with that,Dem kann ich zustimmen,,phrases
+3,she allows it,sie erlaubt es,,phrases
+3,we announce it,wir kündigen es an,,phrases
+3,I can apologize,Ich kann mich entschuldigen,,phrases
+3,she appears today,Sie erscheint heute,,phrases
+3,they arranged that,sie vereinbarten das,,phrases
+3,I can arrive tomorrow,Ich kann morgen eintreffen,,phrases
+3,she can ask him,sie kann ihn fragen,,phrases
+3,she attaches that,sie fügt das an,,phrases
+3,we attack them,Wir greifen sie an,,phrases
+3,they avoid her,sie meiden sie,,phrases
+3,I can bake it,Ich kann es backen,,phrases
+3,she is like him,sie ist wie er,,phrases
+3,we beat it,wir schlagen es,,phrases
+3,they became happy,sie wurden glücklich,,phrases
+3,I can begin that,Ich kann das beginnen,,phrases
+3,we borrowed money,wir liehen uns Geld,,phrases
+3,they breathe air,sie atmen Luft,,phrases
+3,I can bring it,Ich kann es bringen,,phrases
+3,I can build that,Ich kann das bauen,,phrases
+3,she buys food,sie kauft Lebensmittel,,phrases
+3,we calculate it,wir berechnen es,,phrases
+3,they carry it,sie tragen es,,phrases
+3,they don't cheat,sie betrügen nicht,,phrases
+3,she chooses him,sie wählt ihn aus,,phrases
+3,we close it,Wir schließen es,,phrases
+3,he comes here,er kommt hierher,,phrases
+3,I can compare that,Ich kann das vergleichen,,phrases
+3,she competes with me,sie tritt gegen mich an,,phrases
+3,we complain about it,Wir reklamieren es,,phrases
+3,they continued reading,Sie lasen weiter,,phrases
+3,he cried about that,Er rief darüber aus,,phrases
+3,I can decide now,"Ich kann jetzt entscheiden,",,phrases
+3,she described it to me,sie beschrieb es mir,,phrases
+3,we disagree about it,damit sind wir nicht einverstanden,,phrases
+3,they disappeared quickly,sie verschwanden schnell,,phrases
+3,I discovered that,Ich entdeckte das,,phrases
+3,she dislikes that,Sie hasst das,,phrases
+3,we do it,wir tun es,,phrases
+3,they dream about it,sie träumen davon,,phrases
+3,I earned,Ich verdiente,,phrases
+3,he eats a lot,er isst viel,,phrases
+3,we enjoyed that,Wir genossen das,,phrases
+3,they entered here,Sie traten hier ein,,phrases
+3,he escaped that,Er entkam dem,,phrases
+3,I can explain that,Ich kann das erklären,,phrases
+3,she feels that too,sie spürt das auch,,phrases
+3,we fled from there,wir flohen von dort,,phrases
+3,they will fly tomorrow,sie fliegen morgen,,phrases
+3,I can follow you,Ich kann dir folgen,,phrases
+3,she forgot me,sie vergaß mich,,phrases
+3,we forgive him,wir verzeihen ihm,,phrases
+3,I can give her that,Ich kann ihr das geben,,phrases
+3,she goes there,sie geht dort,,phrases
+3,we greeted them,Wir begrüßten sie,,phrases
+3,I hate that,Ich hasse das,,phrases
+3,I can hear it,Ich kann es hören,,phrases
+3,she imagine that,sie stellt sich das vor,,phrases
+3,we invited them,Wir luden sie ein,,phrases
+3,I know him,Ich kenne ihn,,phrases
+3,she learned it,Sie lernte es,,phrases
+3,we leave now,Wir gehen jetzt,,phrases
+3,they lied about him,sie logen über ihn,,phrases
+3,I can listen to that,Ich kann das hören,,phrases
+3,she lost that,sie verlor das,,phrases
+3,we made it yesterday,Wir machten es gestern,,phrases
+3,they met him,sie trafen ihn,,phrases
+3,I misspell that,Ich buchstabiere das falsch,,phrases
+3,I always pray,Ich bete immer,,phrases
+3,she prefers that,sie zieht das vor,,phrases
+3,we protected them,Wir beschützten sie,,phrases
+3,they will punish her,sie werden sie bestrafen,,phrases
+3,I can put it there,Ich kann es dort hinlegen,,phrases
+3,she will read it,sie wird es lesen,,phrases
+3,we received that,wir erhielten das,,phrases
+3,they refuse to talk,Sie weigern sich zu reden,,phrases
+3,I remember that,Ich erinnere mich daran,,phrases
+3,she repeats that,sie wiederholt das,,phrases
+3,we see it,Wir sehen es,,phrases
+3,they sell it,sie verkaufen es,,phrases
+3,I sent that yesterday,Ich schickte das gestern,,phrases
+3,he shaved his beard,er rasierte sich den Bart,,phrases
+3,it shrunk quickly,es schrumpfte schnell,,phrases
+3,we will sing it,Wir werden es singen,,phrases
+3,they sat there,Sie saßen da,,phrases
+3,I can speak it,Ich kann es sprechen,,phrases
+3,she spends money,sie gibt Geld aus,,phrases
+3,we suffered from that,Wir litten darunter,,phrases
+3,they suggest that,sie schlagen das vor,,phrases
+3,I surprised him,Ich überraschte ihn,,phrases
+3,she took that,sie nahm das,,phrases
+3,we teach it,wir lehren es,,phrases
+3,they told us,Sie erzählten uns,,phrases
+3,she thanked him,Sie dankte ihm,,phrases
+3,I can think about it,Ich kann darüber nachdenken,,phrases
+3,she threw it,sie warf es,,phrases
+3,we understand that,Wir verstehen das,,phrases
+3,they want that,sie wollen das,,phrases
+3,I can wear it,Ich kann es tragen,,phrases
+3,she writes that,"sie schreibt, dass",,phrases
+3,we talk about it,Wir reden darüber,,phrases
+3,they have it,sie haben es,,phrases
+3,I watched it,Ich beobachtete es,,phrases
+3,I will talk about it,Ich werde darüber sprechen,,phrases
+3,he bought that yesterday,Er kaufte das gestern,,phrases
+3,we finished it,wir beendeten es,,phrases
+5,Prepositions,Präpositionen,,none
+5,inside the house,im Inneren des Hauses,,none
+5,outside the car,außerhalb des Autos,,none
+5,with me,mit mir,,none
+5,without him,ohne ihn,,none
+5,under the table,unter dem Tisch,,none
+5,after tomorrow,übermorgen,,none
+5,before sunset,vor Sonnenuntergang,,none
+5,but I'm busy,aber ich bin beschäftigt,,none
+5,about,über,,none
+5,above,oben,,none
+5,across,über,,none
+5,after,nach,,none
+5,against,gegen,,none
+5,among,unter,,none
+5,around,um,,none
+5,as,wie,,none
+5,at,bei,,none
+5,before,vor,,none
+5,behind,hinter,,none
+5,below,unten,,none
+5,beneath,unter,,none
+5,beside,neben,,none
+5,between,zwischen,,none
+5,beyond,darüber hinaus,,none
+5,but,aber,,none
+5,by,durch,,none
+5,despite,trotz,,none
+5,down,nach unten,,none
+5,during,während,,none
+5,except,ausgenommen,,none
+5,for,für,,none
+5,from,von,,none
+5,in,in,,none
+5,inside,innen,,none
+5,into,in,,none
+5,near,in der Nähe von,,none
+5,next,nächste,,none
+5,of,von,,none
+5,on,auf,,none
+5,opposite,gegenüber,,none
+5,out,heraus,,none
+5,outside,außerhalb,,none
+5,over,über,,none
+5,per,pro,,none
+5,plus,plus,,none
+5,round,um,,none
+5,since,seit,,none
+5,than,als,,none
+5,through,durch,,none
+5,till,bis,,none
+5,to,zu,,none
+5,toward,gegen,,none
+5,under,unter,,none
+5,unlike,im Gegensatz zu,,none
+5,until,bis,,none
+5,up,hinauf,,none
+5,via,durch,,none
+5,with,mit,,none
+5,within,innerhalb,,none
+5,without,ohne,,none
+5,,,,none
+5,two words,zwei Wörter,,none
+5,according to,gemäß,,none
+5,because of,wegen,,none
+5,close to,nahe an,,none
+5,due to,durch,,none
+5,except for,bis auf,,none
+5,far from,weit entfernt,,none
+5,inside of,innerhalb,,none
+5,instead of,statt,,none
+5,near to,in der Nähe von,,none
+5,next to,neben,,none
+5,outside of,außerhalb von,,none
+5,prior to,vor,,none
+5,,,,none
+5,three words,drei Wörter,,none
+5,as far as,soweit,,none
+5,as well as,sowie,,none
+5,in addition to,zusätzlich zu,,none
+5,in front of,vor,,none
+5,in spite of,trotz,,none
+5,on behalf of,im Namen von,,none
+5,on top of,oben auf,,none
+5,,,,none
+5,demonstrative pronouns,demonstrative Präpositionen,,none
+5,this,dieses,,none
+5,that,jenes,,none
+5,these,diese,,none
+5,those,jene,,none
+5,he is not here,Er ist nicht hier,,none
+5,that is not my book,Das ist nicht mein Buch,,none
+5,do not enter,Nicht eintreten!,,none
+5,I don't speak,Ich spreche nicht,,none
+5,I don't write,Ich schreibe nicht,,none
+5,I don't drive,Ich fahre nicht,,none
+5,I don't love,Ich liebe nicht,,none
+5,I don't give,Ich gebe nicht,,none
+5,I don't smile,Ich lächle nicht,,none
+5,I don't take,Ich nehme nicht,,none
+5,he doesn't speak,Er spricht nicht,,none
+5,he doesn't write,Er schreibt nicht,,none
+5,he doesn't drive,er fährt nicht,,none
+5,he doesn't love,er liebt nicht,,none
+5,he doesn't give,er gibt nicht,,none
+5,he doesn't smile,Er lächelt nicht,,none
+5,he doesn't take,Er nimmt nicht,,none
+5,we don't speak,Wir sprechen nicht,,none
+5,we don't write,wir schreiben nicht,,none
+5,we don't drive,Wir fahren nicht,,none
+5,we don't love,Wir lieben nicht,,none
+5,we don't give,Wir geben nicht,,none
+5,we don't smile,Wir lächeln nicht,,none
+5,we don't take,Wir nehmen nicht,,none
+50,how?,wie?,,none
+50,what?,Was?,,none
+50,who?,Wer?,,none
+50,why?,warum?,,none
+50,where?,wo?,,none
+5,where is he?,Wo ist er?,,none
+5,what is this?,Was ist das?,,none
+5,why are you sad?,Warum bist du traurig?,,none
+5,how do you want to pay?,Wie möchten Sie zahlen?,,none
+5,can I come?,kann ich kommen?,,none
+5,is he sleeping?,Schläft er?,,none
+5,do you know me?,Kennen Sie mich?,,none
+5,do you have my book?,Haben Sie mein Buch?,,none
+5,how big is it?,Wie groß ist es?,,none
+5,can I help you?,kann ich Ihnen helfen?,,none
+5,can you help me?,Können Sie mir helfen?,,none
+5,do you speak English?,Do you speak English?,,none
+5,how far is this?,Wie weit ist das?,,none
+5,what time is it?,Wie spät ist es?,,none
+5,how much is this?,Was kostet das?,,none
+5,what is your name?,Wie heißt du? Wie heißen Sie?,,none
+5,where do you live?,Wo wohnst du? Wo wohnen Sie?,,none
+10,the animals,die Tiere,,vocab
+10,the bear ,der Bär,,vocab
+10,the beaver,der Biber,,vocab
+10,the cat ,die Katze,,vocab
+10,the chimpanzee,der Schimpanse,,vocab
+10,the deer ,das Reh,,vocab
+10,the dog ,der Hund,,vocab
+10,the elephant ,der Elefant,,vocab
+10,the fish,der Fisch,,vocab
+10,the fox,der Fuchs,,vocab
+10,the goat,die Ziege,,vocab
+10,the gorilla ,der Gorilla,,vocab
+10,the hippopotamus ,das Nilpferd,,vocab
+10,the horse ,das Pferd,,vocab
+10,the hyena,die Hyäne,,vocab
+10,the kangaroo ,das Känguru,,vocab
+10,the kitten,das Kätzchen,,vocab
+10,the leopard ,der Leopard,,vocab
+10,the llama ,das Lama,,vocab
+10,the monkey ,der Affe,,vocab
+10,the mouse,die Maus,,vocab
+10,the panda ,der Panda,,vocab
+10,the penguin,der Pinguin,,vocab
+10,the pet,das Haustier,,vocab
+10,the puppy,der Welpe,,vocab
+10,the rabbit,das Kaninchen,,vocab
+10,the rat,die Ratte,,vocab
+10,the rhino ,das Nashorn,,vocab
+10,the sheep ,das Schaf,,vocab
+10,the squirrel,das Eichhörnchen,,vocab
+10,the tiger ,der Tiger,,vocab
+10,the whale ,der Wal,,vocab
+10,the wolf ,der Wolf,,vocab
+10,the zebra ,das Zebra,,vocab
+10,the blender ,der Mixer,,vocab
+10,the dishwasher ,die Geschirrspülmaschine,,vocab
+10,the dryer ,der Wäschetrockner,,vocab
+10,the freezer ,der Gefrierschrank,,vocab
+10,the fridge ,der Kühlschrank,,vocab
+10,the iron ,das Bügeleisen,,vocab
+10,the microwave ,der Mikrowellenherd,,vocab
+10,the oven ,der Backofen,,vocab
+10,the toaster ,der Toaster,,vocab
+10,the washer ,die Waschmaschine,,vocab
+10,the water heater,der Boiler,,vocab
+10,the balloons ,die Luftballons,,vocab
+10,the cake ,die Torte,,vocab
+10,the frosting,die Glasur,,vocab
+10,the ice,die Eiswürfel,,vocab
+10,the ice cream ,das Eis,,vocab
+10,the presents ,die Geschenke,,vocab
+10,the soda ,die Limonade,,vocab
+10,the sand ,der Sand,,vocab
+10,the sand castle ,die Sandburg,,vocab
+10,the seaweed,der Tang,,vocab
+10,the shore,der Strand,,vocab
+10,the sunglasses ,die Sonnenbrille,,vocab
+10,the sunscreen ,das Sonnenschutzmittel,,vocab
+10,the swimsuit ,der Badeanzug,,vocab
+10,the tide,die Gezeiten,,vocab
+10,the towel,das Handtuch,,vocab
+10,the wave ,die Welle,,vocab
+10,the sunscreen ,das Sonnenschutzmittel,,vocab
+10,the swimsuit ,der Badeanzug,,vocab
+10,the tide,die Gezeiten,,vocab
+10,the towel,das Handtuch,,vocab
+10,the wave ,die Welle,,vocab
+10,the bag ,die Tragetasche,,vocab
+10,the restroom,die Toilette,,vocab
+10,the bench ,die Bank,,vocab
+10,the clearance sale,der Räumungsverkauf,,vocab
+10,the drinking fountain,der Trinkwasserbrunnen,,vocab
+10,the restaurant,das Restaurant,,vocab
+10,the sale ,der Ausverkauf,,vocab
+10,the store,das Geschäft,,vocab
+10,the bag ,die Tragetasche,,vocab
+10,the cans ,die Konservendosen,,vocab
+10,the cashier,die Kassiererin,,vocab
+10,the cash register,die Kasse,,vocab
+10,the dairy department,die Milchprodukte,,vocab
+10,the frozen foods department,die Tiefkühlkost,,vocab
+10,the grocery store,das Lebensmittelgeschäft,,vocab
+10,the receipt ,der Kassenzettel,,vocab
+10,the account,das Konto,,vocab
+10,the account number,die Kontonummer,,vocab
+10,the bank,die Bank,,vocab
+10,the check ,der Scheck,,vocab
+10,the checking account,das Girokonto,,vocab
+10,the deposit,die Einzahlung,,vocab
+10,the finances,die Finanzen,,vocab
+10,the interest,die Zinsen,,vocab
+10,the money ,das Geld,,vocab
+10,the savings account,das Sparkonto,,vocab
+10,the teller ,die Kassiererin,,vocab
+10,the vault ,der Tresor,,vocab
+10,the withdrawal ,die Abhebung,,vocab
+10,the bathroom,das Badezimmer,,vocab
+10,the bathtub,die Badewanne,,vocab
+10,the mirror,der Spiegel,,vocab
+10,the pipe,die Leitung,,vocab
+10,the shampoo,das Shampoo,,vocab
+10,the shower,die Dusche,,vocab
+10,the sink,das Waschbecken,,vocab
+10,the soap,die Seife,,vocab
+10,the toilet,die Toilette,,vocab
+10,the alarm clock,der Wecker,,vocab
+10,the bed,das Bett,,vocab
+10,the bedroom,das Schlafzimmer,,vocab
+10,the blanket,die Bettdecke,,vocab
+10,the ceiling,die Zimmerdecke,,vocab
+10,the closet,der Einbauschrank,,vocab
+10,the dresser,die Frisierkommode,,vocab
+10,the hanger,der Kleiderbügel,,vocab
+10,the lamp,die Lampe,,vocab
+10,the nightstand,der Nachttisch,,vocab
+10,the pillow,das Kissen,,vocab
+10,the sheets,das Laken,,vocab
+10,the wall,die Wand,,vocab
+10,the ankle,der Fußknöchel,,vocab
+10,the arm ,der Arm,,vocab
+10,the back,der Rücken,,vocab
+10,the belly,der Bauch,,vocab
+10,the brain,das Gehirn,,vocab
+10,the calf,die Wade,,vocab
+10,the chest ,die Brust,,vocab
+10,the chin,das Kinn,,vocab
+10,the ear ,das Ohr,,vocab
+10,the elbow,der Ellbogen,,vocab
+10,the eye ,das Auge,,vocab
+10,the eyebrow,die Augenbraue,,vocab
+10,the eyelash,die Wimper,,vocab
+10,the eyelid,das Augenlid,,vocab
+10,the finger ,der Finger,,vocab
+10,the fingernail,der Fingernagel,,vocab
+10,the foot ,der Fuß,,vocab
+10,the forehead,die Stirn,,vocab
+10,the mind,der Verstand,,vocab
+10,the stomach,der Magen,,vocab
+10,the gum,das Zahnfleisch,,vocab
+10,the hair,das Haar,,vocab
+10,the hand ,die Hand,,vocab
+10,the head ,der Kopf,,vocab
+10,the heel,die Ferse,,vocab
+10,the knee ,das Knie,,vocab
+10,the leg ,das Bein,,vocab
+10,the lips,die Lippen,,vocab
+10,the mouth ,der Mund,,vocab
+10,the neck,der Hals,,vocab
+10,the nose,die Nase,,vocab
+10,the rib,die Rippe,,vocab
+10,the teeth,der Zahn,,vocab
+10,the thigh,der Schenkel,,vocab
+10,the throat,die Kehle,,vocab
+10,the toe ,die Zehe,,vocab
+10,the toenail,der Zehennagel,,vocab
+10,the tongue ,die Zunge,,vocab
+10,the wrist,das Handgelenk,,vocab
+10,the automatic transmission ,das Automatikgetriebe,,vocab
+10,the axle,die Achse,,vocab
+10,the brakes ,die Bremsen,,vocab
+10,the bumper ,die Stoßstange,,vocab
+10,the driver,der Fahrer,,vocab
+10,the engine,der Motor,,vocab
+10,first gear,erster Gang,,vocab
+10,the gas,das Benzin,,vocab
+10,the gas pedal,das Gaspedal,,vocab
+10,the gas tank,der Benzintank,,vocab
+10,the gear shift ,der Schaltknüppel,,vocab
+10,the headlights,die Scheinwerfer,,vocab
+10,the hood,die Motorhaube,,vocab
+10,the horn ,die Hupe,,vocab
+10,the jack,der Wagenheber,,vocab
+10,the manual transmission,das Schaltgetriebe,,vocab
+10,the rearview mirror ,der Rückspiegel,,vocab
+10,the seat belt,der Sicherheitsgurt,,vocab
+10,the spare tire,der Ersatzreifen,,vocab
+10,the steering wheel,das Lenkrad,,vocab
+10,the sun roof,das Schiebedach,,vocab
+10,the taillights ,das Rücklicht,,vocab
+10,the tire,der Reifen,,vocab
+10,the trunk,der Kofferraum,,vocab
+10,the turn signal ,der Blinker,,vocab
+10,the visor ,die Sonnenblende,,vocab
+10,the wheel,das Lenkrad,,vocab
+10,the window ,das Fenster,,vocab
+10,the windshield,die Windschutzscheibe,,vocab
+10,the wipers,die Scheibenwischer,,vocab
+10,the bleach,die Bleiche,,vocab
+10,the broom ,der Besen,,vocab
+10,the detergent,das Waschmittel,,vocab
+10,the mop ,der Mopp,,vocab
+10,the paper towels,die Küchenrolle,,vocab
+10,the rag,der Putzlappen,,vocab
+10,the sponge,der Schwamm,,vocab
+10,the towel,das Handtuch,,vocab
+10,the vacuum ,der Staubsauger,,vocab
+10,the ball cap,die Baseball-Cap,,vocab
+10,the belt ,der Gürtel,,vocab
+10,the clothes,die Kleider,,vocab
+10,the coat,der Mantel,,vocab
+10,the cotton,die Baumwolle,,vocab
+10,the dress ,das Kleid,,vocab
+10,the gloves ,die Handschuhe,,vocab
+10,the hat ,der Hut,,vocab
+10,the jacket ,die Jacke,,vocab
+10,the pajamas ,der Schlafanzug,,vocab
+10,the pants ,die Hose,,vocab
+10,the purse ,die Handtasche,,vocab
+10,the sandals ,die Sandalen,,vocab
+10,the shirts ,die Hemden,,vocab
+10,the shoelace,die Schnürsenkel,,vocab
+10,the shoes ,die Schnürsenkel,,vocab
+10,the skirt,der Rock,,vocab
+10,the socks ,die Socken,,vocab
+10,the suit ,der Anzug,,vocab
+10,the sweater ,der Pullover,,vocab
+10,the swimming suit ,der Badeanzug,,vocab
+10,the tie ,die Krawatte,,vocab
+10,the velcro,der Klettverschluss,,vocab
+10,the zipper,der Reißverschluss,,vocab
+10,black,schwarz,,vocab
+10,blonde,blond,,vocab
+10,blue,blau,,vocab
+10,brown,braun,,vocab
+10,brunette,brünett,,vocab
+10,gold,goldfarben,,vocab
+10,gray,grau,,vocab
+10,green,grün,,vocab
+10,light blue,hellblau,,vocab
+10,maroon,kastanienbraun,,vocab
+10,orange,orangefarben,,vocab
+10,pink,rosa,,vocab
+10,purple,purpurn,,vocab
+10,red,rot,,vocab
+10,silver,silberfarben,,vocab
+10,violet,violett,,vocab
+10,white,weiß,,vocab
+10,yellow,gelb,,vocab
+10,Africa,Afrika,,vocab
+10,Argentina,Argentinien,,vocab
+10,Australia,Australien,,vocab
+10,Brazil,Brasilien,,vocab
+10,Belgium,Belgien,,vocab
+10,Canada,Kanada,,vocab
+10,Chile,Chile,,vocab
+10,China,China,,vocab
+10,England,England,,vocab
+10,France,Frankreich,,vocab
+10,Germany,Deutschland,,vocab
+10,India,Indien,,vocab
+10,Ireland,Irland,,vocab
+10,Iran,der Iran,,vocab
+10,Iraq,der Irak,,vocab
+10,Israel,Israel,,vocab
+10,Japan,Japan,,vocab
+10,Lebanon,der Libanon,,vocab
+10,Mexico,Mexiko,,vocab
+10,New Zealand,Neuseeland,,vocab
+10,Panama,Panama,,vocab
+10,Philippines,die Philippinen,,vocab
+10,Portugal,Portugal,,vocab
+10,Russia,Russland,,vocab
+10,Spain,Spanien,,vocab
+10,Sweden,Schweden,,vocab
+10,Switzerland,die Schweiz,,vocab
+10,United States,die USA,,vocab
+10,Uruguay,Uruguay,,vocab
+10,Vietnam,Vietnam,,vocab
+10,South America,Südamerika,,vocab
+10,North America,Nordamerika,,vocab
+10,Europe,Europa,,vocab
+10,Asia,Asien,,vocab
+10,Antarctica,Antarktis,,vocab
+10,the aunt,die Tante,,vocab
+10,the boyfriend,der Freund,,vocab
+10,the brother,der Bruder,,vocab
+10,the brother-in-law,der Schwager,,vocab
+10,the cousins,die Cousinen,,vocab
+10,the dad,der Papa,,vocab
+10,the daughter,die Tochter,,vocab
+10,the daughter-in-law,die Schwiegertochter,,vocab
+10,the family,die Familie,,vocab
+10,the father,der Vater,,vocab
+10,the father-in-law,der Schwiegervater,,vocab
+10,the fiancé,der Verlobte,,vocab
+10,the friend,der Freund,,vocab
+10,the girlfriend,die Freundin,,vocab
+10,the grandma,die Großmutter,,vocab
+10,the grandpa,der Großvater,,vocab
+10,the grandparents,die Großeltern,,vocab
+10,the husband,der Ehemann,,vocab
+10,the mom ,die Mama,,vocab
+10,the mother,die Mutter,,vocab
+10,the mother-in-law,die Schwiegermutter,,vocab
+10,the nephew,der Neffe,,vocab
+10,the niece,die Nichte,,vocab
+10,the relationships,die Verwandtschaftsverhältnisse,,vocab
+10,the sister,die Schwester,,vocab
+10,the sister-in-law,die Schwägerin,,vocab
+10,the son,der Sohn,,vocab
+10,the son-in-law,der Schwiegersohn,,vocab
+10,the uncle,der Onkel,,vocab
+10,the wife,die Ehefrau,,vocab
+10,the appetizer,die Vorspeise,,vocab
+10,the avocado,die Avocado,,vocab
+10,the beef,das Rindfleisch,,vocab
+10,the breakfast,das Frühstück,,vocab
+10,the cauliflower,der Blumenkohl,,vocab
+10,the celery,der Sellerie,,vocab
+10,the cheese,der Käse,,vocab
+10,the chicken,das Hühnchen,,vocab
+10,the dessert,der Nachtisch,,vocab
+10,the dinner,das Abendessen,,vocab
+10,the egg,das Ei,,vocab
+10,the fish (cooked),das Fischgericht,,vocab
+10,the food,die Nahrungsmittel,,vocab
+10,the french fries ,die Pommes Frites,,vocab
+10,the hamburger,der Hamburger,,vocab
+10,the hotdog,der Hotdog,,vocab
+10,the lettuce,der Blattsalat,,vocab
+10,the lunch,das Mittagessen,,vocab
+10,the main dish,das Hauptgericht,,vocab
+10,the milk,die Milch,,vocab
+10,the pork,das Schweinefleisch,,vocab
+10,the potatoes,die Kartoffeln,,vocab
+10,the salad,der Salat,,vocab
+10,the sandwich,das Sandwich,,vocab
+10,the soup,die Suppe,,vocab
+10,the sugar ,der Zucker,,vocab
+10,the turkey,die Pute,,vocab
+10,the water,das Wasser,,vocab
+10,the apricot,die Aprikose,,vocab
+10,the banana,die Banane,,vocab
+10,the beans,die Bohne,,vocab
+10,the beet,die rote Bete,,vocab
+10,the butter,die Butter,,vocab
+10,the candy,die Bonbons,,vocab
+10,the flour,das Mehl,,vocab
+10,the grape,die Traube,,vocab
+10,the honey,der Honig,,vocab
+10,the jam,die Marmelade,,vocab
+10,the jelly,das Gelee,,vocab
+10,the juice,der Saft,,vocab
+10,the ketchup,das Ketchup,,vocab
+10,the lemon,die Zitrone,,vocab
+10,the lime,die Limone,,vocab
+10,the mayonnaise,die Mayonnaise,,vocab
+10,the mustard,der Senf,,vocab
+10,the nut,die Nuss,,vocab
+10,the peach,die Pfirsich,,vocab
+10,the peanut,die Erdnuss,,vocab
+10,the peanut butter,die Erdnussbutter,,vocab
+10,the pear,die Birne,,vocab
+10,the pineapple,die Ananas,,vocab
+10,the popcorn,das Popcorn,,vocab
+10,the radish,der Rettich,,vocab
+10,the raisin,die Rosine,,vocab
+10,the tomato,die Tomate,,vocab
+10,the armchair ,der Sessel,,vocab
+10,the bed ,das Bett,,vocab
+10,the chair ,der Stuhl,,vocab
+10,the desk ,der Schreibtisch,,vocab
+10,the furniture,die Möbel,,vocab
+10,the garbage can ,der Mülleimer,,vocab
+10,the piano,das Klavier,,vocab
+10,the sofa,das Sofa,,vocab
+10,the table ,der Tisch,,vocab
+10,the ballot ,der Stimmzettel,,vocab
+10,the congress ,der Kongress,,vocab
+10,the congressman,der Kongressabgeordnete,,vocab
+10,the democrat ,der Demokrat,,vocab
+10,the election ,die Wahl,,vocab
+10,the governor,der Gouverneur,,vocab
+10,the house of representatives,das Repräsentantenhaus,,vocab
+10,the king ,der König,,vocab
+10,the mayor,der Bürgermeister,,vocab
+10,the parliament,das Parlament,,vocab
+10,the party (political party),die Partei,,vocab
+10,the president ,der Präsident,,vocab
+10,the prime minister,der Ministerpräsident,,vocab
+10,the republican ,der Republikaner,,vocab
+10,the senate,der Senat,,vocab
+10,the senator,der Senator,,vocab
+10,the vote ,die Abstimmung,,vocab
+10,the bowl,die Schüssel,,vocab
+10,the cabinet,der Schrank,,vocab
+10,the drain,der Abfluss,,vocab
+10,the freezer,der Gefrierschrank,,vocab
+10,the fridge,der Kühlschrank,,vocab
+10,the frying pan,die Bratpfanne,,vocab
+10,the kitchen,die Küche,,vocab
+10,the lid,der Deckel,,vocab
+10,the oven,der Backofen,,vocab
+10,the sauce pan,der Kochtopf,,vocab
+10,the stove,der Herd,,vocab
+10,the bowl,die Schüssel,,vocab
+10,the cabinet,der Schrank,,vocab
+10,the drain,der Abfluss,,vocab
+10,the freezer,der Gefrierschrank,,vocab
+10,the fridge,der Kühlschrank,,vocab
+10,the frying pan,die Bratpfanne,,vocab
+10,the kitchen,die Küche,,vocab
+10,the lid,der Deckel,,vocab
+10,the oven,der Backofen,,vocab
+10,the sauce pan,der Kochtopf,,vocab
+10,the stove,der Herd,,vocab
+10,the carpet,der Teppich,,vocab
+10,the fire place,der Kamin,,vocab
+10,the living room,das Wohnzimmer,,vocab
+10,the painting,das Gemälde,,vocab
+10,the recliner,der Lehnstuhl,,vocab
+10,the shelf,das Regal,,vocab
+10,the sofa,das Sofa,,vocab
+10,the staircase,das Treppenhaus,,vocab
+10,the tv,der Fernseher,,vocab
+10,the vase,die Vase,,vocab
+10,the attack,der Angriff,,vocab
+10,the fighter jet,der Kampfjet,,vocab
+10,the cease fire,die Feuerpause,,vocab
+10,the commander,der Befehlshaber,,vocab
+10,the army,das Heer,,vocab
+10,the general,der General,,vocab
+10,the helicopter,der Hubschrauber,,vocab
+10,the casualty,das Opfer,,vocab
+10,the missile,die Rakete,,vocab
+10,the soldier,der Soldat,,vocab
+10,the tank,der Panzer,,vocab
+10,the battle,die Schlacht,,vocab
+10,the bomb,die Bombe,,vocab
+10,the explosion,die Explosion,,vocab
+10,the airforce,die Luftwaffe,,vocab
+10,the grenade,die Granate,,vocab
+10,the war,der Krieg,,vocab
+10,the invasion,die Invasion,,vocab
+10,the navy,die Marine,,vocab
+10,the peace,der Friede,,vocab
+10,the weapons,die Waffen,,vocab
+10,the weapons of mass destruction,die Massenvernichtungswaffen,,vocab
+10,January,Januar,,vocab
+10,February,Februar,,vocab
+10,March,März,,vocab
+10,April,April,,vocab
+10,May,Mai,,vocab
+10,June,Juni,,vocab
+10,July,Juli,,vocab
+10,August,August,,vocab
+10,September,September,,vocab
+10,October,Oktober,,vocab
+10,November,November,,vocab
+10,December,Dezember,,vocab
+10,Monday,Montag,,vocab
+10,Tuesday,Dienstag,,vocab
+10,Wednesday,Mittwoch,,vocab
+10,Thursday,Donnerstag,,vocab
+10,Friday,Freitag,,vocab
+10,Saturday,Samstag,,vocab
+10,Sunday,Sonntag,,vocab
+10,the conductor ,der Dirigent,,vocab
+10,the drums ,das Schlagzeug,,vocab
+10,the genres,die Musikgattung,,vocab
+10,the guitar ,die Gitarre,,vocab
+10,the lyrics ,der Text,,vocab
+10,the organ ,die Orgel,,vocab
+10,the piano ,das Klavier,,vocab
+10,the trumpet ,die Trompete,,vocab
+10,the cliff,das Kliff,,vocab
+10,the flower,die Blume,,vocab
+10,the garden / the yard,der Garten,,vocab
+10,the garden (vegetable),der Gemüsegarten,,vocab
+10,the grass (lawn),der Rasen,,vocab
+10,the herb,das Gewürzkraut,,vocab
+10,the lake,der See,,vocab
+10,the mountain range,die Bergkette,,vocab
+10,the mountains,das Gebirge,,vocab
+10,the ocean,das Meer,,vocab
+10,the plant,die Pflanze,,vocab
+10,the river,der Fluss,,vocab
+10,the sea,die See,,vocab
+10,the shore,der Strand,,vocab
+10,the soil,das Erdreich,,vocab
+10,the tree,der Baum,,vocab
+10,the waterfalls,der Wasserfall,,vocab
+10,the weed,das Unkraut,,vocab
+10,0,null,,vocab
+10,1,eins,,vocab
+10,2,zwei,,vocab
+10,3,drei,,vocab
+10,4,vier,,vocab
+10,5,fünf,,vocab
+10,6,sechs,,vocab
+10,7,sieben,,vocab
+10,8,acht,,vocab
+10,9,neuen,,vocab
+10,10,zehn,,vocab
+10,11,elf,,vocab
+10,12,zwölf,,vocab
+10,13,dreizehn,,vocab
+10,14,vierzehn,,vocab
+10,15,fünfzehn,,vocab
+10,16,sechzehn,,vocab
+10,17,siebzehn,,vocab
+10,18,achtzehn,,vocab
+10,19,neunzehn,,vocab
+10,20,zwanzig,,vocab
+10,50,fünfzig,,vocab
+10,100,hundert,,vocab
+10,1000,tausend,,vocab
+10,10000,zehntausend,,vocab
+10,100000,hunderttausend,,vocab
+10,1000000,eine Million,,vocab
+10,the brick ,der Backstein,,vocab
+10,the bush ,der Busch,,vocab
+10,the chimney ,der Schornstein,,vocab
+10,the door ,die Tür,,vocab
+10,the driveway ,die Zufahrt,,vocab
+10,the garage ,die Garage,,vocab
+10,the lawn ,der Rasen,,vocab
+10,outside,draußen,,vocab
+10,the patio,der Innenhof,,vocab
+10,the porch ,die Veranda,,vocab
+10,the roof ,das Dach,,vocab
+10,the sidewalk,der Bürgersteig,,vocab
+10,the wall ,die Wand,,vocab
+10,the window ,das Fenster,,vocab
+10,the accountant,der Buchhalter,,vocab
+10,the actor,der Schauspieler,,vocab
+10,the artist,der Künstler,,vocab
+10,the athlete,der Sportler,,vocab
+10,the barber,der Herrenfriseur,,vocab
+10,the boss,der Chef,,vocab
+10,the business person,der Geschäftsmann,,vocab
+10,the butcher,der Metzger,,vocab
+10,the carpenter,der Schreiner,,vocab
+10,the cashier,der Kassierer,,vocab
+10,the chef,der Koch,,vocab
+10,the coach,der Trainer,,vocab
+10,the computer technician,der Computertechniker,,vocab
+10,the construction worker,der Bauarbeiter,,vocab
+10,the dentist,der Zahnarzt,,vocab
+10,the doctor,der Arzt,,vocab
+10,the engineer ,der Ingenieur,,vocab
+10,the farmer,der Landwirt,,vocab
+10,the firefighter,der Feuerwehrmann,,vocab
+10,the hair dresser ,der Friseur,,vocab
+10,the judge,der Richter,,vocab
+10,the lawyer/attorney,der Rechtsanwalt,,vocab
+10,the librarian,der Bibliothekar,,vocab
+10,the mail carrier,der Postbote,,vocab
+10,the mason (brick layer) ,der Maurer,,vocab
+10,the mechanic,der Mechaniker,,vocab
+10,the nurse,die Krankenschwester,,vocab
+10,the police officer,der Polizist,,vocab
+10,the president,der Präsident,,vocab
+10,the professor,der Professor,,vocab
+10,the programmer,der Programmier,,vocab
+10,the reporter,der Reporter,,vocab
+10,the secretary,die Sekretärin,,vocab
+10,the veterinarian,der Tierarzt,,vocab
+10,the waiter,die Bedienung,,vocab
+10,the writer,der Schriftsteller,,vocab
+10,the bowl ,die Schüssel,,vocab
+10,the chair,der Stuhl,,vocab
+10,the check ,die Rechnung,,vocab
+10,the cup ,die Tasse,,vocab
+10,the fork ,die Gabel,,vocab
+10,the knife ,das Messer,,vocab
+10,manners,die Tischmanieren,,vocab
+10,the menu,die Speisekarte,,vocab
+10,the napkin,die Serviette,,vocab
+10,the pepper,der Pfeffer,,vocab
+10,the pitcher ,die Karaffe,,vocab
+10,the plate ,der Teller,,vocab
+10,the salt ,das Salz,,vocab
+10,the spoon ,der Löffel,,vocab
+10,the waitress ,die Bedienung,,vocab
+10,the waiter,die Bedienung,,vocab
+10,art,Kunst,,vocab
+10,the black hole,schwarzes Loch,,vocab
+10,the earth,die Erde,,vocab
+10,english ,Englisch,,vocab
+10,the experiment ,das Experiment,,vocab
+10,the galaxy,die Galaxie,,vocab
+10,history ,Geschichte,,vocab
+10,jupiter,Jupiter,,vocab
+10,language,Sprache,,vocab
+10,mars,Mars,,vocab
+10,math ,Mathe,,vocab
+10,mercury,Merkur,,vocab
+10,the moon ,der Mond,,vocab
+10,the music,Musik,,vocab
+10,neptune,Neptun,,vocab
+10,psychology,Psychologie,,vocab
+10,physical education,Sport,,vocab
+10,pluto ,Pluto,,vocab
+10,saturn,Saturn,,vocab
+10,science ,Naturwissenschaften,,vocab
+10,the solar system ,das Sonnensystem,,vocab
+10,the stars ,die Sterne,,vocab
+10,the sun ,die Sonne,,vocab
+10,uranus,Uranus,,vocab
+10,venus,Venus,,vocab
+10,the backpack ,der Ranzen,,vocab
+10,the briefcase ,die Aktentasche,,vocab
+10,the calculator ,der Rechner,,vocab
+10,the chair ,der Stuhl,,vocab
+10,the colored pencil ,der Farbstift,,vocab
+10,the computer ,der Computer,,vocab
+10,the crayons ,die Malkreide,,vocab
+10,the desk ,das Pult,,vocab
+10,the folder ,der Ordner,,vocab
+10,the glue ,der Klebstoff,,vocab
+10,the markers ,der Filzstift,,vocab
+10,the mechanical pencil,der Drehbleistift,,vocab
+10,the notebook,das Notizbuch,,vocab
+10,the paper ,das Papier,,vocab
+10,the pen ,der Kugelschreiber,,vocab
+10,the pencil ,der Bleistift,,vocab
+10,the staple,die Heftklammer,,vocab
+10,the stapler ,der Hefter,,vocab
+10,badminton ,Badminton,,vocab
+10,baseball ,Baseball,,vocab
+10,basketball ,Basketball,,vocab
+10,cricket ,Kricket,,vocab
+10,cycling ,Radrennsport,,vocab
+10,football ,Football,,vocab
+10,the game (sporting event) ,das Spiel,,vocab
+10,golf ,Golf,,vocab
+10,team handball ,Handball,,vocab
+10,hockey ,Hockey,,vocab
+10,horseback riding ,Reitsport,,vocab
+10,ping pong ,Tischtennis,,vocab
+10,rugby ,Rugby,,vocab
+10,soccer ,Fußball,,vocab
+10,swimming ,Schwimmen,,vocab
+10,the team ,die Mannschaft,,vocab
+10,tennis ,Tennis,,vocab
+10,volleyball,Volleyball,,vocab
+10,the camera,die Kamera,,vocab
+10,the CD,die CD,,vocab
+10,the cell phone,das Handy,,vocab
+10,the computer,der Computer,,vocab
+10,DVD,die DVD,,vocab
+10,the e-mail,die E-Mail,,vocab
+10,the fax machine,das Faxgerät,,vocab
+10,the stereo,die Stereoanlage,,vocab
+10,the iPod,der iPod,,vocab
+10,the internet,das Internet,,vocab
+10,the telephone,das Telefon,,vocab
+10,video games,Videospiele,,vocab
+10,afternoon ,Nachmittag,,vocab
+10,dawn ,Tagesanbruch,,vocab
+10,during fall ,im Herbst,,vocab
+10,during spring,im Frühjahr,,vocab
+10,during summer,im Sommer,,vocab
+10,during winter,im Winter,,vocab
+10,evening ,Abend,,vocab
+10,the fall/autumn ,der Herbst,,vocab
+10,last fall ,letzen Herbst,,vocab
+10,last spring,letztes Frühjahr,,vocab
+10,last summer ,letzten Sommer,,vocab
+10,last winter,letzten Winter,,vocab
+10,mid-night,Mitternacht,,vocab
+10,morning,Morgen,,vocab
+10,next winter,nächsten Winter,,vocab
+10,next spring,nächstes Frühjahr,,vocab
+10,next summer,nächsten Sommer,,vocab
+10,next fall/autumn,nächsten Herbst,,vocab
+10,night ,Nacht,,vocab
+10,noon,Mittag,,vocab
+10,spring ,Frühjahr,,vocab
+10,this fall,diesen Herbst,,vocab
+10,this spring,dieses Frühjahr,,vocab
+10,this summer ,diesen Sommer,,vocab
+10,this winter,diesen Winter,,vocab
+10,the summer,der Sommer,,vocab
+10,the winter ,der Winter,,vocab
+10,the axe,die Axt,,vocab
+10,the axle,die Achse,,vocab
+10,the bar,die Stange,,vocab
+10,the blade,die Klinge,,vocab
+10,the cord,die Schnur,,vocab
+10,the drill,der Bohrer,,vocab
+10,the drill bit,der Bohrmeißel,,vocab
+10,the flashlight,die Taschenlampe,,vocab
+10,the hammer,der Hammer,,vocab
+10,the handle,der Griff,,vocab
+10,the knife,das Messer,,vocab
+10,the nut (as in nut and bolt) ,die Schraubenmutter,,vocab
+10,the pliers,die Zange,,vocab
+10,the pulley,der Flaschenzug,,vocab
+10,the ramp,die Rampe,,vocab
+10,the rope,der Strick,,vocab
+10,the ruler,das Lineal,,vocab
+10,the saw,die Säge,,vocab
+10,the screw-driver,der Schraubenziehen,,vocab
+10,the tape measure,das Bandmaß,,vocab
+10,the tool,das Werkzeug,,vocab
+10,the wheel,das Rad,,vocab
+10,the wrench,der Schraubenschlüssel,,vocab
+10,the ball ,das Bandmaß,,vocab
+10,baseball,Baseball,,vocab
+10,basketball,Basketball,,vocab
+10,basketball hoop,Basketballkorb,,vocab
+10,crayons,Malkreide,,vocab
+10,football,Football,,vocab
+10,hula hoop,Hula-Hoop,,vocab
+10,jump rope,Springseil,,vocab
+10,phone,Telefon,,vocab
+10,remote control car,ferngesteuertes Spielzeugauto,,vocab
+10,rubber ball,Gummiball,,vocab
+10,sled,Schlitten,,vocab
+10,soccer ball,Fußball,,vocab
+10,softball,Softball,,vocab
+10,the blocks ,Bauklötze,,vocab
+10,the doll,die Puppe,,vocab
+10,the skates,die Rollschuhe,,vocab
+10,the toys,das Spielzeug,,vocab
+10,the truck,der Spielzeuglastwagen,,vocab
+10,trampoline,Trampolin,,vocab
+10,yo yo,Yo-Yo,,vocab
+10,the airport,der Flughafen,,vocab
+10,the baggage ,das Gepäck,,vocab
+10,the boat ,das Boot,,vocab
+10,the bus station,der Busbahnhof,,vocab
+10,the cable ,der Busbahnhof,,vocab
+10,the carry on,das Handgepäck,,vocab
+10,the check-in,das Einchecken,,vocab
+10,the check-out,das Auschecken,,vocab
+10,the departure,der Abflug,,vocab
+10,the flight,der Flug,,vocab
+10,the gate,der Flugsteig,,vocab
+10,the hotel,das Hotel,,vocab
+10,the kiosk,das Kiosk,,vocab
+10,the landing ,die Landung,,vocab
+10,the line,die Schlange,,vocab
+10,the metal detector,der Metalldetektor,,vocab
+10,the platform,der Schalter,,vocab
+10,room ,Raum,,vocab
+10,the runway,die Start- und Landebahn,,vocab
+10,the security guard,der Sicherheitsbeamte,,vocab
+10,the ship ,das Schiff,,vocab
+10,the subway ,die U-Bahn,,vocab
+10,the suitcase ,der Koffer,,vocab
+10,the takeoff,der Start,,vocab
+10,the terminal,das Flughafengebäude,,vocab
+10,the ticket ,der Flugschein,,vocab
+10,American restaurant,Amerikanisches Restaurant,,vocab
+10,barbecue restaurant,Barbecue-Restaurant,,vocab
+10,buffet,Büffet,,vocab
+10,Chinese restaurant,Chinarestaurant,,vocab
+10,fast food restaurant ,Schnellgaststätte,,vocab
+10,French restaurant,Französisches Restaurant,,vocab
+10,German restaurant,Deutsches Restaurant,,vocab
+10,Greek restaurant,Griechisches Restaurant,,vocab
+10,Indian restaurant ,Indisches Restaurant,,vocab
+10,Japanese restaurant,Japanisches Restaurant,,vocab
+10,Mexican restaurant,Mexikanisches Restaurant,,vocab
+10,pizzeria,Pizzeria,,vocab
+10,steak house,Steakhaus,,vocab
+10,Thai Restaurant,Thai-Restaurant,,vocab
+10,the airplane ,das Flugzeug,,vocab
+10,the bicycle ,das Fahrrad,,vocab
+10,the car ,das Auto,,vocab
+10,the helicopter ,der Hubschrauber,,vocab
+10,the motorcycle ,das Motorrad,,vocab
+10,the taxi ,das Taxi,,vocab
+10,the train ,die Bahn,,vocab
+10,the truck ,der Lastwagen,,vocab
+10,the cloud,die Wolke,,vocab
+10,cloudy,bewölkt,,vocab
+10,cold,kalt,,vocab
+10,the flood,die ¨berschwemmung,,vocab
+10,the fog,der Nebel,,vocab
+10,foggy,neblig,,vocab
+10,hot,heiß,,vocab
+10,the humidity,die Luftfeuchtigkeit,,vocab
+10,the hurricane,der Orkan,,vocab
+10,it’s windy,es ist windig,,vocab
+10,the rain,der Regen,,vocab
+10,the snow,der Schnee,,vocab
+10,the sun,die Sonne,,vocab
+10,it’s sunny,es ist sonnig,,vocab
+10,the temperature,die Temperatur,,vocab
+10,the thermometer,das Thermometer,,vocab
+10,the tornado,der Tornado,,vocab
+10,windy,windig,,vocab
+10,What a shame,Schade,,none
+10,I can't believe it,Ich kann es nicht glauben,,none
+10,What time is it?,Wie spät ist es?,,none
+10,Can you help me?,Können Sie/Kannst du mir helfen?,,none
+10,I'm running late.,Ich bin zu spät dran.,,none
+10,How's your family?,Wie geht es der Familie?,,none
+10,Where do you work?,Wo arbeiten Sie/arbeitest du?,,none
+10,Where are you from?,Woher kommen Sie/kommst du?,,none
+10,Are you from around here?,Sind Sie/Bist du von hier?,,none
+10,Where do you live?,Wo wohnen Sie/wohnst Du?,,none
+10,How old are you?,Wie alt sind Sie/bist du?,,none
+10,Are you on Facebook?,Sind Sie/Bist du auf Facebook?,,none
+10,What's your phone number?,Was ist Ihre/deine Telefonnummer?,,none
+10,What do you like to do?,Was möchten Sie/möchtest du unternehmen?,,none
+10,I need to use the restroom.,Ich muss zur Toilette.,,none
+10,I'll be right back.,Ich bin gleich zurück.,,none
+10,Please repeat,Bitte wiederholen.,,none
+10,I like your shirt,Ich mag Ihr/dein Hemd.,,none
+10,Are you kidding?,Machen Sie/machst du Witze?,,none
+10,Just kidding,War nur ein Scherz.,,none
+10,Talk to you later,Ich melde mich später.,,none
+10,See you soon,Bis bald!,,none
+10,I love you (care for you),Ich habe dich gerne.,,none
+10,I love you (more serious),Ich liebe dich.,,none
+10,Do you love me? (care for me?),Hast du mich gerne?,,none
+10,Do you love me? (more serious),Liebst Du mich?,,none
+10,I am in love (female) ,Ich bin in dich verliebt.,,none
+10,I am in love (male),Ich bin in dich verliebt.,,none
+10,You are beautiful,Du bist schön.,,none
+10,You are handsome,Du siehst gut aus.,,none
+10,I am passionate about you,Ich bin von dir fasziniert.,,none
+10,You make me happy,Du machst mich glücklich,,none
+10,Will you marry me?,Willst Du mich heiraten?,,none
+10,She's my fiancé,Sie ist meine Verlobte.,,none
+10,He's my fiancé ,Er ist mein Verlobter.,,none
+10,You are the love of my life.,Du bist die Liebe meines Lebens.,,none
+10,I adore you,Ich bete dich an.,,none
+10,I miss you,Du fehlst mir.,,none
+10,Would you like to be my boyfriend?,Willst du mein Freund sein?,,none
+10,Would you like to be my girlfriend?,Wills du meine Freundin sein?,,none
+10,I want to be with you forever.,Ich will immer mit dir zusammen sein.,,none
+10,I need you,Ich brauche dich.,,none
+10,I always think about you,Ich denke immer an dich.,,none
+10,I like you ,Ich mag dich.,,none
+10,Kiss me,Küss mich.,,none
+10,Hug me,Drück mich.,,none
+10,I am lost. ,Ich habe mich verirrt.,,none
+10,Where is the restroom?,Wo ist die Toilette?,,none
+10,the hotel ,das Hotel,,none
+10,the restaurant ,das Restaurant,,none
+10,the airport ,der Flughafen,,none
+10,the American embassy ,die amerikanische Botschaft,,none
+10,Excuse me.,Entschuldigen Sie.,,none
+10,Pardon me.,Verzeihung bitte.,,none
+10,Please.,Bitte!,,none
+10,Thank you.,Danke (schön).,,none
+10,I'm sorry.,Es tut mir Leid.,,none
+10,Bless you (sneeze).,Gesundheit!,,none
+10,You are welcome.,Bitte (sehr) / Gern geschehen.,,none
+10,How much does it cost?,Wieviel kostet das?,,none
+10,How many are there?,Wieviele gibt es?,,none
+10,There are many.,Es gibt viele.,,none
+10,Will you buy this?,Möchten Sie das kaufen?,,none
+10,How do you say it in German?,Wie sagt man das auf Deutsch?,,none
+10,Yes.,Ja.,,none
+10,No.,Nein.,,none
+10,I don't understand.,Ich verstehe das nicht.,,none
+10,Slower please,Langsamer bitte.,,none
+10,Who?,Wer?,,none
+10,Why?,Warum?,,none
+10,the whole shebang,die Chose/Schose,,none
+10,mumbo jumbo,das Geschwurbel,,none
+10,to put in one's place,wegföhnen,,none
+10,"nonsense, rubbish",der Stuss,,none
+10,beer (ironic),der Hopfenblütentee,,none
+10,big boss (derogatory),der Obermufti,,none
+10,"ok, all right, agreed",gebongt,,none
+10,to sleep,ratzen,,none
+10,money,das Moos,,none
+10,want to,Bock haben,,none
+10,to work hard,malochen,,none
+10,"fat around one's middle, spare tire",die Wampe,,none
+10,hands,die Flossen,,none
+10,Well that's just brilliant,Prost Mahlzeit,,none
+10,big feet,die Quadratlatschen,,none
+10,snotty brat,der Rotzlöffel,,none
+10,twerp,die Knalltüte,,none
+10,fear,das Fracksausen,,none
+10,motor-mouth,die Quasselstrippe,,none
+10,Good morning.,Guten Morgen.,,none
+10,Good afternoon.,Guten Tag.,,none
+10,Good evening. ,Guten Abend.,,none
+10,"Hello, my name is John.","Hallo, ich heiße Hans.",,none
+10,What is your name?,Wie heißen Sie/heißt Du?,,none
+10,How are things?,Wie geht's?,,none
+10,"Fine, thanks.","Danke, gut.",,none
+10,How are you?,Wie geht es Ihnen/Dir?,,none
+10,I am fine.,"Gut, danke.",,none
+10,Nice to meet you.,"Freut mich, Sie/Dich kennen zu lernen.",,none
+10,Goodbye.,Auf Wiedersehen.,,none
+10,See you later,Bis später!,,none
