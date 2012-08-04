@@ -15,6 +15,9 @@ public class Main {
 	private static final String CROATIAN_DATA = "data/croatian/manual.csv";
 	private static final String ITALIAN_DATA = "data/italian/italian.csv";
 	private static final String FRENCH_DATA = "data/french/french.csv";
+	private static final String GERMAN_DATA = "data/german/german.csv";
+	private static final String SPANISH_DATA = "data/spanish/spanish.csv";
+	
 	
 	private static int subsetSize;
 	
@@ -41,12 +44,16 @@ public class Main {
 			
 			language = language.trim().toLowerCase();
 			if(language.equals(""))
-				if(Math.random() < 0.3)
+				if(Math.random() < 0.2)
 					language = "chinese";
-				if(Math.random() < 0.6)
+				if(Math.random() < 0.4)
 					language = "italian";
-				if(Math.random() < 0.9)
+				if(Math.random() < 0.6)
 					language = "french";
+				if(Math.random() < 0.8)
+					language = "german";
+				if(Math.random() < 0.98)
+					language = "spanish";
 				else
 					language = "croatian";
 			
@@ -58,6 +65,10 @@ public class Main {
 				generic(ITALIAN_DATA);
 			if(language.equals("french"))
 				generic(FRENCH_DATA);
+			if(language.equals("german"))
+				generic(GERMAN_DATA);
+			if(language.equals("spanish"))
+				generic(SPANISH_DATA);
 			
 			System.out.println("Time taken: " + Functions.toc()/60.0 + " minutes");
 		}
