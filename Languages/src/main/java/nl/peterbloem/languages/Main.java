@@ -131,7 +131,7 @@ public class Main {
                 .getResourceAsStream(dataSource);
 		
 		if(in == null)
-			throw new IOException("Resource " + ITALIAN_DATA + " not found.");			
+			throw new IOException("Resource " + dataSource + " not found.");			
 		
 	    CSVReader reader = new CSVReader(new InputStreamReader(in));
 	    List<String[]> tokensRaw = reader.readAll();
