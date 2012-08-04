@@ -13,6 +13,9 @@ public class Main {
 
 	private static final String CHINESE_DATA = "data/chinese/modern.csv";
 	private static final String CROATIAN_DATA = "data/croatian/manual.csv";
+	private static final String ITALIAN_DATA = "data/italian/italian.csv";
+	private static final String FRENCH_DATA = "data/french/french.csv";
+	
 	private static int subsetSize;
 	
 	private static int topN;
@@ -34,12 +37,16 @@ public class Main {
 
 			Functions.tic();
 			
-			String language = console.readLine("Which language would you like to practice? (chinese, croatian, or enter for random)");
+			String language = console.readLine("Which language would you like to practice? (chinese, croatian, italian, french, or enter for random)");
 			
 			language = language.trim().toLowerCase();
 			if(language.equals(""))
-				if(Math.random() < 0.05)
+				if(Math.random() < 0.3)
 					language = "chinese";
+				if(Math.random() < 0.6)
+					language = "italian";
+				if(Math.random() < 0.9)
+					language = "french";
 				else
 					language = "croatian";
 			
@@ -47,6 +54,10 @@ public class Main {
 				chinese();
 			if(language.equals("croatian"))
 				croatian();
+			if(language.equals("italian"))
+				generic(ITALIAN_DATA);
+			if(language.equals("french"))
+				generic(FRENCH_DATA);
 			
 			System.out.println("Time taken: " + Functions.toc()/60.0 + " minutes");
 		}
@@ -110,6 +121,65 @@ public class Main {
         
         quiz(selection);
 	}	
+	
+	private static void generic(String dataSource) throws IOException 
+	{
+		String etc = console.readLine("English to language?");
+		boolean e2c = etc.trim().toLowerCase().equals("y");		
+		
+		InputStream in = Main.class.getClassLoader()					
+                .getResourceAsStream(dataSource);
+		
+		if(in == null)
+			throw new IOException("Resource " + ITALIAN_DATA + " not found.");			
+		
+	    CSVReader reader = new CSVReader(new InputStreamReader(in));
+	    List<String[]> tokensRaw = reader.readAll();
+	    List<GenericToken> tokens = new ArrayList<GenericToken>(tokensRaw.size());
+	    
+	    int i = 0;
+	    for(String[] raw: tokensRaw)
+	    {
+	    	i++;
+	    	try {
+	    		tokens.add(new GenericToken(Integer.parseInt(raw[0]), raw[1], raw[2], raw[3], raw[4], e2c));
+	    	} catch (Exception e)
+	    	{
+	    		throw new RuntimeException("Error in line "+i+" of csv file. ("+Arrays.toString(raw)+")", e);
+	    	}
+	    }
+	    
+	    System.out.println("Number of tokens " + tokens.size());		
+		
+		String category = console.readLine("Which category of tokens (vocab, verbs, ..., number for top n)?");
+		if(isParsableToInt(category))
+			topN = Integer.parseInt(category);
+		else
+			useCategory = true;
+		
+	    if(! useCategory)
+	    	tokens = tokens.subList(0, topN);
+	    else
+	    {
+	    	Iterator<GenericToken> it = tokens.iterator();
+	    	while(it.hasNext())
+	    		if(! (it.next().category().contains(category)))
+	    			it.remove();
+	    }
+	    
+		String numChar = console.readLine("How many characters (max "+tokens.size()+")?");
+		subsetSize = Integer.parseInt(numChar);	    	    
+	    
+	    BasicFrequencyModel<GenericToken> model = new BasicFrequencyModel<GenericToken>();
+	    
+	    for(GenericToken c: tokens)
+    		model.add(c, c.weight());
+	    
+        List<GenericToken> selection = new ArrayList<GenericToken>(
+        		model.chooseWithoutReplacement(subsetSize));
+        
+        quiz(selection);
+	}		
 	
 	public static void chinese() throws IOException
 	{
@@ -443,6 +513,105 @@ public class Main {
 		}
 
 	}
+	
+	public static class GenericToken implements Token 
+	{
+		private int weight;
+		private String english;
+		private String croatian;
+		private String pronunciation;
+		private String category;
+		private boolean etc;
+		
+		public GenericToken(int weight, String english, String croatian,
+				String pronunciation, String category, boolean etc) 
+		{
+			this.weight = weight;
+			this.english = english;
+			this.croatian = croatian;
+			this.pronunciation = pronunciation;
+			this.category = category;
+			this.etc = etc;
+			
+		}
+
+		public String hint() 
+		{
+			return etc ? english : croatian;
+		}
+
+		public String full() 
+		{
+			return etc 
+					? croatian + " (" + pronunciation + ") "
+				    : english + " (" + pronunciation + ") ";
+		}
+		
+		public String category()
+		{
+			return category;
+		}
+		
+		public int weight()
+		{
+			return weight;
+		}
+
+		@Override
+		public int hashCode() {
+			final int prime = 31;
+			int result = 1;
+			result = prime * result
+					+ ((category == null) ? 0 : category.hashCode());
+			result = prime * result
+					+ ((croatian == null) ? 0 : croatian.hashCode());
+			result = prime * result
+					+ ((english == null) ? 0 : english.hashCode());
+			result = prime * result + (etc ? 1231 : 1237);
+			result = prime * result
+					+ ((pronunciation == null) ? 0 : pronunciation.hashCode());
+			result = prime * result + weight;
+			return result;
+		}
+
+		@Override
+		public boolean equals(Object obj) {
+			if (this == obj)
+				return true;
+			if (obj == null)
+				return false;
+			if (getClass() != obj.getClass())
+				return false;
+			GenericToken other = (GenericToken) obj;
+			if (category == null) {
+				if (other.category != null)
+					return false;
+			} else if (!category.equals(other.category))
+				return false;
+			if (croatian == null) {
+				if (other.croatian != null)
+					return false;
+			} else if (!croatian.equals(other.croatian))
+				return false;
+			if (english == null) {
+				if (other.english != null)
+					return false;
+			} else if (!english.equals(other.english))
+				return false;
+			if (etc != other.etc)
+				return false;
+			if (pronunciation == null) {
+				if (other.pronunciation != null)
+					return false;
+			} else if (!pronunciation.equals(other.pronunciation))
+				return false;
+			if (weight != other.weight)
+				return false;
+			return true;
+		}
+		
+		
+	}	
 
 	public static boolean isParsableToInt(String i)
 	{

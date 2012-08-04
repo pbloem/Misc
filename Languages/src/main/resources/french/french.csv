@@ -1,0 +1,1362 @@
+20,one,un,,numbers
+20,two,deux,,numbers
+20,three,trois,,numbers
+20,four,quatre,,numbers
+20,five,cinq,,numbers
+20,six,six,,numbers
+20,seven,sept,,numbers
+20,eight,huit,,numbers
+20,nine,neuf,,numbers
+20,ten,dix,,numbers
+20,eleven,onze,,numbers
+20,twelve,douze,,numbers
+20,thirteen,treize,,numbers
+20,fourteen,quatorze,,numbers
+20,fifteen,quinze,,numbers
+20,sixteen,seize,,numbers
+20,seventeen,dix-sept,,numbers
+20,eighteen,dix-huit,,numbers
+20,nineteen,dix-neuf,,numbers
+20,twenty,vingt,,numbers
+20,hundred,cent,,numbers
+20,one thousand,mille,,numbers
+20,million,million,,numbers
+20,first,première,,numbers
+20,second,deuxième,,numbers
+20,third,troisième,,numbers
+20,fourth,quatrième,,numbers
+20,fifth,cinquième,,numbers
+20,sixth,sixième,,numbers
+20,seventh,septième,,numbers
+20,eighth,huitième,,numbers
+20,ninth,neuvième,,numbers
+20,tenth,dixième,,numbers
+20,eleventh,onzième,,numbers
+20,twelfth,douzième,,numbers
+20,thirteenth,treizième,,numbers
+20,fourteenth,quatorzième,,numbers
+20,fifteenth,quinzième,,numbers
+20,sixteenth,seizième,,numbers
+20,seventeenth,dix-septième,,numbers
+20,eighteenth,dix-huitième,,numbers
+20,nineteenth,dix-neuvième,,numbers
+20,twentieth,vingtième,,numbers
+20,once,une fois,,numbers
+20,twice,deux fois,,numbers
+1,colors,couleurs,,vocab
+1,black,noir,,vocab
+1,blue,bleu,,vocab
+1,brown,brun,,vocab
+1,gray,gris,,vocab
+1,green,vert,,vocab
+1,orange,orange,,vocab
+1,purple,violet,,vocab
+1,red,rouge,,vocab
+1,white,blanc,,vocab
+1,yellow,jaune,,vocab
+1,sizes,tailles,,vocab
+1,big,grand,,vocab
+1,deep,profond,,vocab
+1,long,long,,vocab
+1,narrow,étroit,,vocab
+1,short,court,,vocab
+1,small,petit,,vocab
+1,tall,haut,,vocab
+1,thick,épais,,vocab
+1,thin,mince,,vocab
+1,wide,large,,vocab
+1,tastes,les goûts,,vocab
+1,bitter,amer,,vocab
+1,fresh,frais,,vocab
+1,salty,salé,,vocab
+1,sour,aigre,,vocab
+1,spicy,épicé,,vocab
+1,sweet,doux,,vocab
+1,qualities,qualités,,vocab
+1,bad,mauvais,,vocab
+1,clean,propre,,vocab
+1,dark,sombre,,vocab
+1,difficult,difficile,,vocab
+1,dirty,sale,,vocab
+1,dry,sec,,vocab
+1,easy,facile,,vocab
+1,empty,vide,,vocab
+1,expensive,cher,,vocab
+1,fast,rapide,,vocab
+1,foreign,étranger,,vocab
+1,full,plein,,vocab
+1,good,bon,,vocab
+1,hard,dur,,vocab
+1,heavy,lourd,,vocab
+1,inexpensive,peu coûteux,,vocab
+1,light,lumière,,vocab
+1,local,local,,vocab
+1,new,nouveau,,vocab
+1,noisy,bruyant,,vocab
+1,old,vieux,,vocab
+1,powerful,puissant,,vocab
+1,quiet,calme,,vocab
+1,correct,correct,,vocab
+1,slow,lent,,vocab
+1,soft,doux,,vocab
+1,very,très,,vocab
+1,weak,faible,,vocab
+1,wet,humide,,vocab
+1,wrong,tort,,vocab
+1,young,jeune,,vocab
+1,food,nourriture,,vocab
+1,almonds,amandes,,vocab
+1,bread,pain,,vocab
+1,breakfast,petit déjeuner,,vocab
+1,butter,beurre,,vocab
+1,candy,bonbons,,vocab
+1,cheese,fromage,,vocab
+1,chicken,poulet,,vocab
+1,cumin,cumin,,vocab
+1,dessert,dessert,,vocab
+1,dinner,dîner,,vocab
+1,fish,poisson,,vocab
+1,fruit,fruit,,vocab
+1,ice cream,glace,,vocab
+1,lamb,agneau,,vocab
+1,lemon,citron,,vocab
+1,lunch,déjeuner,,vocab
+1,meal,repas,,vocab
+1,meat,viande,,vocab
+1,oven,four,,vocab
+1,pepper,poivre,,vocab
+1,plants,plantes,,vocab
+1,pork,porc,,vocab
+1,salad,salade,,vocab
+1,salt,sel,,vocab
+1,sandwich,sandwich,,vocab
+1,sausage,saucisse,,vocab
+1,soup,soupe,,vocab
+1,sugar,sucre,,vocab
+1,supper,souper,,vocab
+1,turkey,Turquie,,vocab
+1,apple,pomme,,vocab
+1,banana,banane,,vocab
+1,oranges,oranges,,vocab
+1,peaches,pêches,,vocab
+1,peanut,arachide,,vocab
+1,pears,poires,,vocab
+1,pineapple,ananas,,vocab
+1,grapes,raisin,,vocab
+1,strawberries,fraises,,vocab
+1,vegetables,légumes,,vocab
+1,carrot,carrot,,vocab
+1,corn,maïs,,vocab
+1,cucumber,concombre,,vocab
+1,garlic,ail,,vocab
+1,lettuce,laitue,,vocab
+1,olives,olives,,vocab
+1,onions,oignons,,vocab
+1,peppers,poivrons,,vocab
+1,potatoes,pommes de terre,,vocab
+1,pumpkin,citrouille,,vocab
+1,beans,haricots,,vocab
+1,tomatoes,tomates,,vocab
+1,alligator,alligator,,vocab
+1,alligators,alligators,,vocab
+1,bear,ours,,vocab
+1,bears,ours,,vocab
+1,bird,oiseau,,vocab
+1,birds,oiseaux,,vocab
+1,bull,taureau,,vocab
+1,bulls,taureaux,,vocab
+1,cat,chat,,vocab
+1,cats,les chats,,vocab
+1,cow,vache,,vocab
+1,cows,vaches,,vocab
+1,deer,cerf,,vocab
+1,many deer,de nombreux cerfs,,vocab
+1,dog,chien,,vocab
+1,dogs,chiens,,vocab
+1,donkey,âne,,vocab
+1,donkeys,ânes,,vocab
+1,eagle,aigle,,vocab
+1,eagles,aigles,,vocab
+1,elephant,éléphant,,vocab
+1,elephants,les éléphants,,vocab
+1,giraffe,girafe,,vocab
+1,giraffes,girafes,,vocab
+1,goat,chèvre,,vocab
+1,goats,chèvres,,vocab
+1,horse,cheval,,vocab
+1,horses,chevaux,,vocab
+1,lion,lion,,vocab
+1,lions,lions,,vocab
+1,monkey,singe,,vocab
+1,monkeys,singes,,vocab
+1,mouse,souris,,vocab
+1,mice,souris,,vocab
+1,rabbit,lapin,,vocab
+1,rabbits,lapins,,vocab
+1,snake,serpent,,vocab
+1,snakes,les serpents,,vocab
+1,tiger,tigre,,vocab
+1,tigers,les tigres,,vocab
+1,wolf,loup,,vocab
+1,wolves,les loups,,vocab
+1,objects,objets,,vocab
+1,bathroom,salle de bain,,vocab
+1,bed,lit,,vocab
+1,bedroom,chambre,,vocab
+1,ceiling,plafond,,vocab
+1,chair,chaise,,vocab
+1,clothes,vêtements,,vocab
+1,coat,couche,,vocab
+1,cup,tasse,,vocab
+1,desk,bureau,,vocab
+1,dress,robe,,vocab
+1,floor,étage,,vocab
+1,fork,fourche,,vocab
+1,furniture,meubles,,vocab
+1,glass,verre,,vocab
+1,hat,chapeau,,vocab
+1,house,maison,,vocab
+1,ink,encre,,vocab
+1,jacket,veste,,vocab
+1,kitchen,cuisine,,vocab
+1,knife,couteau,,vocab
+1,lamp,lampe,,vocab
+1,letter,lettre,,vocab
+1,map,carte,,vocab
+1,newspaper,journal,,vocab
+1,notebook,cahier,,vocab
+1,pants,pantalon,,vocab
+1,paper,papier,,vocab
+1,pen,stylo,,vocab
+1,pencil,crayon,,vocab
+1,pharmacy,pharmacie,,vocab
+1,picture,image,,vocab
+1,plate,plaque,,vocab
+1,refrigerator,réfrigérateur,,vocab
+1,restaurant,restaurant,,vocab
+1,roof,toit,,vocab
+1,room,pièce,,vocab
+1,rug,couverture,,vocab
+1,scissors,ciseaux,,vocab
+1,shampoo,shampooing,,vocab
+1,shirt,chemise,,vocab
+1,shoes,chaussures,,vocab
+1,soap,savon,,vocab
+1,socks,chaussettes,,vocab
+1,spoon,cuillère,,vocab
+1,table,table,,vocab
+1,toilet,toilette,,vocab
+1,toothbrush,brosse à dents,,vocab
+1,toothpaste,dentifrice,,vocab
+1,towel,serviette,,vocab
+1,umbrella,parapluie,,vocab
+1,underwear,sous-vêtements,,vocab
+1,wall,mur,,vocab
+1,wallet,portefeuille,,vocab
+1,window,fenêtre,,vocab
+1,telephone,téléphone,,vocab
+1,this,cette,,vocab
+1,that,qui,,vocab
+1,these,ces,,vocab
+1,those,ceux,,vocab
+1,Questions,,,vocab
+1,how?,comment?,,vocab
+1,what?,Quoi?,,vocab
+1,who?,qui?,,vocab
+1,why?,pourquoi?,,vocab
+1,where?,où?,,vocab
+1,different objects,différents objets,,vocab
+1,art,art,,vocab
+1,bank,banque,,vocab
+1,beach,plage,,vocab
+1,book,livre,,vocab
+1,by bicycle,à bicyclette,,vocab
+1,by bus,en bus,,vocab
+1,by car,en voiture,,vocab
+1,by train,par le train,,vocab
+1,cafe,café,,vocab
+1,country,pays,,vocab
+1,desert,désert,,vocab
+1,dictionary,dictionnaire,,vocab
+1,earth,terre,,vocab
+1,flowers,fleurs,,vocab
+1,football,football,,vocab
+1,forest,forêt,,vocab
+1,game,jeu,,vocab
+1,garden,jardin,,vocab
+1,geography,géographie,,vocab
+1,history,histoire,,vocab
+1,house,maison,,vocab
+1,island,île,,vocab
+1,lake,lac,,vocab
+1,library,bibliothèque,,vocab
+1,math,math,,vocab
+1,moon,lune,,vocab
+1,mountain,montagne,,vocab
+1,movies,films,,vocab
+1,music,musique,,vocab
+1,ocean,océan,,vocab
+1,office,bureau,,vocab
+1,on foot,à pied,,vocab
+1,player,joueur,,vocab
+1,river,rivière,,vocab
+1,science,science,,vocab
+1,sea,mer,,vocab
+1,sky,ciel,,vocab
+1,soccer,football,,vocab
+1,stars,étoiles,,vocab
+1,supermarket,supermarché,,vocab
+1,swimming pool,piscine,,vocab
+1,theater,théâtre,,vocab
+1,tree,arbre,,vocab
+1,weather,temps,,vocab
+1,bad weather,intempéries,,vocab
+1,cloudy,nuageux,,vocab
+1,cold,froid,,vocab
+1,cool,frais,,vocab
+1,foggy,brumeux,,vocab
+1,hot,chaud,,vocab
+1,nice weather,beau temps,,vocab
+1,pouring,coulée,,vocab
+1,rain,pluie,,vocab
+1,raining,pleut,,vocab
+1,snow,neige,,vocab
+1,snowing,neige,,vocab
+1,ice,glace,,vocab
+1,sunny,ensoleillé,,vocab
+1,windy,venteux,,vocab
+1,spring,printemps,,vocab
+1,summer,été,,vocab
+1,autumn,automne,,vocab
+1,winter,hiver,,vocab
+1,people,personnes,,vocab
+1,aunt,tante,,vocab
+1,baby,bébé,,vocab
+1,brother,frère,,vocab
+1,cousin,cousin,,vocab
+1,daughter,fille,,vocab
+1,dentist,dentiste,,vocab
+1,doctor,médecin,,vocab
+1,father,père,,vocab
+1,grandfather,grand-père,,vocab
+1,grandmother,grand-mère,,vocab
+1,husband,mari,,vocab
+1,mother,mère,,vocab
+1,nephew,neveu,,vocab
+1,niece,nièce,,vocab
+1,nurse,infirmière,,vocab
+1,policeman,policier,,vocab
+1,postman,facteur,,vocab
+1,professor,professeur,,vocab
+1,son,fils,,vocab
+1,teacher,professeur,,vocab
+1,uncle,oncle,,vocab
+1,wife,femme,,vocab
+10,the animals,les animaux,,vocab
+10,the bear ,l'ours,,vocab
+10,the beaver,le castor,,vocab
+10,the cat ,le chat,,vocab
+10,the chimpanzee,le chimpanzé,,vocab
+10,the deer ,le cerf,,vocab
+10,the dog ,le chien,,vocab
+10,the elephant ,l'éléphant,,vocab
+10,the fish,le poisson,,vocab
+10,the fox,le renard,,vocab
+10,the goat,la chèvre,,vocab
+10,the gorilla ,le gorille,,vocab
+10,the hippopotamus ,l'hippopotame,,vocab
+10,the horse ,le cheval,,vocab
+10,the hyena,l'hyène,,vocab
+10,the kangaroo ,le kangourou,,vocab
+10,the kitten,le chaton,,vocab
+10,the leopard ,le léopard,,vocab
+10,the llama ,le lama,,vocab
+10,the monkey ,le singe,,vocab
+10,the mouse,la souris,,vocab
+10,the panda ,le panda,,vocab
+10,the penguin,le manchot,,vocab
+10,the pet,l'animal domestique,,vocab
+10,the puppy,le chiot,,vocab
+10,the rabbit,le lapin,,vocab
+10,the rat,le rat,,vocab
+10,the rhino ,le rhinocéros,,vocab
+10,the sheep ,le mouton,,vocab
+10,the squirrel,l'écureuil,,vocab
+10,the tiger ,le tigre,,vocab
+10,the whale ,la baleine,,vocab
+10,the wolf ,le loup,,vocab
+10,the zebra ,le zèbre,,vocab
+10,the blender ,le mixeur,,vocab
+10,the dishwasher ,le lave-vaisselle,,vocab
+10,the dryer ,le séchoir,,vocab
+10,the freezer ,le congélateur,,vocab
+10,the fridge ,le réfrigérateur,,vocab
+10,the iron ,le fer à repasser,,vocab
+10,the microwave ,le micro-onde,,vocab
+10,the oven ,le four,,vocab
+10,the toaster ,le grille-pain,,vocab
+10,the washer ,la machine à laver,,vocab
+10,the water heater,le chauffe-eau,,vocab
+10,the blender ,le mixeur,,vocab
+10,the dishwasher ,le lave-vaisselle,,vocab
+10,the dryer ,le séchoir,,vocab
+10,the freezer ,le congélateur,,vocab
+10,the fridge ,le réfrigérateur,,vocab
+10,the iron ,le fer à repasser,,vocab
+10,the microwave ,le micro-onde,,vocab
+10,the oven ,le four,,vocab
+10,the toaster ,le grille-pain,,vocab
+10,the washer ,la machine à laver,,vocab
+10,the water heater,le chauffe-eau,,vocab
+10,the balloons ,les ballons,,vocab
+10,the cake ,le gâteau,,vocab
+10,the frosting,le glaçage,,vocab
+10,the ice,la glace,,vocab
+10,the ice cream ,la glace,,vocab
+10,the presents ,les cadeaux,,vocab
+10,the soda ,le soda,,vocab
+10,the sand ,le sable,,vocab
+10,the sand castle ,le château de sable,,vocab
+10,the seaweed,l'algue marine,,vocab
+10,the shore,la plage/le bord de la mer,,vocab
+10,the sunglasses ,les lunettes de soleil,,vocab
+10,the sunscreen ,la crème solaire,,vocab
+10,the swimsuit ,le maillot de bain,,vocab
+10,the tide,la marée,,vocab
+10,the towel,la serviette,,vocab
+10,the wave ,la vague,,vocab
+10,the bag ,le sac,,vocab
+10,the restroom,les toilettes,,vocab
+10,the bench ,le banc,,vocab
+10,the clearance sale,la liquidation,,vocab
+10,the restaurant,le restaurant,,vocab
+10,the sale ,la solde,,vocab
+10,the store,le magasin,,vocab
+10,the drinking fountain,la fontaine publique,,vocab
+10,the bag ,le sac,,vocab
+10,the cans ,les boîtes,,vocab
+10,the cashier,le caissier,,vocab
+10,the cash register,la caisse,,vocab
+10,the dairy department,la crémerie,,vocab
+10,the frozen foods department,les aliments congelés,,vocab
+10,the grocery store,l'épicerie,,vocab
+10,the receipt ,le reçu,,vocab
+10,the account,le compte,,vocab
+10,the account number,le numéro de compte,,vocab
+10,the bank,la banque,,vocab
+10,the check ,le chèque,,vocab
+10,the checking account,le compte courant,,vocab
+10,the deposit,le dépôt,,vocab
+10,the finances,les finances,,vocab
+10,the interest,l'intérêt,,vocab
+10,the money ,l'argent,,vocab
+10,the savings account,le compte d'épargne,,vocab
+10,the teller ,le cassier de banque,,vocab
+10,the vault ,la chambre forte,,vocab
+10,the withdrawal ,le retrait,,vocab
+10,the bathroom,la salle de bain,,vocab
+10,the bathtub,la baignoire,,vocab
+10,the mirror,le miroir,,vocab
+10,the pipe,le tuyau,,vocab
+10,the shampoo,le shampooing,,vocab
+10,the shower,la douche,,vocab
+10,the sink,le lavabo,,vocab
+10,the soap,le savon,,vocab
+10,the toilet,la toilette,,vocab
+10,the alarm clock,le réveil,,vocab
+10,the bed,le lit,,vocab
+10,the bedroom,la chambre à coucher,,vocab
+10,the blanket,la couverture,,vocab
+10,the ceiling,le plafond,,vocab
+10,the closet,la penderie,,vocab
+10,the dresser,la commode,,vocab
+10,the hanger,le cintre,,vocab
+10,the lamp,la lampe,,vocab
+10,the nightstand,la table de nuit,,vocab
+10,the pillow,l'oreiller,,vocab
+10,the sheets,les draps,,vocab
+10,the wall,le mur,,vocab
+10,the ankle,la cheville,,vocab
+10,the arm ,le bras,,vocab
+10,the back,le dos,,vocab
+10,the belly,le ventre,,vocab
+10,the brain,le cerveau,,vocab
+10,the calf,le mollet,,vocab
+10,the chest ,la poitrine,,vocab
+10,the chin,le menton,,vocab
+10,the ear ,l'oreille,,vocab
+10,the elbow,le coude,,vocab
+10,the eye ,l'oeil,,vocab
+10,the eyebrow,le sourcil,,vocab
+10,the eyelash,le cil,,vocab
+10,the eyelid,la paupière,,vocab
+10,the finger ,le doigt,,vocab
+10,the fingernail,l'ongle,,vocab
+10,the foot ,le pied,,vocab
+10,the forehead,le front,,vocab
+10,the mind,l'esprit,,vocab
+10,the stomach,l'estomac,,vocab
+10,the gum,la gencive,,vocab
+10,the hair,les cheveux,,vocab
+10,the hand ,la main,,vocab
+10,the head ,la tête,,vocab
+10,the heel,le talon,,vocab
+10,the knee ,le genou,,vocab
+10,the leg ,la jambe,,vocab
+10,the lips,les lèvres,,vocab
+10,the mouth ,la bouche,,vocab
+10,the neck,le cou,,vocab
+10,the nose,le nez,,vocab
+10,the rib,la côte,,vocab
+10,the teeth,la dent,,vocab
+10,the thigh,la cuisse,,vocab
+10,the throat,la gorge,,vocab
+10,the toe ,l'orteil,,vocab
+10,the toenail,l'ongle de l'orteil,,vocab
+10,the tongue ,la langue,,vocab
+10,the wrist,le poignet,,vocab
+10,the automatic transmission ,la transmission automatique,,vocab
+10,the axle,l'essieu,,vocab
+10,the brakes ,les freins,,vocab
+10,the bumper ,le pare-chocs,,vocab
+10,the driver,le conducteur,,vocab
+10,the engine,le moteur,,vocab
+10,first gear,la première,,vocab
+10,the gas,l'essence,,vocab
+10,the gas pedal,l'accélérateur,,vocab
+10,the gas tank,le réservoir à essence,,vocab
+10,the gear shift ,le levier de vitesses,,vocab
+10,the headlights,les phares,,vocab
+10,the hood,la capote,,vocab
+10,the horn ,le klaxon,,vocab
+10,the jack,le cric,,vocab
+10,the manual transmission,la transmission,,vocab
+10,the rearview mirror ,le rétroviseur,,vocab
+10,the seat belt,la ceinture de sécurité,,vocab
+10,the spare tire,le pneu de rechange,,vocab
+10,the steering wheel,le volant,,vocab
+10,the sun roof,le toit vitré,,vocab
+10,the taillights ,les stops,,vocab
+10,the tire,le pneu,,vocab
+10,the trunk,le coffre,,vocab
+10,the turn signal ,le feu de direction,,vocab
+10,the visor ,la visière,,vocab
+10,the wheel,la roue,,vocab
+10,the window ,la vitre,,vocab
+10,the windshield,le pare-brise,,vocab
+10,the wipers,l'essuie-glace,,vocab
+10,the bleach,l'eau de javel,,vocab
+10,the broom ,le balai,,vocab
+10,the detergent,le détergent,,vocab
+10,the mop ,le balai à franges,,vocab
+10,the paper towels,l'essuie-tout,,vocab
+10,the rag,le chiffon,,vocab
+10,the sponge,l'éponge,,vocab
+10,the towel,la serviette,,vocab
+10,the vacuum ,l'aspirateur,,vocab
+10,the ball cap,la casquette,,vocab
+10,the belt ,la ceinture,,vocab
+10,the clothes,les vêtements,,vocab
+10,the coat,le manteau,,vocab
+10,the cotton,le coton,,vocab
+10,the dress ,la robe,,vocab
+10,the gloves ,les gants,,vocab
+10,the hat ,le chapeau,,vocab
+10,the jacket ,la veste,,vocab
+10,the pajamas ,le pyjama,,vocab
+10,the pants ,le pantalon,,vocab
+10,the purse ,le sac à main,,vocab
+10,the sandals ,les sandales,,vocab
+10,the shirts ,les chemises,,vocab
+10,the shoelace,le lacet de chaussure,,vocab
+10,the shoes ,les chaussures,,vocab
+10,the skirt,la jupe,,vocab
+10,the socks ,les chaussettes,,vocab
+10,the suit ,le costume,,vocab
+10,the sweater ,le pull,,vocab
+10,the swimming suit ,le maillot de bain,,vocab
+10,the tie ,la cravate,,vocab
+10,the velcro,le velcro,,vocab
+10,the zipper,la fermeture,,vocab
+10,black,noir,,vocab
+10,blue,bleu,,vocab
+10,brown,marron,,vocab
+10,green,vert,,vocab
+10,orange,orange,,vocab
+10,pink,rose,,vocab
+10,purple,pourpre,,vocab
+10,red,rouge,,vocab
+10,violet,violet,,vocab
+10,white,blanc,,vocab
+10,yellow,jaune,,vocab
+10,Argentina,L'Argentine,,vocab
+10,Belgium,La Belgique,,vocab
+10,Brazil,Le Brésil,,vocab
+10,Canada,Le Canada,,vocab
+10,China,La Chine,,vocab
+10,England,L'Angleterre,,vocab
+10,France,La France,,vocab
+10,India,L'Inde,,vocab
+10,Iran,L'Iran,,vocab
+10,Iraq,L'Iraq,,vocab
+10,Italy,L'Italie,,vocab
+10,Japan,Le Japon,,vocab
+10,Lebanon,Le Liban,,vocab
+10,Mexico,Le Mexique,,vocab
+10,Panama,Le Panama,,vocab
+10,Philippines,Les Philippines,,vocab
+10,Portugal,Le Portugal,,vocab
+10,Russia,La Russie,,vocab
+10,Spain,L'Espagne,,vocab
+10,Switzerland,La Suisse,,vocab
+10,United States,Les Etats-Unis,,vocab
+10,Uruguay,L'Uruguay,,vocab
+10,Vietnam,Le Vietnam,,vocab
+10,the aunt,la tante,,vocab
+10,the boyfriend,le petit-ami,,vocab
+10,the brother,le frère,,vocab
+10,the brother-in-law,le beau-frère,,vocab
+10,the cousins,le cousin,,vocab
+10,the dad,le papa,,vocab
+10,the daughter,la fille,,vocab
+10,the daughter-in-law,la belle-fille,,vocab
+10,the family,la famille,,vocab
+10,the father,le père,,vocab
+10,the father-in-law,le beau-père,,vocab
+10,the fiancé,le fiancé/la fiancée,,vocab
+10,the friend,l'ami,,vocab
+10,the girlfriend,la petite-amie,,vocab
+10,the grandma,le grand-père,,vocab
+10,the grandpa,la grand-mère,,vocab
+10,the grandparents,les grand-parents,,vocab
+10,the husband,le mari,,vocab
+10,the mom ,la maman,,vocab
+10,the mother,la mère,,vocab
+10,the mother-in-law,la belle-mère,,vocab
+10,the nephew,le neveu,,vocab
+10,the niece,la nièce,,vocab
+10,the relationships,les relations,,vocab
+10,the sister,la soeur,,vocab
+10,the sister-in-law,la belle-soeur,,vocab
+10,the son,le fils,,vocab
+10,the son-in-law,le beau-fils,,vocab
+10,the uncle,l'oncle,,vocab
+10,the wife,la femme,,vocab
+10,the appetizer,l'hors-d'oeuvre,,vocab
+10,the avocado,l'avocat,,vocab
+10,the beef,le boeuf,,vocab
+10,the breakfast,le petit déjeuner,,vocab
+10,the cauliflower,le chou-fleur,,vocab
+10,the celery,le céleri,,vocab
+10,the cheese,le fromage,,vocab
+10,the chicken,le poulet,,vocab
+10,the dessert,le dessert,,vocab
+10,the dinner,le dîner,,vocab
+10,the egg,l'oeuf,,vocab
+10,the fish (cooked),le poisson,,vocab
+10,the food,la nourriture,,vocab
+10,the french fries ,les frites,,vocab
+10,the hamburger,le hamburger,,vocab
+10,the hotdog,le hot dog,,vocab
+10,the lettuce,la laitue,,vocab
+10,the lunch,le déjeuner,,vocab
+10,the main dish,le plat principal,,vocab
+10,the milk,le lait,,vocab
+10,the pork,le porc,,vocab
+10,the potatoes,les pommes de terre,,vocab
+10,the salad,la salade,,vocab
+10,the sandwich,le sandwich,,vocab
+10,the soup,la soupe,,vocab
+10,the sugar ,le sucre,,vocab
+10,the turkey,la dinde,,vocab
+10,the water,l'eau,,vocab
+10,the apricot,l'abricot,,vocab
+10,the banana,la banane,,vocab
+10,the beans,les haricots,,vocab
+10,the beet,la betterave,,vocab
+10,the butter,le beurre,,vocab
+10,the candy,les bonbons,,vocab
+10,the flour,la farine,,vocab
+10,the grape,le raisin,,vocab
+10,the honey,le miel,,vocab
+10,the jam,la confiture,,vocab
+10,the jelly,la gelée,,vocab
+10,the juice,le jus,,vocab
+10,the ketchup,le ketchup,,vocab
+10,the lemon,le citron,,vocab
+10,the lime,le citron vert,,vocab
+10,the mayonnaise,la mayonnaise,,vocab
+10,the mustard,la moutarde,,vocab
+10,the nut,la noix,,vocab
+10,the peach,la pêche,,vocab
+10,the peanut,la cacahuète,,vocab
+10,the peanut butter,le beurre de cacahuètes,,vocab
+10,the pear,la poire,,vocab
+10,the pineapple,l'ananas,,vocab
+10,the popcorn,le pop-corn,,vocab
+10,the radish,le radis,,vocab
+10,the raisin,le raisin sec,,vocab
+10,the tomato,la tomate,,vocab
+10,the armchair ,le fauteuil,,vocab
+10,the bed ,le lit,,vocab
+10,the chair ,la chaise,,vocab
+10,the desk ,le bureau,,vocab
+10,the furniture,le meuble,,vocab
+10,the garbage can ,la poubelle,,vocab
+10,the piano,le piano,,vocab
+10,the sofa,le canapé,,vocab
+10,the table ,la table,,vocab
+10,the ballot ,le scrutin,,vocab
+10,the congress ,le Congrès,,vocab
+10,the congressman,le membre du Congrès,,vocab
+10,the democrat ,le Démocrate,,vocab
+10,the election ,l'élection,,vocab
+10,the governor,le gouverneur,,vocab
+10,the house of representatives,la Chambre des représentants,,vocab
+10,the king ,le roi,,vocab
+10,the mayor,le maire,,vocab
+10,the parliament,le parlement,,vocab
+10,the party (political party),le parti,,vocab
+10,the president ,le président,,vocab
+10,the prime minister,le premier ministre,,vocab
+10,the republican ,le Républicain,,vocab
+10,the senate,le sénat,,vocab
+10,the senator,le sénateur,,vocab
+10,the vote ,le vote,,vocab
+10,the bowl,le bol,,vocab
+10,the cabinet,le placard,,vocab
+10,the drain,le tuyau d'écoulement,,vocab
+10,the freezer,le congélateur,,vocab
+10,the fridge,le réfrigérateur,,vocab
+10,the frying pan,la poêle,,vocab
+10,the kitchen,la cuisine,,vocab
+10,the lid,le couvercle,,vocab
+10,the oven,le four,,vocab
+10,the sauce pan,la casserole,,vocab
+10,stove,poêle,,vocab
+10,the carpet,la moquette,,vocab
+10,the fire place,la cheminée,,vocab
+10,the living room,la salle de séjour,,vocab
+10,the painting,la peinture,,vocab
+10,the recliner,la chaise longue,,vocab
+10,the shelf,l'étagère,,vocab
+10,the sofa,le canapé,,vocab
+10,the staircase,l'escalier,,vocab
+10,the tv,la télé,,vocab
+10,the vase,le vase,,vocab
+10,the attack,l'attaque,,vocab
+10,the fighter jet,le chasseur,,vocab
+10,the cease fire,la trêve,,vocab
+10,the commander,le commandant,,vocab
+10,the army,l'armée,,vocab
+10,the general,le général,,vocab
+10,the helicopter,l'hélicoptère,,vocab
+10,the casualty,les victimes,,vocab
+10,the missile,le missile,,vocab
+10,the soldier,le soldat,,vocab
+10,the tank,le char,,vocab
+10,the battle,la bataille,,vocab
+10,the bomb,la bombe,,vocab
+10,the explosion,l'explosion,,vocab
+10,the airforce,l'armée de l'air,,vocab
+10,the grenade,la grenade,,vocab
+10,the war,la guerre,,vocab
+10,the invasion,l'invasion,,vocab
+10,the navy,la marine,,vocab
+10,the peace,la paix,,vocab
+10,the weapons,les armes,,vocab
+10,the weapons of mass destruction,les armes de destruction massive,,vocab
+10,January,janvier,,vocab
+10,February,février,,vocab
+10,March,mars,,vocab
+10,April,avril,,vocab
+10,May,mai,,vocab
+10,June,juin,,vocab
+10,July,juillet,,vocab
+10,August,août,,vocab
+10,September,septembre,,vocab
+10,October,octobre,,vocab
+10,November,novembre,,vocab
+10,December,décembre,,vocab
+10,Monday,lundi,,vocab
+10,Tuesday,mardi,,vocab
+10,Wednesday,mercredi,,vocab
+10,Thursday,jeudi,,vocab
+10,Friday,vendredi,,vocab
+10,Saturday,samedi,,vocab
+10,Sunday,dimanche,,vocab
+10,the conductor ,le chef d'orchestre,,vocab
+10,the drums ,les tambours,,vocab
+10,the genres,les genres,,vocab
+10,the guitar ,la guitare,,vocab
+10,the lyrics ,les paroles,,vocab
+10,the organ ,l'orgue,,vocab
+10,the piano ,le piano,,vocab
+10,the trumpet ,la trompette,,vocab
+10,the cliff,l'escarpement,,vocab
+10,the flower,la fleur,,vocab
+10,the garden / the yard,la cour,,vocab
+10,the garden (vegetable) / orchard,le jardin,,vocab
+10,the grass (lawn),la pelouse,,vocab
+10,the herb,l'herbe,,vocab
+10,the lake,le lac,,vocab
+10,the mountain range,la chaîne de montagnes,,vocab
+10,the mountains,les montagnes,,vocab
+10,the ocean,l'océan,,vocab
+10,the plant,la plante,,vocab
+10,the river,le fleuve / la rivière,,vocab
+10,the sea,la mer,,vocab
+10,the shore,la plage / le bord de la mer,,vocab
+10,the soil,le sol,,vocab
+10,the tree,l'arbre,,vocab
+10,the waterfalls,la cascade,,vocab
+10,the weed,la mauvaise herbe,,vocab
+10,0,zéro,,vocab
+10,1,un,,vocab
+10,2,deux,,vocab
+10,3,trois,,vocab
+10,4,quatre,,vocab
+10,5,cinq,,vocab
+10,6,six,,vocab
+10,7,sept,,vocab
+10,8,huit,,vocab
+10,9,neuf,,vocab
+10,10,dix,,vocab
+10,11,onze,,vocab
+10,12,douze,,vocab
+10,13,treize,,vocab
+10,14,quatorze,,vocab
+10,15,quinze,,vocab
+10,16,seize,,vocab
+10,17,dix-sept,,vocab
+10,18,dix-huit,,vocab
+10,19,dix-neuf,,vocab
+10,20,vingt,,vocab
+10,the brick ,la brique,,vocab
+10,the bush ,le buisson,,vocab
+10,the chimney ,la cheminée,,vocab
+10,the door ,la porte,,vocab
+10,the driveway ,l'allée de garage,,vocab
+10,the garage ,le garage,,vocab
+10,the lawn ,la pelouse,,vocab
+10,outside,dehors,,vocab
+10,the patio,le patio/la terrasse,,vocab
+10,the porch ,le porche,,vocab
+10,the roof ,le toit,,vocab
+10,the sidewalk,le trottoir,,vocab
+10,the wall ,le mur,,vocab
+10,the window ,la fenêtre,,vocab
+10,the accountant,le comptable,,vocab
+10,the actor,l'acteur,,vocab
+10,the artist,l'artiste,,vocab
+10,the athlete,l'athlète,,vocab
+10,the barber,le coiffeur,,vocab
+10,the boss,le patron,,vocab
+10,the business person,l'homme d'affaires,,vocab
+10,the butcher,le boucher,,vocab
+10,the carpenter,le menuisier,,vocab
+10,the cashier,le caissier,,vocab
+10,the chef,le chef,,vocab
+10,the coach,l'entraîneur,,vocab
+10,the computer technician,le technicien informatique,,vocab
+10,the construction worker,l'ouvrier,,vocab
+10,the dentist,le dentiste,,vocab
+10,the doctor,le médecin,,vocab
+10,the engineer ,l'ingénieur,,vocab
+10,the farmer,le fermier,,vocab
+10,the firefighter,le pompier,,vocab
+10,the hair dresser ,le coiffeur,,vocab
+10,the judge,le juge,,vocab
+10,the lawyer/attorney,l'avocat,,vocab
+10,the librarian,le bibliothécaire,,vocab
+10,the mail carrier,le facteur,,vocab
+10,the mason (brick layer) ,le maçon,,vocab
+10,the mechanic,le mécanicien,,vocab
+10,the nurse,l'infermière,,vocab
+10,the police officer,le policier,,vocab
+10,the president,le président,,vocab
+10,the professor,le professeur,,vocab
+10,the programmer,le programmeur,,vocab
+10,the reporter,le journaliste,,vocab
+10,the secretary,le secrétaire,,vocab
+10,the veterinarian,le vétérinaire,,vocab
+10,the waiter,le serveur,,vocab
+10,the writer,l'écrivain,,vocab
+10,the bowl ,le bol,,vocab
+10,the chair,la chaise,,vocab
+10,the check ,l'addition,,vocab
+10,the cup ,la tasse,,vocab
+10,the fork ,la fourchette,,vocab
+10,the knife ,le couteau,,vocab
+10,manners,les manières,,vocab
+10,the menu,le menu,,vocab
+10,the napkin,la serviette,,vocab
+10,the pepper,le poivre,,vocab
+10,the pitcher ,la cruche,,vocab
+10,the plate ,l'assiette,,vocab
+10,the salt ,le sel,,vocab
+10,the spoon ,la cuillère,,vocab
+10,the waitress ,la serveuse,,vocab
+10,the waiter,le serveur,,vocab
+10,art,l'art,,vocab
+10,the black hole,le trou noir,,vocab
+10,the earth,la Terre,,vocab
+10,english ,anglais,,vocab
+10,the experiment ,l'expérience,,vocab
+10,the galaxy,la galaxie,,vocab
+10,history ,l'histoire,,vocab
+10,jupiter,Jupiter,,vocab
+10,language,langue,,vocab
+10,mars,Mars,,vocab
+10,math ,les mathématiques,,vocab
+10,mercury,Mercure,,vocab
+10,the moon ,la lune,,vocab
+10,the music,la musique,,vocab
+10,neptune,Neptune,,vocab
+10,psychology,psychologie,,vocab
+10,physical education,éducation physique,,vocab
+10,pluto ,Pluton,,vocab
+10,saturn,Saturne,,vocab
+10,science ,science,,vocab
+10,the solar system ,le système solaire,,vocab
+10,the stars ,les étoiles,,vocab
+10,the sun ,le soleil,,vocab
+10,uranus,Uranus,,vocab
+10,venus,Vénus,,vocab
+10,the backpack ,le sac à dos,,vocab
+10,the briefcase ,la serviette,,vocab
+10,the calculator ,la calculatrice,,vocab
+10,the chair ,la chaise,,vocab
+10,the colored pencil ,le crayon de couleur,,vocab
+10,the computer ,l'ordinateur,,vocab
+10,the crayons ,les craies grasses,,vocab
+10,the desk ,le bureau,,vocab
+10,the folder ,la chemise,,vocab
+10,the glue ,la colle,,vocab
+10,the markers ,le marqueur,,vocab
+10,the mechanical pencil,le porte-mine,,vocab
+10,the notebook,le carnet,,vocab
+10,the paper ,le papier,,vocab
+10,the pen ,le stylo,,vocab
+10,the pencil ,le crayon,,vocab
+10,the staple,l'agrafe,,vocab
+10,the stapler ,l'agrafeuse,,vocab
+10,badminton ,le badminton,,vocab
+10,baseball ,le base-ball,,vocab
+10,basketball ,le basket,,vocab
+10,cricket ,le cricket,,vocab
+10,cycling ,le cyclisme,,vocab
+10,football ,le football américain,,vocab
+10,the game (sporting event) ,le match,,vocab
+10,golf ,le golf,,vocab
+10,handball ,le handball,,vocab
+10,hockey ,le hockey,,vocab
+10,horseback riding ,l'équitation,,vocab
+10,ping pong ,le ping pong,,vocab
+10,rugby ,le rugby,,vocab
+10,soccer ,le foot,,vocab
+10,swimming ,la natation,,vocab
+10,the team ,l'équipe,,vocab
+10,tennis ,le tennis,,vocab
+10,volleyball,le volley,,vocab
+10,the camera,l'appareil photo,,vocab
+10,the CD,le CD,,vocab
+10,the cell phone,le téléphone cellulaire,,vocab
+10,the computer,l'ordinateur,,vocab
+10,DVD,le DVD,,vocab
+10,the e-mail,l'e-mail,,vocab
+10,the fax machine,le télécopieur,,vocab
+10,the stereo,la stéréo,,vocab
+10,the iPod,l'iPod,,vocab
+10,the internet,l'Internet,,vocab
+10,the telephone,le téléphone,,vocab
+10,video games,les jeux vidéo,,vocab
+10,afternoon ,l'après midi,,vocab
+10,dawn ,l'aube,,vocab
+10,during the fall ,pendant l'automne,,vocab
+10,during the spring,pendant le printemps,,vocab
+10,during the summer,pendant l'été,,vocab
+10,during the winter,pendant l'hiver,,vocab
+10,evening ,le soir,,vocab
+10,the fall/autumn ,l'automne,,vocab
+10,last fall ,l'automne dernier,,vocab
+10,last spring,le printemps dernier,,vocab
+10,last summer ,l'été dernier,,vocab
+10,last winter,l'hiver dernier,,vocab
+10,midnight,le minuit,,vocab
+10,morning,le matin,,vocab
+10,next winter,l'hiver prochain,,vocab
+10,next spring,le printemps prochain,,vocab
+10,next summer,l'été prochain,,vocab
+10,next fall/autumn,l'automne prochain,,vocab
+10,night ,la nuit,,vocab
+10,noon,le midi,,vocab
+10,spring ,le printemps,,vocab
+10,this fall,cet automne,,vocab
+10,this spring,ce printemps,,vocab
+10,this summer ,cet été,,vocab
+10,this winter,cet hiver,,vocab
+10,the summer,l'été,,vocab
+10,the winter ,l'hiver,,vocab
+10,the axe,la hache,,vocab
+10,the axle,l'essieu,,vocab
+10,the bar,la barre,,vocab
+10,the blade,la lame,,vocab
+10,the cord,la corde,,vocab
+10,the drill,la perceuse,,vocab
+10,the drill bit,la mèche,,vocab
+10,the flashlight,la lampe de poche,,vocab
+10,the hammer,le marteau,,vocab
+10,the handle,le manche,,vocab
+10,the knife,le couteau,,vocab
+10,the nut (as in nut and bolt) ,l'écrou,,vocab
+10,the pliers,les pinces,,vocab
+10,the pulley,la poulie,,vocab
+10,the ramp,la rampe,,vocab
+10,the rope,la corde,,vocab
+10,the ruler,la règle,,vocab
+10,the saw,la scie,,vocab
+10,the screw-driver,le tournevis,,vocab
+10,the tape measure,le mètre enrouleur,,vocab
+10,the tool,l'outil,,vocab
+10,the wheel,la roue,,vocab
+10,the wrench,le tourne-à-gauche,,vocab
+10,the ball ,la balle,,vocab
+10,the baseball,la balle de baseball,,vocab
+10,the basketball,le ballon de basket,,vocab
+10,the basketball hoop,le cercle de basket,,vocab
+10,the crayons,les craies grasse,,vocab
+10,the football,le ballon de football américain,,vocab
+10,the hula hoop,le cerceau,,vocab
+10,the jump rope,la corde à sauter,,vocab
+10,the sled,la luge,,vocab
+10,the soccer ball,le ballon de football,,vocab
+10,the softball,le softball,,vocab
+10,the blocks ,les cubes,,vocab
+10,the doll,la poupée,,vocab
+10,the skates,les patins à glace,,vocab
+10,the toys,les jouets,,vocab
+10,the truck,le camion,,vocab
+10,trampoline,le trampoline,,vocab
+10,the yo-yo,le yo-yo,,vocab
+10,the airport,l'aéroport,,vocab
+10,the baggage ,les bagages,,vocab
+10,the boat ,le bateau,,vocab
+10,the bus station,la gare routière,,vocab
+10,the carry on,les bagages cabine,,vocab
+10,the check-in,l'enregistrement,,vocab
+10,the check-out,régler la note,,vocab
+10,the departure,le départ,,vocab
+10,the flight,le vol,,vocab
+10,the gate,la porte,,vocab
+10,the hotel,l'hôtel,,vocab
+10,the kiosk,le kiosque,,vocab
+10,the landing ,l'atterrissage,,vocab
+10,the line,la queue,,vocab
+10,the metal detector,le détecteur de métaux,,vocab
+10,the platform,le quai,,vocab
+10,the room ,la salle,,vocab
+10,the runway,la piste d'aviation,,vocab
+10,the security guard,le garde de sécurité,,vocab
+10,the ship ,le navire,,vocab
+10,the subway ,le métro,,vocab
+10,the suitcase ,la valise,,vocab
+10,the takeoff,le décollage,,vocab
+10,the terminal,le terminal,,vocab
+10,the ticket ,le billet,,vocab
+10,American restaurant,le restaurant américain,,vocab
+10,barbecue restaurant,le restaurant barbecue,,vocab
+10,buffet,le buffet,,vocab
+10,Chinese restaurant,le restaurant chinois,,vocab
+10,fast food restaurant ,le fast-food,,vocab
+10,Indian restaurant ,le restaurant indien,,vocab
+10,Mexican restaurant,le restaurant mexicain,,vocab
+10,pizzeria,la pizzeria,,vocab
+10,steakhouse,le grill,,vocab
+10,the airplane ,l'avion,,vocab
+10,the bicycle ,le vélo,,vocab
+10,the car ,la voiture,,vocab
+10,the helicopter ,l'hélicoptère,,vocab
+10,the motorcycle ,la motocyclette,,vocab
+10,the taxi ,le taxi,,vocab
+10,the train ,le train,,vocab
+10,the truck ,le camion,,vocab
+10,the cloud,le nuage,,vocab
+10,cloudy,nuageux,,vocab
+10,cold,le froid,,vocab
+10,the flood,l'inondation,,vocab
+10,the fog,le brouillard,,vocab
+10,foggy,brumeux,,vocab
+10,hot,chaud,,vocab
+10,the humidity,l'humidité,,vocab
+10,the hurricane,l'ouragan,,vocab
+10,it's windy,il y a du vent,,vocab
+10,the rain,la pluie,,vocab
+10,the snow,la neige,,vocab
+10,the sun,le soleil,,vocab
+10,it's sunny,il fait soleil,,vocab
+10,the temperature,la température,,vocab
+10,the thermometer,le thermomètre,,vocab
+10,the tornado,la tornade,,vocab
+10,windy,venteux,,vocab
+20,he is happy,il est heureux,,none
+20,she is happy,elle est heureuse,,none
+30,he is American,il est américain,,none
+30,she is American,Elle est américaine,,none
+30,man,homme,,none
+30,woman,femme,,none
+30,father,père,,none
+30,mother,mère,,none
+30,brother,frère,,none
+30,sister,sœur,,none
+30,uncle,oncle,,none
+30,aunt,tante,,none
+30,bull,taureau,,none
+30,cow,vache,,none
+30,boy,garçon,,none
+30,girl,fille,,none
+30,Past,Passé,,none
+30,I spoke,J'ai parlé,,verbs
+30,I wrote,J'ai écrit,,verbs
+30,I drove,J'ai roulé,,verbs
+30,I loved,J'ai aimé,,verbs
+30,I gave,J'ai donné,,verbs
+30,I smiled,J'ai souri,,verbs
+30,I took,J'ai pris,,verbs
+30,he spoke,il a parlé,,verbs
+30,he wrote,il a ecrit,,verbs
+30,he drove,il a conduit,,verbs
+30,he loved,il aimait,,verbs
+30,he gave,il a donné,,verbs
+30,he smiled,il sourit,,verbs
+30,he took,il a pris,,verbs
+30,we spoke,nous avons parlé,,verbs
+30,we wrote,nous avons écrit,,verbs
+30,we drove,Nous avons roulé,,verbs
+30,we loved,nous avons aimé,,verbs
+30,we gave,nous avons donné,,verbs
+30,we smiled,nous avons souri,,verbs
+30,we took,nous avons pris,,verbs
+30,Future,Avenir,,verbs
+30,I will speak,Je vais parler,,verbs
+30,I will write,Je vais écrire,,verbs
+30,I will drive,Je conduirai,,verbs
+30,I will love,J'aimerai/ J'adora,,verbs
+30,I will give,Je donnerai,,verbs
+30,I will smile,Je sourirai,,verbs
+30,I will take,Je prendrai,,verbs
+30,he will speak,Il parlera,,verbs
+30,he will write,il écrira,,verbs
+30,he will drive,Il conduira,,verbs
+30,he will love,il aimera/il adora,,verbs
+30,he will give,il donnera,,verbs
+30,he will smile,Il sourira,,verbs
+30,he will take,Il prendra,,verbs
+30,we will speak,nous parlerons,,verbs
+30,we will write,nous écrirons,,verbs
+30,we will drive,nous conduirons,,verbs
+30,we will love,Nous aimerons/Nous adorons,,verbs
+30,we will give,nous donnerons,,verbs
+30,we will smile,nous sourirons,,verbs
+30,we will take,nous prendrons,,verbs
+30,Present,Présent,,verbs
+30,I speak,Je parle,,verbs
+30,I write,J'écris,,verbs
+30,I drive,Je conduis,,verbs
+30,I love,J'adore,,verbs
+30,I give,Je donne,,verbs
+30,I smile,Je souris,,verbs
+30,I take,Je prends,,verbs
+30,he speaks,il parle,,verbs
+30,he writes,écrit-il,,verbs
+30,he drives,il conduit,,verbs
+30,he loves,il adore,,verbs
+30,he gives,il donne,,verbs
+30,he smiles,il sourit,,verbs
+30,he takes,il prend,,verbs
+30,we speak,Nous parlons,,verbs
+30,we write,nous écrire,,verbs
+30,we drive,nous conduisons,,verbs
+30,we love,nous aimons,,verbs
+30,we give,nous donnons,,verbs
+30,we smile,nous sourions,,verbs
+30,we take,Nous prenons,,verbs
+30,inside the house,intérieur de la maison,,none
+30,outside the car,extérieur de la voiture,,none
+30,with me,avec moi,,none
+30,without him,sans lui,,none
+30,under the table,sous la table,,none
+30,after tomorrow,après-demain,,none
+30,before sunset,avant le coucher du soleil,,none
+30,but I'm busy,Mais je suis occupé,,none
+30,about,sur,,none
+30,above,au-dessus,,none
+30,across,à travers,,none
+30,after,après,,none
+30,against,contre,,none
+30,among,entre,,none
+30,around,autour de,,none
+30,as,comme,,none
+30,at,à,,none
+30,before,avant,,none
+30,behind,derrière,,none
+30,below,en dessous,,none
+30,beneath,sous,,none
+30,beside,à côté de,,none
+30,between,entre,,none
+30,beyond,au-delà,,none
+30,but,mais,,none
+30,by,par,,none
+30,despite,malgré,,none
+30,down,vers le bas,,none
+30,during,au cours de,,none
+30,except,sauf,,none
+30,for,pour,,none
+30,from,à partir de,,none
+30,in,dans,,none
+30,inside,à l'intérieur,,none
+30,into,dans,,none
+30,near,près de,,none
+30,next,prochain,,none
+30,of,de,,none
+30,on,sur,,none
+30,opposite,opposé,,none
+30,out,à,,none
+30,outside,à l'extérieur,,none
+30,over,sur,,none
+30,per,par,,none
+30,plus,plus,,none
+30,round,tour,,none
+30,since,depuis,,none
+30,than,que,,none
+30,through,par,,none
+30,till,jusqu'à,,none
+30,to,à,,none
+30,toward,vers,,none
+30,under,sous,,none
+30,unlike,contrairement à,,none
+30,until,jusqu'à ce que,,none
+30,up,jusqu'à,,none
+30,via,via,,none
+30,with,avec,,none
+30,within,dans,,none
+30,without,sans,,none
+30,two words,deux mots,,none
+30,according to,selon,,none
+30,because of,en raison de,,none
+30,close to,près de,,none
+30,due to,à cause de,,none
+30,except for,à l'exception de,,none
+30,far from,loin d'être,,none
+30,inside of,l'intérieur de,,none
+30,instead of,au lieu de,,none
+30,near to,près de,,none
+30,next to,à côté de,,none
+30,outside of,en dehors des,,none
+30,prior to,avant,,none
+30,three words,trois mots,,none
+30,as far as,autant que,,none
+30,as well as,aussi bien que,,none
+30,in addition to,en plus de,,none
+30,in front of,en face de,,none
+30,in spite of,en dépit de,,none
+30,on behalf of,au nom de,,none
+30,on top of,au sommet de,,none
+30,demonstratives,prépositions démonstratifs,,none
+30,this,cette,,none
+30,that,qui,,none
+30,these,ces,,none
+30,those,ceux,,none
+10,he is not here,Il n'est pas ici,,none
+10,that is not my book,ce n'est pas mon livre,,none
+10,do not enter,ne pas entrer,,none
+10,I don't speak,Je ne parle pas,,none
+10,I don't write,Je n'écris pas,,none
+10,I don't drive,Je ne conduis pas,,none
+10,I don't love,Je n'aime pas,,none
+10,I don't give,Je ne donne pas,,none
+10,I don't smile,Je ne souris pas,,none
+10,I don't take,Je ne prends pas,,none
+10,he doesn't speak,il ne parle pas,,none
+10,he doesn't write,il n'écrit pas,,none
+10,he doesn't drive,il ne conduit pas,,none
+10,he doesn't love,il n'aime pas,,none
+10,he doesn't give,il ne donne pas,,none
+10,he doesn't smile,il ne sourit pas,,none
+10,he doesn't take,il ne prend pas,,none
+10,we don't speak,nous ne parlons pas,,none
+10,we don't write,nous n'écrivons pas,,none
+10,we don't drive,nous ne conduisons pas,,none
+10,we don't love,nous n'aimons pas,,none
+10,we don't give,nous ne donnons pas,,none
+10,we don't smile,Nous ne sourirons pad,,none
+10,we don't take,nous ne prenons pas,,none
+100,how?,comment?,,none
+100,what?,Quoi?,,none
+100,who?,qui?,,none
+100,why?,pourquoi?,,none
+100,where?,où?,,none
+10,where is he?,où est-il?,,none
+10,what is this?,Qu'est ce que c'est?,,none
+10,why are you sad?,pourquoi es-tu triste?,,none
+10,how do you want to pay?,Comment voulez-vous payer?,,none
+10,can I come?,je peux venir?,,none
+10,is he sleeping?,est-il dormir?,,none
+10,do you know me?,me connaissez-vous?,,none
+10,do you have my book?,Avez-vous mon livre?,,none
+10,how big is it?,Quelle est sa taille?,,none
+10,can I help you?,puis-je vous aider?,,none
+10,can you help me?,Pouvez-vous m'aider?,,none
+10,do you speak English?,Parlez-vous anglais?,,none
+10,how far is this?,dans quelle mesure est-ce?,,none
+10,what time is it?,Quelle heure est-il?,,none
+10,how much is this?,ça fait combien?,,none
+10,what is your name?,Quel est votre nom?/ Comment t'appelles-tu?,,none
+10,where do you live?,Où habitez-vous?,,none
+20,Australia,Australie,,vocab
+20,Cambodia,Cambodge,,vocab
+20,Canada,Canada,,vocab
+20,China,Chine,,vocab
+20,Egypt,Egypte,,vocab
+20,England,Angleterre,,vocab
+20,France,France,,vocab
+20,Germany,Allemagne,,vocab
+20,Greece,Grèce,,vocab
+20,India,Inde,,vocab
+20,Indonesia,Indonésie,,vocab
+20,Italy,Italie,,vocab
+20,Japan,Japon,,vocab
+20,Mexico,Mexique,,vocab
+20,Morocco,Maroc,,vocab
+20,Peru,Pérou,,vocab
+20,Spain,Espagne,,vocab
+20,Thailand,Thaïlande,,vocab
+20,USA,USA,,vocab
+20,Languages,Langues,,vocab
+20,Arabic,Arabe,,vocab
+20,Chinese,Chinois,,vocab
+20,English,Anglais,,vocab
+20,French,Français,,vocab
+20,German,Allemand,,vocab
+20,Greek,Grecque,,vocab
+20,Hebrew,Hébreu,,vocab
+20,Hindi,Hindi,,vocab
+20,Italian,Italien,,vocab
+20,Japanese,Japonais,,vocab
+20,Korean,Coréen,,vocab
+20,Latin,Latin,,vocab
+20,Russian,Russe,,vocab
+20,Spanish,Espagnol,,vocab
+20,Urdu,Ourdou,,vocab
+20,Days,Journées,,vocab
+20,Monday,Lundi,,vocab
+20,Tuesday,Mardi,,vocab
+20,Wednesday,Mercredi,,vocab
+20,Thursday,Jeudi,,vocab
+20,Friday,Vendredi,,vocab
+20,Saturday,Samedi,,vocab
+20,Sunday,Dimanche,,vocab
+20,time,temps,,vocab
+20,hour,heure,,vocab
+20,minute,minute,,vocab
+20,second,deuxième,,vocab
