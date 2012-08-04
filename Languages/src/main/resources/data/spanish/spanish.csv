@@ -1,0 +1,1906 @@
+1,Vocabulary,Vocabulario,,vocab
+1,Countries,Países,,vocab
+1,Australia,Australia,,vocab
+1,Cambodia,Camboya,,vocab
+1,Canada,Canadá,,vocab
+1,China,China,,vocab
+1,Egypt,Egipto,,vocab
+1,England,Inglaterra,,vocab
+1,France,Francia,,vocab
+1,Germany,Alemania,,vocab
+1,Greece,Grecia,,vocab
+1,India,India,,vocab
+1,Indonesia,Indonesia,,vocab
+1,Italy,Italia,,vocab
+1,Japan,Japón,,vocab
+1,Mexico,México,,vocab
+1,Morocco,Marruecos,,vocab
+1,Peru,Perú,,vocab
+1,Spain,España,,vocab
+1,Thailand,Tailandia,,vocab
+1,USA,EE.UU.,,vocab
+1,Languages,Idiomas,,vocab
+1,Arabic,Árabe,,vocab
+1,Chinese,Chino,,vocab
+1,English,Inglés,,vocab
+1,French,Francés,,vocab
+1,German,Alemán,,vocab
+1,Greek,Griego,,vocab
+1,Hebrew,Hebreo,,vocab
+1,Hindi,Hindi,,vocab
+1,Italian,Italiano,,vocab
+1,Japanese,Japonés,,vocab
+1,Korean,Coreano,,vocab
+1,Latin,Latín,,vocab
+1,Russian,Ruso,,vocab
+1,Spanish,Español,,vocab
+1,Urdu,Urdu,,vocab
+1,Days,Días,,vocab
+1,Monday,Lunes,,vocab
+1,Tuesday,Martes,,vocab
+1,Wednesday,Miércoles,,vocab
+1,Thursday,Jueves,,vocab
+1,Friday,Viernes,,vocab
+1,Saturday,Sábado,,vocab
+1,Sunday,Domingo,,vocab
+1,time,tiempo,,vocab
+1,hour,hora,,vocab
+1,minute,minuto,,vocab
+1,second,segundo,,vocab
+1,colors,colores,,vocab
+1,black,negro,,vocab
+1,blue,azul,,vocab
+1,brown,marrón,,vocab
+1,gray,gris,,vocab
+1,green,verde,,vocab
+1,orange,naranja,,vocab
+1,purple,púrpura,,vocab
+1,red,rojo,,vocab
+1,white,blanco,,vocab
+1,yellow,amarillo,,vocab
+1,,,,vocab
+1,sizes,tamaños,,vocab
+1,big,grande,,vocab
+1,deep,profundo,,vocab
+1,long,largo,,vocab
+1,narrow,estrecho,,vocab
+1,short,corto,,vocab
+1,small,pequeño,,vocab
+1,tall,alto,,vocab
+1,thick,espeso,,vocab
+1,thin,delgado,,vocab
+1,wide,ancho,,vocab
+1,tastes,los gustos,,vocab
+1,bitter,amargo,,vocab
+1,fresh,fresco,,vocab
+1,salty,salado,,vocab
+1,sour,agrio,,vocab
+1,spicy,picante,,vocab
+1,sweet,dulce,,vocab
+1,qualities,cualidades,,vocab
+1,bad,malo,,vocab
+1,clean,limpio,,vocab
+1,dark,oscuro,,vocab
+1,difficult,difícil,,vocab
+1,dirty,sucio,,vocab
+1,dry,seco,,vocab
+1,easy,fácil,,vocab
+1,empty,vacío,,vocab
+1,expensive,caro,,vocab
+1,fast,rápido,,vocab
+1,foreign,extranjero,,vocab
+1,full,completo,,vocab
+1,good,bueno,,vocab
+1,hard,duro,,vocab
+1,heavy,pesado,,vocab
+1,inexpensive,barato,,vocab
+1,light,ligero,,vocab
+1,local,local,,vocab
+1,new,nuevo,,vocab
+1,noisy,ruidoso,,vocab
+1,old,viejo,,vocab
+1,powerful,poderoso,,vocab
+1,quiet,tranquilo,,vocab
+1,correct,correcto,,vocab
+1,slow,lento,,vocab
+1,soft,suave,,vocab
+1,very,muy,,vocab
+1,weak,débil,,vocab
+1,wet,mojado,,vocab
+1,wrong,mal,,vocab
+1,young,joven,,vocab
+1,food,comida,,vocab
+1,almonds,almendras,,vocab
+1,bread,pan,,vocab
+1,breakfast,desayuno,,vocab
+1,butter,mantequilla,,vocab
+1,candy,dulce,,vocab
+1,cheese,queso,,vocab
+1,chicken,pollo,,vocab
+1,cumin,comino,,vocab
+1,dessert,postre,,vocab
+1,dinner,cena,,vocab
+1,fish,pescado,,vocab
+1,fruit,frutas,,vocab
+1,ice cream,helado,,vocab
+1,lamb,cordero,,vocab
+1,lemon,limón,,vocab
+1,lunch,almuerzo,,vocab
+1,meal,comida,,vocab
+1,meat,carne,,vocab
+1,oven,horno,,vocab
+1,pepper,pimienta,,vocab
+1,plants,plantas,,vocab
+1,pork,carne de cerdo,,vocab
+1,salad,ensalada,,vocab
+1,salt,sal,,vocab
+1,sandwich,sándwich,,vocab
+1,sausage,salchicha,,vocab
+1,soup,sopa,,vocab
+1,sugar,azúcar,,vocab
+1,supper,cena,,vocab
+1,turkey,pavo,,vocab
+1,apple,manzana,,vocab
+1,banana,plátano,,vocab
+1,oranges,naranjas,,vocab
+1,peaches,duraznos,,vocab
+1,peanut,maní,,vocab
+1,pears,peras,,vocab
+1,pineapple,piña,,vocab
+1,grapes,uvas,,vocab
+1,strawberries,fresas,,vocab
+1,vegetables,vegetales,,vocab
+1,carrot,zanahoria,,vocab
+1,corn,maíz,,vocab
+1,cucumber,pepino,,vocab
+1,garlic,ajo,,vocab
+1,lettuce,lechuga,,vocab
+1,olives,aceitunas,,vocab
+1,onions,cebollas,,vocab
+1,peppers,pimientos,,vocab
+1,potatoes,patatas,,vocab
+1,pumpkin,calabaza,,vocab
+1,beans,frijoles,,vocab
+1,tomatoes,tomates,,vocab
+1,alligator,caimán,,vocab
+1,alligators,caimanes,,vocab
+1,bear,oso,,vocab
+1,bears,osos,,vocab
+1,bird,pájaro,,vocab
+1,birds,las aves,,vocab
+1,bull,toro,,vocab
+1,bulls,toros,,vocab
+1,cat,gato,,vocab
+1,cats,gatos,,vocab
+1,cow,vaca,,vocab
+1,cows,vacas,,vocab
+1,deer,venado,,vocab
+1,many deer,muchos venados,,vocab
+1,dog,perro,,vocab
+1,dogs,perros,,vocab
+1,donkey,burro,,vocab
+1,donkeys,burros,,vocab
+1,eagle,águila,,vocab
+1,eagles,águilas,,vocab
+1,elephant,elefante,,vocab
+1,elephants,elefantes,,vocab
+1,giraffe,jirafa,,vocab
+1,giraffes,jirafas,,vocab
+1,goat,cabra,,vocab
+1,goats,cabras,,vocab
+1,horse,caballo,,vocab
+1,horses,caballos,,vocab
+1,lion,león,,vocab
+1,lions,leones,,vocab
+1,monkey,mono,,vocab
+1,monkeys,monos,,vocab
+1,mouse,ratón,,vocab
+1,mice,ratones,,vocab
+1,rabbit,conejo,,vocab
+1,rabbits,conejos,,vocab
+1,snake,serpiente,,vocab
+1,snakes,serpientes,,vocab
+1,tiger,tigre,,vocab
+1,tigers,tigres,,vocab
+1,wolf,lobo,,vocab
+1,wolves,lobos,,vocab
+1,objects,objetos,,vocab
+1,bathroom,cuarto de baño,,vocab
+1,bed,cama,,vocab
+1,bedroom,dormitorio,,vocab
+1,ceiling,techo,,vocab
+1,chair,silla,,vocab
+1,clothes,ropa,,vocab
+1,coat,abrigo,,vocab
+1,cup,taza,,vocab
+1,desk,escritorio,,vocab
+1,dress,vestido,,vocab
+1,floor,piso,,vocab
+1,fork,tenedor,,vocab
+1,furniture,muebles,,vocab
+1,glass,vidrio,,vocab
+1,hat,sombrero,,vocab
+1,house,casa,,vocab
+1,ink,tinta,,vocab
+1,jacket,chaqueta,,vocab
+1,kitchen,cocina,,vocab
+1,knife,cuchillo,,vocab
+1,lamp,lámpara,,vocab
+1,letter,carta,,vocab
+1,map,mapa,,vocab
+1,newspaper,periódico,,vocab
+1,notebook,cuaderno,,vocab
+1,pants,pantalones,,vocab
+1,paper,papel,,vocab
+1,pen,pluma,,vocab
+1,pencil,lápiz,,vocab
+1,pharmacy,farmacia,,vocab
+1,picture,foto,,vocab
+1,plate,placa,,vocab
+1,refrigerator,refrigerador,,vocab
+1,restaurant,restaurante,,vocab
+1,roof,techo,,vocab
+1,room,habitación,,vocab
+1,rug,alfombra,,vocab
+1,scissors,tijeras,,vocab
+1,shampoo,champú,,vocab
+1,shirt,camisa,,vocab
+1,shoes,zapatos,,vocab
+1,soap,jabón,,vocab
+1,socks,calcetines,,vocab
+1,spoon,cuchara,,vocab
+1,table,tabla,,vocab
+1,toilet,inodoro,,vocab
+1,toothbrush,cepillo de dientes,,vocab
+1,toothpaste,pasta dentífrica,,vocab
+1,towel,toalla,,vocab
+1,umbrella,paraguas,,vocab
+1,underwear,ropa interior,,vocab
+1,wall,pared,,vocab
+1,wallet,cartera,,vocab
+1,window,ventana,,vocab
+1,telephone,teléfono,,vocab
+1,this,esto/ esta,,vocab
+1,that,que,,vocab
+1,these,estos,,vocab
+1,those,aquellos,,vocab
+1,Questions,Preguntas,,vocab
+1,how?,¿cómo?,,vocab
+1,what?,¿qué?,,vocab
+1,who?,quién?,,vocab
+1,why?,¿por qué?,,vocab
+1,where?,¿dónde?,,vocab
+1,different objects,diferentes objetos,,vocab
+1,art,arte,,vocab
+1,bank,banco,,vocab
+1,beach,playa,,vocab
+1,book,libro,,vocab
+1,by bicycle,en bicicleta,,vocab
+1,by bus,en autobús,,vocab
+1,by car,en coche,,vocab
+1,by train,en tren,,vocab
+1,cafe,café,,vocab
+1,country,país,,vocab
+1,desert,desierto,,vocab
+1,dictionary,diccionario,,vocab
+1,earth,tierra,,vocab
+1,flowers,flores,,vocab
+1,football,fútbol,,vocab
+1,forest,bosque,,vocab
+1,game,juego,,vocab
+1,garden,jardín,,vocab
+1,geography,geografía,,vocab
+1,history,historia,,vocab
+1,house,casa,,vocab
+1,island,isla,,vocab
+1,lake,lago,,vocab
+1,library,biblioteca,,vocab
+1,math,matemáticas,,vocab
+1,moon,luna,,vocab
+1,mountain,montaña,,vocab
+1,movies,cine,,vocab
+1,music,música,,vocab
+1,ocean,océano,,vocab
+1,office,oficina,,vocab
+1,on foot,a pie,,vocab
+1,player,jugador,,vocab
+1,river,río,,vocab
+1,science,ciencia,,vocab
+1,sea,mar,,vocab
+1,sky,cielo,,vocab
+1,soccer,fútbol,,vocab
+1,stars,estrellas,,vocab
+1,supermarket,supermercado,,vocab
+1,swimming pool,piscina,,vocab
+1,theater,teatro,,vocab
+1,tree,árbol,,vocab
+1,weather,tiempo,,vocab
+1,bad weather,mal tiempo,,vocab
+1,cloudy,nublado,,vocab
+1,cold,frío,,vocab
+1,cool,fresco,,vocab
+1,foggy,brumoso,,vocab
+1,hot,caliente,,vocab
+1,nice weather,Cuando hace buen tiempo,,vocab
+1,pouring,verter,,vocab
+1,rain,lluvia,,vocab
+1,raining,lloviendo,,vocab
+1,snow,nieve,,vocab
+1,snowing,nevando,,vocab
+1,ice,hielo,,vocab
+1,sunny,soleado,,vocab
+1,windy,ventoso,,vocab
+1,spring,primavera,,vocab
+1,summer,verano,,vocab
+1,autumn,otoño,,vocab
+1,winter,invierno,,vocab
+1,people,personas,,vocab
+1,aunt,tía,,vocab
+1,baby,bebé,,vocab
+1,brother,hermano,,vocab
+1,cousin,primo,,vocab
+1,daughter,hija,,vocab
+1,dentist,dentista,,vocab
+1,doctor,médico,,vocab
+1,father,padre,,vocab
+1,grandfather,abuelo,,vocab
+1,grandmother,abuela,,vocab
+1,husband,marido,,vocab
+1,mother,madre,,vocab
+1,nephew,sobrino,,vocab
+1,niece,sobrina,,vocab
+1,nurse,enfermera,,vocab
+1,policeman,policía,,vocab
+1,postman,cartero,,vocab
+1,professor,profesor,,vocab
+1,son,hijo,,vocab
+1,teacher,profesor,,vocab
+1,uncle,tío,,vocab
+1,wife,esposa,,vocab
+1,adjectives,adjetivos,,vocab
+1,a green tree,un árbol verde,,vocab
+1,a tall building,un edificio alto,,vocab
+1,a very old man,un hombre muy viejo,,vocab
+1,the old red house,la casa roja vieja,,vocab
+1,a very nice friend,un amigo muy agradable,,vocab
+1,colors,colores,,vocab
+1,black,negro,,vocab
+1,blue,azul,,vocab
+1,brown,marrón,,vocab
+1,gray,gris,,vocab
+1,green,verde,,vocab
+1,orange,naranja,,vocab
+1,purple,púrpura,,vocab
+1,red,rojo,,vocab
+1,white,blanco,,vocab
+1,yellow,amarillo,,vocab
+1,sizes,tamaños,,vocab
+1,big,grande,,vocab
+1,deep,profundo,,vocab
+1,long,largo,,vocab
+1,narrow,estrecho,,vocab
+1,short,corto,,vocab
+1,small,pequeño,,vocab
+1,tall,alto,,vocab
+1,thick,espeso,,vocab
+1,thin,delgado,,vocab
+1,wide,ancho,,vocab
+1,shapes,formas,,vocab
+1,circular,circular,,vocab
+1,straight,cuadrado,,vocab
+1,square,cuadrado,,vocab
+1,triangular,triangular,,vocab
+1,tastes,los gustos,,vocab
+1,bitter,amargo,,vocab
+1,fresh,fresco,,vocab
+1,salty,salado,,vocab
+1,sour,agrio,,vocab
+1,spicy,picante,,vocab
+1,sweet,dulce,,vocab
+1,qualities,cualidades,,vocab
+1,bad,malo,,vocab
+1,clean,limpio,,vocab
+1,dark,oscuro,,vocab
+1,difficult,difícil,,vocab
+1,dirty,sucio,,vocab
+1,dry,seco,,vocab
+1,easy,fácil,,vocab
+1,empty,vacío,,vocab
+1,expensive,caro,,vocab
+1,fast,rápido,,vocab
+1,foreign,extranjero,,vocab
+1,full,completo,,vocab
+1,good,bueno,,vocab
+1,hard,duro,,vocab
+1,heavy,pesado,,vocab
+1,inexpensive,barato,,vocab
+1,light,ligero,,vocab
+1,local,local,,vocab
+1,new,nuevo,,vocab
+1,noisy,ruidoso,,vocab
+1,old,viejo,,vocab
+1,powerful,poderoso,,vocab
+1,quiet,tranquilo,,vocab
+1,correct,correcto,,vocab
+1,slow,lento,,vocab
+1,soft,suave,,vocab
+1,very,muy,,vocab
+1,weak,débil,,vocab
+1,wet,mojado,,vocab
+1,wrong,mal,,vocab
+1,young,joven,,vocab
+1,quantities,cantidades,,vocab
+1,few,pocos,,vocab
+1,little,poco,,vocab
+1,many,muchos,,vocab
+1,much,mucho,,vocab
+1,part,parte,,vocab
+1,some,algunos,,vocab
+1,a few,unos pocos,,vocab
+1,whole,todo,,vocab
+1,adverbs,adverbios,,vocab
+1,I read a book sometimes,Leo un libro a veces,,vocab
+1,I will never smoke,Nunca fumaré,,vocab
+1,are you alone?,¿estás sola?,,vocab
+1,adverbs of time,adverbios de tiempo,,vocab
+1,yesterday,ayer,,vocab
+1,today,hoy,,vocab
+1,tomorrow,mañana,,vocab
+1,now,ahora,,vocab
+1,then,entonces,,vocab
+1,later,más tarde,,vocab
+1,tonight,esta noche,,vocab
+1,right now,ahora mismo,,vocab
+1,last night,anoche,,vocab
+1,this morning,esta mañana,,vocab
+1,next week,semana próxima,,vocab
+1,already,ya,,vocab
+1,recently,recientemente,,vocab
+1,lately,últimamente,,vocab
+1,soon,pronto,,vocab
+1,immediately,inmediatamente,,vocab
+1,still,aún,,vocab
+1,yet,todavía,,vocab
+1,ago,hace,,vocab
+1,adverbs of place,adverbios de lugar,,vocab
+1,here,aquí,,vocab
+1,there,ahí,,vocab
+1,over there,por ahí,,vocab
+1,everywhere,en todas partes,,vocab
+1,anywhere,dondequiera,,vocab
+1,nowhere,en ninguna parte,,vocab
+1,home,casa,,vocab
+1,away,lejos,,vocab
+1,out,fuera,,vocab
+1,adverbs of manner,adverbios de manera,,vocab
+1,very,muy,,vocab
+1,quite,bastante,,vocab
+1,pretty,bastante,,vocab
+1,really,realmente,,vocab
+1,fast,rápido,,vocab
+1,well,bien,,vocab
+1,hard,duro,,vocab
+1,quickly,rápidamente,,vocab
+1,slowly,despacio,,vocab
+1,carefully,cuidadosamente,,vocab
+1,hardly,apenas,,vocab
+1,barely,apenas,,vocab
+1,mostly,en su mayoría,,vocab
+1,almost,casi,,vocab
+1,absolutely,absolutamente,,vocab
+1,together,juntos,,vocab
+1,alone,solo,,vocab
+1,adverbs of frequency,adverbios de frecuencia,,vocab
+1,always,siempre,,vocab
+1,frequently,frecuentemente,,vocab
+1,usually,por lo general,,vocab
+1,sometimes,a veces,,vocab
+1,occasionally,de vez en cuando,,vocab
+1,seldom,raramente,,vocab
+1,rarely,rara vez,,vocab
+1,never,nunca,,vocab
+1,nouns,pronombres,,vocab
+1,my car,mi coche,,vocab
+1,green car,coche verde,,vocab
+1,three cars,tres coches,,vocab
+1,car garage,Garage para coche,,vocab
+1,outside the car,fuera del coche,,vocab
+1,arm,brazo,,vocab
+1,back,espalda,,vocab
+1,cheeks,las mejillas,,vocab
+1,chest,pecho,,vocab
+1,chin,barbilla,,vocab
+1,ear,oreja,,vocab
+1,elbow,codo,,vocab
+1,eye,ojo,,vocab
+1,face,cara,,vocab
+1,finger,dedo,,vocab
+1,fingers,los dedos,,vocab
+1,foot,pie,,vocab
+1,hair,cabello,,vocab
+1,hand,mano,,vocab
+1,head,cabeza,,vocab
+1,heart,corazón,,vocab
+1,knee,rodilla,,vocab
+1,leg,pierna,,vocab
+1,lip,labio,,vocab
+1,mouth,boca,,vocab
+1,neck,cuello,,vocab
+1,nose,nariz,,vocab
+1,shoulder,hombro,,vocab
+1,stomach,estómago,,vocab
+1,teeth,dientes,,vocab
+1,thigh,muslo,,vocab
+1,throat,garganta,,vocab
+1,thumb,pulgar,,vocab
+1,toe,dedo del pie,,vocab
+1,tongue,lengua,,vocab
+1,tooth,diente,,vocab
+1,articles,artículos,,vocab
+1,the,el,,vocab
+1,a,una,,vocab
+1,one,uno,,vocab
+1,some,algunos,,vocab
+1,few,pocos,,vocab
+1,the book,el libro,,vocab
+1,the books,los libros,,vocab
+1,a book,un libro,,vocab
+1,one book,un libro,,vocab
+1,some books,algunos libros,,vocab
+1,few books,pocos libros,,vocab
+1,Food,comida,,vocab
+1,almonds,almendras,,vocab
+1,bread,pan,,vocab
+1,breakfast,desayuno,,vocab
+1,butter,mantequilla,,vocab
+1,candy,dulce,,vocab
+1,cheese,queso,,vocab
+1,chicken,pollo,,vocab
+1,cumin,comino,,vocab
+1,dessert,postre,,vocab
+1,dinner,cena,,vocab
+1,fish,pescado,,vocab
+1,fruit,frutas,,vocab
+1,ice cream,helado,,vocab
+1,lamb,cordero,,vocab
+1,lemon,limón,,vocab
+1,lunch,almuerzo,,vocab
+1,meal,comida,,vocab
+1,meat,carne,,vocab
+1,oven,horno,,vocab
+1,pepper,pimienta,,vocab
+1,plants,plantas,,vocab
+1,pork,carne de cerdo,,vocab
+1,salad,ensalada,,vocab
+1,salt,sal,,vocab
+1,sandwich,sándwich,,vocab
+1,sausage,salchicha,,vocab
+1,soup,sopa,,vocab
+1,sugar,azúcar,,vocab
+1,supper,cena,,vocab
+1,turkey,pavo,,vocab
+1,apple,manzana,,vocab
+1,banana,plátano,,vocab
+1,oranges,naranjas,,vocab
+1,peaches,duraznos,,vocab
+1,peanut,maní,,vocab
+1,pears,peras,,vocab
+1,pineapple,piña,,vocab
+1,grapes,uvas,,vocab
+1,strawberries,fresas,,vocab
+1,vegetables,vegetales,,vocab
+1,carrot,zanahoria,,vocab
+1,corn,maíz,,vocab
+1,cucumber,pepino,,vocab
+1,garlic,ajo,,vocab
+1,lettuce,lechuga,,vocab
+1,olives,aceitunas,,vocab
+1,onions,cebollas,,vocab
+1,peppers,pimientos,,vocab
+1,potatoes,patatas,,vocab
+1,pumpkin,calabaza,,vocab
+1,beans,frijoles,,vocab
+1,tomatoes,tomates,,vocab
+1,Pronouns,Pronombres,,vocab
+1,I,Yo,,vocab
+1,you,tu/ usted,,vocab
+1,he,él,,vocab
+1,she,ella,,vocab
+1,we,nosotros,,vocab
+1,they,ellos,,vocab
+1,me,yo,,vocab
+1,you,tu/ usted,,vocab
+1,him,él/ lo/ le,,vocab
+1,her,ella/ le,,vocab
+1,us,nosotros,,vocab
+1,them,ellos,,vocab
+1,my,mi,,vocab
+1,your,su,,vocab
+1,his,su,,vocab
+1,her,su,,vocab
+1,our,nuestro,,vocab
+1,their,su,,vocab
+1,mine,mio/ mia,,vocab
+1,yours,tuyo,,vocab
+1,his,suyo,,vocab
+1,hers,suyo,,vocab
+1,ours,nuestro,,vocab
+1,theirs,suyo,,vocab
+1,I speak,Hablo,,vocab
+1,you speak,hablas/ habla,,vocab
+1,he speaks,habla,,vocab
+1,she speaks,habla,,vocab
+1,we speak,hablamos,,vocab
+1,they speak,hablan,,vocab
+1,give me,dame,,vocab
+1,give you,darte,,vocab
+1,give him,dale,,vocab
+1,give her,dale,,vocab
+1,give us,danos,,vocab
+1,give them,dales,,vocab
+1,my book,mi libro,,vocab
+1,your book,tu/ su,,vocab
+1,his book,su libro,,vocab
+1,her book,su libro,,vocab
+1,our book,nuestro libro,,vocab
+1,their book,su libro,,vocab
+1,Plural,Plural,,vocab
+1,my book,mi libro,,vocab
+1,my books,mis libros,,vocab
+1,our daughter,nuestra hija,,vocab
+1,our daughters,nuestras hijas,,vocab
+1,I'm cold,Tengo frío,,vocab
+1,we're cold,tenemos frio,,vocab
+1,his chickens,sus pollos,,vocab
+1,their chicken,su pollo,,vocab
+1,alligator,caimán,,vocab
+1,alligators,caimanes,,vocab
+1,bear,oso,,vocab
+1,bears,osos,,vocab
+1,bird,pájaro,,vocab
+1,birds,las aves,,vocab
+1,bull,toro,,vocab
+1,bulls,toros,,vocab
+1,cat,gato,,vocab
+1,cats,gatos,,vocab
+1,cow,vaca,,vocab
+1,cows,vacas,,vocab
+1,deer,venado,,vocab
+1,many deer,muchos venados,,vocab
+1,dog,perro,,vocab
+1,dogs,perros,,vocab
+1,donkey,burro,,vocab
+1,donkeys,burros,,vocab
+1,eagle,águila,,vocab
+1,eagles,águilas,,vocab
+1,elephant,elefante,,vocab
+1,elephants,elefantes,,vocab
+1,giraffe,jirafa,,vocab
+1,giraffes,jirafas,,vocab
+1,goat,cabra,,vocab
+1,goats,cabras,,vocab
+1,horse,caballo,,vocab
+1,horses,caballos,,vocab
+1,lion,león,,vocab
+1,lions,leones,,vocab
+1,monkey,mono,,vocab
+1,monkeys,monos,,vocab
+1,mouse,ratón,,vocab
+1,mice,ratones,,vocab
+1,rabbit,conejo,,vocab
+1,rabbits,conejos,,vocab
+1,snake,serpiente,,vocab
+1,snakes,serpientes,,vocab
+1,tiger,tigre,,vocab
+1,tigers,tigres,,vocab
+1,wolf,lobo,,vocab
+1,wolves,lobos,,vocab
+1,Feminine,Femenino,,vocab
+1,he is happy,él es feliz,,vocab
+1,she is happy,ella es feliz,,vocab
+1,he is American,es americano,,vocab
+1,she is American,ella es americana,,vocab
+1,man,hombre,,vocab
+1,woman,mujer,,vocab
+1,father,padre,,vocab
+1,mother,madre,,vocab
+1,brother,hermano,,vocab
+1,sister,hermana,,vocab
+1,uncle,tío,,vocab
+1,aunt,tía,,vocab
+1,bull,toro,,vocab
+1,cow,vaca,,vocab
+1,boy,niño,,vocab
+1,girl,chica,,vocab
+1,objects,objetos,,vocab
+1,bathroom,cuarto de baño,,vocab
+1,bed,cama,,vocab
+1,bedroom,dormitorio,,vocab
+1,ceiling,techo,,vocab
+1,chair,silla,,vocab
+1,clothes,ropa,,vocab
+1,coat,abrigo,,vocab
+1,cup,taza,,vocab
+1,desk,escritorio,,vocab
+1,dress,vestido,,vocab
+1,floor,piso,,vocab
+1,fork,tenedor,,vocab
+1,furniture,muebles,,vocab
+1,glass,vidrio,,vocab
+1,hat,sombrero,,vocab
+1,house,casa,,vocab
+1,ink,tinta,,vocab
+1,jacket,chaqueta,,vocab
+1,kitchen,cocina,,vocab
+1,knife,cuchillo,,vocab
+1,lamp,lámpara,,vocab
+1,letter,carta,,vocab
+1,map,mapa,,vocab
+1,newspaper,periódico,,vocab
+1,notebook,cuaderno,,vocab
+1,pants,pantalones,,vocab
+1,paper,papel,,vocab
+1,pen,pluma,,vocab
+1,pencil,lápiz,,vocab
+1,pharmacy,farmacia,,vocab
+1,picture,foto,,vocab
+1,plate,placa,,vocab
+1,refrigerator,refrigerador,,vocab
+1,restaurant,restaurante,,vocab
+1,roof,techo,,vocab
+1,room,habitación,,vocab
+1,rug,alfombra,,vocab
+1,scissors,tijeras,,vocab
+1,shampoo,champú,,vocab
+1,shirt,camisa,,vocab
+1,shoes,zapatos,,vocab
+1,soap,jabón,,vocab
+1,socks,calcetines,,vocab
+1,spoon,cuchara,,vocab
+1,table,tabla,,vocab
+1,toilet,inodoro,,vocab
+1,toothbrush,cepillo de dientes,,vocab
+1,toothpaste,pasta dentífrica,,vocab
+1,towel,toalla,,vocab
+1,umbrella,paraguas,,vocab
+1,underwear,ropa interior,,vocab
+1,wall,pared,,vocab
+1,wallet,cartera,,vocab
+1,window,ventana,,vocab
+1,telephone,teléfono,,vocab
+1,Verbs,Verbos,,vocab
+1,Past,Pasado,,vocab
+1,I spoke,Hablé,,vocab
+1,I wrote,Escribí,,vocab
+1,I drove,Manejé,,vocab
+1,I loved,Me encantó,,vocab
+1,I gave,Di,,vocab
+1,I smiled,Sonreí,,vocab
+1,I took,Tomé,,vocab
+1,he spoke,habló,,vocab
+1,he wrote,escribió,,vocab
+1,he drove,condujo,,vocab
+1,he loved,amó,,vocab
+1,he gave,dio,,vocab
+1,he smiled,sonrió,,vocab
+1,he took,tomó,,vocab
+1,we spoke,hablamos,,vocab
+1,we wrote,escribimos,,vocab
+1,we drove,manejamos,,vocab
+1,we loved,amamos,,vocab
+1,we gave,dimos,,vocab
+1,we smiled,sonreimos,,vocab
+1,we took,tomamos,,vocab
+1,Future,Futuro,,vocab
+1,I will speak,hablaré,,vocab
+1,I will write,escribiré,,vocab
+1,I will drive,manejaré,,vocab
+1,I will love,Amaré,,vocab
+1,I will give,Daré,,vocab
+1,I will smile,sonreiré,,vocab
+1,I will take,Tomaré,,vocab
+1,he will speak,hablará,,vocab
+1,he will write,escribirá,,vocab
+1,he will drive,manejará,,vocab
+1,he will love,le va a encantar,,vocab
+1,he will give,dará,,vocab
+1,he will smile,sonreirá,,vocab
+1,he will take,tomará,,vocab
+1,we will speak,hablaremos,,vocab
+1,we will write,escribiremos,,vocab
+1,we will drive,nos dirigiremos,,vocab
+1,we will love,amaremos,,vocab
+1,we will give,daremos,,vocab
+1,we will smile,sonreiremos,,vocab
+1,we will take,tomaremos,,vocab
+1,Present,Presente,,vocab
+1,I speak,Hablo,,vocab
+1,I write,Escribo,,vocab
+1,I drive,Conduzco,,vocab
+1,I love,Me encanta,,vocab
+1,I give,Doy,,vocab
+1,I smile,Sonrío,,vocab
+1,I take,tomo,,vocab
+1,he speaks,habla,,vocab
+1,he writes,escribe,,vocab
+1,he drives,conduce,,vocab
+1,he loves,ama,,vocab
+1,he gives,da,,vocab
+1,he smiles,sonríe,,vocab
+1,he takes,toma,,vocab
+1,we speak,hablamos,,vocab
+1,we write,escribimos,,vocab
+1,we drive,conducimos,,vocab
+1,we love,nos encanta,,vocab
+1,we give,damos,,vocab
+1,we smile,sonreímos,,vocab
+1,we take,tomamos,,vocab
+1,I can accept that,puedo aceptar eso,,vocab
+1,she added it,se añadió,,vocab
+1,we admit it,lo admitimos,,vocab
+1,they advised him,le aconsejaron,,vocab
+1,I can agree with that,puedo estar de acuerdo con eso,,vocab
+1,she allows it,ella lo permite,,vocab
+1,we announce it,lo anunciamos,,vocab
+1,I can apologize,puedo pedir disculpas,,vocab
+1,she appears today,parece hoy o ella parece hoy,,vocab
+1,they arranged that,ellos arreglaron que..o arreglaron que,,vocab
+1,I can arrive tomorrow,Puedo llegar mañana,,vocab
+1,she can ask him,ella puede pedirle,,vocab
+1,she attaches that,ella adjunto eso,,vocab
+1,we attack them,los atacamos,,vocab
+1,they avoid her,ellos la evitan,,vocab
+1,I can bake it,Puedo hornear,,vocab
+1,she is like him,ella es como él,,vocab
+1,we beat it,ganamos,,vocab
+1,they became happy,se convirtieron en felices,,vocab
+1,I can begin that,puedo iniciar eso,,vocab
+1,we borrowed money,pedimos dinero prestado,,vocab
+1,they breathe air,respiran aire,,vocab
+1,I can bring it,puedo traerlo,,vocab
+1,I can build that,puedo construirlo,,vocab
+1,she buys food,ella compra alimentos,,vocab
+1,we calculate it,lo calculamos,,vocab
+1,they carry it,lo llevan,,vocab
+1,they don't cheat,no hacen trampa,,vocab
+1,she chooses him,ella lo elige,,vocab
+1,we close it,lo cerramos,,vocab
+1,he comes here,aquí viene,,vocab
+1,I can compare that,puedo compararlo,,vocab
+1,she competes with me,ella compite conmigo,,vocab
+1,we complain about it,nos quejamos de eso,,vocab
+1,they continued reading,siguieron leyendo,,vocab
+1,he cried about that,él lloró por eso,,vocab
+1,I can decide now,Yo puedo decidir ahora,,vocab
+1,she described it to me,ella me lo describió,,vocab
+1,we disagree about it,no estamos de acuerdo en ello,,vocab
+1,they disappeared quickly,desaparecieron rápidamente,,vocab
+1,I discovered that,Descubrí que,,vocab
+1,she dislikes that,no le gusta que,,vocab
+1,we do it,lo hacemos,,vocab
+1,they dream about it,ellos sueñan con eso,,vocab
+1,I earned,Obtuve,,vocab
+1,he eats a lot,él come mucho,,vocab
+1,we enjoyed that,lo disfrutamos,,vocab
+1,they entered here,entraron aquí,,vocab
+1,he escaped that,el se escapó,,vocab
+1,I can explain that,puedo explicarlo,,vocab
+1,she feels that too,ella lo siente también,,vocab
+1,we fled from there,huimos de allí,,vocab
+1,they will fly tomorrow,volarán mañana,,vocab
+1,I can follow you,puedo seguirte,,vocab
+1,she forgot me,ella me olvidó,,vocab
+1,we forgive him,lo perdonamos,,vocab
+1,I can give her that,yo puedo darle (a ella),,vocab
+1,she goes there,ella va allí,,vocab
+1,we greeted them,Los saludamos,,vocab
+1,I hate that,odio eso,,vocab
+1,I can hear it,puedo escucharlo,,vocab
+1,she imagine that,ella imagina eso,,vocab
+1,we invited them,los invitamos,,vocab
+1,I know him,Yo lo conozco,,vocab
+1,she learned it,lo aprendió,,vocab
+1,we leave now,nos vamos ahora,,vocab
+1,they lied about him,mintieron sobre él,,vocab
+1,I can listen to that,puedo escuchar eso,,vocab
+1,she lost that,lo perdió,,vocab
+1,we made it yesterday,lo hicimos ayer,,vocab
+1,they met him,se encontraron con él,,vocab
+1,I misspell that,lo escribo mal,,vocab
+1,I always pray,Siempre rezo,,vocab
+1,she prefers that,ella prefiere eso,,vocab
+1,we protected them,los protegemos,,vocab
+1,they will punish her,la van a castigar,,vocab
+1,I can put it there,lo puedo poner ahí,,vocab
+1,she will read it,ella lo va a leer,,vocab
+1,we received that,lo recibimos,,vocab
+1,they refuse to talk,se niegan a hablar,,vocab
+1,I remember that,recuerdo eso,,vocab
+1,she repeats that,o repite eso,,vocab
+1,we see it,lo vemos,,vocab
+1,they sell it,lo venden,,vocab
+1,I sent that yesterday,lo envié ayer,,vocab
+1,he shaved his beard,se afeitó la barba,,vocab
+1,it shrunk quickly,se redujo rápidamente,,vocab
+1,we will sing it,vamos a cantar,,vocab
+1,they sat there,se sentaron ahí,,vocab
+1,I can speak it,Puedo hablar,,vocab
+1,she spends money,ella gasta dinero,,vocab
+1,we suffered from that,sufrimos por eso,,vocab
+1,they suggest that,sugieren que,,vocab
+1,I surprised him,lo sorprendí,,vocab
+1,she took that,ella tomó eso,,vocab
+1,we teach it,lo enseñamos,,vocab
+1,they told us,nos dijeron,,vocab
+1,she thanked him,le agradeció,,vocab
+1,I can think about it,Puedo pensar en ello,,vocab
+1,she threw it,lo arrojó,,vocab
+1,we understand that,entendemos eso,,vocab
+1,they want that,ellos quieren eso,,vocab
+1,I can wear it,puedo usar eso,,vocab
+1,she writes that,ella escribe eso,,vocab
+1,we talk about it,hablamos de eso,,vocab
+1,they have it,la tienen,,vocab
+1,I watched it,la vi,,vocab
+1,I will talk about it,Voy a hablar de ello,,vocab
+1,he bought that yesterday,lo compró ayer,,vocab
+1,we finished it,lo terminamos,,vocab
+1,Prepositions,Preposiciones,,vocab
+1,inside the house,dentro de la casa,,vocab
+1,outside the car,fuera del coche,,vocab
+1,with me,conmigo,,vocab
+1,without him,sin él,,vocab
+1,under the table,bajo la mesa,,vocab
+1,after tomorrow,pasado mañana,,vocab
+1,before sunset,antes del atardecer,,vocab
+1,but I'm busy,pero yo estoy ocupado,,vocab
+1,about,sobre,,vocab
+1,above,por encima,,vocab
+1,across,a través de,,vocab
+1,after,después de,,vocab
+1,against,contra,,vocab
+1,among,entre,,vocab
+1,around,alrededor de,,vocab
+1,as,como,,vocab
+1,at,en,,vocab
+1,before,antes,,vocab
+1,behind,detrás de,,vocab
+1,below,por debajo de,,vocab
+1,beneath,bajo,,vocab
+1,beside,al lado de,,vocab
+1,between,entre,,vocab
+1,beyond,más allá de,,vocab
+1,but,pero,,vocab
+1,by,por,,vocab
+1,despite,a pesar de,,vocab
+1,down,abajo,,vocab
+1,during,durante,,vocab
+1,except,salvo,,vocab
+1,for,para,,vocab
+1,from,de,,vocab
+1,in,en,,vocab
+1,inside,dentro,,vocab
+1,into,en,,vocab
+1,near,cerca de,,vocab
+1,next,próximo,,vocab
+1,of,de,,vocab
+1,on,en,,vocab
+1,opposite,opuesto,,vocab
+1,out,fuera,,vocab
+1,outside,fuera,,vocab
+1,over,encima,,vocab
+1,per,por,,vocab
+1,plus,más,,vocab
+1,round,alrededor,,vocab
+1,since,desde,,vocab
+1,than,que,,vocab
+1,through,a través de,,vocab
+1,till,hasta,,vocab
+1,to,a,,vocab
+1,toward,hacia,,vocab
+1,under,bajo,,vocab
+1,unlike,a diferencia de,,vocab
+1,until,hasta,,vocab
+1,up,arriba,,vocab
+1,via,vía,,vocab
+1,with,con,,vocab
+1,within,dentro de,,vocab
+1,without,sin,,vocab
+1,two words,dos palabras,,vocab
+1,according to,de acuerdo con,,vocab
+1,because of,a causa de,,vocab
+1,close to,cerca de,,vocab
+1,due to,debido a,,vocab
+1,except for,salvo,,vocab
+1,far from,lejos de,,vocab
+1,inside of,dentro de,,vocab
+1,instead of,en lugar de,,vocab
+1,near to,cerca de,,vocab
+1,next to,al lado de,,vocab
+1,outside of,fuera de,,vocab
+1,prior to,antes de,,vocab
+1,three words,tres palabras,,vocab
+1,as far as,en lo que,,vocab
+1,as well as,así como,,vocab
+1,in addition to,además de,,vocab
+1,in front of,delante de,,vocab
+1,in spite of,a pesar de,,vocab
+1,on behalf of,en nombre de,,vocab
+1,on top of,encima de,,vocab
+1,demonstratives,preposiciones demostrativas,,vocab
+1,this,esto/ esta,,vocab
+1,that,que,,vocab
+1,these,estos,,vocab
+1,those,aquellos,,vocab
+1,Negation,Negación,,vocab
+1,he is not here,él no está aquí,,vocab
+1,that is not my book,no es mi libro,,vocab
+1,do not enter,no entre,,vocab
+1,I don't speak,Yo no hablo,,vocab
+1,I don't write,Yo no escribo,,vocab
+1,I don't drive,Yo no conduzco,,vocab
+1,I don't love,No me gusta,,vocab
+1,I don't give,Yo no doy,,vocab
+1,I don't smile,No sonrío,,vocab
+1,I don't take,No tomo,,vocab
+1,he doesn't speak,no habla,,vocab
+1,he doesn't write,no escribe,,vocab
+1,he doesn't drive,no conduce,,vocab
+1,he doesn't love,no ama,,vocab
+1,he doesn't give,no da,,vocab
+1,he doesn't smile,no sonrie,,vocab
+1,he doesn't take,él no toma,,vocab
+1,we don't speak,no hablamos,,vocab
+1,we don't write,no escribimos,,vocab
+1,we don't drive,no conducimos,,vocab
+1,we don't love,no amamos,,vocab
+1,we don't give,no damos,,vocab
+1,we don't smile,no sonreimos,,vocab
+1,we don't take,no tomamos,,vocab
+1,Questions,Preguntas,,vocab
+1,how?,¿cómo?,,vocab
+1,what?,¿qué?,,vocab
+1,who?,quién?,,vocab
+1,why?,¿por qué?,,vocab
+1,where?,¿dónde?,,vocab
+1,where is he?,¿dónde está?,,vocab
+1,what is this?,¿Qué es esto?,,vocab
+1,why are you sad?,¿Por qué estás triste?,,vocab
+1,how do you want to pay?,¿Cómo desea pagar?,,vocab
+1,,,,vocab
+1,can I come?,¿puedo ir?,,vocab
+1,is he sleeping?,¿Está durmiendo?,,vocab
+1,do you know me?,¿me conoces?,,vocab
+1,do you have my book?,¿tiene mi libro?,,vocab
+1,how big is it?,¿cuán grande es?,,vocab
+1,can I help you?,te puedo ayudar?,,vocab
+1,can you help me?,¿me pueden ayudar?,,vocab
+1,do you speak English?,¿hablas ingles?,,vocab
+1,how far is this?,¿cuán lejos está?,,vocab
+1,what time is it?,qué hora es?,,vocab
+1,how much is this?,¿Cuánto cuesta esto?,,vocab
+1,what is your name?,¿cuál es su nombre?,,vocab
+1,where do you live?,¿dónde vive?,,vocab
+1,the animals,los animales,,vocab
+1,the bear ,el oso,,vocab
+1,the beaver,el castor,,vocab
+1,the cat ,el gato,,vocab
+1,the chimpanzee,el chimpancé,,vocab
+1,the deer ,el venado,,vocab
+1,the dog ,el perro,,vocab
+1,the elephant ,el elefante,,vocab
+1,the fish,el pez,,vocab
+1,the fox,el zorro,,vocab
+1,the goat,la cabra,,vocab
+1,the gorilla ,el gorila,,vocab
+1,the hippopotamus ,el hipopótamo,,vocab
+1,the horse ,el caballo,,vocab
+1,the hyena,la hiena,,vocab
+1,the kangaroo ,el canguro,,vocab
+1,the kitten,el gatito,,vocab
+1, the leopard ,el leopardo,,vocab
+1,the llama ,la llama,,vocab
+1,the monkey ,el mono,,vocab
+1,the mouse ,el ratón,,vocab
+1,the panda ,el panda,,vocab
+1,the penguin ,el pingüino,,vocab
+1,the pet ,la mascota,,vocab
+1,the puppy ,el cachorro,,vocab
+1,the rabbit ,el conejo,,vocab
+1,the rat ,la rata,,vocab
+1,the rhino ,el rinoceronte,,vocab
+1,the sheep ,la oveja,,vocab
+1,the squirrel ,la ardilla,,vocab
+1,the tiger ,el tigre,,vocab
+1,the whale ,la ballena,,vocab
+1,the wolf ,el lobo,,vocab
+1,the zebra ,la cebra ,,vocab
+1,the blender ,la licuadora,,vocab
+1,the dishwasher ,el lavaplatos,,vocab
+1,the dryer ,la secadora,,vocab
+1,the freezer ,el congelador,,vocab
+1,the fridge ,el refrigerador,,vocab
+1,the iron ,la plancha,,vocab
+1,the microwave ,el horno de microondas,,vocab
+1,the oven ,el horno,,vocab
+1,the toaster ,el tostador,,vocab
+1,the washer ,la lavadora,,vocab
+1,the water heater,el calentador de agua,,vocab
+1,the balloons ,los globos,,vocab
+1,the cake ,el pastel,,vocab
+1,the frosting,la escarcha,,vocab
+1,the ice,el hielo,,vocab
+1,the ice cream ,el helado,,vocab
+1,the piñata ,la piñata,,vocab
+1,the presents ,los regalos,,vocab
+1,the soda ,el refresco,,vocab
+1,the sand ,la arena,,vocab
+1,the sand castle ,el castillo de arena,,vocab
+1,the seaweed,la alga marina,,vocab
+1,the shore,la orilla,,vocab
+1,the sunglasses ,los lentes de sol,,vocab
+1,the sunscreen ,el protector para sol,,vocab
+1,the swimsuit ,el traje de baño,,vocab
+1,the tide,la marea,,vocab
+1,the towel,la toalla,,vocab
+1,the wave ,la onda,,vocab
+1,the bag ,el bolso,,vocab
+1,the bathroom,el baño,,vocab
+1,the bench ,la banca,,vocab
+1,the clearance sale,la venta de liquidación,,vocab
+1,the drinking fountain,la fuente de agua,,vocab
+1,the restaurant,el restaurante,,vocab
+1,the sale ,la oferta,,vocab
+1,the store,la tienda,,vocab
+1,the bag ,la bolsa,,vocab
+1,the cans ,las latas,,vocab
+1,the cashier,el cajero,,vocab
+1,the cash register,la caja registradora,,vocab
+1,the dairy department,el departamento de productos lácteos,,vocab
+1,the frozen foods department,el departamento de congelados,,vocab
+1,the grocery store,la tienda de abarrotes,,vocab
+1,the receipt ,el recibo,,vocab
+1,the account,la cuenta,,vocab
+1,the account number,el número de cuenta,,vocab
+1,the bank,el banco,,vocab
+1,the check,el cheque,,vocab
+1,the checking account,la cuenta de cheques,,vocab
+1,the deposit,el depósito,,vocab
+1,the finances,las finanzas ,,vocab
+1,the interest,el interés,,vocab
+1,the money,el dinero,,vocab
+1,the savings account,la cuenta de ahorros,,vocab
+1,the teller,el cajero,,vocab
+1,the vault,la caja fuerte,,vocab
+1,the withdrawal,la retirada,,vocab
+1,the bathroom,el baño,,vocab
+1,the bathtub,la tina,,vocab
+1,the mirror,el espejo,,vocab
+1,the pipe,la cañería,,vocab
+1,the shampoo,el champú,,vocab
+1,the shower,la ducha,,vocab
+1,the sink,el lavamanos,,vocab
+1,the soap,el jabón,,vocab
+1,the toilet,el inodoro / el excusado / el wáter,,vocab
+1,the alarm clock,el despertador,,vocab
+1,the bed,la cama,,vocab
+1,the bedroom,el cuarto,,vocab
+1,the blanket,la cobija / la frazada,,vocab
+1,the ceiling,el techo,,vocab
+1,the closet,el armario / el ropero / el clóset,,vocab
+1,the dresser,la cómoda,,vocab
+1,the hanger,el colgador/el gancho,,vocab
+1,the lamp,la lámpara,,vocab
+1,the nightstand,la mesita de noche,,vocab
+1,the pillow,la almohada,,vocab
+1,the sheets,las sábanas,,vocab
+1,the wall,la pared,,vocab
+1,the ankle,el tobillo,,vocab
+1,the arm ,el brazo,,vocab
+1,the back,la espalda,,vocab
+1,the belly,la barriga,,vocab
+1,the brain,el cerebro,,vocab
+1,the calf,la pantorrilla,,vocab
+1,the chest ,el pecho,,vocab
+1,the chin,la barbilla,,vocab
+1,the ear ,la oreja,,vocab
+1,the elbow,el codo,,vocab
+1,the eye ,el ojo,,vocab
+1,the eyebrow,la ceja,,vocab
+1,the eyelash,la pestaña,,vocab
+1,the eyelid,el párpado,,vocab
+1,the finger ,el dedo,,vocab
+1,the fingernail,la uña de dedo,,vocab
+1,the foot ,el pie,,vocab
+1,the forehead,la frente,,vocab
+1,the mind,la mente,,vocab
+1,the stomach,el estómago,,vocab
+1,the gum,la encía,,vocab
+1,the hair,el cabello/ el pelo,,vocab
+1,the hand ,la mano,,vocab
+1,the head ,la cabeza,,vocab
+1,the heel,el talón,,vocab
+1,the knee ,la rodilla,,vocab
+1,the leg ,la pierna,,vocab
+1,the lips,los labios,,vocab
+1,the mouth ,la boca,,vocab
+1,the neck,el cuello,,vocab
+1,the nose,la nariz,,vocab
+1,the rib,la costilla,,vocab
+1,the teeth,los dientes,,vocab
+1,the thigh,el muslo,,vocab
+1,the throat,la garganta,,vocab
+1,the toe ,el dedo de pie,,vocab
+1,the toenail,la uña del dedo de pie,,vocab
+1,the tongue ,la lengua,,vocab
+1,the wrist,la muñeca,,vocab
+1,the automatic transmission ,la transmisión automática,,vocab
+1,the axle,el eje,,vocab
+1,the brakes ,los frenos,,vocab
+1,the bumper ,el parachoques,,vocab
+1,the driver,el chofer,,vocab
+1,the engine,el motor,,vocab
+1,first gear,primera velocidad,,vocab
+1,the gas,la gasolina,,vocab
+1,the gas pedal,el acelerador,,vocab
+1,the gas tank,el tanque,,vocab
+1,the gear shift ,la palanca de velocidades,,vocab
+1,the headlights,las luces delanteras,,vocab
+1,the hood,el cofre,,vocab
+1,the horn ,el claxon / la vocina,,vocab
+1,the jack,la gata / el gato,,vocab
+1,the manual transmission,la transmisión manual,,vocab
+1,the rearview mirror ,el espejo retrovisor,,vocab
+1,the seat belt,el cinturón,,vocab
+1,the spare tire,la llanta de repuesto,,vocab
+1,the steering wheel,el volante,,vocab
+1,the sun roof,el quema coco,,vocab
+1,the taillights ,las luces traseras,,vocab
+1,the tire,la llanta,,vocab
+1,the trunk,la cajuela,,vocab
+1,the turn signal ,la señal de cambios,,vocab
+1,the visor ,la visera,,vocab
+1,the wheel,la rueda,,vocab
+1,the window ,la ventana,,vocab
+1,the windshield,el parabrisas,,vocab
+1,the wipers,las limpiaparabrisas,,vocab
+1,the bleach,el blanqueador,,vocab
+1,the broom ,la escoba,,vocab
+1,the detergent,el detergente,,vocab
+1,the mop ,el trapeador,,vocab
+1,the paper towels,las toallas de papel,,vocab
+1,the rag,el trapo,,vocab
+1,the sponge,la esponja,,vocab
+1,the towel,la toalla,,vocab
+1,the vacuum ,la aspiradora,,vocab
+1,English,Spanish,,vocab
+1,the ball cap,la gorra,,vocab
+1,the belt ,el cinturón,,vocab
+1,the clothes,la ropa,,vocab
+1,the coat,el abrigo,,vocab
+1,the cotton,el algodón,,vocab
+1,the dress ,el vestido,,vocab
+1,the gloves ,los guantes,,vocab
+1,the hat ,el sombrero,,vocab
+1,the jacket ,la chaqueta,,vocab
+1,the pajamas ,la pijama,,vocab
+1,the pants ,los pantalones,,vocab
+1,the purse ,la bolsa,,vocab
+1,the sandals ,la sandalia,,vocab
+1,the shirts ,las camisas,,vocab
+1,the shoelace,la agujeta,,vocab
+1,the shoes ,los zapatos,,vocab
+1,the skirt,la falda,,vocab
+1,the socks ,los calcetines,,vocab
+1,the suit ,el traje,,vocab
+1,the sweater ,el suéter,,vocab
+1,the swimming suit ,el traje de baño,,vocab
+1,the tie ,la corbata,,vocab
+1,the velcro,el velcro,,vocab
+1,the zipper,el cierre,,vocab
+1,black,negro,,vocab
+1,blue,azul,,vocab
+1,brown,marrón,,vocab
+1,green,verde,,vocab
+1,orange,anaranjado,,vocab
+1,pink,rosa,,vocab
+1,purple,morado,,vocab
+1,red,rojo,,vocab
+1,violet,violeta,,vocab
+1,white,blanco,,vocab
+1,yellow,amarillo,,vocab
+1,Argentina,Argentina,,vocab
+1,Brazil,Brasil,,vocab
+1,Canada,Canadá,,vocab
+1,China,China,,vocab
+1,Costa Rica,Costa Rica,,vocab
+1,Cuba,Cuba,,vocab
+1,The Dominican Republic,La República Dominicana,,vocab
+1,El Salvador,El Salvador,,vocab
+1,England,Inglaterra,,vocab
+1,France,Francia,,vocab
+1,Germany,Alemania,,vocab
+1,Honduras,Honduras,,vocab
+1,India,India,,vocab
+1,Iran,Irán,,vocab
+1,Iraq,Irak,,vocab
+1,Japan,Japón,,vocab
+1,Lebanon,Líbano,,vocab
+1,Mexico,México,,vocab
+1,Nicaragua,Nicaragua,,vocab
+1,Panama,Panamá,,vocab
+1,Paraguay,Paraguay,,vocab
+1,The Philippines,Las Filipinas,,vocab
+1,Portugal,Portugal,,vocab
+1,Russia,Rusia,,vocab
+1,Spain,España,,vocab
+1,The United States,Los Estados Unidos,,vocab
+1,Uruguay,Uruguay,,vocab
+1,Vietnam,Vietnam,,vocab
+1,the aunt,la tía,,vocab
+1,the boyfriend,el novio,,vocab
+1,the brother,el hermano,,vocab
+1,the brother-in-law,el cuñado,,vocab
+1,the cousins,los primos,,vocab
+1,the dad,el papa,,vocab
+1,the daughter,la hija,,vocab
+1,the daughter-in-law,la nuera,,vocab
+1,the family,la famila,,vocab
+1,the father,el padre,,vocab
+1,the father-in-law,el suegro,,vocab
+1,the fiancé,el prometido,,vocab
+1,the friend,el amigo,,vocab
+1,the girlfriend,la novia,,vocab
+1,the grandma,la abuela,,vocab
+1,the grandpa,el abuelo,,vocab
+1,the grandparents,los abuelos,,vocab
+1,the husband,el marido,,vocab
+1,the mom ,la mama,,vocab
+1,the mother,la madre,,vocab
+1,the mother-in-law,la suegra,,vocab
+1,the nephew,el sobrino,,vocab
+1,the niece,la sobrina,,vocab
+1,the relationships,las relaciones,,vocab
+1,the sister,la hermana,,vocab
+1,the sister-in-law,la cuñada,,vocab
+1,the son,el hijo,,vocab
+1,the son-in-law,el yerno,,vocab
+1,the uncle,el tío,,vocab
+1,the wife,la esposa,,vocab
+1,the appetizer,el aperitivo,,vocab
+1,the avocado,el aguacate,,vocab
+1,the beef,la carne de res,,vocab
+1,the breakfast,el desayuno,,vocab
+1,the cauliflower,la coliflor,,vocab
+1,the celery,el apio,,vocab
+1,the cheese,el queso,,vocab
+1,the chicken,el pollo,,vocab
+1,the dessert,el postre,,vocab
+1,the dinner,la cena,,vocab
+1,the egg,el huevo,,vocab
+1,the fish (cooked),el pescado,,vocab
+1,The food,La comida,,vocab
+1,the french fries ,las papas fritas,,vocab
+1,the hamburger,la hamburguesa,,vocab
+1,the hotdog,el hotdog,,vocab
+1,the lettuce,la lechuga,,vocab
+1,the lunch,el almuerzo,,vocab
+1,the main dish,el plato / platillo principal,,vocab
+1,the milk,la leche,,vocab
+1,the pork,el puerco,,vocab
+1,the potatoes,las papas,,vocab
+1,the salad,la ensalada,,vocab
+1,the sandwich,el sándwich / el bocadillo,,vocab
+1,the soup,la sopa,,vocab
+1,the sugar ,el azúcar,,vocab
+1,the turkey,el pavo,,vocab
+1,the water,el agua,,vocab
+1,the apricot,el albaricoque,,vocab
+1,the banana,la banana,,vocab
+1,the beans,los frijoles,,vocab
+1,the beet,la remolacha,,vocab
+1,the butter,la mantequilla,,vocab
+1,the candy,el dulce,,vocab
+1,the flour,la harina,,vocab
+1,the grape,la uva,,vocab
+1,the honey,la miel,,vocab
+1,the jam,la mermelada,,vocab
+1,the jelly,la jalea,,vocab
+1,the juice,el jugo,,vocab
+1,the ketchup,el kéchup,,vocab
+1,the lemon,el limón,,vocab
+1,the lime,la lima,,vocab
+1,the mayonnaise,la mayonesa,,vocab
+1,the mustard,la mostaza,,vocab
+1,the nut,la nuez,,vocab
+1,the peach,el durazno,,vocab
+1,the peanut,el maní / el cacahuete,,vocab
+1,the peanut butter,la mantequilla de maní,,vocab
+1,the pear,la pera,,vocab
+1,the pineapple,la piña,,vocab
+1,the popcorn,las palomitas de maíz,,vocab
+1,the radish,el rábano,,vocab
+1,the raisin,la pasa,,vocab
+1,the tomato,el tomate,,vocab
+1,the armchair ,el sillón,,vocab
+1,the bed ,la cama,,vocab
+1,the chair ,la silla,,vocab
+1,the desk ,el escritorio,,vocab
+1,the furniture,los nuevles,,vocab
+1,the garbage can ,el basurero,,vocab
+1,the piano,El piano,,vocab
+1,the sofa,el sofá,,vocab
+1,the table ,la mesa,,vocab
+1,the ballot ,la boleta electoral,,vocab
+1,the congress ,el congreso,,vocab
+1,the congressman,el congresista,,vocab
+1,the democrat ,el demócrata,,vocab
+1,the election ,la elección,,vocab
+1,the governor,el gobernador,,vocab
+1,the house of representatives,la cámara de representantes,,vocab
+1,the king ,el rey,,vocab
+1,the mayor,el alcalde,,vocab
+1,the parliament,el parlamento,,vocab
+1,the party (political party),el partido,,vocab
+1,the president ,el presidente,,vocab
+1,the prime minister,el primer ministro,,vocab
+1,the republican ,el republicano,,vocab
+1,the senate,el senado,,vocab
+1,the senator,el senador,,vocab
+1,the vote ,el voto,,vocab
+1,the bowl,el plato hondo,,vocab
+1,the cabinet,el gabinete,,vocab
+1,the drain,el drenaje,,vocab
+1,the freezer,el congelador,,vocab
+1,the fridge,el refrigerador,,vocab
+1,the frying pan,el sartén,,vocab
+1,the kitchen,la cocina,,vocab
+1,the lid,la tapa,,vocab
+1,the oven,el horno,,vocab
+1,the sauce pan,la olla,,vocab
+1,the stove,la estufa,,vocab
+1,the carpet,la alfombra,,vocab
+1,the fire place,la chimenea,,vocab
+1,the living room,la sala,,vocab
+1,the painting,la pintura,,vocab
+1,the recliner,el sillón reclinable,,vocab
+1,the shelf,la repisa,,vocab
+1,the sofa,el sofá,,vocab
+1,the staircase,la escalera,,vocab
+1,the tv,la televisión,,vocab
+1,the vase,el florero,,vocab
+1,the attack,el ataque,,vocab
+1,the fighter jet,el avión de caza,,vocab
+1,the cease fire,el ceso de fuego,,vocab
+1,the commander,el comandante,,vocab
+1,the army,el ejército,,vocab
+1,the general,el general,,vocab
+1,the helicopter,el helicóptero,,vocab
+1,the casualty,el lesionado,,vocab
+1,the missile,el misil,,vocab
+1,the soldier,el soldado,,vocab
+1,the tank,el tanque,,vocab
+1,the battle,la batalla,,vocab
+1,the bomb,la bomba,,vocab
+1,the explosion,la explosión,,vocab
+1,the airforce,la fuerza aérea,,vocab
+1,the grenade,la granada,,vocab
+1,the war,la guerra,,vocab
+1,the invasion,la invasión,,vocab
+1,the navy,la marina,,vocab
+1,the peace,la paz,,vocab
+1,the weapons,las armas,,vocab
+1,the weapons of mass destruction,las armas de destrucción masiva,,vocab
+1,January,enero,,vocab
+1,February,febrero,,vocab
+1,March,marzo,,vocab
+1,April,abril,,vocab
+1,May,mayo,,vocab
+1,June,junio,,vocab
+1,July,julio,,vocab
+1,August,agosto,,vocab
+1,September,septiembre,,vocab
+1,October,octubre,,vocab
+1,November,noviembre,,vocab
+1,December,diciembre,,vocab
+1,Monday,lunes,,vocab
+1,Tuesday,martes,,vocab
+1,Wednesday,miércoles,,vocab
+1,Thursday,jueves,,vocab
+1,Friday,viernes,,vocab
+1,Saturday,sábado,,vocab
+1,Sunday,domingo,,vocab
+1,the conductor ,el director,,vocab
+1,the drums ,los tambores,,vocab
+1,the genres,los géneros,,vocab
+1,the guitar ,la guitarra,,vocab
+1,the lyrics ,la letra,,vocab
+1,the organ ,el órgano,,vocab
+1,the piano ,el piano,,vocab
+1,the trumpet ,la trompeta,,vocab
+1,the cliff,el precipicio,,vocab
+1,the flower,la flor,,vocab
+1,the garden / the yard,el jardín,,vocab
+1,the garden (vegetable) / orchard,la huerta,,vocab
+1,the grass (lawn),el césped/el pasto,,vocab
+1,the herb,la hierba,,vocab
+1,the lake,el lago,,vocab
+1,the mountain range,la sierra,,vocab
+1,the mountains,las montañas,,vocab
+1,the ocean,el océano,,vocab
+1,the plant,la planta,,vocab
+1,the river,el río,,vocab
+1,the sea,el mar,,vocab
+1,the shore,la orilla,,vocab
+1,the soil,el suelo,,vocab
+1,the tree,el árbol,,vocab
+1,the waterfalls,las cataratas,,vocab
+1,the weed,la hierba mala,,vocab
+1,0,cero,,vocab
+1,1,uno,,vocab
+1,2,dos,,vocab
+1,3,tres,,vocab
+1,4,cuatro,,vocab
+1,5,cinco,,vocab
+1,6,seis,,vocab
+1,7,siete,,vocab
+1,8,ocho,,vocab
+1,9,nueve,,vocab
+1,10,diez,,vocab
+1,11,once,,vocab
+1,12,doce,,vocab
+1,13,trece,,vocab
+1,14,catorce,,vocab
+1,15,quince,,vocab
+1,16,dieciséis,,vocab
+1,17,diecisiete,,vocab
+1,18,dieciocho,,vocab
+1,19,diecinueve,,vocab
+1,20,veinte ,,vocab
+1,the brick ,el ladrillo,,vocab
+1,the bush ,el arbusto,,vocab
+1,the chimney ,la chimenea,,vocab
+1,the door ,la puerta,,vocab
+1,the driveway ,la entrada de coches,,vocab
+1,the garage ,el garaje,,vocab
+1,the lawn ,el césped ,,vocab
+1,outside,afuera,,vocab
+1,the patio,el patio,,vocab
+1,the porch ,el porche,,vocab
+1,the roof ,el techo,,vocab
+1,the sidewalk,la banqueta,,vocab
+1,the wall ,la pared,,vocab
+1,the window ,la ventana,,vocab
+1,the accountant,el/la contador,,vocab
+1,the actor,el actor/ la actriz,,vocab
+1,the artist,el/la artista,,vocab
+1,the athlete,el/la deportista,,vocab
+1,the barber,el/la barbero/a,,vocab
+1,the boss,el/la jefe,,vocab
+1,the business person,el/la comerciante,,vocab
+1,the butcher,el/la carnicero/a,,vocab
+1,the carpenter,el/la carpintero/a,,vocab
+1,the cashier,el/la cajero/a,,vocab
+1,the chef,el/la cocinero/a,,vocab
+1,the coach,el/la entrenador/a,,vocab
+1,the computer technician,el/la técnico de computadora,,vocab
+1,the construction worker,el/la trabajador/a de construcción,,vocab
+1,the dentist,el dentista,,vocab
+1,the doctor,el/la medico / el/la doctor/a,,vocab
+1,the engineer ,el/la ingeniero/a,,vocab
+1,the farmer,el/la granjero/a,,vocab
+1,the firefighter,el/la bombero/a,,vocab
+1,the hair dresser ,el/la peluquero/a,,vocab
+1,the judge,el/la juez,,vocab
+1,the lawyer/attorney,el/la abogado/a,,vocab
+1,the librarian,el/la bibliotecario/a,,vocab
+1,the mail carrier,el/la cartero/a,,vocab
+1,the mason (brick layer) ,el albañil,,vocab
+1,the mechanic,el/la mecánico/a,,vocab
+1,the nurse,el/la enfermero/a,,vocab
+1,the police officer,el policía,,vocab
+1,the president,el/la presidente/a,,vocab
+1,the professor,el/la profesor/a,,vocab
+1,the programmer,el/la programador/a,,vocab
+1,the reporter,el/la reportero/a,,vocab
+1,the secretary,el/la secretario/a,,vocab
+1,the veterinarian,el/la veterinario/a,,vocab
+1,the waiter,el/la mesero/a,,vocab
+1,the writer,el/la escritor/a,,vocab
+1,the bowl ,el plato hondo,,vocab
+1,the chair,la silla,,vocab
+1,the check ,el cheque,,vocab
+1,the cup ,la taza / el vaso,,vocab
+1,the fork ,el tenedor,,vocab
+1,the knife ,el cuchillo,,vocab
+1,manners,los modales,,vocab
+1,the menu,el menú,,vocab
+1,the napkin,la servilleta,,vocab
+1,the pepper,la pimienta,,vocab
+1,the pitcher ,la jarra,,vocab
+1,the plate ,el plato,,vocab
+1,the salt ,la sal,,vocab
+1,the spoon ,la cuchara,,vocab
+1,the waitress ,la mesera,,vocab
+1,the waiter,el mesero,,vocab
+1,art,arte,,vocab
+1,the black hole,el agujero negro,,vocab
+1,the earth,la tierra,,vocab
+1,english ,inglés,,vocab
+1,the experiment ,el experimento,,vocab
+1,the galaxy,la galaxia,,vocab
+1,history ,historia,,vocab
+1,jupiter,júpiter,,vocab
+1,language,linguaje,,vocab
+1,mars,marte,,vocab
+1,math ,matemáticas,,vocab
+1,mercury,mercurio,,vocab
+1,the moon ,la luna,,vocab
+1,the music,la musica,,vocab
+1,neptune,neptuno,,vocab
+1,psychology,psicología,,vocab
+1,physical education,educación física,,vocab
+1,pluto ,plutón,,vocab
+1,saturn,saturno,,vocab
+1,science ,ciencia,,vocab
+1,the solar system ,el sistema solar,,vocab
+1,the stars ,las estrellas,,vocab
+1,the sun ,el sol,,vocab
+1,uranus,urano,,vocab
+1,venus,venus,,vocab
+1,the backpack ,la mochila,,vocab
+1,the briefcase ,el portafolio,,vocab
+1,the calculator ,la calculadora,,vocab
+1,the chair ,la silla,,vocab
+1,the colored pencil ,el lapis de color,,vocab
+1,the computer ,la computadora,,vocab
+1,the crayons ,los crayones,,vocab
+1,the desk ,el escritorio,,vocab
+1,the folder ,la carpeta,,vocab
+1,the glue ,la goma,,vocab
+1,the markers ,los marcadores,,vocab
+1,the mechanical pencil,el lapicero,,vocab
+1,the notebook,el cuaderno,,vocab
+1,the paper ,el papel,,vocab
+1,the pen ,la pluma / el blígrafo,,vocab
+1,the pencil ,el lápiz,,vocab
+1,the staple,la grapa,,vocab
+1,the stapler ,la engrapadora,,vocab
+1,badminton ,bádminton,,vocab
+1,baseball ,béisbol,,vocab
+1,basketball ,básquetbol,,vocab
+1,cricket ,críquet,,vocab
+1,cycling ,ciclismo,,vocab
+1,football ,fútbol americano,,vocab
+1,the game (sporting event) ,el partido,,vocab
+1,golf ,golf,,vocab
+1,team handball ,balonmano,,vocab
+1,hockey ,hockey,,vocab
+1,horseback riding ,equitación,,vocab
+1,ping pong ,ping-pong,,vocab
+1,rugby ,rugby,,vocab
+1,soccer ,fútbol,,vocab
+1,swimming ,natación,,vocab
+1,the team ,el equipo,,vocab
+1,tennis ,tenis,,vocab
+1,volleyball,voleibol,,vocab
+1,the camera,la cámara,,vocab
+1,the CD,el disco compacto (cd),,vocab
+1,the cell phone,el teléfono celular,,vocab
+1,the computer,la computadora,,vocab
+1,DVD,dvd,,vocab
+1,the e-mail,el e-mail / el correo electrónico,,vocab
+1,the fax machine,el fax,,vocab
+1,the internet,el internet,,vocab
+1,the telephone,el teléfono,,vocab
+1,video games,juegos de video,,vocab
+1,afternoon ,la tarde,,vocab
+1,dawn ,el amanecer,,vocab
+1,during fall ,durante otoño,,vocab
+1,during spring,durante primavera,,vocab
+1,during summer,durante verano,,vocab
+1,during winter,durante invierno,,vocab
+1,evening ,la tarde,,vocab
+1,the fall/autumn ,el otoño,,vocab
+1,last fall ,el otoño pasado,,vocab
+1,last spring,la primavera pasada,,vocab
+1,last summer ,el verano pasado,,vocab
+1,last winter,el invierno pasado,,vocab
+1,midnight,medianoche,,vocab
+1,morning,mañana,,vocab
+1,next winter,el próximo invierno,,vocab
+1,next spring,la próxima primavera,,vocab
+1,next summer,el próximo verano,,vocab
+1,next fall/autumn,el próximo otoño,,vocab
+1,night ,la noche,,vocab
+1,noon,el mediodía,,vocab
+1,spring ,la primavera,,vocab
+1,this fall,este otoño,,vocab
+1,this spring,esta primavera,,vocab
+1,this summer ,este verano,,vocab
+1,this winter,este invierno,,vocab
+1,the summer,el verano,,vocab
+1,the winter ,el invierno,,vocab
+1,the axe,el hacha,,vocab
+1,the axle,el eje,,vocab
+1,the bar,la barra,,vocab
+1,the blade,la lámina,,vocab
+1,the cord,la cuerda,,vocab
+1,the drill,el taladro,,vocab
+1,the drill bit,la broca,,vocab
+1,the flashlight,la linterna,,vocab
+1,the hammer,el martillo,,vocab
+1,the handle,la manija,,vocab
+1,the knife,el cuchillo,,vocab
+1,the nut (as in nut and bolt) ,la tuerca,,vocab
+1,the pliers,el alicate,,vocab
+1,the pulley,la polea,,vocab
+1,the ramp,la rampa,,vocab
+1,the rope,la soga,,vocab
+1,the ruler,la regla,,vocab
+1,the saw,la sierra,,vocab
+1,the screwdriver,el destornillador,,vocab
+1,the tape measure,la cinta métrica,,vocab
+1,the tool,la herramienta,,vocab
+1,the wheel,la rueda,,vocab
+1,the wrench,la llave inglesa,,vocab
+1,the airport,el aeropuerto,,vocab
+1,the baggage ,el equipaje,,vocab
+1,the boat ,la lancha,,vocab
+1,the bus station,la terminal de autobuses,,vocab
+1,the cable ,cable,,vocab
+1,the carry on,el bolso de mano,,vocab
+1,the check-in,registrarse,,vocab
+1,the check-out,registrarse a la salida,,vocab
+1,the departure,la salida,,vocab
+1,the flight,el vuelo,,vocab
+1,the gate,puerta,,vocab
+1,the hotel,el hotel,,vocab
+1,the kiosk,el quiosco,,vocab
+1,the landing ,el aterrizaje,,vocab
+1,the line,la fila / la cola,,vocab
+1,the metal detector,el detector de metales,,vocab
+1,the platform,la plataforma,,vocab
+1,room ,cuarto,,vocab
+1,the runway,la pista de aterrizaje,,vocab
+1,the security guard,el guardia,,vocab
+1,the ship ,el barco,,vocab
+1,the subway (spain) ,el metro,,vocab
+1,the suitcase ,la maleta,,vocab
+1,the takeoff,el despegue,,vocab
+1,the terminal,la terminal,,vocab
+1,the ticket ,el boleto,,vocab
+1,American restaurant,restaurante de comida americana,,vocab
+1,barbecue restaurant,restaurante de barbacoa,,vocab
+1,buffet,buffet,,vocab
+1,Chinese restaurant,restaurante de comida china,,vocab
+1,fast food restaurant ,Restaurante de comida rapida,,vocab
+1,Indian restaurant ,restaurante de comida india,,vocab
+1,Mexican restaurant,restaurante de comida mexicana,,vocab
+1,pizzeria,pizzería,,vocab
+1,steak house,restaurante de bistec,,vocab
+1,the airplane ,el avión,,vocab
+1,the bicycle ,la bicicleta,,vocab
+1,the car ,el carro,,vocab
+1,the helicopter ,el helicóptero,,vocab
+1,the motorcycle ,la moto,,vocab
+1,the taxi ,el taxi,,vocab
+1,the train ,el tren,,vocab
+1,the truck ,el camión,,vocab
+1,the cloud,la nube,,vocab
+1,cloudy,nublado,,vocab
+1,cold,frío,,vocab
+1,the flood,la inundación de agua,,vocab
+1,the fog,la neblina,,vocab
+1,foggy,nebuloso,,vocab
+1,hot,calor,,vocab
+1,the humidity,la humedad,,vocab
+1,the hurricane,el huracán,,vocab
+1,it’s windy,hace viento,,vocab
+1,the rain,la lluvia,,vocab
+1,the snow,la nieve,,vocab
+1,the sun,el sol,,vocab
+1,it’s sunny,hace sol,,vocab
+1,the temperature,la temperatura,,vocab
+1,the thermometer,el termómetro,,vocab
+1,the tornado,el tornado,,vocab
+1,windy,ventoso,,vocab
+1,What a shame ,¡Qué lástima!,,
+1,I can’t believe it,No puedo creerlo.,,
+1,What time is it?,¿Qué hora es?,,
+1,Can you help me?,¿Me puede ayudar?,,
+1,I’m running late.,Se me hizo tarde.,,
+1,How’s your family?,¿Cómo está su familia?,,
+1,Where do you work?,¿A qué se dedica?,,
+1,Where are you from?,¿De dónde es usted?,,
+1,Are you from around here?,¿Es usted de aquí?,,
+1,Where do you live?,¿Dónde vive usted?,,
+1,How old are you?,¿Cuántos años tiene usted?,,
+1,Are you on Facebook?,¿Usted tiene Facebook?,,
+1,What’s your phone number?,¿Cuál es su número de teléfono?,,
+1,What do you like to do?,¿Qué le gusta hacer?,,
+1,I need to use the restroom.,Necesito ir al baño.,,
+1,I’ll be right back.,Ahorita vuelvo.,,
+1,Please repeat,"Repita, por favor.",,
+1,I like your shirt,Me gusta su camisa.,,
+1,I like your photo,Me gusta su foto.,,
+1,I love you (care for you),Te quiero,,
+1,I love you (more serious),Te amo,,
+1,Do you love me? (care for me?),¿Me quieres?,,
+1,Do you love me? (more serious),¿Me amas?,,
+1,I (female) am in love,Estoy enamorada,,
+1,I (male) am in love,Estoy enamorado,,
+1,You are beautiful,Eres guapa,,
+1,You are handsome,Eres guapo,,
+1,I am passionate about you,Me apasiones,,
+1,You make me happy,Me haces feliz,,
+1,Will you marry me?,¿Quieres casarte conmigo?,,
+1,She’s my fiancé ,Ella es mi prometida,,
+1,He’s my fiancé ,Él es mi prometido,,
+1,You are the love of my life.,Eres el amor de mi vida,,
+1,I adore you,Te adoro,,
+1,I miss you,Te extraño,,
+1,Would you like to be my boyfriend?,¿Quieres ser mi novio?,,
+1,Would you like to be my girlfriend?,¿Quieres ser mi novia?,,
+1,I want to be with you forever.,Quiero estar contigo para siempre,,
+1,I need you,Te necesito,,
+1,I always think about you,Siempre pienso en tí,,
+1,I like you ,Me gustas a mí,,
+1,Kiss me,bésame,,
+1,Hug me,abrázame,,
+1,I am lost. ,Estoy perdido.,,
+1,Where is the restroom?,¿Dónde está el baño?,,
+1,the hotel ,el hotel,,
+1,the restaurant ,el restaurante,,
+1,the airport ,el aeropuerto,,
+1,the American embassy ,la embajada americana,,
+1,Excuse me.,Con permiso,,
+1,Pardon me.,Perdóname,,
+1,Please.,Por favor,,
+1,Thank you.,Gracías,,
+1,I'm sorry.,Lo siento,,
+1,Bless you (sneeze).,Salud,,
+1,You are welcome (it was nothing).,De nada,,
+1,How much does it cost?,¿Cuánto cuesta?,,
+1,How many are there?,¿Cuántos hay?,,
+1,There are many.,Hay muchos.,,
+1,Will you buy this?,¿Quiere comprarlo usted?,,
+1,How do you say it in Spanish?,¿Cómo se dice en Español?,,
+1,Yes.,Sí,,
+1,No.,No,,
+1,I don’t understand.,Yo no entiendo,,
+1,Slower please,más despacio por favor,,
+1,Who?,¿Quién?,,
+1,Why?,¿Por qué?,,
+1,Watch out!,aguas,,
+1,good vibes; good feelings,buena honda,,
+1,close friend; a close relative,carnal,,
+1,cool,chido,,
+1,crazy; nutcase,chiflado,,
+1,a blonde,güero,,
+1,dude,güey,,
+1,group of friends,la banda,,
+1,the money,la lana,,
+1,What did you say? / pardon me,mande,,
+1,"uncouth, unrefined",naco,,
+1,Get out of here!,no manches,,
+1,alright,órale,,
+1,What's up?,¿qué onda?,,
+1,that’s tight/how cool,qué padre,,
+1,alright or go ,sale,,
+1,stuck up person,sangrón,,
+1,tightwad ,tacaño,,
+1,a large quantity,un montón,,
+1,dude; man,vato,,
+1,Good morning.,Buenos días.,,
+1,Good afternoon.,Buenas tardes.,,
+1,Good evening. (greeting),Buenas noches.,,
+1,"Hello, my name is John.","Hola, me llamo Juan.",,
+1,What is your name?,¿Cómo se llama usted?,,
+1,How are things?,¿Qué tal?,,
+1,"Fine, thanks.","Bien, gracias",,
+1,How are you?,¿Cómo está usted?,,
+1,I am fine.,Estoy bien.,,
+1,Nice to meet you.,Mucho gusto.,,
+1,Goodbye.,Adiós.,,
+1,See you later,Hasta luego.,,
