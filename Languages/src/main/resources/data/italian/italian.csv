@@ -1,833 +1,833 @@
-1,the animals,gli animali,,vocab
-1,the bear ,l'orso,,vocab
-1,the beaver,il castoro,,vocab
-1,the cat ,il gatto,,vocab
-1,the chimpanzee,lo scimpanzé,,vocab
-1,the deer ,il cervo,,vocab
-1,the dog ,il cane,,vocab
-1,the elephant ,l'elefante,,vocab
-1,the fish,il pesce,,vocab
-1,the fox,la volpe,,vocab
-1,the goat,la capra,,vocab
-1,the gorilla ,il gorilla,,vocab
-1,the hippopotamus ,l'ippopotamo,,vocab
-1,the horse ,il cavallo,,vocab
-1,the hyena,la iena,,vocab
-1,the kangaroo ,il canguro,,vocab
-1,the kitten,il gattino,,vocab
-1,the leopard ,il leopardo,,vocab
-1,the llama ,il lama,,vocab
-1,the monkey ,la scimmia,,vocab
-1,the mouse,il topo,,vocab
-1,the panda ,il panda,,vocab
-1,the penguin,il pinguino,,vocab
-1,the pet,l'animale domestico,,vocab
-1,the puppy,il cucciolo,,vocab
-1,the rabbit,il coniglio,,vocab
-1,the rat,il ratto,,vocab
-1,the rhino ,il rinoceronte,,vocab
-1,the sheep ,la pecora,,vocab
-1,the squirrel,lo scoiattolo,,vocab
-1,the tiger ,la tigre,,vocab
-1,the whale ,la balena,,vocab
-1,the wolf ,il lupo,,vocab
-1,the zebra ,la zebra,,vocab
-1,the blender,il frullatore,,vocab
-1,the dishwasher,la lavastoviglie,,vocab
-1,the dryer,l'asciugatrice,,vocab
-1,the freezer,il congelatore,,vocab
-1,the fridge,il frigorífero,,vocab
-1,the iron,il ferro,,vocab
-1,the microwave,il microonde,,vocab
-1,the oven,il forno,,vocab
-1,the toaster,il tostapane,,vocab
-1,the washer,la lavatrice,,vocab
-1,the water heater,lo scaldaacqua,,vocab
-1,the balloons,i palloncini,,vocab
-1,the cake,la torta,,vocab
-1,the frosting,la glassa,,vocab
-1,the ice,il ghiaccio,,vocab
-1,the ice cream,il gelato,,vocab
-1,the presents,i regali,,vocab
-1,the soda,la bibita gassata,,vocab
-1,the sand,la sabbia,,vocab
-1,the sand castle,il castello di sabbia,,vocab
-1,the seaweed,l'alga,,vocab
-1,the shore,la riva,,vocab
-1,the sunglasses,gli occhiali da sole,,vocab
-1,the sunscreen,la crema solare,,vocab
-1,the swimsuit ,il costume (da bagno),,vocab
-1,the tide,la marea,,vocab
-1,the towel,il telo (da mare),,vocab
-1,the wave,l'onda,,vocab
-1,the bag ,la borsa,,vocab
-1,the restroom,il bagno,,vocab
-1,the bench ,la panchina,,vocab
-1,the clearance sale,la svendita,,vocab
-1,the drinking fountain,la fontanella,,vocab
-1,the restaurant,il ristorante,,vocab
-1,the sale ,la vendita,,vocab
-1,the store,il negozio,,vocab
-1,the bag,la borsa,,vocab
-1,the cans,le lattine,,vocab
-1,the cashier,la cassiera,,vocab
-1,the cash register,la cassa,,vocab
-1,the dairy department,il reparto latticini,,vocab
-1,the frozen foods department,il reparto surgelati,,vocab
-1,the grocery store,il supermercato,,vocab
-1,the receipt,lo scontrino,,vocab
-1,the account,il conto,,vocab
-1,the account number,il numero del conto,,vocab
-1,the bank,la banca,,vocab
-1,the check ,l'assegno,,vocab
-1,the checking account,il conto corrente,,vocab
-1,the deposit,il deposito,,vocab
-1,the finances,le finanze,,vocab
-1,the interest,l'interesse,,vocab
-1,the money ,i soldi,,vocab
-1,the savings account,il conto risparmio,,vocab
-1,the teller ,la cassiera,,vocab
-1,the vault ,il caveau,,vocab
-1,the withdrawal ,il ritiro,,vocab
-1,the bathroom,il bagno,,vocab
-1,the bathtub,la vasca da bagno,,vocab
-1,the mirror,lo specchio,,vocab
-1,the pipe,il tubo,,vocab
-1,the shampoo,lo shampoo,,vocab
-1,the shower,la doccia,,vocab
-1,the sink,il lavandino,,vocab
-1,the soap,il sapone,,vocab
-1,the toilet,il gabinetto,,vocab
-1,the alarm clock,la sveglia,,vocab
-1,the bed,il letto,,vocab
-1,the bedroom,la camera da letto,,vocab
-1,the blanket,la coperta,,vocab
-1,the ceiling,il soffitto,,vocab
-1,the closet,l'armadio,,vocab
-1,the dresser,il cassettone,,vocab
-1,the hanger,la gruccia,,vocab
-1,the lamp,la lampada,,vocab
-1,the nightstand,il comodino,,vocab
-1,the pillow,il cuscino,,vocab
-1,the sheets,le lenzuola,,vocab
-1,the wall,il muro,,vocab
-1,the ankle,la caviglia,,vocab
-1,the arm,il braccio (le braccia),,vocab
-1,the back,la schiena,,vocab
-1,the belly,la pancia,,vocab
-1,the brain,il cervello,,vocab
-1,the calf,il polpaccio,,vocab
-1,the chest,il petto,,vocab
-1,the chin,il mento,,vocab
-1,the ear,l'orecchio (le orecchie),,vocab
-1,the elbow,il gomito,,vocab
-1,the eye,l'occhio,,vocab
-1,the eyebrow,il sopracciglio (le sopracciglia),,vocab
-1,the eyelash,il ciglio (le ciglia),,vocab
-1,the eyelid,la palpebra,,vocab
-1,the finger,il dito (le dita),,vocab
-1,the fingernail,l'unghia,,vocab
-1,the foot,il piede,,vocab
-1,the forehead,la fronte,,vocab
-1,the mind,la mente,,vocab
-1,the stomach,lo stomaco,,vocab
-1,the gum,la gengiva,,vocab
-1,the hair,i capelli,,vocab
-1,the hand,la mano (le mani),,vocab
-1,the head,la testa,,vocab
-1,the heel,il tallone,,vocab
-1,the knee,il ginocchio (le ginocchia),,vocab
-1,the leg,la gamba,,vocab
-1,the lips,le labbra (il labbro),,vocab
-1,the mouth,la bocca,,vocab
-1,the neck,il collo,,vocab
-1,the nose,il naso,,vocab
-1,the rib,la costola,,vocab
-1,the teeth,i denti,,vocab
-1,the thigh,la coscia,,vocab
-1,the throat,la gola,,vocab
-1,the toe,il dito (del piede),,vocab
-1,the toenail,l'unghia (del dito del piede),,vocab
-1,the tongue,la lingua,,vocab
-1,the wrist,il polso,,vocab
-1,the automatic transmission,il cambio automatico,,vocab
-1,the axle,l'asse,,vocab
-1,the brakes,i freni,,vocab
-1,the bumper,il paraurti,,vocab
-1,the driver,il guidatore,,vocab
-1,the engine,il motore,,vocab
-1,first gear,la prima (marcia),,vocab
-1,the gas,la benzina,,vocab
-1,the gas pedal,l'accelleratore,,vocab
-1,the gas tank,il serbatoio,,vocab
-1,the gear shift,il cambio,,vocab
-1,the headlights,le luci (anteriori),,vocab
-1,the hood,il cofano,,vocab
-1,the horn,il clacson,,vocab
-1,the jack,il cric,,vocab
-1,the manual transmission,il cambio manuale,,vocab
-1,the rearview mirror ,lo specchietto retrovisore,,vocab
-1,the seat belt,la cintura (di sicurezza),,vocab
-1,the spare tire,la ruota di scorta,,vocab
-1,the steering wheel,il volante,,vocab
-1,the sun roof,il tettino apribile,,vocab
-1,the taillights,le luci posteriori,,vocab
-1,the tire,la gomma,,vocab
-1,the trunk,il bagagliaio,,vocab
-1,the turn signal,la freccia,,vocab
-1,the visor,la visiera,,vocab
-1,the wheel,la ruota,,vocab
-1,the window,il finestrino,,vocab
-1,the windshield,il parabrezza,,vocab
-1,the wipers,i tergicristalli,,vocab
-1,the bleach,la varichina,,vocab
-1,the broom,la scopa,,vocab
-1,the detergent,il sapone,,vocab
-1,the mop,lo straccio per lavare,,vocab
-1,the paper towels,lo scottex,,vocab
-1,the rag,il cencio,,vocab
-1,the sponge,la spugna,,vocab
-1,the towel,il telo,,vocab
-1,the vacuum,l'aspirapolvere,,vocab
-1,the ball cap,il cappellino,,vocab
-1,the belt,la cintura,,vocab
-1,the clothes,i vestiti,,vocab
-1,the coat,il cappotto,,vocab
-1,the cotton,il cotone,,vocab
-1,the dress ,il vestito,,vocab
-1,the gloves ,i guanti,,vocab
-1,the hat ,il cappello,,vocab
-1,the jacket ,la giacca,,vocab
-1,the pajamas ,il pigiama,,vocab
-1,the pants ,i pantaloni,,vocab
-1,the purse ,la borsa (da donna),,vocab
-1,the sandals ,i sandali,,vocab
-1,the shirts ,le camicie,,vocab
-1,the shoelace,il laccio (delle scarpe),,vocab
-1,the shoes ,le scarpe,,vocab
-1,the skirt,la gonna,,vocab
-1,the socks ,i calzini,,vocab
-1,the suit ,il completo,,vocab
-1,the sweater,il maglione,,vocab
-1,the swimming suit ,il costume (da bagno),,vocab
-1,the tie,la cravatta,,vocab
-1,the velcro,il velcro,,vocab
-1,the zipper,la cerniera,,vocab
-1,black,nero,,vocab
-1,blonde,biondo,,vocab
-1,blue,blu,,vocab
-1,brown,marrone,,vocab
-1,brunette,castano,,vocab
-1,gold,oro,,vocab
-1,gray,grigio,,vocab
-1,green,verde,,vocab
-1,light blue,blu chiaro,,vocab
-1,maroon,rosso bordeaux,,vocab
-1,orange,arancione,,vocab
-1,pink,rosa,,vocab
-1,purple,viola,,vocab
-1,red,rosso,,vocab
-1,silver,argento,,vocab
-1,violet,violetto,,vocab
-1,white,bianco,,vocab
-1,yellow,giallo,,vocab
-1,Africa,l'Africa,,vocab
-1,Argentina,l'Argentina,,vocab
-1,Australia,l'Australia,,vocab
-1,Brazil,il Brasile,,vocab
-1,Belgium,il Belgio,,vocab
-1,Canada,il Canada,,vocab
-1,Chile,il Cile,,vocab
-1,China,la Cina,,vocab
-1,England,l'Inghilterra,,vocab
-1,France,la Francia,,vocab
-1,Germany,la Germania,,vocab
-1,India,l'India,,vocab
-1,Ireland,l'Irlanda,,vocab
-1,Iran,l'Iran,,vocab
-1,Iraq,l'Iraq,,vocab
-1,Israel,Israele,,vocab
-1,Japan,il Giappone,,vocab
-1,Lebanon,il Libano,,vocab
-1,Mexico,il Messico,,vocab
-1,New Zealand,la Nuova Zelanda,,vocab
-1,Panama,Panama,,vocab
-1,Philippines,le Filippine,,vocab
-1,Portugal,il Portogallo,,vocab
-1,Russia,la Russia,,vocab
-1,Spain,la Spagna,,vocab
-1,Sweden,la Svezia,,vocab
-1,Switzerland,la Svizzera,,vocab
-1,United States,gli Stati Uniti,,vocab
-1,Uruguay,l'Uruguay,,vocab
-1,Vietnam,il Vietnam,,vocab
-1,South America,l'America del Sud,,vocab
-1,North America,l'America del Nord,,vocab
-1,Europe,l'Europa,,vocab
-1,Asia,l'Asia,,vocab
-1,Antarctica,l'Antartica,,vocab
-1,the aunt,la zia,,vocab
-1,the boyfriend,il ragazzo,,vocab
-1,the brother,il fratello,,vocab
-1,the brother-in-law,il cognato,,vocab
-1,the cousins,i cugini / le cugine,,vocab
-1,the dad,il papà,,vocab
-1,the daughter,la figlia,,vocab
-1,the daughter-in-law,la nuora,,vocab
-1,the family,la famiglia,,vocab
-1,the father,il padre,,vocab
-1,the father-in-law,il suocero,,vocab
-1,the fiancé,il fidanzato / la fidanzata,,vocab
-1,the friend,l'amico / l'amica,,vocab
-1,the girlfriend,la ragazza,,vocab
-1,the grandma,la nonna,,vocab
-1,the grandpa,il nonno,,vocab
-1,the grandparents,i nonni,,vocab
-1,the husband,il marito,,vocab
-1,the mom,la mamma,,vocab
-1,the mother,la madre,,vocab
-1,the mother-in-law,la suocera,,vocab
-1,the nephew,il nipote,,vocab
-1,the niece,la nipote,,vocab
-1,the relationships,le relazioni,,vocab
-1,the sister,la sorella,,vocab
-1,the sister-in-law,la cognata,,vocab
-1,the son,il figlio,,vocab
-1,the son-in-law,il genero,,vocab
-1,the uncle,lo zio,,vocab
-1,the wife,la moglie,,vocab
-1,the appetizer,l'antipasto,,vocab
-1,the avocado,l'avocado,,vocab
-1,the beef,la carne (di manzo),,vocab
-1,the breakfast,la colazione,,vocab
-1,the cauliflower,il cavolfiore,,vocab
-1,the celery,il sedano,,vocab
-1,the cheese,il formaggio,,vocab
-1,the chicken,il pollo,,vocab
-1,the dessert,il dolce,,vocab
-1,the dinner,la cena,,vocab
-1,the egg,l'uovo,,vocab
-1,the fish (cooked),il pesce (cotto),,vocab
-1,The food,il cibo,,vocab
-1,the french fries,le patatine fritte,,vocab
-1,the hamburger,l'hamburger,,vocab
-1,the hotdog,l'hotdog,,vocab
-1,the lettuce,la lattuga,,vocab
-1,the lunch,il pranzo,,vocab
-1,the main dish,la portata principale,,vocab
-1,the milk,il latte,,vocab
-1,the pork,il maiale,,vocab
-1,the potatoes,le patate,,vocab
-1,the salad,l'insalata,,vocab
-1,the sandwich,il panino,,vocab
-1,the soup,la minestra,,vocab
-1,the sugar,lo zucchero,,vocab
-1,the turkey,il tacchino,,vocab
-1,the water,l'acqua,,vocab
-1,the apricot,l'albicocca,,vocab
-1,the banana,la banana,,vocab
-1,the beans,i fagioli,,vocab
-1,the beet,la barbabietola,,vocab
-1,the butter,il burro,,vocab
-1,the candy,la caramella,,vocab
-1,the flour,la farina,,vocab
-1,the grape,l'uva,,vocab
-1,the honey,il miele,,vocab
-1,the jam,la marmellata,,vocab
-1,the jelly,la gelatina (di frutta),,vocab
-1,the juice,il succo,,vocab
-1,the ketchup,il ketchup,,vocab
-1,the lemon,il limone,,vocab
-1,the lime,la limetta,,vocab
-1,the mayonnaise,la maionese,,vocab
-1,the mustard,la mostarda,,vocab
-1,the nut,la noce,,vocab
-1,the peach,la pesca,,vocab
-1,the peanut,la nocciolina,,vocab
-1,the peanut butter,il burro di noccioline,,vocab
-1,the pear,la pera,,vocab
-1,the pineapple,l'ananas,,vocab
-1,the popcorn,i popcorn,,vocab
-1,the radish,il ravanello,,vocab
-1,the raisin,l'uvetta,,vocab
-1,the tomato,il pomodoro,,vocab
-1,the armchair,la poltrona,,vocab
-1,the bed,il letto,,vocab
-1,the chair,la sedia,,vocab
-1,the desk,la scrivania,,vocab
-1,the furniture,i mobili,,vocab
-1,the garbage can,il bidone della spazzatura,,vocab
-1,the piano,il pianoforte,,vocab
-1,the sofa,il divano,,vocab
-1,the table,il tavolo,,vocab
-1,the ballot,il ballottaggio,,vocab
-1,the congress,il congreso,,vocab
-1,the congressman,il membro del congresso,,vocab
-1,the democrat,il democratico,,vocab
-1,the election,l'elezione,,vocab
-1,the governor,il governatore,,vocab
-1,the house of representatives,la Camera dei Rappresentanti,,vocab
-1,the king,il re,,vocab
-1,the mayor,il sindaco,,vocab
-1,the parliament,il parlamento,,vocab
-1,the party (political party),il partito (politico),,vocab
-1,the president,il presidente,,vocab
-1,the prime minister,il primo ministero,,vocab
-1,the republican,il repubblicano,,vocab
-1,the senate,il senato,,vocab
-1,the senator,il senatore,,vocab
-1,the vote,il voto,,vocab
-1,A,ah,,vocab
-1,B,beh,,vocab
-1,C,cheh,,vocab
-1,D,deh,,vocab
-1,E,eh,,vocab
-1,F,effe,,vocab
-1,G,gi,,vocab
-1,H,acca,,vocab
-1,I,i,,vocab
-1,J,i lunga,,vocab
-1,K,cappa,,vocab
-1,L,elle,,vocab
-1,M,emme,,vocab
-1,N,enne,,vocab
-1,O,o,,vocab
-1,P,pe,,vocab
-1,Q,cu,,vocab
-1,R,erre,,vocab
-1,S,esse,,vocab
-1,T,the,,vocab
-1,U,oo,,vocab
-1,V,voo,,vocab
-1,W,doppia vu,,vocab
-1,X,echis,,vocab
-1,Y,ipsilon,,vocab
-1,Z,zeta,,vocab
-1,the bowl,la scodella,,vocab
-1,the cabinet,l'armadietto,,vocab
-1,the drain,il tubo di scarico,,vocab
-1,the freezer,il congelatore,,vocab
-1,the fridge,il frigorifero,,vocab
-1,the frying pan,la padella per friggere,,vocab
-1,the kitchen,la cucina,,vocab
-1,the lid,il coperchio,,vocab
-1,the oven,il forno,,vocab
-1,the sauce pan,la pentola,,vocab
-1,the stove,il fornello,,vocab
-1,the carpet,il tappeto,,vocab
-1,the fire place,il caminetto,,vocab
-1,the living room,il soggiorno,,vocab
-1,the painting,il quadro,,vocab
-1,the recliner,la poltrona reclinabile,,vocab
-1,the shelf,lo scaffale,,vocab
-1,the sofa,il divano,,vocab
-1,the staircase,le scale,,vocab
-1,the tv,il tee vu,,vocab
-1,the vase,il vaso,,vocab
-1,the attack,l'attacco,,vocab
-1,the fighter jet,il jet da combattimento,,vocab
-1,the cease fire,il cessate il fuoco,,vocab
-1,the commander,il comandante,,vocab
-1,the army,l'esercito,,vocab
-1,the general,il generale,,vocab
-1,the helicopter,l'elicottero,,vocab
-1,the casualty,la vittima,,vocab
-1,the missile,il missile,,vocab
-1,the soldier,il soldato,,vocab
-1,the tank,il carro armato,,vocab
-1,the battle,la battaglia,,vocab
-1,the bomb,la bomba,,vocab
-1,the explosion,l'esplosione,,vocab
-1,the airforce,la forza aerea,,vocab
-1,the grenade,la granata,,vocab
-1,the war,la guerra,,vocab
-1,the invasion,l'invasione,,vocab
-1,the navy,la marina,,vocab
-1,the peace,la pace,,vocab
-1,the weapons,le armi,,vocab
-1,the weapons of mass destruction,le armi di distruzione di massa,,vocab
-1,January,gennaio,,vocab
-1,February,febbraio,,vocab
-1,March,marzo,,vocab
-1,April,aprile,,vocab
-1,May,maggio,,vocab
-1,June,giugno,,vocab
-1,July,luglio,,vocab
-1,August,agosto,,vocab
-1,September,settembre,,vocab
-1,October,ottobre,,vocab
-1,November,novembre,,vocab
-1,December,dicembre,,vocab
-1,Monday,(il) lunedì,,vocab
-1,Tuesday,(il) martedì,,vocab
-1,Wednesday,(il) mercoledì,,vocab
-1,Thursday,(il) giovedì,,vocab
-1,Friday,(il) venerdì,,vocab
-1,Saturday,(il) sabato,,vocab
-1,Sunday,(la) domenica,,vocab
-1,the conductor,il direttore d'orchestra,,vocab
-1,the drums ,la batteria,,vocab
-1,the genres,il genere,,vocab
-1,the guitar ,la chitarra,,vocab
-1,the lyrics,i testi,,vocab
-1,the organ,l'organo,,vocab
-1,the piano ,il pianoforte,,vocab
-1,the trumpet ,la tromba,,vocab
-1,the cliff,la rupe,,vocab
-1,the flower,il fiore,,vocab
-1,the garden ,il giardino,,vocab
-1,the garden (vegetable) ,l'orto,,vocab
-1,the grass (lawn),l'erba (il prato),,vocab
-1,the herb,le erbe,,vocab
-1,the lake,il lago,,vocab
-1,the mountain range,la catena montuosa,,vocab
-1,the mountains,le montagne,,vocab
-1,the ocean,l'oceano,,vocab
-1,the plant,la pianta,,vocab
-1,the river,il fiume,,vocab
-1,the sea,il mare,,vocab
-1,the shore,la riva,,vocab
-1,the soil,il suolo,,vocab
-1,the tree,l'albero,,vocab
-1,the waterfalls,le cascate,,vocab
-1,the weed,l'erbaccia,,vocab
-1,0,zero,,vocab
-1,1,uno,,vocab
-1,2,due,,vocab
-1,3,tre,,vocab
-1,4,quattro,,vocab
-1,5,cinque,,vocab
-1,6,sei,,vocab
-1,7,sette,,vocab
-1,8,otto,,vocab
-1,9,nove,,vocab
-1,10,dieci,,vocab
-1,11,undici,,vocab
-1,12,dodici,,vocab
-1,13,tredici,,vocab
-1,14,quattordici,,vocab
-1,15,quindici,,vocab
-1,16,sedici,,vocab
-1,17,diciassette,,vocab
-1,18,diciotto,,vocab
-1,19,diciannove,,vocab
-1,20,venti,,vocab
-1,50,cinquanta,,vocab
-1,100,cento,,vocab
-1,1000,mille (mila),,vocab
-1,10000,diecimila,,vocab
-1,100000,centomila,,vocab
-1,1000000,un milione,,vocab
-1,the brick,il mattone,,vocab
-1,the bush,il cespuglio,,vocab
-1,the chimney,il camino,,vocab
-1,the door,la porta,,vocab
-1,the driveway,il vialetto (del garage),,vocab
-1,the garage,il garage,,vocab
-1,the lawn,il prato,,vocab
-1,outside,fuori,,vocab
-1,the patio,la terrazza,,vocab
-1,the porch,il portico,,vocab
-1,the roof,il tetto,,vocab
-1,the sidewalk,il marciapiede,,vocab
-1,the wall,il muro,,vocab
-1,the window,el finestrino,,vocab
-1,the accountant,il ragioniere,,vocab
-1,the actor,l'attore,,vocab
-1,the artist,l'artista,,vocab
-1,the athlete,l'atleta,,vocab
-1,the barber,il barbiere,,vocab
-1,the boss,il direttore,,vocab
-1,the business person,l'uomo d'affari,,vocab
-1,the butcher,il macellaio,,vocab
-1,the carpenter,il falegname,,vocab
-1,the cashier,il cassiere / la cassiera,,vocab
-1,the chef,il cuoco / lo chef,,vocab
-1,the coach,l'allenatore,,vocab
-1,the computer technician,il tecnico del computer,,vocab
-1,the construction worker,il lavoratore edile,,vocab
-1,the dentist,il/la dentista,,vocab
-1,the doctor,il dottore / la dottoressa,,vocab
-1,the engineer,l'ingegnere,,vocab
-1,the farmer,l'agricoltore,,vocab
-1,the firefighter,il pompiere,,vocab
-1,the hair dresser,il parrucchiere / la parrucchiera,,vocab
-1,the judge,il giudice,,vocab
-1,the lawyer/attorney,l'avvocato,,vocab
-1,the librarian,il bibliotecario / la bibliotecaria,,vocab
-1,the mail carrier,il postino,,vocab
-1,the mason (brick layer) ,il muratore,,vocab
-1,the mechanic,il meccanico,,vocab
-1,the nurse,l'infermiere / l'infermiera,,vocab
-1,the police officer,il poliziotto,,vocab
-1,the president,il presidente,,vocab
-1,the professor,il professore / la professoressa,,vocab
-1,the programmer,il programmatore,,vocab
-1,the reporter,il/la cronista,,vocab
-1,the secretary,il segretario / la segretaria,,vocab
-1,the veterinarian,il veterinario,,vocab
-1,the waiter,il cameriere / la cameriera,,vocab
-1,the writer,lo scrittore / la scrittrice,,vocab
-1,the bowl ,la scodella,,vocab
-1,the chair,la sedia,,vocab
-1,the check ,il conto,,vocab
-1,the cup ,la tazza,,vocab
-1,the fork ,la forchetta,,vocab
-1,the knife ,il coltello,,vocab
-1,manners,le maniere,,vocab
-1,the menu,il menu,,vocab
-1,the napkin,il tovagliolo,,vocab
-1,the pepper,il pepe,,vocab
-1,the pitcher ,la caraffa,,vocab
-1,the plate ,il piatto,,vocab
-1,the salt ,il sale,,vocab
-1,the spoon ,il cucchiaio,,vocab
-1,the waitress ,la cameriera,,vocab
-1,the waiter,il cameriere,,vocab
-1,art,arte,,vocab
-1,the black hole,il buco nero,,vocab
-1,the earth,la terra,,vocab
-1,english,inglese,,vocab
-1,the experiment ,l'esperimento,,vocab
-1,the galaxy,la galassia,,vocab
-1,history,la storia,,vocab
-1,jupiter,Giove,,vocab
-1,language,la lingua / il linguaggio,,vocab
-1,mars,Marte,,vocab
-1,math ,matematica,,vocab
-1,mercury,Mercurio,,vocab
-1,the moon ,la luna,,vocab
-1,the music,la musica,,vocab
-1,neptune,nettuno,,vocab
-1,psychology,la psicologia,,vocab
-1,physical education,educazione fisica,,vocab
-1,pluto,Plutone,,vocab
-1,saturn,Saturno,,vocab
-1,science ,scienze,,vocab
-1,the solar system ,il sistema solare,,vocab
-1,the stars ,le stelle,,vocab
-1,the sun ,il sole,,vocab
-1,uranus,Urano,,vocab
-1,venus,Venere,,vocab
-1,the backpack ,lo zaino,,vocab
-1,the briefcase ,la ventiquattrore,,vocab
-1,the calculator ,la calcolatrice,,vocab
-1,the chair ,la sedia,,vocab
-1,the colored pencil ,la matita colorata,,vocab
-1,the computer ,il computer,,vocab
-1,the crayons ,i pastelli,,vocab
-1,the desk ,la scrivania,,vocab
-1,the folder ,la cartellina,,vocab
-1,the glue ,la colla,,vocab
-1,the markers ,i pennarelli,,vocab
-1,the mechanical pencil,la matita a mina,,vocab
-1,the notebook,il quaderno (per appunti),,vocab
-1,the paper ,la carta,,vocab
-1,the pen ,la penna,,vocab
-1,the pencil ,il lapis,,vocab
-1,the staple,la graffetta,,vocab
-1,the stapler ,la spillatrice,,vocab
-1,badminton ,(il) badminton,,vocab
-1,baseball ,(il) baseball,,vocab
-1,basketball ,(la) pallacanestro,,vocab
-1,cricket ,(il) cricket,,vocab
-1,cycling ,(il) ciclismo,,vocab
-1,football ,(il) football americano,,vocab
-1,the game (sporting event) ,la partita (l'evento sportivo),,vocab
-1,golf ,(il) golf,,vocab
-1,team handball ,(la) pallamano,,vocab
-1,hockey ,(l') hockey,,vocab
-1,horseback riding ,(l') equitazione,,vocab
-1,ping pong ,(il) ping pong,,vocab
-1,rugby ,(il) rugby,,vocab
-1,soccer ,(il) calcio,,vocab
-1,swimming ,(il) nuoto,,vocab
-1,the team ,la squadra,,vocab
-1,tennis ,(il) tennis,,vocab
-1,volleyball,(la) pallavolo,,vocab
-1,the camera,la macchina fotografica,,vocab
-1,the CD,il CD,,vocab
-1,the cell phone,il (telefono) cellulare,,vocab
-1,the computer,il computer,,vocab
-1,DVD,il DVD,,vocab
-1,the e-mail,la email,,vocab
-1,the fax machine,il fax,,vocab
-1,the stereo,lo stereo,,vocab
-1,the iPod,l'iPod,,vocab
-1,the internet,l'internet,,vocab
-1,the telephone,il telefono,,vocab
-1,video games,i videogiochi,,vocab
-1,afternoon,il pomeriggio,,vocab
-1,dawn ,l'alba,,vocab
-1,during fall,durante l'autunno,,vocab
-1,during spring,durante la primavera,,vocab
-1,during summer,durante l'estate,,vocab
-1,during winter,durante l'inverno,,vocab
-1,evening ,la sera,,vocab
-1,the fall/autumn ,l'autunno,,vocab
-1,last fall,l'autunno scorso,,vocab
-1,last spring,la primavera scorsa,,vocab
-1,last summer,l'estate scorsa,,vocab
-1,last winter,l'inverno scorso,,vocab
-1,midnight,mezzanotte,,vocab
-1,morning,la mattina,,vocab
-1,next winter,l'inverno prossimo,,vocab
-1,next spring,la primavera prossima,,vocab
-1,next summer,l'estate prossima,,vocab
-1,next fall/autumn,l'autunno prossimo,,vocab
-1,night ,la notte,,vocab
-1,noon,mezzogiorno,,vocab
-1,spring ,la primavera,,vocab
-1,this fall,questo autunno,,vocab
-1,this spring,questa primavera,,vocab
-1,this summer,quest'estate,,vocab
-1,this winter,quest'inverno,,vocab
-1,the summer,l'estate,,vocab
-1,the winter ,l'inverno,,vocab
-1,the axe,la scure,,vocab
-1,the axle,l'asse,,vocab
-1,the bar,la sbarra,,vocab
-1,the blade,la lama,,vocab
-1,the cord,il cordoncino,,vocab
-1,the drill,il trapano,,vocab
-1,the drill bit,la punta per il trapano,,vocab
-1,the flashlight,la pila,,vocab
-1,the hammer,il martello,,vocab
-1,the handle,la maniglia,,vocab
-1,the knife,il coltello,,vocab
-1,the nut (as in nut and bolt) ,il dado (dadi e bulloni),,vocab
-1,the pliers,le pinze,,vocab
-1,the pulley,la carrucola,,vocab
-1,the ramp,la rampa,,vocab
-1,the rope,la corda,,vocab
-1,the ruler,il righello,,vocab
-1,the saw,la sega,,vocab
-1,the screw-driver,il cacciavite,,vocab
-1,the tape measure,il metro,,vocab
-1,the tool,l'attrezzo,,vocab
-1,the wheel,la ruota,,vocab
-1,the wrench,la chiave inglese,,vocab
-1,the ball,la palla,,vocab
-1,baseball,la palla da baseball,,vocab
-1,basketball,il pallone da pallacanestro,,vocab
-1,basketball hoop,il cesto (da pallacanestro),,vocab
-1,crayons,i pastelli,,vocab
-1,football,il pallone da football,,vocab
-1,hula hoop,l'hula hoop,,vocab
-1,jump rope,la corda (saltare la corda),,vocab
-1,phone,il telefono,,vocab
-1,remote control car,la macchina telecomandata,,vocab
-1,rubber ball,la palla di gomma,,vocab
-1,sled,la slitta,,vocab
-1,soccer ball,il pallone da calcio,,vocab
-1,softball,la palla da softball,,vocab
-1,the blocks,i cubi,,vocab
-1,the doll,la bambola,,vocab
-1,the skates,i pattini,,vocab
-1,the toys,i giocattoli,,vocab
-1,the truck,il camioncino,,vocab
-1,trampoline,il trampolino,,vocab
-1,yo yo,lo yo yo,,vocab
-1,the airport,l'aereoporto,,vocab
-1,the baggage,il bagaglio,,vocab
-1,the boat,la barca,,vocab
-1,the bus station,la stazione d'gli autobus,,vocab
-1,the cable,la funivia,,vocab
-1,the carry on,il bagaglio a mano,,vocab
-1,the check-in,il check-in,,vocab
-1,the check-out,il check-out,,vocab
-1,the departure,la partenza,,vocab
-1,the flight,il volo,,vocab
-1,the gate,l'uscita / il gate,,vocab
-1,the hotel,l'albergo / l'hotel,,vocab
-1,the kiosk,il chiosco,,vocab
-1,the landing,l'atterraggio,,vocab
-1,the line,la fila,,vocab
-1,the metal detector,il metal detector,,vocab
-1,the platform,la piattaforma,,vocab
-1,room,la stanza,,vocab
-1,the runway,la pista,,vocab
-1,the security guard,la guardia giurata,,vocab
-1,the ship,la nave,,vocab
-1,the subway ,la metropolitana,,vocab
-1,the suitcase,la valigia,,vocab
-1,the takeoff,il decollo,,vocab
-1,the terminal,il terminal,,vocab
-1,the ticket,il biglietto,,vocab
-1,American restaurant,il ristorante americano,,vocab
-1,barbecue restaurant,il ristorante dove si mangia il barbecue,,vocab
-1,buffet,il buffet,,vocab
-1,Chinese restaurant,il ristorante cinese,,vocab
-1,fast food restaurant,il fast food,,vocab
-1,French restaurant,il ristorante francese,,vocab
-1,German restaurant,il ristorante tedesco,,vocab
-1,Greek restaurant,il ristorante greco,,vocab
-1,Indian restaurant ,il ristorante indiano,,vocab
-1,Italian restaurant,il ristorante italiano,,vocab
-1,Japanese restaurant,il ristorante giapponese,,vocab
-1,Mexican restaurant,il ristorante messicano,,vocab
-1,pizzeria,la pizzeria,,vocab
-1,steak house,il ristorante dove si mangiano le bistecche,,vocab
-1,Thai Restaurant,il ristorante tailandese,,vocab
-1,the airplane,l'aeroplano,,vocab
-1,the bicycle,la bicicletta,,vocab
-1,the car,la macchina,,vocab
-1,the helicopter,l'elicottero,,vocab
-1,the motorcycle,la motocicletta,,vocab
-1,the taxi,il taxi / il tassì,,vocab
-1,the train,il treno,,vocab
-1,the truck,il camion,,vocab
-1,the cloud,la nuvola,,vocab
-1,cloudy,nuvoloso,,vocab
-1,cold,freddo,,vocab
-1,the flood,l'inondazione,,vocab
-1,the fog,la nebbia,,vocab
-1,foggy,nebbioso,,vocab
-1,hot,caldo,,vocab
-1,the humidity,l'umidità,,vocab
-1,the hurricane,l'uragano,,vocab
-1,it's windy,c'è vento,,vocab
-1,the rain,la pioggia,,vocab
-1,the snow,la neve,,vocab
-1,the sun,il sole,,vocab
-1,it's sunny,c'è il sole,,vocab
-1,the temperature,la temperatura,,vocab
-1,the thermometer,il termometro,,vocab
-1,the tornado,il tornado,,vocab
-1,windy,ventoso,,vocab
-10,Hi!,Ciao!,,phrases
-10,Good morning!,Buongiorno!,,phrases
-10,Good evening!,Buona sera!,,phrases
-10,Welcome! (to greet someone male),Benvenuto!,,phrases
-10,Welcome! (to greet someone female),Benvenuta! ,,phrases
-10,How are you? (polite),Come state?,,phrases
-10,How are you? (informal),Come stai?,,phrases
-10,"I'm fine, thanks!","Bene, grazie!",,phrases
-10,And you?,e tu? e lei? (polite),,phrases
-10,Good,Bene,,phrases
-10,So-So.,così e così.,,phrases
-10,Thank you very much!,Grazie molto!,,phrases
-10,Thank you!,Grazie!,,phrases
-10,"You're welcome! (for ""thank you"")",Prego!,,phrases
-10,Hey! Friend!,Ciao! Amico!,,phrases
-10,I missed you so much!,Mi sei mancato molto!,,phrases
-10,What's new? ,che c'è di nuovo?,,phrases
-10,Nothing much,Non molto,,phrases
-10,Good night!,Buona notte!,,phrases
-10,See you later!,A dopo,,phrases
-10,Good bye!,Arrivederci!,,phrases
-10,I'm lost,Mi sono perso/ persa (feminine),,phrases
-10,Can I help you?,Posso aiutarti?/ posso aiutarla (polite)?,,phrases
-10,Can you help me?,Potresti aiutarmi?/ potrebbe aiutarmi? (polite),,phrases
-10,Where is the (bathroom/ pharmacy)?,Dove posso trovare (il bagno/ la farmacia?),,phrases
-10,Go straight! then turn left/ right!,Vada dritto! e poi giri a destra/ sinistra!,,phrases
-10,I'm looking for john.,Sto cercando John.,,phrases
-10,One moment please!,Un momento prego!,,phrases
-10,Hold on please! (phone),Attenda prego!,,phrases
-10,How much is this?,Quanto costa questo?,,phrases
-10,Excuse me ...! (to ask for something),Scusami!/ Mi scusi! (polite),,phrases
-10,Excuse me! ( to pass by),Permesso,,phrases
-10,Come with me!,Vieni con me!/ Venga con me! (polite),,phrases
+20,the animals,gli animali,,vocab
+20,the bear ,l'orso,,vocab
+20,the beaver,il castoro,,vocab
+20,the cat ,il gatto,,vocab
+20,the chimpanzee,lo scimpanzé,,vocab
+20,the deer ,il cervo,,vocab
+20,the dog ,il cane,,vocab
+20,the elephant ,l'elefante,,vocab
+20,the fish,il pesce,,vocab
+20,the fox,la volpe,,vocab
+20,the goat,la capra,,vocab
+20,the gorilla ,il gorilla,,vocab
+20,the hippopotamus ,l'ippopotamo,,vocab
+20,the horse ,il cavallo,,vocab
+20,the hyena,la iena,,vocab
+20,the kangaroo ,il canguro,,vocab
+20,the kitten,il gattino,,vocab
+20,the leopard ,il leopardo,,vocab
+20,the llama ,il lama,,vocab
+20,the monkey ,la scimmia,,vocab
+20,the mouse,il topo,,vocab
+20,the panda ,il panda,,vocab
+20,the penguin,il pinguino,,vocab
+20,the pet,l'animale domestico,,vocab
+20,the puppy,il cucciolo,,vocab
+20,the rabbit,il coniglio,,vocab
+20,the rat,il ratto,,vocab
+20,the rhino ,il rinoceronte,,vocab
+20,the sheep ,la pecora,,vocab
+20,the squirrel,lo scoiattolo,,vocab
+20,the tiger ,la tigre,,vocab
+20,the whale ,la balena,,vocab
+20,the wolf ,il lupo,,vocab
+20,the zebra ,la zebra,,vocab
+20,the blender,il frullatore,,vocab
+20,the dishwasher,la lavastoviglie,,vocab
+20,the dryer,l'asciugatrice,,vocab
+20,the freezer,il congelatore,,vocab
+20,the fridge,il frigorífero,,vocab
+20,the iron,il ferro,,vocab
+20,the microwave,il microonde,,vocab
+20,the oven,il forno,,vocab
+20,the toaster,il tostapane,,vocab
+20,the washer,la lavatrice,,vocab
+20,the water heater,lo scaldaacqua,,vocab
+20,the balloons,i palloncini,,vocab
+20,the cake,la torta,,vocab
+20,the frosting,la glassa,,vocab
+20,the ice,il ghiaccio,,vocab
+20,the ice cream,il gelato,,vocab
+20,the presents,i regali,,vocab
+20,the soda,la bibita gassata,,vocab
+20,the sand,la sabbia,,vocab
+20,the sand castle,il castello di sabbia,,vocab
+20,the seaweed,l'alga,,vocab
+20,the shore,la riva,,vocab
+20,the sunglasses,gli occhiali da sole,,vocab
+20,the sunscreen,la crema solare,,vocab
+20,the swimsuit ,il costume (da bagno),,vocab
+20,the tide,la marea,,vocab
+20,the towel,il telo (da mare),,vocab
+20,the wave,l'onda,,vocab
+20,the bag ,la borsa,,vocab
+20,the restroom,il bagno,,vocab
+20,the bench ,la panchina,,vocab
+20,the clearance sale,la svendita,,vocab
+20,the drinking fountain,la fontanella,,vocab
+20,the restaurant,il ristorante,,vocab
+20,the sale ,la vendita,,vocab
+20,the store,il negozio,,vocab
+20,the bag,la borsa,,vocab
+20,the cans,le lattine,,vocab
+20,the cashier,la cassiera,,vocab
+20,the cash register,la cassa,,vocab
+20,the dairy department,il reparto latticini,,vocab
+20,the frozen foods department,il reparto surgelati,,vocab
+20,the grocery store,il supermercato,,vocab
+20,the receipt,lo scontrino,,vocab
+20,the account,il conto,,vocab
+20,the account number,il numero del conto,,vocab
+20,the bank,la banca,,vocab
+20,the check ,l'assegno,,vocab
+20,the checking account,il conto corrente,,vocab
+20,the deposit,il deposito,,vocab
+20,the finances,le finanze,,vocab
+20,the interest,l'interesse,,vocab
+20,the money ,i soldi,,vocab
+20,the savings account,il conto risparmio,,vocab
+20,the teller ,la cassiera,,vocab
+20,the vault ,il caveau,,vocab
+20,the withdrawal ,il ritiro,,vocab
+20,the bathroom,il bagno,,vocab
+20,the bathtub,la vasca da bagno,,vocab
+20,the mirror,lo specchio,,vocab
+20,the pipe,il tubo,,vocab
+20,the shampoo,lo shampoo,,vocab
+20,the shower,la doccia,,vocab
+20,the sink,il lavandino,,vocab
+20,the soap,il sapone,,vocab
+20,the toilet,il gabinetto,,vocab
+20,the alarm clock,la sveglia,,vocab
+20,the bed,il letto,,vocab
+20,the bedroom,la camera da letto,,vocab
+20,the blanket,la coperta,,vocab
+20,the ceiling,il soffitto,,vocab
+20,the closet,l'armadio,,vocab
+20,the dresser,il cassettone,,vocab
+20,the hanger,la gruccia,,vocab
+20,the lamp,la lampada,,vocab
+20,the nightstand,il comodino,,vocab
+20,the pillow,il cuscino,,vocab
+20,the sheets,le lenzuola,,vocab
+20,the wall,il muro,,vocab
+20,the ankle,la caviglia,,vocab
+20,the arm,il braccio (le braccia),,vocab
+20,the back,la schiena,,vocab
+20,the belly,la pancia,,vocab
+20,the brain,il cervello,,vocab
+20,the calf,il polpaccio,,vocab
+20,the chest,il petto,,vocab
+20,the chin,il mento,,vocab
+20,the ear,l'orecchio (le orecchie),,vocab
+20,the elbow,il gomito,,vocab
+20,the eye,l'occhio,,vocab
+20,the eyebrow,il sopracciglio (le sopracciglia),,vocab
+20,the eyelash,il ciglio (le ciglia),,vocab
+20,the eyelid,la palpebra,,vocab
+20,the finger,il dito (le dita),,vocab
+20,the fingernail,l'unghia,,vocab
+20,the foot,il piede,,vocab
+20,the forehead,la fronte,,vocab
+20,the mind,la mente,,vocab
+20,the stomach,lo stomaco,,vocab
+20,the gum,la gengiva,,vocab
+20,the hair,i capelli,,vocab
+20,the hand,la mano (le mani),,vocab
+20,the head,la testa,,vocab
+20,the heel,il tallone,,vocab
+20,the knee,il ginocchio (le ginocchia),,vocab
+20,the leg,la gamba,,vocab
+20,the lips,le labbra (il labbro),,vocab
+20,the mouth,la bocca,,vocab
+20,the neck,il collo,,vocab
+20,the nose,il naso,,vocab
+20,the rib,la costola,,vocab
+20,the teeth,i denti,,vocab
+20,the thigh,la coscia,,vocab
+20,the throat,la gola,,vocab
+20,the toe,il dito (del piede),,vocab
+20,the toenail,l'unghia (del dito del piede),,vocab
+20,the tongue,la lingua,,vocab
+20,the wrist,il polso,,vocab
+20,the automatic transmission,il cambio automatico,,vocab
+20,the axle,l'asse,,vocab
+20,the brakes,i freni,,vocab
+20,the bumper,il paraurti,,vocab
+20,the driver,il guidatore,,vocab
+20,the engine,il motore,,vocab
+20,first gear,la prima (marcia),,vocab
+20,the gas,la benzina,,vocab
+20,the gas pedal,l'accelleratore,,vocab
+20,the gas tank,il serbatoio,,vocab
+20,the gear shift,il cambio,,vocab
+20,the headlights,le luci (anteriori),,vocab
+20,the hood,il cofano,,vocab
+20,the horn,il clacson,,vocab
+20,the jack,il cric,,vocab
+20,the manual transmission,il cambio manuale,,vocab
+20,the rearview mirror ,lo specchietto retrovisore,,vocab
+20,the seat belt,la cintura (di sicurezza),,vocab
+20,the spare tire,la ruota di scorta,,vocab
+20,the steering wheel,il volante,,vocab
+20,the sun roof,il tettino apribile,,vocab
+20,the taillights,le luci posteriori,,vocab
+20,the tire,la gomma,,vocab
+20,the trunk,il bagagliaio,,vocab
+20,the turn signal,la freccia,,vocab
+20,the visor,la visiera,,vocab
+20,the wheel,la ruota,,vocab
+20,the window,il finestrino,,vocab
+20,the windshield,il parabrezza,,vocab
+20,the wipers,i tergicristalli,,vocab
+20,the bleach,la varichina,,vocab
+20,the broom,la scopa,,vocab
+20,the detergent,il sapone,,vocab
+20,the mop,lo straccio per lavare,,vocab
+20,the paper towels,lo scottex,,vocab
+20,the rag,il cencio,,vocab
+20,the sponge,la spugna,,vocab
+20,the towel,il telo,,vocab
+20,the vacuum,l'aspirapolvere,,vocab
+20,the ball cap,il cappellino,,vocab
+20,the belt,la cintura,,vocab
+20,the clothes,i vestiti,,vocab
+20,the coat,il cappotto,,vocab
+20,the cotton,il cotone,,vocab
+20,the dress ,il vestito,,vocab
+20,the gloves ,i guanti,,vocab
+20,the hat ,il cappello,,vocab
+20,the jacket ,la giacca,,vocab
+20,the pajamas ,il pigiama,,vocab
+20,the pants ,i pantaloni,,vocab
+20,the purse ,la borsa (da donna),,vocab
+20,the sandals ,i sandali,,vocab
+20,the shirts ,le camicie,,vocab
+20,the shoelace,il laccio (delle scarpe),,vocab
+20,the shoes ,le scarpe,,vocab
+20,the skirt,la gonna,,vocab
+20,the socks ,i calzini,,vocab
+20,the suit ,il completo,,vocab
+20,the sweater,il maglione,,vocab
+20,the swimming suit ,il costume (da bagno),,vocab
+20,the tie,la cravatta,,vocab
+20,the velcro,il velcro,,vocab
+20,the zipper,la cerniera,,vocab
+20,black,nero,,vocab
+20,blonde,biondo,,vocab
+20,blue,blu,,vocab
+20,brown,marrone,,vocab
+20,brunette,castano,,vocab
+20,gold,oro,,vocab
+20,gray,grigio,,vocab
+20,green,verde,,vocab
+20,light blue,blu chiaro,,vocab
+20,maroon,rosso bordeaux,,vocab
+20,orange,arancione,,vocab
+20,pink,rosa,,vocab
+20,purple,viola,,vocab
+20,red,rosso,,vocab
+20,silver,argento,,vocab
+20,violet,violetto,,vocab
+20,white,bianco,,vocab
+20,yellow,giallo,,vocab
+20,Africa,l'Africa,,vocab
+20,Argentina,l'Argentina,,vocab
+20,Australia,l'Australia,,vocab
+20,Brazil,il Brasile,,vocab
+20,Belgium,il Belgio,,vocab
+20,Canada,il Canada,,vocab
+20,Chile,il Cile,,vocab
+20,China,la Cina,,vocab
+20,England,l'Inghilterra,,vocab
+20,France,la Francia,,vocab
+20,Germany,la Germania,,vocab
+20,India,l'India,,vocab
+20,Ireland,l'Irlanda,,vocab
+20,Iran,l'Iran,,vocab
+20,Iraq,l'Iraq,,vocab
+20,Israel,Israele,,vocab
+20,Japan,il Giappone,,vocab
+20,Lebanon,il Libano,,vocab
+20,Mexico,il Messico,,vocab
+20,New Zealand,la Nuova Zelanda,,vocab
+20,Panama,Panama,,vocab
+20,Philippines,le Filippine,,vocab
+20,Portugal,il Portogallo,,vocab
+20,Russia,la Russia,,vocab
+20,Spain,la Spagna,,vocab
+20,Sweden,la Svezia,,vocab
+20,Switzerland,la Svizzera,,vocab
+20,United States,gli Stati Uniti,,vocab
+20,Uruguay,l'Uruguay,,vocab
+20,Vietnam,il Vietnam,,vocab
+20,South America,l'America del Sud,,vocab
+20,North America,l'America del Nord,,vocab
+20,Europe,l'Europa,,vocab
+20,Asia,l'Asia,,vocab
+20,Antarctica,l'Antartica,,vocab
+20,the aunt,la zia,,vocab
+20,the boyfriend,il ragazzo,,vocab
+20,the brother,il fratello,,vocab
+20,the brother-in-law,il cognato,,vocab
+20,the cousins,i cugini / le cugine,,vocab
+20,the dad,il papà,,vocab
+20,the daughter,la figlia,,vocab
+20,the daughter-in-law,la nuora,,vocab
+20,the family,la famiglia,,vocab
+20,the father,il padre,,vocab
+20,the father-in-law,il suocero,,vocab
+20,the fiancé,il fidanzato / la fidanzata,,vocab
+20,the friend,l'amico / l'amica,,vocab
+20,the girlfriend,la ragazza,,vocab
+20,the grandma,la nonna,,vocab
+20,the grandpa,il nonno,,vocab
+20,the grandparents,i nonni,,vocab
+20,the husband,il marito,,vocab
+20,the mom,la mamma,,vocab
+20,the mother,la madre,,vocab
+20,the mother-in-law,la suocera,,vocab
+20,the nephew,il nipote,,vocab
+20,the niece,la nipote,,vocab
+20,the relationships,le relazioni,,vocab
+20,the sister,la sorella,,vocab
+20,the sister-in-law,la cognata,,vocab
+20,the son,il figlio,,vocab
+20,the son-in-law,il genero,,vocab
+20,the uncle,lo zio,,vocab
+20,the wife,la moglie,,vocab
+20,the appetizer,l'antipasto,,vocab
+20,the avocado,l'avocado,,vocab
+20,the beef,la carne (di manzo),,vocab
+20,the breakfast,la colazione,,vocab
+20,the cauliflower,il cavolfiore,,vocab
+20,the celery,il sedano,,vocab
+20,the cheese,il formaggio,,vocab
+20,the chicken,il pollo,,vocab
+20,the dessert,il dolce,,vocab
+20,the dinner,la cena,,vocab
+20,the egg,l'uovo,,vocab
+20,the fish (cooked),il pesce (cotto),,vocab
+20,The food,il cibo,,vocab
+20,the french fries,le patatine fritte,,vocab
+20,the hamburger,l'hamburger,,vocab
+20,the hotdog,l'hotdog,,vocab
+20,the lettuce,la lattuga,,vocab
+20,the lunch,il pranzo,,vocab
+20,the main dish,la portata principale,,vocab
+20,the milk,il latte,,vocab
+20,the pork,il maiale,,vocab
+20,the potatoes,le patate,,vocab
+20,the salad,l'insalata,,vocab
+20,the sandwich,il panino,,vocab
+20,the soup,la minestra,,vocab
+20,the sugar,lo zucchero,,vocab
+20,the turkey,il tacchino,,vocab
+20,the water,l'acqua,,vocab
+20,the apricot,l'albicocca,,vocab
+20,the banana,la banana,,vocab
+20,the beans,i fagioli,,vocab
+20,the beet,la barbabietola,,vocab
+20,the butter,il burro,,vocab
+20,the candy,la caramella,,vocab
+20,the flour,la farina,,vocab
+20,the grape,l'uva,,vocab
+20,the honey,il miele,,vocab
+20,the jam,la marmellata,,vocab
+20,the jelly,la gelatina (di frutta),,vocab
+20,the juice,il succo,,vocab
+20,the ketchup,il ketchup,,vocab
+20,the lemon,il limone,,vocab
+20,the lime,la limetta,,vocab
+20,the mayonnaise,la maionese,,vocab
+20,the mustard,la mostarda,,vocab
+20,the nut,la noce,,vocab
+20,the peach,la pesca,,vocab
+20,the peanut,la nocciolina,,vocab
+20,the peanut butter,il burro di noccioline,,vocab
+20,the pear,la pera,,vocab
+20,the pineapple,l'ananas,,vocab
+20,the popcorn,i popcorn,,vocab
+20,the radish,il ravanello,,vocab
+20,the raisin,l'uvetta,,vocab
+20,the tomato,il pomodoro,,vocab
+20,the armchair,la poltrona,,vocab
+20,the bed,il letto,,vocab
+20,the chair,la sedia,,vocab
+20,the desk,la scrivania,,vocab
+20,the furniture,i mobili,,vocab
+20,the garbage can,il bidone della spazzatura,,vocab
+20,the piano,il pianoforte,,vocab
+20,the sofa,il divano,,vocab
+20,the table,il tavolo,,vocab
+20,the ballot,il ballottaggio,,vocab
+20,the congress,il congreso,,vocab
+20,the congressman,il membro del congresso,,vocab
+20,the democrat,il democratico,,vocab
+20,the election,l'elezione,,vocab
+20,the governor,il governatore,,vocab
+20,the house of representatives,la Camera dei Rappresentanti,,vocab
+20,the king,il re,,vocab
+20,the mayor,il sindaco,,vocab
+20,the parliament,il parlamento,,vocab
+20,the party (political party),il partito (politico),,vocab
+20,the president,il presidente,,vocab
+20,the prime minister,il primo ministero,,vocab
+20,the republican,il repubblicano,,vocab
+20,the senate,il senato,,vocab
+20,the senator,il senatore,,vocab
+20,the vote,il voto,,vocab
+20,A,ah,,vocab
+20,B,beh,,vocab
+20,C,cheh,,vocab
+20,D,deh,,vocab
+20,E,eh,,vocab
+20,F,effe,,vocab
+20,G,gi,,vocab
+20,H,acca,,vocab
+20,I,i,,vocab
+20,J,i lunga,,vocab
+20,K,cappa,,vocab
+20,L,elle,,vocab
+20,M,emme,,vocab
+20,N,enne,,vocab
+20,O,o,,vocab
+20,P,pe,,vocab
+20,Q,cu,,vocab
+20,R,erre,,vocab
+20,S,esse,,vocab
+20,T,the,,vocab
+20,U,oo,,vocab
+20,V,voo,,vocab
+20,W,doppia vu,,vocab
+20,X,echis,,vocab
+20,Y,ipsilon,,vocab
+20,Z,zeta,,vocab
+20,the bowl,la scodella,,vocab
+20,the cabinet,l'armadietto,,vocab
+20,the drain,il tubo di scarico,,vocab
+20,the freezer,il congelatore,,vocab
+20,the fridge,il frigorifero,,vocab
+20,the frying pan,la padella per friggere,,vocab
+20,the kitchen,la cucina,,vocab
+20,the lid,il coperchio,,vocab
+20,the oven,il forno,,vocab
+20,the sauce pan,la pentola,,vocab
+20,the stove,il fornello,,vocab
+20,the carpet,il tappeto,,vocab
+20,the fire place,il caminetto,,vocab
+20,the living room,il soggiorno,,vocab
+20,the painting,il quadro,,vocab
+20,the recliner,la poltrona reclinabile,,vocab
+20,the shelf,lo scaffale,,vocab
+20,the sofa,il divano,,vocab
+20,the staircase,le scale,,vocab
+20,the tv,il tee vu,,vocab
+20,the vase,il vaso,,vocab
+20,the attack,l'attacco,,vocab
+20,the fighter jet,il jet da combattimento,,vocab
+20,the cease fire,il cessate il fuoco,,vocab
+20,the commander,il comandante,,vocab
+20,the army,l'esercito,,vocab
+20,the general,il generale,,vocab
+20,the helicopter,l'elicottero,,vocab
+20,the casualty,la vittima,,vocab
+20,the missile,il missile,,vocab
+20,the soldier,il soldato,,vocab
+20,the tank,il carro armato,,vocab
+20,the battle,la battaglia,,vocab
+20,the bomb,la bomba,,vocab
+20,the explosion,l'esplosione,,vocab
+20,the airforce,la forza aerea,,vocab
+20,the grenade,la granata,,vocab
+20,the war,la guerra,,vocab
+20,the invasion,l'invasione,,vocab
+20,the navy,la marina,,vocab
+20,the peace,la pace,,vocab
+20,the weapons,le armi,,vocab
+20,the weapons of mass destruction,le armi di distruzione di massa,,vocab
+20,January,gennaio,,vocab
+20,February,febbraio,,vocab
+20,March,marzo,,vocab
+20,April,aprile,,vocab
+20,May,maggio,,vocab
+20,June,giugno,,vocab
+20,July,luglio,,vocab
+20,August,agosto,,vocab
+20,September,settembre,,vocab
+20,October,ottobre,,vocab
+20,November,novembre,,vocab
+20,December,dicembre,,vocab
+20,Monday,(il) lunedì,,vocab
+20,Tuesday,(il) martedì,,vocab
+20,Wednesday,(il) mercoledì,,vocab
+20,Thursday,(il) giovedì,,vocab
+20,Friday,(il) venerdì,,vocab
+20,Saturday,(il) sabato,,vocab
+20,Sunday,(la) domenica,,vocab
+20,the conductor,il direttore d'orchestra,,vocab
+20,the drums ,la batteria,,vocab
+20,the genres,il genere,,vocab
+20,the guitar ,la chitarra,,vocab
+20,the lyrics,i testi,,vocab
+20,the organ,l'organo,,vocab
+20,the piano ,il pianoforte,,vocab
+20,the trumpet ,la tromba,,vocab
+20,the cliff,la rupe,,vocab
+20,the flower,il fiore,,vocab
+20,the garden ,il giardino,,vocab
+20,the garden (vegetable) ,l'orto,,vocab
+20,the grass (lawn),l'erba (il prato),,vocab
+20,the herb,le erbe,,vocab
+20,the lake,il lago,,vocab
+20,the mountain range,la catena montuosa,,vocab
+20,the mountains,le montagne,,vocab
+20,the ocean,l'oceano,,vocab
+20,the plant,la pianta,,vocab
+20,the river,il fiume,,vocab
+20,the sea,il mare,,vocab
+20,the shore,la riva,,vocab
+20,the soil,il suolo,,vocab
+20,the tree,l'albero,,vocab
+20,the waterfalls,le cascate,,vocab
+20,the weed,l'erbaccia,,vocab
+100,0,zero,,vocab
+100,1,uno,,vocab
+100,2,due,,vocab
+100,3,tre,,vocab
+100,4,quattro,,vocab
+100,5,cinque,,vocab
+100,6,sei,,vocab
+100,7,sette,,vocab
+100,8,otto,,vocab
+100,9,nove,,vocab
+100,10,dieci,,vocab
+100,11,undici,,vocab
+100,12,dodici,,vocab
+100,13,tredici,,vocab
+100,14,quattordici,,vocab
+100,15,quindici,,vocab
+100,16,sedici,,vocab
+100,17,diciassette,,vocab
+100,18,diciotto,,vocab
+100,19,diciannove,,vocab
+100,20,venti,,vocab
+100,50,cinquanta,,vocab
+100,100,cento,,vocab
+100,1000,mille (mila),,vocab
+100,10000,diecimila,,vocab
+100,100000,centomila,,vocab
+100,1000000,un milione,,vocab
+20,the brick,il mattone,,vocab
+20,the bush,il cespuglio,,vocab
+20,the chimney,il camino,,vocab
+20,the door,la porta,,vocab
+20,the driveway,il vialetto (del garage),,vocab
+20,the garage,il garage,,vocab
+20,the lawn,il prato,,vocab
+20,outside,fuori,,vocab
+20,the patio,la terrazza,,vocab
+20,the porch,il portico,,vocab
+20,the roof,il tetto,,vocab
+20,the sidewalk,il marciapiede,,vocab
+20,the wall,il muro,,vocab
+20,the window,el finestrino,,vocab
+20,the accountant,il ragioniere,,vocab
+20,the actor,l'attore,,vocab
+20,the artist,l'artista,,vocab
+20,the athlete,l'atleta,,vocab
+20,the barber,il barbiere,,vocab
+20,the boss,il direttore,,vocab
+20,the business person,l'uomo d'affari,,vocab
+20,the butcher,il macellaio,,vocab
+20,the carpenter,il falegname,,vocab
+20,the cashier,il cassiere / la cassiera,,vocab
+20,the chef,il cuoco / lo chef,,vocab
+20,the coach,l'allenatore,,vocab
+20,the computer technician,il tecnico del computer,,vocab
+20,the construction worker,il lavoratore edile,,vocab
+20,the dentist,il/la dentista,,vocab
+20,the doctor,il dottore / la dottoressa,,vocab
+20,the engineer,l'ingegnere,,vocab
+20,the farmer,l'agricoltore,,vocab
+20,the firefighter,il pompiere,,vocab
+20,the hair dresser,il parrucchiere / la parrucchiera,,vocab
+20,the judge,il giudice,,vocab
+20,the lawyer/attorney,l'avvocato,,vocab
+20,the librarian,il bibliotecario / la bibliotecaria,,vocab
+20,the mail carrier,il postino,,vocab
+20,the mason (brick layer) ,il muratore,,vocab
+20,the mechanic,il meccanico,,vocab
+20,the nurse,l'infermiere / l'infermiera,,vocab
+20,the police officer,il poliziotto,,vocab
+20,the president,il presidente,,vocab
+20,the professor,il professore / la professoressa,,vocab
+20,the programmer,il programmatore,,vocab
+20,the reporter,il/la cronista,,vocab
+20,the secretary,il segretario / la segretaria,,vocab
+20,the veterinarian,il veterinario,,vocab
+20,the waiter,il cameriere / la cameriera,,vocab
+20,the writer,lo scrittore / la scrittrice,,vocab
+20,the bowl ,la scodella,,vocab
+20,the chair,la sedia,,vocab
+20,the check ,il conto,,vocab
+20,the cup ,la tazza,,vocab
+20,the fork ,la forchetta,,vocab
+20,the knife ,il coltello,,vocab
+20,manners,le maniere,,vocab
+20,the menu,il menu,,vocab
+20,the napkin,il tovagliolo,,vocab
+20,the pepper,il pepe,,vocab
+20,the pitcher ,la caraffa,,vocab
+20,the plate ,il piatto,,vocab
+20,the salt ,il sale,,vocab
+20,the spoon ,il cucchiaio,,vocab
+20,the waitress ,la cameriera,,vocab
+20,the waiter,il cameriere,,vocab
+20,art,arte,,vocab
+20,the black hole,il buco nero,,vocab
+20,the earth,la terra,,vocab
+20,english,inglese,,vocab
+20,the experiment ,l'esperimento,,vocab
+20,the galaxy,la galassia,,vocab
+20,history,la storia,,vocab
+20,jupiter,Giove,,vocab
+20,language,la lingua / il linguaggio,,vocab
+20,mars,Marte,,vocab
+20,math ,matematica,,vocab
+20,mercury,Mercurio,,vocab
+20,the moon ,la luna,,vocab
+20,the music,la musica,,vocab
+20,neptune,nettuno,,vocab
+20,psychology,la psicologia,,vocab
+20,physical education,educazione fisica,,vocab
+20,pluto,Plutone,,vocab
+20,saturn,Saturno,,vocab
+20,science ,scienze,,vocab
+20,the solar system ,il sistema solare,,vocab
+20,the stars ,le stelle,,vocab
+20,the sun ,il sole,,vocab
+20,uranus,Urano,,vocab
+20,venus,Venere,,vocab
+20,the backpack ,lo zaino,,vocab
+20,the briefcase ,la ventiquattrore,,vocab
+20,the calculator ,la calcolatrice,,vocab
+20,the chair ,la sedia,,vocab
+20,the colored pencil ,la matita colorata,,vocab
+20,the computer ,il computer,,vocab
+20,the crayons ,i pastelli,,vocab
+20,the desk ,la scrivania,,vocab
+20,the folder ,la cartellina,,vocab
+20,the glue ,la colla,,vocab
+20,the markers ,i pennarelli,,vocab
+20,the mechanical pencil,la matita a mina,,vocab
+20,the notebook,il quaderno (per appunti),,vocab
+20,the paper ,la carta,,vocab
+20,the pen ,la penna,,vocab
+20,the pencil ,il lapis,,vocab
+20,the staple,la graffetta,,vocab
+20,the stapler ,la spillatrice,,vocab
+20,badminton ,(il) badminton,,vocab
+20,baseball ,(il) baseball,,vocab
+20,basketball ,(la) pallacanestro,,vocab
+20,cricket ,(il) cricket,,vocab
+20,cycling ,(il) ciclismo,,vocab
+20,football ,(il) football americano,,vocab
+20,the game (sporting event) ,la partita (l'evento sportivo),,vocab
+20,golf ,(il) golf,,vocab
+20,team handball ,(la) pallamano,,vocab
+20,hockey ,(l') hockey,,vocab
+20,horseback riding ,(l') equitazione,,vocab
+20,ping pong ,(il) ping pong,,vocab
+20,rugby ,(il) rugby,,vocab
+20,soccer ,(il) calcio,,vocab
+20,swimming ,(il) nuoto,,vocab
+20,the team ,la squadra,,vocab
+20,tennis ,(il) tennis,,vocab
+20,volleyball,(la) pallavolo,,vocab
+20,the camera,la macchina fotografica,,vocab
+20,the CD,il CD,,vocab
+20,the cell phone,il (telefono) cellulare,,vocab
+20,the computer,il computer,,vocab
+20,DVD,il DVD,,vocab
+20,the e-mail,la email,,vocab
+20,the fax machine,il fax,,vocab
+20,the stereo,lo stereo,,vocab
+20,the iPod,l'iPod,,vocab
+20,the internet,l'internet,,vocab
+20,the telephone,il telefono,,vocab
+20,video games,i videogiochi,,vocab
+20,afternoon,il pomeriggio,,vocab
+20,dawn ,l'alba,,vocab
+20,during fall,durante l'autunno,,vocab
+20,during spring,durante la primavera,,vocab
+20,during summer,durante l'estate,,vocab
+20,during winter,durante l'inverno,,vocab
+20,evening ,la sera,,vocab
+20,the fall/autumn ,l'autunno,,vocab
+20,last fall,l'autunno scorso,,vocab
+20,last spring,la primavera scorsa,,vocab
+20,last summer,l'estate scorsa,,vocab
+20,last winter,l'inverno scorso,,vocab
+20,midnight,mezzanotte,,vocab
+20,morning,la mattina,,vocab
+20,next winter,l'inverno prossimo,,vocab
+20,next spring,la primavera prossima,,vocab
+20,next summer,l'estate prossima,,vocab
+20,next fall/autumn,l'autunno prossimo,,vocab
+20,night ,la notte,,vocab
+20,noon,mezzogiorno,,vocab
+20,spring ,la primavera,,vocab
+20,this fall,questo autunno,,vocab
+20,this spring,questa primavera,,vocab
+20,this summer,quest'estate,,vocab
+20,this winter,quest'inverno,,vocab
+20,the summer,l'estate,,vocab
+20,the winter ,l'inverno,,vocab
+20,the axe,la scure,,vocab
+20,the axle,l'asse,,vocab
+20,the bar,la sbarra,,vocab
+20,the blade,la lama,,vocab
+20,the cord,il cordoncino,,vocab
+20,the drill,il trapano,,vocab
+20,the drill bit,la punta per il trapano,,vocab
+20,the flashlight,la pila,,vocab
+20,the hammer,il martello,,vocab
+20,the handle,la maniglia,,vocab
+20,the knife,il coltello,,vocab
+20,the nut (as in nut and bolt) ,il dado (dadi e bulloni),,vocab
+20,the pliers,le pinze,,vocab
+20,the pulley,la carrucola,,vocab
+20,the ramp,la rampa,,vocab
+20,the rope,la corda,,vocab
+20,the ruler,il righello,,vocab
+20,the saw,la sega,,vocab
+20,the screw-driver,il cacciavite,,vocab
+20,the tape measure,il metro,,vocab
+20,the tool,l'attrezzo,,vocab
+20,the wheel,la ruota,,vocab
+20,the wrench,la chiave inglese,,vocab
+20,the ball,la palla,,vocab
+20,baseball,la palla da baseball,,vocab
+20,basketball,il pallone da pallacanestro,,vocab
+20,basketball hoop,il cesto (da pallacanestro),,vocab
+20,crayons,i pastelli,,vocab
+20,football,il pallone da football,,vocab
+20,hula hoop,l'hula hoop,,vocab
+20,jump rope,la corda (saltare la corda),,vocab
+20,phone,il telefono,,vocab
+20,remote control car,la macchina telecomandata,,vocab
+20,rubber ball,la palla di gomma,,vocab
+20,sled,la slitta,,vocab
+20,soccer ball,il pallone da calcio,,vocab
+20,softball,la palla da softball,,vocab
+20,the blocks,i cubi,,vocab
+20,the doll,la bambola,,vocab
+20,the skates,i pattini,,vocab
+20,the toys,i giocattoli,,vocab
+20,the truck,il camioncino,,vocab
+20,trampoline,il trampolino,,vocab
+20,yo yo,lo yo yo,,vocab
+20,the airport,l'aereoporto,,vocab
+20,the baggage,il bagaglio,,vocab
+20,the boat,la barca,,vocab
+20,the bus station,la stazione d'gli autobus,,vocab
+20,the cable,la funivia,,vocab
+20,the carry on,il bagaglio a mano,,vocab
+20,the check-in,il check-in,,vocab
+20,the check-out,il check-out,,vocab
+20,the departure,la partenza,,vocab
+20,the flight,il volo,,vocab
+20,the gate,l'uscita / il gate,,vocab
+20,the hotel,l'albergo / l'hotel,,vocab
+20,the kiosk,il chiosco,,vocab
+20,the landing,l'atterraggio,,vocab
+20,the line,la fila,,vocab
+20,the metal detector,il metal detector,,vocab
+20,the platform,la piattaforma,,vocab
+20,room,la stanza,,vocab
+20,the runway,la pista,,vocab
+20,the security guard,la guardia giurata,,vocab
+20,the ship,la nave,,vocab
+20,the subway ,la metropolitana,,vocab
+20,the suitcase,la valigia,,vocab
+20,the takeoff,il decollo,,vocab
+20,the terminal,il terminal,,vocab
+20,the ticket,il biglietto,,vocab
+20,American restaurant,il ristorante americano,,vocab
+20,barbecue restaurant,il ristorante dove si mangia il barbecue,,vocab
+20,buffet,il buffet,,vocab
+20,Chinese restaurant,il ristorante cinese,,vocab
+20,fast food restaurant,il fast food,,vocab
+20,French restaurant,il ristorante francese,,vocab
+20,German restaurant,il ristorante tedesco,,vocab
+20,Greek restaurant,il ristorante greco,,vocab
+20,Indian restaurant ,il ristorante indiano,,vocab
+20,Italian restaurant,il ristorante italiano,,vocab
+20,Japanese restaurant,il ristorante giapponese,,vocab
+20,Mexican restaurant,il ristorante messicano,,vocab
+20,pizzeria,la pizzeria,,vocab
+20,steak house,il ristorante dove si mangiano le bistecche,,vocab
+20,Thai Restaurant,il ristorante tailandese,,vocab
+20,the airplane,l'aeroplano,,vocab
+20,the bicycle,la bicicletta,,vocab
+20,the car,la macchina,,vocab
+20,the helicopter,l'elicottero,,vocab
+20,the motorcycle,la motocicletta,,vocab
+20,the taxi,il taxi / il tassì,,vocab
+20,the train,il treno,,vocab
+20,the truck,il camion,,vocab
+20,the cloud,la nuvola,,vocab
+20,cloudy,nuvoloso,,vocab
+20,cold,freddo,,vocab
+20,the flood,l'inondazione,,vocab
+20,the fog,la nebbia,,vocab
+20,foggy,nebbioso,,vocab
+20,hot,caldo,,vocab
+20,the humidity,l'umidità,,vocab
+20,the hurricane,l'uragano,,vocab
+20,it's windy,c'è vento,,vocab
+20,the rain,la pioggia,,vocab
+20,the snow,la neve,,vocab
+20,the sun,il sole,,vocab
+20,it's sunny,c'è il sole,,vocab
+20,the temperature,la temperatura,,vocab
+20,the thermometer,il termometro,,vocab
+20,the tornado,il tornado,,vocab
+20,windy,ventoso,,vocab
+100,Hi!,Ciao!,,phrases
+100,Good morning!,Buongiorno!,,phrases
+100,Good evening!,Buona sera!,,phrases
+100,Welcome! (to greet someone male),Benvenuto!,,phrases
+100,Welcome! (to greet someone female),Benvenuta! ,,phrases
+100,How are you? (polite),Come state?,,phrases
+100,How are you? (informal),Come stai?,,phrases
+100,"I'm fine, thanks!","Bene, grazie!",,phrases
+100,And you?,e tu? e lei? (polite),,phrases
+100,Good,Bene,,phrases
+100,So-So.,così e così.,,phrases
+100,Thank you very much!,Grazie molto!,,phrases
+100,Thank you!,Grazie!,,phrases
+100,"You're welcome! (for ""thank you"")",Prego!,,phrases
+100,Hey! Friend!,Ciao! Amico!,,phrases
+100,I missed you so much!,Mi sei mancato molto!,,phrases
+100,What's new? ,che c'è di nuovo?,,phrases
+100,Nothing much,Non molto,,phrases
+100,Good night!,Buona notte!,,phrases
+100,See you later!,A dopo,,phrases
+100,Good bye!,Arrivederci!,,phrases
+100,I'm lost,Mi sono perso/ persa (feminine),,phrases
+100,Can I help you?,Posso aiutarti?/ posso aiutarla (polite)?,,phrases
+100,Can you help me?,Potresti aiutarmi?/ potrebbe aiutarmi? (polite),,phrases
+100,Where is the (bathroom/ pharmacy)?,Dove posso trovare (il bagno/ la farmacia?),,phrases
+100,Go straight! then turn left/ right!,Vada dritto! e poi giri a destra/ sinistra!,,phrases
+100,I'm looking for john.,Sto cercando John.,,phrases
+100,One moment please!,Un momento prego!,,phrases
+100,Hold on please! (phone),Attenda prego!,,phrases
+100,How much is this?,Quanto costa questo?,,phrases
+100,Excuse me ...! (to ask for something),Scusami!/ Mi scusi! (polite),,phrases
+100,Excuse me! ( to pass by),Permesso,,phrases
+100,Come with me!,Vieni con me!/ Venga con me! (polite),,phrases
 5,Do you speak (English/ Italian)?,Parli (inglese/italiano)?/ Parla (inglese/italiano)? (polite),,phrases
 5,Just a little.,Solo un po'.,,phrases
 5,What's your name?,Quale è il suo nome?,,phrases

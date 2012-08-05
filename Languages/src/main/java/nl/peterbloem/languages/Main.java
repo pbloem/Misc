@@ -11,12 +11,12 @@ import au.com.bytecode.opencsv.CSVReader;
 
 public class Main {
 
-	private static final String CHINESE_DATA = "data/chinese/modern.csv";
+	private static final String CHINESE_DATA  = "data/chinese/modern.csv";
 	private static final String CROATIAN_DATA = "data/croatian/manual.csv";
-	private static final String ITALIAN_DATA = "data/italian/italian.csv";
-	private static final String FRENCH_DATA = "data/french/french.csv";
-	private static final String GERMAN_DATA = "data/german/german.csv";
-	private static final String SPANISH_DATA = "data/spanish/spanish.csv";
+	private static final String ITALIAN_DATA  = "data/italian/italian.csv";
+	private static final String FRENCH_DATA   = "data/french/french.csv";
+	private static final String GERMAN_DATA   = "data/german/german.csv";
+	private static final String SPANISH_DATA  = "data/spanish/spanish.csv";
 	
 	
 	private static int subsetSize;
@@ -38,24 +38,26 @@ public class Main {
 		while(true)
 		{		
 
-			Functions.tic();
-			
 			String language = console.readLine("Which language would you like to practice? (chinese, croatian, italian, french, or enter for random)");
 			
 			language = language.trim().toLowerCase();
 			if(language.equals(""))
 				if(Math.random() < 0.2)
 					language = "chinese";
-				if(Math.random() < 0.4)
+				else if(Math.random() < 0.4)
 					language = "italian";
-				if(Math.random() < 0.6)
+				else if(Math.random() < 0.6)
 					language = "french";
-				if(Math.random() < 0.8)
+				else if(Math.random() < 0.8)
 					language = "german";
-				if(Math.random() < 0.98)
+				else if(Math.random() < 0.98)
 					language = "spanish";
 				else
 					language = "croatian";
+			
+			System.out.println(language + "!");
+			
+			Functions.tic();
 			
 			if(language.equals("chinese"))
 				chinese();
@@ -194,12 +196,6 @@ public class Main {
 	
 	public static void chinese() throws IOException
 	{
-		String category = console.readLine("Which category of characters (direction, function, verb, time, location, food, family, prepposition ,part, basic, number for top n)?");
-		if(isParsableToInt(category))
-			topN = Integer.parseInt(category);
-		else
-			useCategory = true;
-		
 		InputStream in = Main.class.getClassLoader()					
                 .getResourceAsStream(CHINESE_DATA);
 		
@@ -213,8 +209,15 @@ public class Main {
 	    for(String[] raw: charactersRaw)
 	    	characters.add(new Character(raw[1], raw[3],raw[4], raw[5], 
 	    			Integer.parseInt(raw[0]), Integer.parseInt(raw[2])));
-	    
+	    	    
+		String category = console.readLine("Which category of characters (direction, function, verb, time, location, food, family, prepposition ,part, basic, number for top n)?");
+		if(isParsableToInt(category))
+			topN = Integer.parseInt(category);
+		else
+			useCategory = true;	   
+		
 	    System.out.println("Number of characters " + characters.size());
+ 
 	    
 	    if(! useCategory)
 	    	characters = characters.subList(0, topN);
@@ -225,6 +228,8 @@ public class Main {
 	    		if(! (it.next().category().contains(category)))
 	    			it.remove();
 	    }
+	    
+	    System.out.println(characters.size() + " characters selected.");
 	    
 		String numChar = console.readLine("How many characters (max "+characters.size()+")?");
 		subsetSize = Integer.parseInt(numChar);	    	    
