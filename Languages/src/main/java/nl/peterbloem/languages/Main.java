@@ -17,6 +17,7 @@ public class Main {
 	private static final String FRENCH_DATA   = "data/french/french.csv";
 	private static final String GERMAN_DATA   = "data/german/german.csv";
 	private static final String SPANISH_DATA  = "data/spanish/spanish.csv";
+	private static final String PORTUGUESE_DATA  = "data/portuguese/portuguese.csv";
 	
 	
 	private static int subsetSize;
@@ -41,16 +42,19 @@ public class Main {
 			String language = console.readLine("Which language would you like to practice? (chinese, croatian, italian, french, or enter for random)");
 			
 			language = language.trim().toLowerCase();
+			double r = Math.random(); 
 			if(language.equals(""))
-				if(Math.random() < 0.2)
+				if(r < 0.99)
+					language = "portuguese";					
+				else if(r < 0.992)
 					language = "chinese";
-				else if(Math.random() < 0.4)
+				else if(r < 0.994)
 					language = "italian";
-				else if(Math.random() < 0.6)
+				else if(r < 0.996)
 					language = "french";
-				else if(Math.random() < 0.8)
+				else if(r < 0.998)
 					language = "german";
-				else if(Math.random() < 0.98)
+				else if(r < 0.9998)
 					language = "spanish";
 				else
 					language = "croatian";
@@ -71,6 +75,8 @@ public class Main {
 				generic(GERMAN_DATA);
 			if(language.equals("spanish"))
 				generic(SPANISH_DATA);
+			if(language.equals("portuguese"))
+				generic(PORTUGUESE_DATA);			
 			
 			System.out.println("Time taken: " + Functions.toc()/60.0 + " minutes");
 		}

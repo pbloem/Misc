@@ -1,0 +1,1428 @@
+20,nouns,substantivos,,vocab
+20,my car,meu carro,,vocab
+20,green car,carro verde,,vocab
+20,three cars,três carros,,vocab
+20,car garage,garagem,,vocab
+20,outside the car,fora do carro,,vocab
+20,arm,braço,,vocab
+20,back,costas,,vocab
+20,cheeks,bochechas,,vocab
+20,chest,peito,,vocab
+20,chin,queixo,,vocab
+20,ear,orelha,,vocab
+20,elbow,cotovelo,,vocab
+20,eye,olho,,vocab
+20,face,face,,vocab
+20,finger,dedo,,vocab
+20,fingers,dedos,,vocab
+20,foot,pé,,vocab
+20,hair,cabelo,,vocab
+20,hand,mão,,vocab
+20,head,cabeça,,vocab
+20,heart,coração,,vocab
+20,knee,joelho,,vocab
+20,leg,perna,,vocab
+20,lip,lábio,,vocab
+20,mouth,boca,,vocab
+20,neck,pescoço,,vocab
+20,nose,nariz,,vocab
+20,shoulder,ombro,,vocab
+20,stomach,estômago,,vocab
+20,teeth,dentes,,vocab
+20,thigh,coxa,,vocab
+20,throat,garganta,,vocab
+20,thumb,polegar,,vocab
+20,toe,dedo do pé,,vocab
+20,tongue,língua,,vocab
+20,tooth,dente,,vocab
+20,adjectives,adjetivos,,vocab
+20,a green tree,uma árvore verde,,vocab
+20,a tall building,um edifício alto,,vocab
+20,a very old man,um homem muito idoso,,vocab
+20,the old red house,a velha casa vermelha,,vocab
+20,a very nice friend,um amigo muito legal,,vocab
+20,colors,cores,,vocab
+20,black,preto,,vocab
+20,blue,azul,,vocab
+20,brown,marrom,,vocab
+20,gray,cinza,,vocab
+20,green,verde,,vocab
+20,orange,laranja,,vocab
+20,purple,roxo,,vocab
+20,red,vermelho,,vocab
+20,white,branco,,vocab
+20,yellow,amarelo,,vocab
+20,sizes,tamanhos,,vocab
+20,big,grande,,vocab
+20,deep,profundo,,vocab
+20,long,longo,,vocab
+20,narrow,estreito,,vocab
+20,short,curto,,vocab
+20,small,pequeno,,vocab
+20,tall,alto,,vocab
+20,thick,grosso,,vocab
+20,thin,fino,,vocab
+20,wide,largo,,vocab
+20,shapes,formas,,vocab
+20,circular,circular,,vocab
+20,straight,reto,,vocab
+20,square,quadrado,,vocab
+20,triangular,triangular,,vocab
+20,tastes,gostos,,vocab
+20,bitter,amargo,,vocab
+20,fresh,fresco,,vocab
+20,salty,salgado,,vocab
+20,sour,azedo,,vocab
+20,spicy,picante,,vocab
+20,sweet,doce,,vocab
+20,qualities,qualidades,,vocab
+20,bad,ruim,,vocab
+20,clean,limpo,,vocab
+20,dark,escuro,,vocab
+20,difficult,difícil,,vocab
+20,dirty,sujo,,vocab
+20,dry,seco,,vocab
+20,easy,fácil,,vocab
+20,empty,vazio,,vocab
+20,expensive,caro,,vocab
+20,fast,rápido,,vocab
+20,foreign,estrangeiro,,vocab
+20,full,completo,,vocab
+20,good,bom,,vocab
+20,hard,rígido,,vocab
+20,heavy,pesado,,vocab
+20,inexpensive,barato,,vocab
+20,light,leve,,vocab
+20,local,local,,vocab
+20,new,novo,,vocab
+20,noisy,barulhento,,vocab
+20,old,velho,,vocab
+20,powerful,poderoso,,vocab
+20,quiet,calmo,,vocab
+20,correct,correto,,vocab
+20,slow,lento,,vocab
+20,soft,macio,,vocab
+20,very,muito,,vocab
+20,weak,fraco,,vocab
+20,wet,molhado,,vocab
+20,wrong,errado,,vocab
+20,young,jovem,,vocab
+20,quantities,quantidades,,vocab
+20,few,poucos,,vocab
+20,little,pouco,,vocab
+20,many,muitos,,vocab
+20,much,muito,,vocab
+20,part,parte,,vocab
+20,some,alguns,,vocab
+20,a few,alguns,,vocab
+20,whole,inteiro,,vocab
+20,adverbs,advérbios,,vocab
+20,I read a book sometimes,Leio um livro de vez em quando,,vocab
+20,I will never smoke,Eu nunca vou fumar,,vocab
+20,are you alone?,Você está sozinho?,,vocab
+20,adverbs of time,advérbios de tempo,,vocab
+20,yesterday,ontem,,vocab
+20,today,hoje,,vocab
+20,tomorrow,amanhã,,vocab
+20,now,agora,,vocab
+20,then,então,,vocab
+20,later,mais tarde,,vocab
+20,tonight,hoje à noite,,vocab
+20,right now,agora mesmo,,vocab
+20,last night,ontem à noite,,vocab
+20,this morning,hoje cedo,,vocab
+20,next week,na próxima semana,,vocab
+20,already,já,,vocab
+20,recently,recentemente,,vocab
+20,lately,recentemente,,vocab
+20,soon,logo,,vocab
+20,immediately,imediatamente,,vocab
+20,still,ainda,,vocab
+20,yet,ainda,,vocab
+20,ago,atrás,,vocab
+20,adverbs of place,advérbios de lugar,,vocab
+20,here,aqui,,vocab
+20,there,lá,,vocab
+20,over there,ali,,vocab
+20,everywhere,em toda parte,,vocab
+20,anywhere,em qualquer lugar,,vocab
+20,nowhere,em nenhum lugar,,vocab
+20,home,em casa,,vocab
+20,away,longe,,vocab
+20,out,fora,,vocab
+20,adverbs of manner,advérbios de modo,,vocab
+20,very,muito,,vocab
+20,quite,muito,,vocab
+20,pretty,muito,,vocab
+20,really,realmente,,vocab
+20,fast,rápido,,vocab
+20,well,bem,,vocab
+20,hard,rígido,,vocab
+20,quickly,rapidamente,,vocab
+20,slowly,lentamente,,vocab
+20,carefully,cuidadosamente,,vocab
+20,hardly,dificilmente,,vocab
+20,barely,mal,,vocab
+20,mostly,principalmente,,vocab
+20,almost,quase,,vocab
+20,absolutely,absolutamente,,vocab
+20,together,juntos,,vocab
+20,alone,sozinho,,vocab
+20,adverbs of frequency,advérbios de freqüência,,vocab
+20,always,sempre,,vocab
+20,frequently,freqüentemente,,vocab
+20,usually,geralmente,,vocab
+20,sometimes,às vezes,,vocab
+20,occasionally,ocasionalmente,,vocab
+20,seldom,raramente,,vocab
+20,rarely,raramente,,vocab
+20,never,nunca,,vocab
+20,articles,artigos,,vocab
+20,the,o,,vocab
+20,a,um,,vocab
+20,one,um,,vocab
+20,some,alguns,,vocab
+20,few,poucos,,vocab
+20,the book,o livro,,vocab
+20,the books,os livros,,vocab
+20,a book,um livro,,vocab
+20,one book,um livro,,vocab
+20,some books,alguns livros,,vocab
+20,few books,poucos livros,,vocab
+20,Food,comida,,vocab
+20,almonds,amêndoas,,vocab
+20,bread,pão,,vocab
+20,breakfast,café da manhã,,vocab
+20,butter,manteiga,,vocab
+20,candy,bala,,vocab
+20,cheese,queijo,,vocab
+20,chicken,frango,,vocab
+20,cumin,cominho,,vocab
+20,dessert,sobremesa,,vocab
+20,dinner,jantar,,vocab
+20,fish,peixe,,vocab
+20,fruit,fruta,,vocab
+20,ice cream,sorvete,,vocab
+20,lamb,cordeiro,,vocab
+20,lemon,limão siciliano,,vocab
+20,lunch,almoço,,vocab
+20,meal,refeição,,vocab
+20,meat,carne,,vocab
+20,oven,forno,,vocab
+20,pepper,pimenta,,vocab
+20,plants,plantas,,vocab
+20,pork,carne de porco,,vocab
+20,salad,salada,,vocab
+20,salt,sal,,vocab
+20,sandwich,sanduíche,,vocab
+20,sausage,linguíça,,vocab
+20,soup,sopa,,vocab
+20,sugar,açúcar,,vocab
+20,supper,"ceia, jantar",,vocab
+20,turkey,peru,,vocab
+20,apple,maçã,,vocab
+20,banana,banana,,vocab
+20,oranges,laranjas,,vocab
+20,peaches,pêssegos,,vocab
+20,peanut,amendoim,,vocab
+20,pears,peras,,vocab
+20,pineapple,abacaxi,,vocab
+20,grapes,uvas,,vocab
+20,strawberries,morangos,,vocab
+20,vegetables,legumes,,vocab
+20,carrot,cenoura,,vocab
+20,corn,milho,,vocab
+20,cucumber,pepino,,vocab
+20,garlic,alho,,vocab
+20,lettuce,alface,,vocab
+20,olives,azeitonas,,vocab
+20,onions,cebolas,,vocab
+20,peppers,pimentões,,vocab
+20,potatoes,batatas,,vocab
+20,pumpkin,abóbora,,vocab
+20,beans,feijões,,vocab
+20,tomatoes,tomates,,vocab
+20,Pronouns,Pronomes,,vocab
+20,I,eu,,vocab
+20,you,você,,vocab
+20,he,ele,,vocab
+20,she,ela,,vocab
+20,we,nós,,vocab
+20,they,"eles, elas",,vocab
+20,me,me,,vocab
+20,you,você,,vocab
+20,him,lhe,,vocab
+20,her,lhe,,vocab
+20,us,nós,,vocab
+20,them,os,,vocab
+20,my,meu,,vocab
+20,your,seu,,vocab
+20,his,seu (dele),,vocab
+20,her,sua (dela),,vocab
+20,our,nosso,,vocab
+20,their,seus,,vocab
+20,mine,meu,,vocab
+20,yours,seu (de você),,vocab
+20,his,seu (dele),,vocab
+20,hers,sua (dela),,vocab
+20,ours,"nosso, nossa",,vocab
+20,theirs,"seus, suas (deles, delas)",,vocab
+20,I speak,falo,,vocab
+20,you speak,você fala,,vocab
+20,he speaks,ele fala,,vocab
+20,she speaks,ela fala,,vocab
+20,we speak,falamos,,vocab
+20,they speak,eles falam,,vocab
+20,give me,me dê,,vocab
+20,give you,dar-lhe,,vocab
+20,give him,dar-lhe,,vocab
+20,give her,dar-lhe,,vocab
+20,give us,dar-nos,,vocab
+20,give them,dar-lhes,,vocab
+20,my book,meu livro,,vocab
+20,your book,seu livro,,vocab
+20,his book,seu livro,,vocab
+20,her book,seu livro,,vocab
+20,our book,nosso livro,,vocab
+20,their book,seu livro,,vocab
+20,Plural,Plural,,vocab
+20,my book,meu livro,,vocab
+20,my books,meus livros,,vocab
+20,our daughter,nossa filha,,vocab
+20,our daughters,nossas filhas,,vocab
+20,I'm cold,Estou com frio,,vocab
+20,we're cold,estamos com frio,,vocab
+20,his chickens,suas galinhas (dele),,vocab
+20,their chicken,"suas galinhas (dles, delas)",,vocab
+20,alligator,jacaré,,vocab
+20,alligators,jacarés,,vocab
+20,bear,urso,,vocab
+20,bears,ursos,,vocab
+20,bird,pássaro,,vocab
+20,birds,pássaros,,vocab
+20,bull,touro,,vocab
+20,bulls,touros,,vocab
+20,cat,gato,,vocab
+20,cats,gatos,,vocab
+20,cow,vaca,,vocab
+20,cows,vacas,,vocab
+20,deer,veado,,vocab
+20,many deer,muitos veados,,vocab
+20,dog,cão,,vocab
+20,dogs,cães,,vocab
+20,donkey,burro,,vocab
+20,donkeys,burros,,vocab
+20,eagle,águia,,vocab
+20,eagles,águias,,vocab
+20,elephant,elefante,,vocab
+20,elephants,elefantes,,vocab
+20,giraffe,girafa,,vocab
+20,giraffes,girafas,,vocab
+20,goat,cabra,,vocab
+20,goats,cabras,,vocab
+20,horse,cavalo,,vocab
+20,horses,cavalos,,vocab
+20,lion,leão,,vocab
+20,lions,leões,,vocab
+20,monkey,macaco,,vocab
+20,monkeys,macacos,,vocab
+20,mouse,rato,,vocab
+20,mice,ratos,,vocab
+20,rabbit,coelho,,vocab
+20,rabbits,coelhos,,vocab
+20,snake,cobra,,vocab
+20,snakes,cobras,,vocab
+20,tiger,tigre,,vocab
+20,tigers,tigres,,vocab
+20,wolf,lobo,,vocab
+20,wolves,lobos,,vocab
+20,Feminine,Feminino,,vocab
+20,he is happy,ele está feliz,,vocab
+20,she is happy,ela está feliz,,vocab
+20,he is American,ele é americano,,vocab
+20,she is American,ela é americana,,vocab
+20,man,homem,,vocab
+20,woman,mulher,,vocab
+20,father,pai,,vocab
+20,mother,mãe,,vocab
+20,brother,irmão,,vocab
+20,sister,irmã,,vocab
+20,uncle,tio,,vocab
+20,aunt,tia,,vocab
+20,bull,touro,,vocab
+20,cow,vaca,,vocab
+20,boy,menino,,vocab
+20,girl,menina,,vocab
+20,objects,objetos,,vocab
+20,bathroom,banheiro,,vocab
+20,bed,cama,,vocab
+20,bedroom,quarto,,vocab
+20,ceiling,teto,,vocab
+20,chair,cadeira,,vocab
+20,clothes,roupas,,vocab
+20,coat,casaco,,vocab
+20,cup,xícara,,vocab
+20,desk,escrivaninha,,vocab
+20,dress,vestido,,vocab
+20,floor,andar,,vocab
+20,fork,garfo,,vocab
+20,furniture,móveis,,vocab
+20,glass,vidro,,vocab
+20,hat,chapéu,,vocab
+20,house,casa,,vocab
+20,ink,tinta,,vocab
+20,jacket,jaqueta,,vocab
+20,kitchen,cozinha,,vocab
+20,knife,faca,,vocab
+20,lamp,lâmpada,,vocab
+20,letter,carta,,vocab
+20,map,mapa,,vocab
+20,newspaper,jornal,,vocab
+20,notebook,caderno,,vocab
+20,pants,calças,,vocab
+20,paper,papel,,vocab
+20,pen,caneta,,vocab
+20,pencil,lápis,,vocab
+20,pharmacy,farmácia,,vocab
+20,picture,"fotografia, quadro",,vocab
+20,plate,chapa,,vocab
+20,refrigerator,geladeira,,vocab
+20,restaurant,restaurante,,vocab
+20,roof,telhado,,vocab
+20,room,quarto,,vocab
+20,rug,tapete,,vocab
+20,scissors,tesoura,,vocab
+20,shampoo,xampu,,vocab
+20,shirt,camisa,,vocab
+20,shoes,sapatos,,vocab
+20,soap,"sabão, sabonete",,vocab
+20,socks,meias,,vocab
+20,spoon,colher,,vocab
+20,table,mesa,,vocab
+20,toilet,toalete,,vocab
+20,toothbrush,escova de dentes,,vocab
+20,toothpaste,creme dental,,vocab
+20,towel,toalha,,vocab
+20,umbrella,guarda-chuva,,vocab
+20,underwear,roupa íntima,,vocab
+20,wall,parede,,vocab
+20,wallet,carteira,,vocab
+20,window,janela,,vocab
+20,telephone,telefone,,vocab
+20,Verbs,Verbos,,vocab
+20,Past,Passado,,vocab
+20,I spoke,falei,,vocab
+20,I wrote,escrevi,,vocab
+20,I drove,dirigi,,vocab
+20,I loved,amei,,vocab
+20,I gave,dei,,vocab
+20,I smiled,sorri,,vocab
+20,I took,tomei,,vocab
+20,he spoke,falou,,vocab
+20,he wrote,escreveu,,vocab
+20,he drove,dirigiu,,vocab
+20,he loved,amava,,vocab
+20,he gave,deu,,vocab
+20,he smiled,sorriu,,vocab
+20,he took,tomou,,vocab
+20,we spoke,falamos,,vocab
+20,we wrote,escrevemos,,vocab
+20,we drove,dirigimos,,vocab
+20,we loved,amamos,,vocab
+20,we gave,demos,,vocab
+20,we smiled,sorrimos,,vocab
+20,we took,tomamos,,vocab
+20,Future,Futuro,,vocab
+20,I will speak,falarei,,vocab
+20,I will write,escreverei,,vocab
+20,I will drive,dirigirei,,vocab
+20,I will love,amarei,,vocab
+20,I will give,darei,,vocab
+20,I will smile,sorrirei,,vocab
+20,I will take,levarei,,vocab
+20,he will speak,ele falará,,vocab
+20,he will write,ele escreverá,,vocab
+20,he will drive,ele dirigirá,,vocab
+20,he will love,ele adorará,,vocab
+20,he will give,ele dará,,vocab
+20,he will smile,ele sorrirá,,vocab
+20,he will take,ele levará,,vocab
+20,we will speak,falaremos,,vocab
+20,we will write,escreveremos,,vocab
+20,we will drive,dirigiremos,,vocab
+20,we will love,amaremos,,vocab
+20,we will give,daremos,,vocab
+20,we will smile,sorriremos,,vocab
+20,we will take,levaremos,,vocab
+20,Present,Presente,,vocab
+20,I speak,Falo,,vocab
+20,I write,escrevo,,vocab
+20,I drive,dirijo,,vocab
+20,I love,amo,,vocab
+20,I give,dou,,vocab
+20,I smile,sorrio,,vocab
+20,I take,levo,,vocab
+20,he speaks,ele fala,,vocab
+20,he writes,ele escreve,,vocab
+20,he drives,ele dirige,,vocab
+20,he loves,ele ama,,vocab
+20,he gives,ele dá,,vocab
+20,he smiles,ele sorri,,vocab
+20,he takes,ele leva,,vocab
+20,we speak,falamos,,vocab
+20,we write,escrevemos,,vocab
+20,we drive,dirigimos,,vocab
+20,we love,amamos,,vocab
+20,we give,damos,,vocab
+20,we smile,sorrimos,,vocab
+20,we take,levamos,,vocab
+20,I can accept that,Eu posso aceitar que,,vocab
+20,she added it,Ela acrescentou que,,vocab
+20,we admit it,admitimos,,vocab
+20,they advised him,Aconselharam-no,,vocab
+20,I can agree with that,Não posso concordar com isso,,vocab
+20,she allows it,Ela permite que,,vocab
+20,we announce it,anunciamos que,,vocab
+20,I can apologize,Eu posso me desculpar,,vocab
+20,she appears today,ela aparece hoje,,vocab
+20,they arranged that,"eles, elas conseguiram",,vocab
+20,I can arrive tomorrow,talvez eu chegue amanhã,,vocab
+20,she can ask him,ela pode pedir a ele,,vocab
+20,she attaches that,ela alega que,,vocab
+20,we attack them,os atacamos,,vocab
+20,they avoid her,evitaram-na,,vocab
+20,I can bake it,Posso assar,,vocab
+20,she is like him,ela se parece com ele,,vocab
+20,we beat it,nós conseguimos,,vocab
+20,they became happy,"tornaram-se felizes, contentes",,vocab
+20,I can begin that,Eu posso começar isso,,vocab
+20,we borrowed money,"pegamos, tomamos dinheiro emprestado",,vocab
+20,they breathe air,"eles, elas respiram o ar",,vocab
+20,I can bring it,posso trazê-lo,,vocab
+20,I can build that,posso construir isso,,vocab
+20,she buys food,ela compra alimentos,,vocab
+20,we calculate it,calculamos isso,,vocab
+20,they carry it,"eles, elas carregam isso",,vocab
+20,they don't cheat,"eles, elas não enganam",,vocab
+20,she chooses him,ela o escolhe,,vocab
+20,we close it,fechamos isso,,vocab
+20,he comes here,ele vem aqui,,vocab
+20,I can compare that,Eu posso comparar isso,,vocab
+20,she competes with me,ela compete comigo,,vocab
+20,we complain about it,nós nos queixamos disso,,vocab
+20,they continued reading,"eles, elas continuaram a ler",,vocab
+20,he cried about that,ele gritou por causa disso,,vocab
+20,I can decide now,posso decidir agora,,vocab
+20,she described it to me,ela descereveu isso pra mim,,vocab
+20,we disagree about it,discordamos disso,,vocab
+20,they disappeared quickly,"eles, elas desapareceram rapidamente",,vocab
+20,I discovered that,decobri isso,,vocab
+20,she dislikes that,ela não gosta disso,,vocab
+20,we do it,fazemos,,vocab
+20,they dream about it,"eles, elas sonham com isso",,vocab
+20,I earned,ganhei,,vocab
+20,he eats a lot,ele come muito,,vocab
+20,we enjoyed that,gostávamos disso,,vocab
+20,they entered here,"eles, elas entraram aqui",,vocab
+20,he escaped that,ele escapou,,vocab
+20,I can explain that,posso explicar isso,,vocab
+20,she feels that too,ela também se sente assim,,vocab
+20,we fled from there,fugimos de lá,,vocab
+20,they will fly tomorrow,"eles, elas tomarão o avião amanhã",,vocab
+20,I can follow you,Eu posso segui-lo,,vocab
+20,she forgot me,ela se esqueceu de mim,,vocab
+20,we forgive him,nó o perdoamos,,vocab
+20,I can give her that,posso dar-lhe isso,,vocab
+20,she goes there,ela irá lá,,vocab
+20,we greeted them,nós os cumprimentamos,,vocab
+20,I hate that,detesto isso,,vocab
+20,I can hear it,posso ouvi-lo,,vocab
+20,she imagine that,ela pensa que,,vocab
+20,we invited them,nós os convidamos,,vocab
+20,I know him,Eu o conheço,,vocab
+20,she learned it,ela aprendeu,,vocab
+20,we leave now,partiremos agora,,vocab
+20,they lied about him,"eles, elas mentiram sobre ele",,vocab
+20,I can listen to that,posso ouvir isso,,vocab
+20,she lost that,"ela perdeu isso, aquilo",,vocab
+20,we made it yesterday,Fizemos isso ontem,,vocab
+20,they met him,"eles, elas o encontraram",,vocab
+20,I misspell that,cometi erros de ortografia,,vocab
+20,I always pray,"sempre rezo, oro",,vocab
+20,she prefers that,Ela prefere que,,vocab
+20,we protected them,nós os protegemos,,vocab
+20,they will punish her,eles vão puni-la,,vocab
+20,I can put it there,"posso colocar isso lá, ali",,vocab
+20,she will read it,ela vai lê-lo,,vocab
+20,we received that,recebemos isso,,vocab
+20,they refuse to talk,eles se recusam a falar,,vocab
+20,I remember that,Lembro-me que,,vocab
+20,she repeats that,ela repete que,,vocab
+20,we see it,vemos,,vocab
+20,they sell it,"eles, elas vendem isso",,vocab
+20,I sent that yesterday,enviei isso ontem,,vocab
+20,he shaved his beard,ele fez a barba,,vocab
+20,it shrunk quickly,"ele, ela encolheu rapidamente",,vocab
+20,we will sing it,cantaremos,,vocab
+20,they sat there,Sentaram-se lá,,vocab
+20,I can speak it,posso falar isso,,vocab
+20,she spends money,ela gasta dinheiro,,vocab
+20,we suffered from that,sofremos com isso,,vocab
+20,they suggest that,Eles sugerem que,,vocab
+20,I surprised him,eu o surpreendi,,vocab
+20,she took that,ela levou isso,,vocab
+20,we teach it,nós ensinamos isso,,vocab
+20,they told us,disseram-nos,,vocab
+20,she thanked him,ela agradeceu a ele,,vocab
+20,I can think about it,posso pensar nisso,,vocab
+20,she threw it,ela jogou isso,,vocab
+20,we understand that,entendemos que,,vocab
+20,they want that,eles querem que,,vocab
+20,I can wear it,"posso usá-lo, la",,vocab
+20,she writes that,ela escreve isso,,vocab
+20,we talk about it,falamos sobre isso,,vocab
+20,they have it,eles têm,,vocab
+20,I watched it,eu o assisti,,vocab
+20,I will talk about it,Eu vou falar sobre isso,,vocab
+20,he bought that yesterday,"ele o, a comprou ontem",,vocab
+20,we finished it,terminamos ,,vocab
+20,Prepositions,Preposições,,vocab
+20,inside the house,dentro de casa,,vocab
+20,outside the car,fora do carro,,vocab
+20,with me,comigo,,vocab
+20,without him,sem ele,,vocab
+20,under the table,sob a mesa,,vocab
+20,after tomorrow,depois de amanhã,,vocab
+20,before sunset,antes do por do sol,,vocab
+20,but I'm busy,mas estou ocupado,,vocab
+20,about,sobre,,vocab
+20,above,acima,,vocab
+20,across,através de,,vocab
+20,after,depois,,vocab
+20,against,contra,,vocab
+20,among,entre,,vocab
+20,around,em torno de,,vocab
+20,as,como,,vocab
+20,at,em,,vocab
+20,before,antes,,vocab
+20,behind,atrás,,vocab
+20,below,abaixo,,vocab
+20,beneath,abaixo,,vocab
+20,beside,ao lado de,,vocab
+20,between,entre,,vocab
+20,beyond,além,,vocab
+20,but,mas,,vocab
+20,by,por,,vocab
+20,despite,apesar de,,vocab
+20,down,para baixo,,vocab
+20,during,durante,,vocab
+20,except,exceto,,vocab
+20,for,para,,vocab
+20,from,de,,vocab
+20,in,em,,vocab
+20,inside,dentro de,,vocab
+20,into,em,,vocab
+20,near,perto,,vocab
+20,next,próximo,,vocab
+20,of,de,,vocab
+20,on,em,,vocab
+20,opposite,oposto,,vocab
+20,out,fora,,vocab
+20,outside,fora de,,vocab
+20,over,sobre,,vocab
+20,per,por,,vocab
+20,plus,mais,,vocab
+20,round,aproximadamente,,vocab
+20,since,desde,,vocab
+20,than,que,,vocab
+20,through,através de,,vocab
+20,till,até,,vocab
+20,to,para,,vocab
+20,toward,em direção a,,vocab
+20,under,sob,,vocab
+20,unlike,diferente de,,vocab
+20,until,até,,vocab
+20,up,para cima,,vocab
+20,via,via,,vocab
+20,with,com,,vocab
+20,within,dentro de,,vocab
+20,without,sem,,vocab
+20,two words,duas palavras,,vocab
+20,according to,conforme,,vocab
+20,because of,por causa de,,vocab
+20,close to,próximo a,,vocab
+20,due to,devido a,,vocab
+20,except for,exceto,,vocab
+20,far from,"distante, longe de",,vocab
+20,inside of,dentro de,,vocab
+20,instead of,em vez de,,vocab
+20,near to,perto de,,vocab
+20,next to,próximo de,,vocab
+20,outside of,fora de,,vocab
+20,prior to,antes de,,vocab
+20,three words,três palavras,,vocab
+20,as far as,tanto quanto,,vocab
+20,as well as,bem como,,vocab
+20,in addition to,além de,,vocab
+20,in front of,na frente de,,vocab
+20,in spite of,apesar de,,vocab
+20,on behalf of,em nome de,,vocab
+20,on top of,em cima de,,vocab
+20,demonstrative pronouns,pronomes demonstrativos,,vocab
+20,this,"este, esta",,vocab
+20,that,"aquele, aquela",,vocab
+20,these,"estes, estas",,vocab
+20,those,"aqueles, aquelas",,vocab
+100,Negation,Negação,,vocab
+100,he is not here,Ele não está aqui,,vocab
+100,that is not my book,esse não é o meu livro,,vocab
+100,do not enter,não entre,,vocab
+100,Questions,Perguntas,,vocab
+100,how?,Como?,,vocab
+100,what?,O quê?,,vocab
+100,who?,Quem?,,vocab
+100,why?,Por quê?,,vocab
+100,where?,Onde?,,vocab
+200,where is he?,Onde ele está?,,vocab
+200,what is this?,O que é isso?,,vocab
+200,why are you sad?,Por que você está triste?,,vocab
+200,how do you want to pay?,Como você quer pagar?,,vocab
+200,can I come?,Posso entrar?,,vocab
+200,is he sleeping?,Ele está dormindo?,,vocab
+200,do you know me?,Você me conhece?,,vocab
+200,do you have my book?,Você está com o meu livro?,,vocab
+200,how big is it?,Qual o tamanho disso?,,vocab
+200,can I help you?,Posso ajudá-lo?,,vocab
+200,can you help me?,Você pode me ajudar?,,vocab
+200,do you speak English?,Você fala Inglês?,,vocab
+200,how far is this?,Qual a distância?,,vocab
+200,what time is it?,Que horas são?,,vocab
+200,how much is this?,Quanto custa?,,vocab
+200,what is your name?,Qual é o seu nome?,,vocab
+200,where do you live?,Onde você mora?,,vocab
+200,A Água ,The Water ,,vocab
+200,A Ajuda ,The Help ,,vocab
+200,Os Anos ,The Years ,,vocab
+200,O Apelido ,The Surname ,,vocab
+200,O Autocarro ,The Bus (in EU Portuguese) ,,vocab
+200,(O) Azar ,"(The) Bad luck 
+Tough ",,vocab
+200,O Balcão ,"The Balcony 
+The Counter ",,vocab
+200,O Banho ,The Bath ,,vocab
+200,O Bilhete ,The Ticket ,,vocab
+200,O Cartão ,The Card ,,vocab
+200,A Casa ,"The House
+The Home ",,vocab
+200,O Casal ,The Couple ,,vocab
+200,A Chegada ,The Arrival ,,vocab
+200,A Coisa ,The Thing ,,vocab
+200,A Conta ,The Bill ,,vocab
+200,O Copo ,The Glass ,,vocab
+200,O Cuidado ,"Careful 
+The carefulness ",,vocab
+200,A Desculpa ,The Excuse ,,vocab
+200,O Dia ,The Day ,,vocab
+200,O Dinheiro ,"The Money
+The Cash ",,vocab
+200,A Direita ,The Right hand side ,,vocab
+200,O Direito ,The (legal) Right ,,vocab
+200,A Era ,The Era ,,vocab
+200,O Esquerdo/A Esquerda ,The Left hand side,,vocab
+200,A Esquina ,The Corner ,,vocab
+200,O Estudo ,The Study ,,vocab
+200,O Favor ,The Favour ,,vocab
+200,O Fim ,The End ,,vocab
+200,A Frente ,The front ,,vocab
+200,O Frio ,The cold ,,vocab
+200,A Gente ,"One (The people)
+We ",,vocab
+200,O Homem ,The Man ,,vocab
+200,* A Hora (also compare with Tempo and Vez),"The Time 
+The Hour ",,vocab
+200,O Horário ,The Timetable ,,vocab
+200,A Ida ,The Go ,,vocab
+200,O Lado ,The Side ,,vocab
+200,A Licença ,"The Permission 
+The Licence ",,vocab
+200,A Maioria (de),"Most (of)
+The majority (of) ",,vocab
+200,O Mal ,The Bad thing ,,vocab
+200,"O Mês 
+Os Meses ",The month/The months ,,vocab
+200,O Minuto ,The minute ,,vocab
+200,A Mulher ,"The Woman 
+The Wife ",,vocab
+200,A Noite ,The Night ,,vocab
+200,O Nome ,The Name ,,vocab
+200,As Novidades ,"The News 
+(in terms of what is new) ",,vocab
+200,O Número ,The Number ,,vocab
+200,O Ônibus ,The Bus (Brazilian Portuguese ,,vocab
+200,A Palavra ,The Word ,,vocab
+200,(Os) Parabéns ,(The) Congratulations ,,vocab
+200,O Pé ,The Foot ,,vocab
+200,As Pessoas ,The People ,,vocab
+200,A Porta ,The Door ,,vocab
+200,O Português ,The Portuguese ,,vocab
+200,O Prato ,"The Plate 
+The dish ",,vocab
+200,A Pressa ,"The hurry 
+The Rush ",,vocab
+200,O Primeiro ,The first ,,vocab
+200,O Princípio ,The Beginning ,,vocab
+200,O Problema ,The Problem ,,vocab
+200,O Próximo ,"The Next 
+The following ",,vocab
+200,O Quarto ,"The Fourth 
+The Bedroom ",,vocab
+200,O Recado ,The Message ,,vocab
+200,A Rua ,"The road 
+The street ",,vocab
+200,O Semáforo ,The Traffic lights ,,vocab
+200,A Semana ,The Week ,,vocab
+200,A Sorte ,The Luck ,,vocab
+200,(A) Tarde ,"Late 
+(The) Afternoon ",,vocab
+200,* O Tempo (also compare with Horas and Vez) ,"The Time (as 
+The Weather ",,vocab
+200,O Trabalho ,"The Work 
+The Assignment ",,vocab
+200,O Troco ,The Change ,,vocab
+200,O Último ,The Last (one) ,,vocab
+200,* A Vez (also compare with Tempo and Horas),"The turn 
+The time ",,vocab
+200,A Viagem ,"The journey 
+The Trip ",,vocab
+200,A Volta ,"The Return 
+The Going back ",,vocab
+200,O Vôo ,The Flight ,,vocab
+500,Abrir ,To Open ,,verb
+500,Achar ,"To think
+To Guess 
+To Find ",,verb
+500,Ajudar ,To Help ,,verb
+500,Andar ,"To be doing something
+To Walk ",,verb
+500,Apanhar ,To Take / To Catch / To Get ,,verb
+500,Aprender ,To Learn ,,verb
+500,Assinar ,To Sign ,,verb
+500,Chegar ,To arrive ,,verb
+500,Deixar (de) ,"To Leave behind
+To let 
+(To Stop doing something) ",,verb
+500,Descer ,"To go down
+To Descend ",,verb
+500,Desculpar-se ,To Forgive ,,verb
+500,Dizer ,To Say / To Tell ,,verb
+500,Dormir ,To Sleep ,,verb
+500,Escrever ,To write / to Spell ,,verb
+500,Estar ,To be (temporary) ,,verb
+500,Estudar ,To study ,,verb
+500,Falar ,"To Speak 
+To Say (BR) / To Tell (BR) ",,verb
+500,Fazer ,To Do / To Make ,,verb
+500,Fechar ,To Close ,,verb
+500,Ficar ,"To be located
+To become
+To Stay ",,verb
+500,Ficar com ,"To keep 
+To stay with",,verb
+500,Gostar de ,To Like ,,verb
+500,Ir ,To Go ,,verb
+500,Ler ,To Read ,,verb
+500,Melhorar ,To better / to improve ,,verb
+500,Morar ,To Live ,,verb
+500,Olhar ,To look (at) ,,verb
+500,Parecer ,To Seem / To Look like ,,verb
+500,Pedir ,to Ask (for smething) ,,verb
+500,Perceber [EU] ,To Understand ,,verb
+500,Perguntar ,To ask (questions) ,,verb
+500,Poder ,"Can
+To be able to ",,verb
+500,Pôr ,To Put ,,verb
+500,Precisar ,To need ,,verb
+500,Preferir ,To Prefer ,,verb
+500,Responder ,To Answer ,,verb
+500,Saber ,To Know (skills) ,,verb
+500,Sair ,To Leave / To Go out ,,verb
+500,Ser ,To Be (permanent) ,,verb
+500,Sentar(-se),To Sit Down ,,verb
+500,Sentir ,To Feel ,,verb
+500,Subir ,To Go Up / To climb ,,verb
+500,Ter (de) ,To Have (to) ,,verb
+500,Trabalhar ,To work ,,verb
+500,Trazer ,To Bring ,,verb
+500,Trocar ,To change / To Exchange ,,verb
+500,Usar ,To Use ,,verb
+500,Ver ,"To see 
+To Watch",,verb
+500,Viajar ,To Travel / To Commute ,,verb
+500,Vir ,To Come ,,verb
+500,Voltar (a+other verb) ,To Come Back /(To do again) ,,verb
+500,Voar ,To fly ,,verb
+20,De ,"From
+Of
+About",,verb
+20,A ,"To
+At (with time)",,verb
+20,Até ,"Up to 
+Until
+Even (e.g. Even Maria was there)",,verb
+20,Em ,"In
+On
+At",,verb
+20,Por *,"For
+Through
+Via
+By",,verb
+20,Para *,"To
+Towards
+For (as aim)
+In orther to",,verb
+20,Com ,With,,verb
+20,Sem ,Without,,verb
+20,Sobre ,About,,verb
+100,a mochila  , backpack,,vocab
+100,o maiô  ,bathing suit,,vocab
+100,o cinto  ,belt,,vocab
+100,o biquini  ,bikini,,vocab
+100,a blusa  ,blouse,,vocab
+100,as botas  ,boots,,vocab
+100,a samba-canção  ,boxer shorts,,vocab
+100,o sutiã  ,bra,,vocab
+100,a cueca   ,briefs (underwear),,vocab
+100,a pasta  ,briefcase,,vocab
+100,o boné  ,cap,,vocab
+100,o casaco  ,coat,,vocab
+100,o vestido  ,dress,,vocab
+100,os brincos  ,earrings,,vocab
+100,as luvas  ,gloves,,vocab
+100,o chapéu  ,hat,,vocab
+100,a jaqueta  ,jacket,,vocab
+100,os jeans  ,jeans,,vocab
+100,a jaqueta de couro  ,leather jacket,,vocab
+100,as malas  ,luggage,,vocab
+100,a mini-saia  ,mini-skirt,,vocab
+100,o colar    ,necklace,,vocab
+100,a calcinha  ,panties,,vocab
+100,o pijama  ,pajamas,,vocab
+100,as calças  ,pants,,vocab
+100,a bolsa  ,purse/bag,,vocab
+100,o anél  ,ring,,vocab
+100,as sandálias  ,sandals,,vocab
+100,o cachicol  ,scarf,,vocab
+100,a camisa  ,shirt,,vocab
+100,os sapatos  ,shoes,,vocab
+100,os shorts / a bermuda  ,shorts,,vocab
+100,a saia  ,skirt,,vocab
+100,as pantufas  ,slippers,,vocab
+100,os tênis  ,sneakers,,vocab
+100,as meias  ,socks,,vocab
+100,o terno  ,suit,,vocab
+100,o suéter  ,sweater,,vocab
+100,o moletom  ,sweatshirt,,vocab
+100,a gravata  ,tie,,vocab
+100,o smoking  ,tuxedo,,vocab
+100,a carteira  ,wallet,,vocab
+200,o jacaré  ,alligator,,vocab
+200,a formiga  ,ant,,vocab
+200,o morcego  ,bat ,,vocab
+200,o urso  ,bear ,,vocab
+200,a abelha  ,bee,,vocab
+200,o touro  ,bull ,,vocab
+200,a borboleta  ,butterfly,,vocab
+200,o gato  ,cat ,,vocab
+200,a vaca  ,cow,,vocab
+200,o caranguejo  ,crab,,vocab
+200,o crocodilo  ,crocodile,,vocab
+200,o cachorro  ,dog   ,,vocab
+200,o golfinho  ,dolphin,,vocab
+200,o pato  ,duck,,vocab
+200,a águia  ,eagle,,vocab
+200,o elefante  ,elephant ,,vocab
+200,a girafa  ,giraffe  ,,vocab
+200,o gorila  ,gorilla ,,vocab
+200,a galinha  ,hen,,vocab
+200,o cavalo  ,horse ,,vocab
+200,o beija-flor  ,hummingbird,,vocab
+200,o canguru  ,kangaroo ,,vocab
+200,o cordeiro  ,lamb ,,vocab
+200,o leão  ,lion ,,vocab
+200,a lagosta  ,lobster,,vocab
+200,o macaco  ,monkey ,,vocab
+200,o mosquito  ,mosquito,,vocab
+200,o boi  ,ox ,,vocab
+200,o papagaio  ,parrot,,vocab
+200,o peguim  ,penguin,,vocab
+200,o porco  ,pig,,vocab
+200,o rato  ,rat ,,vocab
+200,o galo  ,rooster,,vocab
+200,o tubarão  ,shark,,vocab
+200,a ovelha  ,sheep ,,vocab
+200,o camarão  ,shrimp,,vocab
+200,a cobra  ,snake,,vocab
+200,a aranha  ,spider,,vocab
+200,o tigre  ,tiger ,,vocab
+200,o pavão  ,peacock,,vocab
+200,a tartaruga  ,turtle,,vocab
+200,a baleia  ,whale,,vocab
+200,o lobo  ,wolf ,,vocab
+200,a praia  ,beach,,vocab
+200,a cadeira de praia  ,(beach) chair,,vocab
+200,o maiô  ,bathing suit,,vocab
+200,o guarda-sol  ,beach umbrella,,vocab
+200,o biquini  ,bikini ,,vocab
+200,a duna  ,dune,,vocab
+200,o pé-de-pato  ,fin,,vocab
+200,o peixe  ,fish,,vocab
+200,as bóias  ,floaters,,vocab
+200,a água-viva  ,jellyfish,,vocab
+200,o salva-vidas  ,lifeguard,,vocab
+200,a rocha  ,rock,,vocab
+200,a areia  ,sand,,vocab
+200,o castelo de areia  ,sand castle,,vocab
+200,o mar  ,sea,,vocab
+200,o tubarão  ,shark,,vocab
+200,a concha  ,shell,,vocab
+200,a sunga  ,speedos,,vocab
+200,a pedra  ,stone,,vocab
+200,o sol  ,sun,,vocab
+200,os óculos  de sol  ,sunglasses,,vocab
+200,o protetor solar  ,sunscreen,,vocab
+200,o surfista  ,surfer,,vocab
+200,a prancha de surfe ,surfing board,,vocab
+200,tomar sol  ,to take sun bath,,vocab
+200,queimar  ,to burn,,vocab
+200,mergulhar  ,to dive,,vocab
+200,boiar  ,to float,,vocab
+200,nadar  ,to swim,,vocab
+200,a onda  ,wave,,vocab
+200,a cerveja,beer,,vocab
+200,o capuccino,capuccino,,vocab
+200,a champanha,champagne,,vocab
+200,o coquetel,cocktail,,vocab
+200,o café,coffee,,vocab
+200,o conhaque,cognac,,vocab
+200,o expresso,expresso,,vocab
+200,o gim,gin,,vocab
+200,o chá verde,green tea,,vocab
+200,o suco,juice,,vocab
+200,a limonada,lemonade,,vocab
+200,o licor,liquor,,vocab
+200,o leite,milk,,vocab
+200,o suco de laranja,orange juice,,vocab
+200,o vinho tinto,red wine,,vocab
+200,o rum,rum,,vocab
+200,o refrigerante,soda,,vocab
+200,o refresco,soft drink,,vocab
+200,o chá,tea,,vocab
+200,a água tônica,tonic water,,vocab
+200,a vodka,vodka,,vocab
+200,a água,water,,vocab
+200,o uísque,whiskey,,vocab
+200,o vinho branco,white wine,,vocab
+200,o vinho,wine,,vocab
+200,a sangria,wine cooler,,vocab
+200,o acelerador  ,accelerator,,vocab
+200,o filtro de ar  ,air filter ,,vocab
+200,a antena  ,antenna ,,vocab
+200,a bateria  ,battery ,,vocab
+200,o cinto   ,belt,,vocab
+200,a bicicleta  ,bike,,vocab
+200,o freio  ,brake,,vocab
+200,o pára-choque  ,bumper,,vocab
+200,o carro  ,car,,vocab
+200,o motor  ,engine,,vocab
+200,o tubo de escape  ,exhaust pipe,,vocab
+200,o farol  ,headlight  ,,vocab
+200,o capô  ,hood ,,vocab
+200,a buzina  ,horn ,,vocab
+200,a chave  ,key,,vocab
+200,o macaco  ,jack,,vocab
+200,o espelho  ,mirror,,vocab
+200,a moto  ,motorcycle,,vocab
+200,o silenciador  ,muffler ,,vocab
+200,o filtro de óleo  ,oil filter,,vocab
+200,a picape  ,pickup truck,,vocab
+200,a placa    / a chapa  ,plate,,vocab
+200,o espelho retrovisor  ,side mirror,,vocab
+200,o estepe  ,spare tire,,vocab
+200,o volante  ,steering wheel,,vocab
+200,o tanque  ,tank,,vocab
+200,o pneu  ,tire,,vocab
+200,o caminhão  ,truck,,vocab
+200,o porta-malas  ,trunk,,vocab
+200,o veículo  ,vehicle,,vocab
+200,a roda  ,wheel,,vocab
+200,o para-brisa  ,windshield,,vocab
+200,a mochila  ,backpack,,vocab
+200,o maiô  ,bathing suit,,vocab
+200,o cinto  ,belt,,vocab
+200,o biquini  ,bikini,,vocab
+200,a blusa  ,blouse,,vocab
+200,as botas  ,boots,,vocab
+200,a samba-canção  ,boxer shorts,,vocab
+200,o sutiã  ,bra,,vocab
+200,a cueca   ,briefs (underwear),,vocab
+200,a pasta  ,briefcase,,vocab
+200,o boné  ,cap,,vocab
+200,o casaco  ,coat,,vocab
+200,o vestido  ,dress,,vocab
+200,os brincos  ,earrings,,vocab
+200,as luvas  ,gloves,,vocab
+200,o chapéu  ,hat,,vocab
+200,a jaqueta  ,jacket,,vocab
+200,os jeans  ,jeans,,vocab
+200,a jaqueta de couro  ,leather jacket,,vocab
+200,as malas  ,luggage,,vocab
+200,a mini-saia  ,mini-skirt,,vocab
+200,o colar     ,necklace,,vocab
+200,a calcinha  ,panties,,vocab
+200,o pijama  ,pajamas,,vocab
+200,as calças  ,pants,,vocab
+200,a bolsa  ,purse/bag,,vocab
+200,o anél  ,ring,,vocab
+200,as sandálias  ,sandals,,vocab
+200,o cachicol  ,scarf,,vocab
+200,a camisa  ,shirt,,vocab
+200,os sapatos  ,shoes,,vocab
+200,os shorts    / a bermuda  ,shorts,,vocab
+200,a saia  ,skirt,,vocab
+200,as pantufas  ,slippers,,vocab
+200,os tênis  ,sneakers,,vocab
+200,as meias  ,socks,,vocab
+200,o terno  ,suit,,vocab
+200,o suéter  ,sweater,,vocab
+200,o moletom  ,sweatshirt,,vocab
+200,a gravata  ,tie,,vocab
+200,o smoking  ,tuxedo,,vocab
+200,a carteira  ,wallet,,vocab
+200,Preto   ,Black,,vocab
+200,Azul   ,Blue,,vocab
+200,Marrom   ,Brown ,,vocab
+200,Cinza   ,Gray ,,vocab
+200,Verde   ,Green,,vocab
+200,Lilás   ,Lavender ,,vocab
+200,Laranja   ,Orange,,vocab
+200,Rosa   ,Pink ,,vocab
+200,Roxo   ,Purple,,vocab
+200,Vermelho   ,Red,,vocab
+200,Branco   ,White,,vocab
+200,Amarelo   ,Yellow,,vocab
+200,tia,Auntie,,vocab
+200,menino,Boy,,vocab
+200,namorado,Boyfriend,,vocab
+200,irmão,Brother,,vocab
+200,cunhado,Brother-in-law,,vocab
+200,prima,Cousin (female),,vocab
+200,primo,Cousin (male),,vocab
+200,filha,Daughter,,vocab
+200,família,Family,,vocab
+200,pai,Father,,vocab
+200,papai,Father (informal),,vocab
+200,sogro,Father-in-law,,vocab
+200,amiga,Friend (female),,vocab
+200,amigo,Friend (male),,vocab
+200,menina,Girl,,vocab
+200,namorada,Girlfriend,,vocab
+200,neta,Granddaughter,,vocab
+200,vovô      / avô,Grandfather,,vocab
+200,vovó     / avó,Grandmother,,vocab
+200,neto,Grandson,,vocab
+200,marido,Husband,,vocab
+200,mãe,Mother,,vocab
+200,mamãe,Mother (informal),,vocab
+200,sogra,Mother-in-law,,vocab
+200,irmã,Sister,,vocab
+200,cunhada,Sister-in-law,,vocab
+200,filho,Son,,vocab
+200,enteada,Stepdaughter,,vocab
+200,padrastro,Stepfather,,vocab
+200,madrastra,Stepmother,,vocab
+200,enteado,Stepson,,vocab
+200,tio,Uncle,,vocab
+200,esposa,Wife,,vocab
+200,a torta de maçã,apple pie,,vocab
+200,o brownie,brownies,,vocab
+200,o bolo,cake,,vocab
+200,a bala,candy,,vocab
+200,o bolo de cenoura,carrot cake,,vocab
+200,o cheesecake,cheesecake,,vocab
+200,o chocolate,chocolate,,vocab
+200,o bolo de chocolate,chocolate cake,,vocab
+200,o / a mousse de chocolate,chocolate mousse,,vocab
+200,as bolachas    / os biscoitos,cookies,,vocab
+200,o crepe,crepe,,vocab
+200,o donuts,donuts,,vocab
+200,a salada de frutas,fruit salad,,vocab
+200,o sorvete,ice cream,,vocab
+200,a gelatina,jello,,vocab
+200,o bolo de limão,lemon cake,,vocab
+200,o merengue,meringue,,vocab
+200,o bolinho,muffins,,vocab
+200,a torta,pie,,vocab
+200,o pudim,pudding,,vocab
+200,a torta de abóbora,pumpkin pie,,vocab
+200,a maçã,apple,,vocab
+200,o damasco,apricot,,vocab
+200,o abacate,avocado,,vocab
+200,a banana,banana,,vocab
+200,a amora,blackberry,,vocab
+200,o mirtilo,blueberry,,vocab
+200,a cereja,cherry,,vocab
+200,o figo,fig,,vocab
+200,as uvas,grapes,,vocab
+200,a goiaba,guava,,vocab
+200,o kiwi,kiwi fruit,,vocab
+200,o limão,lemon / lime,,vocab
+200,a mexirica    / a tangerina,madarin / tangerine,,vocab
+200,a manga,mango,,vocab
+200,o melão,melon/ cantaloupe,,vocab
+200,a laranja,orange,,vocab
+200,o mamão,papaya,,vocab
+200,o maracujá,passion fruit,,vocab
+200,o pêssego,peach,,vocab
+200,a pêra,pear,,vocab
+200,o abacaxi,pineapple,,vocab
+200,a ameixa,plum,,vocab
+200,a framboesa,raspberry,,vocab
+200,o morango,strawberry,,vocab
+200,a melancia,watermelon,,vocab
+200,o bacon,bacon,,vocab
+200,o churrasco,barbecue,,vocab
+200,o bife,beef,,vocab
+200,o frango,chicken,,vocab
+200,o peito de frango,chicken breast,,vocab
+200,as asas de frango,chicken wings,,vocab
+200,o caranguejo,crab,,vocab
+200,o pato,duck,,vocab
+200,os ovos,eggs,,vocab
+200,o peixe,fish,,vocab
+200,o presunto,ham,,vocab
+200,o hambúrguer,hamburger,,vocab
+200,o cachorro quente,hot-dog,,vocab
+200,o cordeiro,lamb,,vocab
+200,a lagosta,lobster,,vocab
+200,a carne,meat,,vocab
+200,as almôndegas,meatballs,,vocab
+200,o pastrami,pastrami,,vocab
+200,o porco,pork,,vocab
+200,as costelas    / as costelinhas,ribs,,vocab
+200,o rosbife,roastbeef,,vocab
+200,o salame,salami,,vocab
+200,o salmão,salmon,,vocab
+200,a linguiça,sausage,,vocab
+200,o camarão,shrimps,,vocab
+200,o filé,steak,,vocab
+200,o atum,tuna,,vocab
+200,o peru,turkey,,vocab
+200,a vitela,veal,,vocab
+200,a alcachofra,artichoke,,vocab
+200,o aspargo,asparagus,,vocab
+200,o manjericão,basil,,vocab
+200,a beterraba,beet,,vocab
+200,o feijão preto,black beans,,vocab
+200,o brócoli,broccoli,,vocab
+200,o repolho,cabbage,,vocab
+200,a cenoura,carrot,,vocab
+200,a couve-flor,cauliflower,,vocab
+200,o salsão,celery,,vocab
+200,o grão de bico,chickpeas / garbanzos,,vocab
+200,o milho,corn,,vocab
+200,o pepino,cucumber,,vocab
+200,a berinjela,eggplant,,vocab
+200,a endiva,endive,,vocab
+200,o alho,garlic,,vocab
+200,as ervilhas,green peas,,vocab
+200,o alho-poró,leek,,vocab
+200,as lentilhas,lentils,,vocab
+200,o alface,lettuce,,vocab
+200,a mandioca,manioc,,vocab
+200,o cogumelo    / o champignon,mushroom,,vocab
+200,a cebola,onion,,vocab
+200,feijão,pinto beans,,vocab
+200,a batata,potato,,vocab
+200,o rabanete,radish,,vocab
+200,a soja,soybeans,,vocab
+200,o espinafre,spinach,,vocab
+200,o tomate,tomato,,vocab
+200,o nabo,turnips,,vocab
+200,o inhame,yam,,vocab
+200,a abobrinha,zucchini,,vocab
+200,Apple,Maçã,,vocab
+200,Banana,Banana,,vocab
+200,Beans,Feijão,,vocab
+200,Beef,Bife,,vocab
+200,Beer,Cerveja,,vocab
+200,Brazil nuts,Castanha do Pará,,vocab
+200,Brazilian spirit from sugar cane,Cachaça / Pinga,,vocab
+200,Bread,Pão,,vocab
+200,Breakfast,Café da manhã,,vocab
+200,Brocolli,Brócolis,,vocab
+200,Cake,Bolo,,vocab
+200,Candy,Doce,,vocab
+200,Carrot,Cenoura,,vocab
+200,Cereal,Cereal,,vocab
+200,Cheese,Queijo,,vocab
+200,Cherry,Cereja,,vocab
+200,Chicken,Frango,,vocab
+200,Chicken breast,Peito de frango,,vocab
+200,Chocolate,Chocolate,,vocab
+200,Coffee,Café,,vocab
+200,Cookie,Biscoito,,vocab
+200,Corn,Milho,,vocab
+200,Dessert,Sobremesa,,vocab
+200,Dinner,Jantar,,vocab
+200,Duck,Pato,,vocab
+200,Eggplant,Berinjela,,vocab
+200,Eggs,Ovos,,vocab
+200,Figs,Figo,,vocab
+200,Flour,Farinha,,vocab
+200,o sótão  ,attic,,vocab
+200,o quintal  ,backyard ,,vocab
+200,a sacada  ,balcony,,vocab
+200,o porão  ,basement,,vocab
+200,o banheiro  ,bathroom,,vocab
+200,o quarto  ,bedroom,,vocab
+200,o carpete  ,carpet,,vocab
+200,o teto  ,ceiling,,vocab
+200,a chaminé  ,chimney ,,vocab
+200,o armário  ,cabinet,,vocab
+200,a porta  ,door,,vocab
+200,a campainha  ,doorbell,,vocab
+200,o chão  ,floor,,vocab
+200,a frente da casa  ,front walk,,vocab
+200,a garagem  ,garage ,,vocab
+200,o jardim  ,garden,,vocab
+200,a grama  ,grass ,,vocab
+200,a cozinha  ,kitchen,,vocab
+200,a área de serviço  ,laundry room,,vocab
+200,o gramado  ,lawn ,,vocab
+200,a sala  ,living room,,vocab
+200,a caixa de correios  ,mailbox ,,vocab
+200,a despensa  ,pantry,,vocab
+200,o pátio  ,patio,,vocab
+200,a varanda    / o alpendre  ,porch,,vocab
+200,o telhado  ,roof ,,vocab
+200,a escada  ,stairs,,vocab
+200,a piscina  ,swimming pool,,vocab
+200,as paredes  ,walls,,vocab
+200,a janela  ,window,,vocab
+200,o avental  ,Apron,,vocab
+200,o liquidificador  ,Blender ,,vocab
+200,a vassoura  ,Broom,,vocab
+200,o armário  ,Cabinet ,,vocab
+200,o abridor de latas  ,Can opner ,,vocab
+200,o pano  ,Cloth ,,vocab
+200,a cafeteira,Coffeemaker,,vocab
+200,a xícara  ,Cup ,,vocab
+200,o detergente  ,Detergent,,vocab
+200,a lava-louças ,Dishwasher ,,vocab
+200,a torneira  ,Faucet ,,vocab
+200,o garfo  ,Fork ,,vocab
+200,o freezer  ,Freezer ,,vocab
+200,a frigideira  ,Frying pan ,,vocab
+200,o copo  ,Glass ,,vocab
+200,o ralador  ,Grater ,,vocab
+200,o ferro  ,Iron,,vocab
+200,a faca  ,Knife,,vocab
+200,o microondas  ,Microwave ,,vocab
+200,a batedeira  ,Mixer ,,vocab
+200,o guardanapo  ,Napkin,,vocab
+200,o forno  ,Oven,,vocab
+200,a geladeira  ,Refrigerator ,,vocab
+200,a panela  ,Saucepan ,,vocab
+200,a pia  ,Sink ,,vocab
+200,a colher  ,Spoon ,,vocab
+200,o fogão  ,Stove ,,vocab
+200,a chaleira  ,Teapot ,,vocab
+200,a torradeira  ,Toster ,,vocab
+200,a taça de vinho  ,Wine glass ,,vocab
+200,a poltrona  ,Armchair,,vocab
+200,a vela  ,Candle,,vocab
+200,o candelabro  ,Candlestick ,,vocab
+200,o teto  ,Ceiling,,vocab
+200,a cadeira  ,Chair ,,vocab
+200,o lustre  ,Chandelier ,,vocab
+200,a cristaleira  ,China ,,vocab
+200,a mesa de centro  ,Coffee table ,,vocab
+200,a cortina  ,Curtains ,,vocab
+200,a lareira  ,Fireplace ,,vocab
+200,a lenha  ,Firewood,,vocab
+200,o chão  ,Floor ,,vocab
+200,o abajur  ,Lamp ,,vocab
+200,a almofada  ,Pillow ,,vocab
+200,a planta  ,Plant ,,vocab
+200,o tapete  ,Rug,,vocab
+200,a saladeira  ,Salad bowl ,,vocab
+200,o sofá  ,Sofa/couch,,vocab
+200,a toalha de mesa  ,Tablecloth ,,vocab
+200,o telefone  ,Telephone,,vocab
+200,a televisão  ,Television,,vocab
+200,a bandeja  ,Tray  ,,vocab
+200,o vaso  ,Vase ,,vocab
+200,a parede   ,Wall ,,vocab
+200,a janela  ,Window ,,vocab
+200,o auditório  ,auditorium ,,vocab
+200,o fichário  ,binder,,vocab
+200,a lousa  ,board,,vocab
+200,o livro  ,book,,vocab
+200,a calculadora  ,calculator,,vocab
+200,o calendário  ,calendar,,vocab
+200,a aula  ,class,,vocab
+200,a sala de aula  ,classroom,,vocab
+200,o relógio  ,clock,,vocab
+200,o computador  ,computer,,vocab
+200,a mesa  ,desk,,vocab
+200,a agenda  ,diary/ organizer ,,vocab
+200,o envelope  ,envelope,,vocab
+200,a borracha  ,eraser,,vocab
+200,o campo  ,field,,vocab
+200,o arquivo  ,file cabinet,,vocab
+200,a cola  ,glue,,vocab
+200,o orientador  ,guidance counselor ,,vocab
+200,o ginásio  ,gym / gymnasium  ,,vocab
+200,a lição de casa  ,homework,,vocab
+200,a biblioteca  ,library,,vocab
+200,o mapa  ,map,,vocab
+200,a reunião  ,meeting,,vocab
+200,o caderno  ,notebook,,vocab
+200,o rascunho  ,outline / sketch,,vocab
+200,a caneta  ,pen,,vocab
+200,o lápis  ,pencil,,vocab
+200,a apresentação  ,presentation,,vocab
+200,o diretor  ,principal,,vocab
+200,o projetor  ,projector,,vocab
+200,a leitura  ,reading,,vocab
+200,o elástico  ,rubber band,,vocab
+200,a régua  ,ruler,,vocab
+200,a tela  ,screen,,vocab
+200,o apontador  ,sharpener,,vocab
+200,o grampeador  ,stapler,,vocab
+200,o professor  ,teacher,,vocab
+200,beisebol  ,baseball,,vocab
+200,basquete  ,basketball,,vocab
+200,sinuca  ,snooker,,vocab
+200,boliche     ,bowling,,vocab
+200,boxe  ,boxing,,vocab
+200,canoagem  ,canoeing,,vocab
+200,alpinismo  ,climbing ,,vocab
+200,ciclismo  ,cycling / biking,,vocab
+200,dardos  ,darts,,vocab
+200,pesca  ,fishing,,vocab
+200,futebol americano  ,football,,vocab
+200,golfe  ,golf,,vocab
+200,karatê  ,karate,,vocab
+200,pingue-pongue  ,ping pong,,vocab
+200,corrida  ,running,,vocab
+200,vela  ,sailing,,vocab
+200,mergulho  ,scuba diving,,vocab
+200,paraquedismo  ,skydiving,,vocab
+200,futebol  ,soccer ,,vocab
+200,surfe  ,surfing,,vocab
+200,natação  ,swimming,,vocab
+200,tênis  ,tennis,,vocab
+200,voleibol  ,volleyball,,vocab
+200,caminhada     ,walking,,vocab
+200,luta  ,wrestling,,vocab
