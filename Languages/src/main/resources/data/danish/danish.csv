@@ -1,0 +1,772 @@
+20,adjectives,adjektiver,,vocab
+20,a green tree,et grønt træ,,vocab
+20,a tall building,en høj bygning,,vocab
+20,a very old man,en meget gammel mand,,vocab
+20,the old red house,det gamle røde hus,,vocab
+20,a very nice friend,en meget dejlig ven,,vocab
+20,colors,farver,,vocab
+20,black,sort,,vocab
+20,blue,blå,,vocab
+20,brown,brun,,vocab
+20,gray,grå,,vocab
+20,green,grøn,,vocab
+20,orange,orange,,vocab
+20,purple,lilla,,vocab
+20,red,rød,,vocab
+20,white,hvid,,vocab
+20,yellow,gul,,vocab
+20,sizes,størrelser,,vocab
+20,big,big,,vocab
+20,deep,dyb,,vocab
+20,long,lang,,vocab
+20,narrow,smal,,vocab
+20,short,kort,,vocab
+20,small,lille,,vocab
+20,tall,høj,,vocab
+20,thick,tyk,,vocab
+20,thin,tynd,,vocab
+20,wide,bred,,vocab
+20,shapes,figurer,,vocab
+20,circular,cirkulære,,vocab
+20,straight,straight,,vocab
+20,square,firkantet,,vocab
+20,triangular,trekantet,,vocab
+20,tastes,smag,,vocab
+20,bitter,bitter,,vocab
+20,fresh,frisk,,vocab
+20,salty,salt,,vocab
+20,sour,sur,,vocab
+20,spicy,krydret,,vocab
+20,sweet,sød,,vocab
+20,qualities,kvaliteter,,vocab
+20,bad,dårlig,,vocab
+20,clean,rene,,vocab
+20,dark,mørke,,vocab
+20,difficult,vanskeligt,,vocab
+20,dirty,beskidt,,vocab
+20,dry,tørre,,vocab
+20,easy,let,,vocab
+20,empty,tom,,vocab
+20,expensive,dyrt,,vocab
+20,fast,hurtigt,,vocab
+20,foreign,udenlandske,,vocab
+20,full,fuld,,vocab
+20,good,god,,vocab
+20,hard,hårdt,,vocab
+20,heavy,tunge,,vocab
+20,inexpensive,billig,,vocab
+20,light,lys,,vocab
+20,local,lokale,,vocab
+20,new,nye,,vocab
+20,noisy,støjende,,vocab
+20,old,gamle,,vocab
+20,powerful,magtfulde,,vocab
+20,quiet,stille,,vocab
+20,correct,korrekt,,vocab
+20,slow,langsom,,vocab
+20,soft,blød,,vocab
+20,very,meget,,vocab
+20,weak,svag,,vocab
+20,wet,våd,,vocab
+20,wrong,forkert,,vocab
+20,young,unge,,vocab
+20,quantities,mængder,,vocab
+20,few,få,,vocab
+20,little,lidt,,vocab
+20,many,mange,,vocab
+20,much,meget,,vocab
+20,part,del,,vocab
+20,some,nogle,,vocab
+20,a few,et par,,vocab
+20,whole,hele,,vocab
+20,adverbs,adverbier,,vocab
+20,I read a book sometimes,Jeg læste en bog tider,,vocab
+20,I will never smoke,Jeg vil aldrig ryge,,vocab
+20,are you alone?,er du alene?,,vocab
+20,adverbs of time,adverbier af tid,,vocab
+20,yesterday,i går,,vocab
+20,today,i dag,,vocab
+20,tomorrow,i morgen,,vocab
+20,now,nu,,vocab
+20,then,Derefter,,vocab
+20,later,senere,,vocab
+20,tonight,i aften,,vocab
+20,right now,lige nu,,vocab
+20,last night,sidste nat,,vocab
+20,this morning,her til morgen,,vocab
+20,next week,næste uge,,vocab
+20,already,allerede,,vocab
+20,recently,nyligt,,vocab
+20,lately,sidst,,vocab
+20,soon,snart,,vocab
+20,immediately,straks,,vocab
+20,still,stadig,,vocab
+20,yet,endnu,,vocab
+20,ago,siden,,vocab
+20,adverbs of place,adverbier af sted,,vocab
+20,here,her,,vocab
+20,there,der,,vocab
+20,over there,derovre,,vocab
+20,everywhere,overalt,,vocab
+20,anywhere,overalt,,vocab
+20,nowhere,intetsteds,,vocab
+20,home,hjem,,vocab
+20,away,væk,,vocab
+20,out,ud,,vocab
+20,adverbs of manner,adverbier af måde,,vocab
+20,very,meget,,vocab
+20,quite,helt,,vocab
+20,pretty,smuk,,vocab
+20,really,virkelig,,vocab
+20,fast,hurtigt,,vocab
+20,well,godt,,vocab
+20,hard,hårdt,,vocab
+20,quickly,hurtigt,,vocab
+20,slowly,langsomt,,vocab
+20,carefully,omhyggeligt,,vocab
+20,hardly,næppe,,vocab
+20,barely,knap,,vocab
+20,mostly,det meste,,vocab
+20,almost,næsten,,vocab
+20,absolutely,absolut,,vocab
+20,together,sammen,,vocab
+20,alone,alene,,vocab
+20,adverbs of frequency,adverbier af frekvens,,vocab
+20,always,altid,,vocab
+20,frequently,ofte,,vocab
+20,usually,sædvanligvis,,vocab
+20,sometimes,undertiden,,vocab
+20,occasionally,lejlighedsvis,,vocab
+20,seldom,sjældent,,vocab
+20,rarely,sjældent,,vocab
+20,never,aldrig,,vocab
+20,nouns,substantiver,,vocab
+20,my car,min bil,,vocab
+20,green car,grøn bil,,vocab
+20,three cars,tre biler,,vocab
+20,car garage,bil garage,,vocab
+20,outside the car,uden for bilen,,vocab
+20,arm,arm,,vocab
+20,back,tilbage,,vocab
+20,cheeks,Kinder,,vocab
+20,chest,brystet,,vocab
+20,chin,Hage,,vocab
+20,ear,øre,,vocab
+20,elbow,albue,,vocab
+20,eye,eye,,vocab
+20,face,ansigt,,vocab
+20,finger,finger,,vocab
+20,fingers,fingre,,vocab
+20,foot,mund,,vocab
+20,hair,hår,,vocab
+20,hand,hånd,,vocab
+20,head,hoved,,vocab
+20,heart,hjerte,,vocab
+20,knee,knæ,,vocab
+20,leg,ben,,vocab
+20,lip,lip,,vocab
+20,mouth,munden,,vocab
+20,neck,hals,,vocab
+20,nose,næse,,vocab
+20,shoulder,skulder,,vocab
+20,stomach,mave,,vocab
+20,teeth,tænder,,vocab
+20,thigh,låret,,vocab
+20,throat,hals,,vocab
+20,thumb,thumb,,vocab
+20,toe,tå,,vocab
+20,tongue,tunge,,vocab
+20,tooth,tand,,vocab
+20,articles,artikler,,vocab
+20,the,den,,vocab
+20,a,en,,vocab
+20,one,en,,vocab
+20,some,nogle,,vocab
+20,few,få,,vocab
+20,the book,bogen,,vocab
+20,the books,bøgerne,,vocab
+20,a book,en bog,,vocab
+20,one book,én bog,,vocab
+20,some books,nogle bøger,,vocab
+20,few books,få bøger,,vocab
+20,Food,fødevarer,,vocab
+20,almonds,mandler,,vocab
+20,bread,brød,,vocab
+20,breakfast,morgenmad,,vocab
+20,butter,smør,,vocab
+20,candy,slik,,vocab
+20,cheese,ost,,vocab
+20,chicken,kylling,,vocab
+20,cumin,spidskommen,,vocab
+20,dessert,dessert,,vocab
+20,dinner,middag,,vocab
+20,fish,fisk,,vocab
+20,fruit,frugt,,vocab
+20,ice cream,is,,vocab
+20,lamb,lam,,vocab
+20,lemon,citron,,vocab
+20,lunch,frokost,,vocab
+20,meal,måltid,,vocab
+20,meat,kød,,vocab
+20,oven,ovn,,vocab
+20,pepper,peber,,vocab
+20,plants,planter,,vocab
+20,pork,svinekød,,vocab
+20,salad,salat,,vocab
+20,salt,salt,,vocab
+20,sandwich,sandwich,,vocab
+20,sausage,pølse,,vocab
+20,soup,suppe,,vocab
+20,sugar,sukker,,vocab
+20,supper,aftensmad,,vocab
+20,turkey,kalkun,,vocab
+20,apple,æble,,vocab
+20,banana,banan,,vocab
+20,oranges,appelsiner,,vocab
+20,peaches,ferskener,,vocab
+20,peanut,peanut,,vocab
+20,pears,pærer,,vocab
+20,pineapple,ananas,,vocab
+20,grapes,vindruer,,vocab
+20,strawberries,jordbær,,vocab
+20,vegetables,grøntsager,,vocab
+20,carrot,gulerod,,vocab
+20,corn,majs,,vocab
+20,cucumber,agurk,,vocab
+20,garlic,hvidløg,,vocab
+20,lettuce,salat,,vocab
+20,olives,oliven,,vocab
+20,onions,løg,,vocab
+20,peppers,peber,,vocab
+20,potatoes,kartofler,,vocab
+20,pumpkin,græskar,,vocab
+20,beans,bønner,,vocab
+20,tomatoes,tomater,,vocab
+20,Pronouns,Pronominer,,vocab
+20,I,Jeg,,vocab
+20,you,du,,vocab
+20,he,han,,vocab
+20,she,hun,,vocab
+20,we,vi,,vocab
+20,they,de,,vocab
+20,me,mig,,vocab
+20,you,du,,vocab
+20,him,ham,,vocab
+20,her,hende,,vocab
+20,us,os,,vocab
+20,them,dem,,vocab
+20,my,min,,vocab
+20,your,Deres,,vocab
+20,his,hans,,vocab
+20,her,hende,,vocab
+20,our,vores,,vocab
+20,their,deres,,vocab
+20,mine,mine,,vocab
+20,yours,Deres,,vocab
+20,his,hans,,vocab
+20,hers,hendes,,vocab
+20,ours,vores,,vocab
+20,theirs,deres,,vocab
+20,I speak,Jeg taler,,vocab
+20,you speak,du taler,,vocab
+20,he speaks,han taler,,vocab
+20,she speaks,hun taler,,vocab
+20,we speak,vi taler,,vocab
+20,they speak,de taler,,vocab
+20,give me,give mig,,vocab
+20,give you,give dig,,vocab
+20,give him,give ham,,vocab
+20,give her,give hende,,vocab
+20,give us,give os,,vocab
+20,give them,give dem,,vocab
+20,my book,min bog,,vocab
+20,your book,Deres bog,,vocab
+20,his book,hans bog,,vocab
+20,her book,hendes bog,,vocab
+20,our book,vores bog,,vocab
+20,their book,deres bog,,vocab
+20,Plural,Flertal,,vocab
+20,my book,min bog,,vocab
+20,my books,mine bøger,,vocab
+20,our daughter,vores datter,,vocab
+20,our daughters,vores døtre,,vocab
+20,I'm cold,Jeg er kold,,vocab
+20,we're cold,vi er kolde,,vocab
+20,his chickens,hans kyllinger,,vocab
+20,their chicken,deres kylling,,vocab
+20,alligator,alligator,,vocab
+20,alligators,alligatorer,,vocab
+20,bear,bære,,vocab
+20,bears,bjørne,,vocab
+20,bird,fugl,,vocab
+20,birds,fugle,,vocab
+20,bull,tyr,,vocab
+20,bulls,tyre,,vocab
+20,cat,kat,,vocab
+20,cats,katte,,vocab
+20,cow,ko,,vocab
+20,cows,køer,,vocab
+20,deer,rådyr,,vocab
+20,many deer,mange rådyr,,vocab
+20,dog,hund,,vocab
+20,dogs,hunde,,vocab
+20,donkey,æsel,,vocab
+20,donkeys,æsler,,vocab
+20,eagle,ørn,,vocab
+20,eagles,ørne,,vocab
+20,elephant,elefant,,vocab
+20,elephants,elefanter,,vocab
+20,giraffe,giraf,,vocab
+20,giraffes,giraffer,,vocab
+20,goat,ged,,vocab
+20,goats,geder,,vocab
+20,horse,hest,,vocab
+20,horses,heste,,vocab
+20,lion,løve,,vocab
+20,lions,løver,,vocab
+20,monkey,abe,,vocab
+20,monkeys,aber,,vocab
+20,mouse,mus,,vocab
+20,mice,mus,,vocab
+20,rabbit,kanin,,vocab
+20,rabbits,kaniner,,vocab
+20,snake,slange,,vocab
+20,snakes,slanger,,vocab
+20,tiger,tiger,,vocab
+20,tigers,tigre,,vocab
+20,wolf,Ulven,,vocab
+20,wolves,ulve,,vocab
+20,Feminine,Feminin,,vocab
+20,he is happy,han er glad,,vocab
+20,she is happy,hun er glad,,vocab
+20,he is American,han er amerikansk,,vocab
+20,she is American,hun er amerikansk,,vocab
+20,man,Mand,,vocab
+20,woman,kvinde,,vocab
+20,father,far,,vocab
+20,mother,mor,,vocab
+20,brother,bror,,vocab
+20,sister,søster,,vocab
+20,uncle,onkel,,vocab
+20,aunt,tante,,vocab
+20,bull,tyr,,vocab
+20,cow,ko,,vocab
+20,boy,dreng,,vocab
+20,girl,pige,,vocab
+20,objects,objekter,,vocab
+20,bathroom,badeværelse,,vocab
+20,bed,seng,,vocab
+20,bedroom,soveværelse,,vocab
+20,ceiling,loft,,vocab
+20,chair,stol,,vocab
+20,clothes,tøj,,vocab
+20,coat,frakke,,vocab
+20,cup,kop,,vocab
+20,desk,desk,,vocab
+20,dress,kjole,,vocab
+20,floor,gulv,,vocab
+20,fork,gaffel,,vocab
+20,furniture,møbler,,vocab
+20,glass,glas,,vocab
+20,hat,hat,,vocab
+20,house,hus,,vocab
+20,ink,blæk,,vocab
+20,jacket,jakke,,vocab
+20,kitchen,køkken,,vocab
+20,knife,kniv,,vocab
+20,lamp,lampe,,vocab
+20,letter,brev,,vocab
+20,map,kort,,vocab
+20,newspaper,avis,,vocab
+20,notebook,notebook,,vocab
+20,pants,bukser,,vocab
+20,paper,papir,,vocab
+20,pen,pen,,vocab
+20,pencil,blyant,,vocab
+20,pharmacy,apotek,,vocab
+20,picture,billede,,vocab
+20,plate,tallerken,,vocab
+20,refrigerator,køleskab,,vocab
+20,restaurant,Restaurant,,vocab
+20,roof,tag,,vocab
+20,room,værelse,,vocab
+20,rug,tæppe,,vocab
+20,scissors,saks,,vocab
+20,shampoo,shampoo,,vocab
+20,shirt,skjorte,,vocab
+20,shoes,sko,,vocab
+20,soap,sæbe,,vocab
+20,socks,sokker,,vocab
+20,spoon,ske,,vocab
+20,table,bord,,vocab
+20,toilet,toilet,,vocab
+20,toothbrush,tandbørste,,vocab
+20,toothpaste,tandpasta,,vocab
+20,towel,håndklæde,,vocab
+20,umbrella,paraply,,vocab
+20,underwear,undertøj,,vocab
+20,wall,væg,,vocab
+20,wallet,tegnebog,,vocab
+20,window,vindue,,vocab
+20,telephone,telefon,,vocab
+20,Verbs,Verber,,vocab
+20,Past,Past,,vocab
+20,I spoke,Jeg talte,,vocab
+20,I wrote,Jeg skrev,,vocab
+20,I drove,Jeg kørte,,vocab
+20,I loved,Jeg elskede,,vocab
+20,I gave,Jeg gav,,vocab
+20,I smiled,Jeg smilede,,vocab
+20,I took,Jeg tog,,vocab
+20,he spoke,han talte,,vocab
+20,he wrote,han skrev,,vocab
+20,he drove,han kørte,,vocab
+20,he loved,han elskede,,vocab
+20,he gave,han gav,,vocab
+20,he smiled,han smilede,,vocab
+20,he took,han tog,,vocab
+20,we spoke,Vi talte,,vocab
+20,we wrote,vi skrev,,vocab
+20,we drove,vi kørte,,vocab
+20,we loved,Vi elskede,,vocab
+20,we gave,vi gav,,vocab
+20,we smiled,Vi smilede,,vocab
+20,we took,vi tog,,vocab
+20,Future,Fremtidige,,vocab
+20,I will speak,Jeg vil tale,,vocab
+20,I will write,Jeg vil skrive,,vocab
+20,I will drive,Jeg vil køre,,vocab
+20,I will love,Jeg vil elske,,vocab
+20,I will give,Jeg vil give,,vocab
+20,I will smile,Jeg vil smile,,vocab
+20,I will take,Jeg vil tage,,vocab
+20,he will speak,han vil tale,,vocab
+20,he will write,han vil skrive,,vocab
+20,he will drive,han vil drive,,vocab
+20,he will love,han vil elske,,vocab
+20,he will give,han vil give,,vocab
+20,he will smile,han vil smile,,vocab
+20,he will take,han vil tage,,vocab
+20,we will speak,vi vil tale,,vocab
+20,we will write,vi vil skrive,,vocab
+20,we will drive,vi vil drive,,vocab
+20,we will love,vi vil elske,,vocab
+20,we will give,Vi vil give,,vocab
+20,we will smile,vi vil smile,,vocab
+20,we will take,vi vil tage,,vocab
+20,Present,Nuværende,,vocab
+20,I speak,Jeg taler,,vocab
+20,I write,Jeg skriver,,vocab
+20,I drive,Jeg kører,,vocab
+20,I love,Jeg elsker,,vocab
+20,I give,Jeg giver,,vocab
+20,I smile,Jeg smiler,,vocab
+20,I take,Jeg tager,,vocab
+20,he speaks,han taler,,vocab
+20,he writes,skriver han,,vocab
+20,he drives,han drev,,vocab
+20,he loves,han elsker,,vocab
+20,he gives,han giver,,vocab
+20,he smiles,han smiler,,vocab
+20,he takes,han tager,,vocab
+20,we speak,vi taler,,vocab
+20,we write,vi skriver,,vocab
+20,we drive,vi kører,,vocab
+20,we love,vi elsker,,vocab
+20,we give,vi giver,,vocab
+20,we smile,vi smile,,vocab
+20,we take,vi tager,,vocab
+20,I can accept that,"Jeg kan acceptere, at",,vocab
+20,she added it,Hun tilføjede det,,vocab
+20,we admit it,vi indrømme det,,vocab
+20,they advised him,de rådede ham,,vocab
+20,I can agree with that,"Jeg er enig med, at",,vocab
+20,she allows it,hun gør det,,vocab
+20,we announce it,vi annoncere det,,vocab
+20,I can apologize,Jeg kan undskylde,,vocab
+20,she appears today,hun ser ud i dag,,vocab
+20,they arranged that,"De aftalte, at",,vocab
+20,I can arrive tomorrow,Jeg kan ankomme i morgen,,vocab
+20,she can ask him,hun kan spørge ham,,vocab
+20,she attaches that,"hun lægger, at",,vocab
+20,we attack them,vi angribe dem,,vocab
+20,they avoid her,de undgår hende,,vocab
+20,I can bake it,Jeg kan bage det,,vocab
+20,she is like him,hun er ligesom ham,,vocab
+20,we beat it,vi fik det,,vocab
+20,they became happy,de blev glade,,vocab
+20,I can begin that,Jeg kan begynde at,,vocab
+20,we borrowed money,Vi lånte penge,,vocab
+20,they breathe air,de indånder luft,,vocab
+20,I can bring it,Jeg kan bringe den,,vocab
+20,I can build that,"Jeg kan bygge, at",,vocab
+20,she buys food,hun køber mad,,vocab
+20,we calculate it,beregner vi det,,vocab
+20,they carry it,de udfører det,,vocab
+20,they don't cheat,de ikke snyder,,vocab
+20,she chooses him,hun vælger ham,,vocab
+20,we close it,vi lukke den,,vocab
+20,he comes here,han kommer her,,vocab
+20,I can compare that,Jeg kan sammenligne det,,vocab
+20,she competes with me,hun konkurrerer med mig,,vocab
+20,we complain about it,vi klager over det,,vocab
+20,they continued reading,de fortsatte med at læse,,vocab
+20,he cried about that,"råbte han om, at",,vocab
+20,I can decide now,Jeg kan beslutte nu,,vocab
+20,she described it to me,hun beskrev det for mig,,vocab
+20,we disagree about it,vi er uenige om det,,vocab
+20,they disappeared quickly,forsvandt de hurtigt,,vocab
+20,I discovered that,"Jeg opdagede, at",,vocab
+20,she dislikes that,hun ikke kan lide at,,vocab
+20,we do it,vi gør det,,vocab
+20,they dream about it,de drømmer om det,,vocab
+20,I earned,Jeg tjente,,vocab
+20,he eats a lot,han spiser en masse,,vocab
+20,we enjoyed that,"vi har haft, at",,vocab
+20,they entered here,de ind her,,vocab
+20,he escaped that,han undslap at,,vocab
+20,I can explain that,"Jeg kan forklare, at",,vocab
+20,she feels that too,"hun føler, at alt for",,vocab
+20,we fled from there,Vi flygtede derfra,,vocab
+20,they will fly tomorrow,de vil flyve i morgen,,vocab
+20,I can follow you,Jeg kan følge dig,,vocab
+20,she forgot me,hun glemte mig,,vocab
+20,we forgive him,vi tilgive ham,,vocab
+20,I can give her that,"Jeg kan give hende, at",,vocab
+20,she goes there,hun går der,,vocab
+20,we greeted them,Vi hilste dem,,vocab
+20,I hate that,Jeg hader at,,vocab
+20,I can hear it,Jeg kan høre det,,vocab
+20,she imagine that,"hun forestille sig, at",,vocab
+20,we invited them,vi inviteret dem,,vocab
+20,I know him,Jeg kender ham,,vocab
+20,she learned it,hun lært det,,vocab
+20,we leave now,vi forlader nu,,vocab
+20,they lied about him,de løj om ham,,vocab
+20,I can listen to that,"Jeg kan lytte til, at",,vocab
+20,she lost that,"hun tabte,",,vocab
+20,we made it yesterday,vi gjorde det i går,,vocab
+20,they met him,de mødte ham,,vocab
+20,I misspell that,Jeg staver at,,vocab
+20,I always pray,Jeg har altid bede,,vocab
+20,she prefers that,hun foretrækker at,,vocab
+20,we protected them,vi beskyttede dem,,vocab
+20,they will punish her,de vil straffe hende,,vocab
+20,I can put it there,Jeg kan sige det der,,vocab
+20,she will read it,hun vil læse den,,vocab
+20,we received that,"vi modtog, at",,vocab
+20,they refuse to talk,de nægter at tale,,vocab
+20,I remember that,"Jeg kan huske, at",,vocab
+20,she repeats that,"hun gentager, at",,vocab
+20,we see it,vi ser det,,vocab
+20,they sell it,de sælger det,,vocab
+20,I sent that yesterday,Jeg sendte i går,,vocab
+20,he shaved his beard,han barberede sit skæg,,vocab
+20,it shrunk quickly,det skrumpet hurtigt,,vocab
+20,we will sing it,Vi vil synge det,,vocab
+20,they sat there,de sad der,,vocab
+20,I can speak it,Jeg kan tale det,,vocab
+20,she spends money,hun bruger penge,,vocab
+20,we suffered from that,"vi lidt af, at",,vocab
+20,they suggest that,"de tyder på, at",,vocab
+20,I surprised him,Jeg overraskede ham,,vocab
+20,she took that,Hun tog at,,vocab
+20,we teach it,vi lærer det,,vocab
+20,they told us,de fortalte os,,vocab
+20,she thanked him,hun takkede ham,,vocab
+20,I can think about it,Jeg kan tænke over det,,vocab
+20,she threw it,hun kastede det,,vocab
+20,we understand that,"vi forstår, at",,vocab
+20,they want that,de ønsker at,,vocab
+20,I can wear it,Jeg kan bære det,,vocab
+20,she writes that,"hun skriver, at",,vocab
+20,we talk about it,vi taler om det,,vocab
+20,they have it,de har det,,vocab
+20,I watched it,Jeg iagttog det,,vocab
+20,I will talk about it,Jeg vil tale om det,,vocab
+20,he bought that yesterday,"han købte, at i går",,vocab
+20,we finished it,Vi afsluttede det,,vocab
+20,Prepositions,Præpositioner,,vocab
+20,inside the house,inde i huset,,vocab
+20,outside the car,uden for bilen,,vocab
+20,with me,med mig,,vocab
+20,without him,uden ham,,vocab
+20,under the table,under bordet,,vocab
+20,after tomorrow,efter i morgen,,vocab
+20,before sunset,før solnedgang,,vocab
+20,but I'm busy,men jeg har travlt,,vocab
+20,about,om,,vocab
+20,above,ovenfor,,vocab
+20,across,tværs,,vocab
+20,after,efter,,vocab
+20,against,mod,,vocab
+20,among,blandt,,vocab
+20,around,omkring,,vocab
+20,as,som,,vocab
+20,at,på,,vocab
+20,before,før,,vocab
+20,behind,bag,,vocab
+20,below,nedenfor,,vocab
+20,beneath,under,,vocab
+20,beside,ved siden af,,vocab
+20,between,mellem,,vocab
+20,beyond,ud,,vocab
+20,but,men,,vocab
+20,by,af,,vocab
+20,despite,trods,,vocab
+20,down,ned,,vocab
+20,during,i løbet af,,vocab
+20,except,undtagen,,vocab
+20,for,for,,vocab
+20,from,fra,,vocab
+20,in,i,,vocab
+20,inside,inde,,vocab
+20,into,i,,vocab
+20,near,nær,,vocab
+20,next,næste,,vocab
+20,of,af,,vocab
+20,on,om,,vocab
+20,opposite,modsatte,,vocab
+20,out,ud,,vocab
+20,outside,uden,,vocab
+20,over,over,,vocab
+20,per,per,,vocab
+20,plus,plus,,vocab
+20,round,runde,,vocab
+20,since,siden,,vocab
+20,than,end,,vocab
+20,through,gennem,,vocab
+20,till,till,,vocab
+20,to,til,,vocab
+20,toward,mod,,vocab
+20,under,under,,vocab
+20,unlike,i modsætning til,,vocab
+20,until,indtil,,vocab
+20,up,op,,vocab
+20,via,via,,vocab
+20,with,med,,vocab
+20,within,inden,,vocab
+20,without,uden,,vocab
+20,two words,to ord,,vocab
+20,according to,i henhold til,,vocab
+20,because of,på grund af,,vocab
+20,close to,tæt på,,vocab
+20,due to,på grund af,,vocab
+20,except for,undtagen,,vocab
+20,far from,langt fra,,vocab
+20,inside of,indersiden af,,vocab
+20,instead of,i stedet for,,vocab
+20,near to,tæt på,,vocab
+20,next to,ved siden af,,vocab
+20,outside of,uden for,,vocab
+20,prior to,før,,vocab
+20,three words,tre ord,,vocab
+20,as far as,for så vidt angår,,vocab
+20,as well as,samt,,vocab
+20,in addition to,i tillæg til,,vocab
+20,in front of,foran,,vocab
+20,in spite of,på trods af,,vocab
+20,on behalf of,på vegne af,,vocab
+20,on top of,på toppen af,,vocab
+20,demonstratives,demonstrative præpositioner,,vocab
+20,this,denne,,vocab
+20,that,at,,vocab
+20,these,disse,,vocab
+20,those,disse,,vocab
+20,Negation,Negation,,vocab
+20,he is not here,han er ikke her,,vocab
+20,that is not my book,det er ikke min bog,,vocab
+20,do not enter,kommer ikke ind,,vocab
+20,I don't speak,Jeg taler ikke,,vocab
+20,I don't write,Jeg skriver ikke,,vocab
+20,I don't drive,Jeg ved ikke køre,,vocab
+20,I don't love,Jeg elsker ikke,,vocab
+20,I don't give,Jeg giver ikke,,vocab
+20,I don't smile,Jeg ved ikke smile,,vocab
+20,I don't take,Jeg tager ikke,,vocab
+20,he doesn't speak,han taler ikke,,vocab
+20,he doesn't write,han skriver ikke,,vocab
+20,he doesn't drive,han ikke køre,,vocab
+20,he doesn't love,han elsker ikke,,vocab
+20,he doesn't give,han giver ikke,,vocab
+20,he doesn't smile,han ikke smile,,vocab
+20,he doesn't take,han tager ikke,,vocab
+20,we don't speak,vi taler ikke,,vocab
+20,we don't write,vi ikke skrive,,vocab
+20,we don't drive,vi ikke køre,,vocab
+20,we don't love,vi elsker ikke,,vocab
+20,we don't give,vi giver ikke,,vocab
+20,we don't smile,vi ikke smile,,vocab
+20,we don't take,vi tager ikke imod,,vocab
+20,Questions,Spørgsmål,,vocab
+20,how?,hvordan?,,vocab
+20,what?,hvad?,,vocab
+20,who?,hvem?,,vocab
+20,why?,hvorfor?,,vocab
+20,where?,hvor?,,vocab
+20,where is he?,hvor er han?,,vocab
+20,what is this?,hvad er det?,,vocab
+20,why are you sad?,hvorfor er du trist?,,vocab
+20,how do you want to pay?,hvordan vil du betale?,,vocab
+20,can I come?,kan jeg komme?,,vocab
+20,is he sleeping?,er han sove?,,vocab
+20,do you know me?,kender du mig?,,vocab
+20,do you have my book?,har du min bog?,,vocab
+20,how big is it?,hvor stor er den?,,vocab
+20,can I help you?,kan jeg hjælpe dig?,,vocab
+20,can you help me?,kan du hjælpe mig?,,vocab
+20,do you speak English?,taler du engelsk?,,vocab
+20,how far is this?,hvor langt er det?,,vocab
+20,what time is it?,hvad er klokken?,,vocab
+20,how much is this?,hvor meget er det?,,vocab
+20,what is your name?,hvad er dit navn?,,vocab
+20,where do you live?,hvor bor du?,,vocab
+20,Vocabulary,Ordforråd,,vocab
+20,Countries,Lande,,vocab
+20,Australia,Australien,,vocab
+20,Cambodia,Cambodja,,vocab
+20,Canada,Canada,,vocab
+20,China,Kina,,vocab
+20,Egypt,Egypten,,vocab
+20,England,England,,vocab
+20,France,Frankrig,,vocab
+20,Germany,Tyskland,,vocab
+20,Greece,Grækenland,,vocab
+20,India,Indien,,vocab
+20,Indonesia,Indonesien,,vocab
+20,Italy,Italien,,vocab
+20,Japan,Japan,,vocab
+20,Mexico,Mexico,,vocab
+20,Morocco,Marokko,,vocab
+20,Peru,Peru,,vocab
+20,Spain,Spanien,,vocab
+20,Thailand,Thailand,,vocab
+20,USA,USA,,vocab
+20,Languages,Sprog,,vocab
+20,Arabic,Arabisk,,vocab
+20,Chinese,Kinesisk,,vocab
+20,English,English,,vocab
+20,French,Fransk,,vocab
+20,German,Tysk,,vocab
+20,Greek,Græsk,,vocab
+20,Hebrew,Hebraisk,,vocab
+20,Hindi,Hindi,,vocab
+20,Italian,Italiensk,,vocab
+20,Japanese,Japansk,,vocab
+20,Korean,Koreansk,,vocab
+20,Latin,Latin,,vocab
+20,Russian,Russisk,,vocab
+20,Spanish,Spansk,,vocab
+20,Urdu,Urdu,,vocab
+20,Days,Days,,vocab
+20,Monday,Mandag,,vocab
+20,Tuesday,Tirsdag,,vocab
+20,Wednesday,Onsdag,,vocab
+20,Thursday,Torsdag,,vocab
+20,Friday,Fredag,,vocab
+20,Saturday,Lørdag,,vocab
+20,Sunday,Søndag,,vocab
+20,time,tid,,vocab
+20,hour,time,,vocab
+20,minute,minut,,vocab
+20,second,sekund,,vocab

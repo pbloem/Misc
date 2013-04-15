@@ -18,7 +18,7 @@ public class Main {
 	private static final String GERMAN_DATA   = "data/german/german.csv";
 	private static final String SPANISH_DATA  = "data/spanish/spanish.csv";
 	private static final String PORTUGUESE_DATA  = "data/portuguese/portuguese.csv";
-	
+	private static final String DANISH_DATA  = "data/danish/danish.csv";
 	
 	private static int subsetSize;
 	
@@ -76,7 +76,9 @@ public class Main {
 			if(language.equals("spanish"))
 				generic(SPANISH_DATA);
 			if(language.equals("portuguese"))
-				generic(PORTUGUESE_DATA);			
+				generic(PORTUGUESE_DATA);
+			if(language.equals("danish"))
+				generic(DANISH_DATA);				
 			
 			System.out.println("Time taken: " + Functions.toc()/60.0 + " minutes");
 		}
